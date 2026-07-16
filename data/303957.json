@@ -1,0 +1,1725 @@
+{
+    "id": "303957",
+    "name": "Wicked : partie II",
+    "release_date": "2025-11-19",
+    "runtime_in_minutes": 138,
+    "genres": [
+        "Aventure",
+        "Comédie musicale",
+        "Fantastique",
+        "Romance"
+    ],
+    "synopsis": "\n                    La suite des aventures d'Elphaba et Glinda, deux sorcières légendaires du pays d'Oz, liées puis déchirées par le destin, poursuivant chacune sa propre quête de vérité et de justice.Etiquetée comme la Méchante Sorcière de l'Ouest, Elphaba vit désormais en exil, cachée dans la forêt. Elle poursuit sa lutte pour la liberté des animaux muselés, tout en cherchant à révéler la véritable nature du Magicien d'Oz.Glinda, en revanche, est devenue l'incarnation même du glamour et de la vertu. Installée dans le palais d'Emeraude, elle jouit des privilèges de sa célébrité et œuvre, sous l'influence de Madame Morrible, à renforcer l'image du règne du Magicien auprès du peuple.Alors qu'elle s'apprête à épouser le prince Fiyero lors d'un somptueux mariage \"grandiOz\", Glinda ne peut oublier Elphaba. Rongée par le remords, elle tente une réconciliation qui échoue et aggrave encore la situation de son ancienne amie. Les conséquences seront lourdes pour Fiyero, Boq et Nessarose, la sœur d'Elphaba, surtout lorsqu'une mystérieuse jeune fille venue du Kansas entre en scène.Face à une révolte populaire dirigée contre Elphaba, les deux sorcières doivent mettre de côté leurs différends. Leur amitié, complexe mais sincère, devient la clé de leur avenir commun. Pour espérer réécrire leur histoire - et celle d'Oz - elles devront apprendre à se comprendre avec clarté, respect et bienveillance.\n        \n            ",
+    "reviews": [
+        {
+            "id": "review_1037584676",
+            "author": "\n                            RedArrow\n            \n                            \n                    ",
+            "date": "2025-11-22",
+            "rating": 4.0,
+            "text_content": "\n                    Modèle d'adaptation de comédie musicale en mode Broadway (et du livre de Gregory Maguire) qui libère tout le potentiel de son imaginaire sur grand écran, il n'avait suffit au premier film qu'un petit coup de baguette magique pour nous faire \"défier la gravité\" devant la belle histoire d'amitié naissante entre G(a)linda et Elphaba jusqu'à leur inévitable scission de destinées provoquée par la force des \"Oz\", la première embrassant les prémices de son rôle de Sorcière du Sud, érigée en protectrice du pays d'Oz, alors que la deuxième était répudiée vers son statut solitaire de future Méchante Sorcière de l'Ouest.",
+            "likes": 11,
+            "dislikes": 2
+        },
+        {
+            "id": "review_1037555044",
+            "author": "\n                            Cinemadourg\n            \n                    ",
+            "date": "2025-11-19",
+            "rating": 3.5,
+            "text_content": "\n                    On reprend l'histoire là où on l'avait laissée en 2024, avec deux sorcières désormais séparées par le destin et un Oz en pleine tourmente.",
+            "likes": 7,
+            "dislikes": 1
+        },
+        {
+            "id": "review_1037439397",
+            "author": "\n                            ed_loisel\n            \n                            \n                    ",
+            "date": "2025-11-7",
+            "rating": 4.5,
+            "text_content": "\n                    Jon M. Chu a tout compris du musical et de son univers. Il le transcende même parfois avec des ajouts brillants et une mise en scène adaptée.",
+            "likes": 5,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1037561610",
+            "author": "\n                            Donatelloow\n            \n                    ",
+            "date": "2025-11-19",
+            "rating": 5.0,
+            "text_content": "\n                    Une pure masterclass ! Arrivant à surpasser le premier opus à tous les niveaux, « Wicked For Good » est à mes yeux mon meilleur film de l’année. Tout fonctionne à merveille et surtout les émotions sont tellement intenses. Cela fait très longtemps que je ne suis pas ressorti aussi touché et ému d’une salle de cinéma.",
+            "likes": 5,
+            "dislikes": 3
+        },
+        {
+            "id": "review_1037546820",
+            "author": "\n                            Raphxel\n            \n                    ",
+            "date": "2025-11-18",
+            "rating": 5.0,
+            "text_content": "\n                    N’ayant pas vu la comédie musicale et étant de la première partie, je n’avais aucune idée ni vers quelle direction allait prendre cette suite. Ce film clôture d’une si belle façon cette histoire, le jeu des acteurs est parfait (un oscar pour Cynthia Erivo et Ariana Grande qui excellent dans leurs rôles)\n        \n            ",
+            "likes": 5,
+            "dislikes": 2
+        },
+        {
+            "id": "review_1037558093",
+            "author": "\n                            Lise\n            \n                    ",
+            "date": "2025-11-19",
+            "rating": 5.0,
+            "text_content": "\n                    Un coup de cœur de mon côté ! C'était une très bonne partie 2, j'ai adoré la suite de l'histoire ! Une mention aux chansons toujours aussi justes. Concernant l'esthétique du film c'est toujours aussi beau et les acteurs sont très bons! Bref je ne peux que le recommander vivement !!\n        \n            ",
+            "likes": 5,
+            "dislikes": 1
+        },
+        {
+            "id": "review_1037554523",
+            "author": "\n                            Ben M\n            \n                    ",
+            "date": "2025-11-18",
+            "rating": 4.5,
+            "text_content": "\n                    Vu en avant-première, j’ai jamais vu autant de personnes pleurer pendant un film (y compris moi). Les actrices et chanteuses sont phénoménales d’émotion et la réalisation vraiment originale, tout en rendant hommage à l’univers originel.\n        \n            ",
+            "likes": 4,
+            "dislikes": 1
+        },
+        {
+            "id": "review_1037556500",
+            "author": "\n                            Diabloxrt\n            \n                    ",
+            "date": "2025-11-19",
+            "rating": 2.0,
+            "text_content": "\n                    Avant de voir le film, j'avais envie de croire à \"Wicked : partie II\". J'avais trouvé que le premier était tout juste correct, mais sa dernière heure m'avait clairement donné de l'espoir. Elle était très réussie et elle promettait beaucoup pour cette suite. Alors, avec l'envie de me faire surprendre, j'ai été découvrir cette deuxième partie. Sur le papier, j'ai rapidement retrouvé l'univers que j'avais assez apprécié dans le premier épisode. Certes, les effets spéciaux sont toujours un peu à la ramasse (notamment au niveau des fonds verts), mais la grandeur et la complexité des décors rattrapent le tout. J'aime le fait que les décors réels soient privilégiés, car cela renforce l'esprit original de l'œuvre. Cependant, une fois que ces retrouvailles aient été effectuées, j'ai vite plongé dans un sentiment très déplaisant : la déception. Dans sa promesse, le long-métrage comptait nous narrer une version alternative de \"Le Magicien d'Oz\". L'objectif était donc de visionner une histoire qui se déroulerait en parallèle, après un premier volet qui nous avait servi d'introduction. Seulement, voilà, la promesse est déjà à moitié tenue. Sur les deux heures de film, ce déroulé en parallèle ne commence qu'au bout d'une heure. Personnellement, j'ai vraiment trouvé que cette entrée en matière était longue, sachant que la première moitié ne raconte rien de vraiment nouveau. En soi, au bout de celle-ci, les enjeux n'ont pas vraiment bougé. Toute cette partie ne sert qu'à reposer le contexte, apporter quelques éléments nouveaux malgré tout et représenter le point des vue des personnages. Et honnêtement, c'est bien trop long. Je pense qu'une bonne partie de ces séquences auraient pu être raccourcies ou supprimées, tant elles ne servent pas l'intrigue principale. Heureusement, l'approche musicale du projet nous divertit quand même un peu, avec des chansons plutôt sympathiques. Dans l'ensemble, je les trouve un peu moins entraînantes que celles de la première partie, mais elles sont toujours réalisées avec la même intention. Le casting chante bien, et la mise en scène réussit à retranscrire quelques idées intéressantes. À ce niveau, je pense notamment à ce faux plan-séquence dans la chambre de Glinda. Mais malheureusement, une fois que cette première heure se termine, c'est là que l'on en arrive au problème. Clairement, cette première partie était ennuyeuse, mais elle se tenait, car elle était cohérente avec elle-même. À l'inverse, quand le vrai film commence, tout part en sucette. ",
+            "likes": 5,
+            "dislikes": 4
+        },
+        {
+            "id": "review_1037583171",
+            "author": "\n                            flo c.\n            \n                    ",
+            "date": "2025-11-22",
+            "rating": 0.5,
+            "text_content": "\n                    Mon dieu que c'est nul : c'est tarte, c'est affligeant, les chansons sont insupportables et se ressemblent toutes. Au secours !\n        \n            ",
+            "likes": 4,
+            "dislikes": 3
+        },
+        {
+            "id": "review_1037556879",
+            "author": "\n                            Jimmy Duhuy\n            \n                    ",
+            "date": "2025-11-19",
+            "rating": 5.0,
+            "text_content": "\n                    J’ai cherché des défauts, j’en ai pas trouvé. J’ai juste passé un moment génial, et le casting est juste on fire.\n        \n            ",
+            "likes": 5,
+            "dislikes": 1
+        },
+        {
+            "id": "review_1037570739",
+            "author": "\n                            Flower 0478\n            \n                    ",
+            "date": "2025-11-21",
+            "rating": 5.0,
+            "text_content": "\n                    J'attendais la deuxième partie avec impatience et belle surprise les paysages sont toujours aussi magnifiques et l'émotion est toujours au rendez-vous à part il y a des passages un peu trop chanté sinon les actrices Adriana Grandet interprète bien son rôle mais Cynthia Erivo je trouve son interprétation supérieure allez le voir vous ne serez pas déçu.\n        \n            ",
+            "likes": 2,
+            "dislikes": 1
+        },
+        {
+            "id": "review_1037564659",
+            "author": "\n                            selenie\n            \n                            \n                    ",
+            "date": "2025-11-20",
+            "rating": 3.0,
+            "text_content": "\n                    Cette seconde partie a été tourné en simultanée avec la première partie, il est donc logique que esthétiquement c'est exactement la même chose aussi bien pour le mieux que pour le moins bien. Ainsi ça reste un déluge d'effets spécieux, numériques qui ne sont pas tous époustouflants loin de là mais les décors sont d'une ampleur fabuleuse (dans le sens premier) et les costumes sont un manège de splendeur à en donner le tournis. Niveau chant et musique c'est logiquement sur la même gamme, le sempiternel style Broadway où on a l'impression d'entendre toujours la même ritournelle à quelques nuances près. Les deux héroïnes évoluent, Ephalga est une vraie fausse méchante sorcière dont on ne comprend pas trop le jusqu'au-boutisme, à l'instar du Magicien d'Oz dont on ne comprend pas le but non plus, tandis que Glinda semble toujours aussi superficielle et surtout de plus en plus stupide... SPOILERS cliquez pour en savoir plus !... Le film aurait pu être écourté de 10-15mn et aurait dû donner plus d'importance ou d'interaction avec Dorothy et ses trois compagnons. Mais la fantasmagorie est assez efficace pour combler les plus indulgents.",
+            "likes": 3,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1037605685",
+            "author": "\n                            Ufuk K\n            \n                            \n                    ",
+            "date": "2025-11-24",
+            "rating": 4.0,
+            "text_content": "\n                    \"Wicked: For Good\" timidement noté par la critique, suite directe de l'originale sortie l'an dernier est une comédie musicale toujours aussi éblouissante. Le film, basé sur la comédie musicale éponyme de Stephen Schwartz et Winnie Holzman, lancée à Broadway en 2003, est visuellement éblouissant, avec de magnifiques décors et des chansons entraînantes. Le casting reste inchangé par rapport à la production originale (Cynthia Erivo, Ariana Grande-Butera, Michelle Yeoh, Jonathan Bailey et Jeff Goldblum). Sous la direction de Jon M. Chu, il offre aux spectateurs une narration moderne qui aborde la différence, la marginalisation des plus vulnérables, la maltraitance animale et la manipulation politique, tout en délivrant un message de tolérance et de paix. Ce film devrait, à nouveau, figurer parmi les prétendants aux Oscars l'année prochaine.\n        \n            ",
+            "likes": 3,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1037670867",
+            "author": "\n                            GyzmoCA\n            \n                            \n                    ",
+            "date": "2025-12-2",
+            "rating": 3.0,
+            "text_content": "\n                    Wicked 2 se révèle être une seconde partie plus aboutie que le premier volet, notamment grâce à un scénario mieux construit et plus émotionnel. Là où le premier film brillait surtout par ses numéros musicaux, ce second opus choisit une voie plus narrative, en tissant des liens beaucoup plus étroits avec le Magicien d’Oz de 1939.",
+            "likes": 3,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1037575368",
+            "author": "\n                            DOUBLE B\n            \n                    ",
+            "date": "2025-11-21",
+            "rating": 0.5,
+            "text_content": "\n                    C’est mauvais, c’est mal écris, les chansons sont insipides, les effets visuels, comme dans le premiers, sont une débauche numérique… Aucun décors naturel…\n        \n            ",
+            "likes": 4,
+            "dislikes": 6
+        },
+        {
+            "id": "review_1037588711",
+            "author": "\n                            Mphilippe Ndg\n            \n                    ",
+            "date": "2025-11-23",
+            "rating": 0.5,
+            "text_content": "\n                    quelle déception, un film vide on s'ennuie ferme dans cette deuxième partie , il ne se passe pas grand chose, c'est beaucoup trop naïf comme scenario\n        \n            ",
+            "likes": 3,
+            "dislikes": 1
+        },
+        {
+            "id": "review_1037623757",
+            "author": "\n                            Nala B\n            \n                    ",
+            "date": "2025-11-26",
+            "rating": 0.5,
+            "text_content": "\n                    J'avais dit sur le 1er film que jamais je ne regarderai le 2d mais par honnêteté intellectuelle (sic), je devais m'y coller.",
+            "likes": 3,
+            "dislikes": 1
+        },
+        {
+            "id": "review_1037554688",
+            "author": "\n                            flobonnard\n            \n                    ",
+            "date": "2025-11-18",
+            "rating": 5.0,
+            "text_content": "\n                    Les meilleures chansons se trouvent dans l’acte 1, à part 2 ou 3, maisl’acte 2 fonctionne grâce à l’investissement émotionnel effectué, au jeu impeccable de tous les comédiens.\n        \n            ",
+            "likes": 4,
+            "dislikes": 2
+        },
+        {
+            "id": "review_1037703418",
+            "author": "\n                            norman06\n            \n                    ",
+            "date": "2025-12-6",
+            "rating": 2.0,
+            "text_content": "\n                    Autant la partie 1 était inventive et captivante, autant ce segment est poussif, mou, répétitif, kitsch, avec des chansons insipides. Une déception.\n        \n            ",
+            "likes": 2,
+            "dislikes": 2
+        },
+        {
+            "id": "review_1037555493",
+            "author": "\n                            thomas_dmns\n            \n                    ",
+            "date": "2025-11-19",
+            "rating": 5.0,
+            "text_content": "\n                    Film époustouflant qui aborde un côté plus sombre et politique que le premier film. Les deux actrices Cynthia et Ariana continuent leurs superbes interprétations, mais c’est définitivement Ariana qui vient apporter le côté émouvant à ce super paysage pleines de couleurs et de paillettes !",
+            "likes": 4,
+            "dislikes": 1
+        },
+        {
+            "id": "review_1037553989",
+            "author": "\n                            Pierre-Alain \n            \n                    ",
+            "date": "2025-11-18",
+            "rating": 5.0,
+            "text_content": "\n                    Si le premier volet était un peu étiré, le deuxième passe très vite. Les enjeux se révèlent. Le scénario est captivant. Le jeu des acteurs est impressionnant. Bravo.\n        \n            ",
+            "likes": 4,
+            "dislikes": 3
+        },
+        {
+            "id": "review_1038096320",
+            "author": "\n                            MovieSW\n            \n                    ",
+            "date": "2026-01-13",
+            "rating": 0.5,
+            "text_content": "\n                    Une suite ratée qui dilapide l’univers original sans le renouveler. L’intrigue est confuse, les personnages caricaturaux et les chansons... au secours.. Une expérience décevante et oubliable, bien loin de la magie attendue.\n        \n            ",
+            "likes": 2,
+            "dislikes": 2
+        },
+        {
+            "id": "review_1037554439",
+            "author": "\n                            aubeline samez\n            \n                    ",
+            "date": "2025-11-18",
+            "rating": 5.0,
+            "text_content": "\n                    Vue en avant première se soir, je suis encore sous le choque de ce chef d'œuvre , bravo mes respects les plus sincères Jon Chu .\n        \n            ",
+            "likes": 4,
+            "dislikes": 3
+        },
+        {
+            "id": "review_1037557941",
+            "author": "\n                            Elise Deola\n            \n                    ",
+            "date": "2025-11-19",
+            "rating": 5.0,
+            "text_content": "\n                    Wicked: For Good est tout simplement un enchantement du début à la fin. Le film déploie une esthétique visuelle époustouflante, avec des décors somptueux et une mise en scène immersive qui transporte instantanément le spectateur à Oz. Chaque plan est travaillé avec une finesse remarquable, comme un tableau vivant où la magie semble réellement prendre forme.",
+            "likes": 3,
+            "dislikes": 1
+        },
+        {
+            "id": "review_1037569797",
+            "author": "\n                            Shawn777\n            \n                            \n                    ",
+            "date": "2025-11-20",
+            "rating": 3.5,
+            "text_content": "\n                    Alors que c'est une nouvelle fois un gros évènement outre-Atlantique, \"Wicked\" ne semble toujours pas tellement faire parler de lui sur le sol français. Il faut dire qu'une comédie musicale adaptée d'un musical de Broadway sur plus de deux heures aurait de quoi en rebuter plus d'un. Notamment normalement moi qui d'ordinaire n'apprécie pas le genre mais j'ai été tellement subjugué par le premier que j'attendais cette deuxième partie avec une relative impatience. ",
+            "likes": 2,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1037572612",
+            "author": "\n                            Le_Général\n            \n                    ",
+            "date": "2025-11-21",
+            "rating": 3.5,
+            "text_content": "\n                    Me retrouver sur @cinémasansfard (YouTube) !",
+            "likes": 1,
+            "dislikes": 1
+        },
+        {
+            "id": "review_1037591969",
+            "author": "\n                            Kat's eyes\n            \n                    ",
+            "date": "2025-11-23",
+            "rating": 4.0,
+            "text_content": "\n                    Je suis toujours agacée par les histoires uniques que l'industrie cinématographique se sent obligée de scinder en deux films. Ce Wicked Partie II ne fait hélas pas exception. S'il reste divertissant, il traîne vraiment beaucoup en longueur et n'a pas le charme du premier opus avec la découverte du Pays d'Oz. En outre, il y a trop peu d'action.",
+            "likes": 2,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1037589142",
+            "author": "\n                            Fenêtre sur salle\n            \n                    ",
+            "date": "2025-11-23",
+            "rating": 2.0,
+            "text_content": "\n                     WICKED : PARTIE II - Jon M. Chu | ⭐ 4,5/10",
+            "likes": 1,
+            "dislikes": 2
+        },
+        {
+            "id": "review_1037565009",
+            "author": "\n                            L'actu du Père Jean\n            \n                    ",
+            "date": "2025-11-20",
+            "rating": 4.0,
+            "text_content": "\n                    Une secondes partie qui traite plus en profondeur la psychologie de ses protagonistes. Un film plus noir, plus désenchanté que son premier volet. On est face à un film clairement dramatique qui offre des moments d’émotion sincères. Les comédiens et comédiennes sont excellents. Cynthia Erivo est envoûtante, dotée d’un charisme bluffant. ",
+            "likes": 2,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1037562356",
+            "author": "\n                            Jen Djarin\n            \n                    ",
+            "date": "2025-11-19",
+            "rating": 2.5,
+            "text_content": "\n                    J'avais vraiment bien aimé le premier, mais celui-ci m'a profondément ennuyé !",
+            "likes": 1,
+            "dislikes": 1
+        },
+        {
+            "id": "review_1037556161",
+            "author": "\n                            Lecinedebibi\n            \n                    ",
+            "date": "2025-11-19",
+            "rating": 4.0,
+            "text_content": "\n                    L'année dernière j'étais sorti de la séance avec des frissons, des étoiles plein les yeux et les oreilles et je n'avais qu'une hâte voir la suite.",
+            "likes": 2,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1037650767",
+            "author": "\n                            Maria75\n            \n                    ",
+            "date": "2025-11-30",
+            "rating": 2.5,
+            "text_content": "\n                    Déçue pour ma part. La première partie était drôle et émouvante. Ce volet peine au niveau du scénario,  il y a des incohérences,  ça sourcole certains faits pour que l'histoire aie une suite logique,  et l'histoire est trop poussive et larmoyante côté amitié être les 2 filles.\n        \n            ",
+            "likes": 2,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1037560912",
+            "author": "\n                            Ines Touron\n            \n                    ",
+            "date": "2025-11-19",
+            "rating": 5.0,
+            "text_content": "\n                    Très bon moment durant le film, pas de longueur durant la projection. [spoiler] La fin est un peu décevante mais c’est très personnel.\n        \n            ",
+            "likes": 2,
+            "dislikes": 1
+        },
+        {
+            "id": "review_1037562664",
+            "author": "\n                            Abreak\n            \n                    ",
+            "date": "2025-11-20",
+            "rating": 2.0,
+            "text_content": "\n                    Très déçu part cette deuxième partie bien en dessous du premier. Le film traîne en longueur ou il ne se passe finalement pas grand chose. Un seul film etait largement suffisant malheureusement on a l’impression que seul l’appât du gain compte pour les studios, dommage !\n        \n            ",
+            "likes": 2,
+            "dislikes": 1
+        },
+        {
+            "id": "review_1037942342",
+            "author": "\n                            Eric R\n            \n                    ",
+            "date": "2025-12-30",
+            "rating": 4.0,
+            "text_content": "\n                    Un film très agréable à voir en famille   pour le plaisir des petits et des grands. La VO est à recommander.\n        \n            ",
+            "likes": 2,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1037575379",
+            "author": "\n                            Audrey S\n            \n                    ",
+            "date": "2025-11-21",
+            "rating": 5.0,
+            "text_content": "\n                    Weekend 2 m’a vraiment plu, notamment pour le message qu’il transmet et la morale qu’il porte. Cette suite est à la hauteur du premier volet, voire encore plus réussie : on y trouve moins de comédie mais davantage d’émotion, et cela fonctionne très bien. Les deux actrices sont remarquables et portent le film avec intensité. L’histoire se déroule en parallèle des événements du Magicien d’Oz, et les références disséminées tout au long du film sont particulièrement bien intégrées. Une très belle réussite\n        \n            ",
+            "likes": 1,
+            "dislikes": 2
+        },
+        {
+            "id": "review_1037966113",
+            "author": "\n                            Gentilbordelais\n            \n                    ",
+            "date": "2026-01-1",
+            "rating": 2.0,
+            "text_content": "\n                    Une suite aux effets visuels réussis et où le monde d'Oz bénéficie toujours de décors grandioses. Mais les thématiques abordées sont éculées et le ton souvent mièvre. Le temps paraît si long!\n        \n            ",
+            "likes": 0,
+            "dislikes": 1
+        },
+        {
+            "id": "review_1037680927",
+            "author": "\n                            Elisabeth G.\n            \n                    ",
+            "date": "2025-12-3",
+            "rating": 2.0,
+            "text_content": "\n                    Cette seconde partie a le mérite de boucler la boucle et de contenir un peu plus d'action, bien qu'elle reste trop étirée et donc ennuyeuse. En toute logique, défauts et qualités sont les mêmes que précédemment : si on applaudit l'esthétique (encore qu'il y ait à redire sur les effets spéciaux); le scénario, les personnages et les chansons ne sont pas à la hauteur du budget. ",
+            "likes": 0,
+            "dislikes": 1
+        },
+        {
+            "id": "review_1037864059",
+            "author": "\n                            Cool_92\n            \n                    ",
+            "date": "2025-12-24",
+            "rating": 2.5,
+            "text_content": "\n                    Le premier était très inspiré et réussi, celui-ci déçoit un peu tant il manque de rythme et qu'il s'étire en longueur.   Mais c'est superbement bien fait et on ne s'ennuie pas. Dommage que les chansons ne soient pas aussi bonnes que celles du premier volet.\n        \n            ",
+            "likes": 0,
+            "dislikes": 1
+        },
+        {
+            "id": "review_1037598998",
+            "author": "\n                            Roger D\n            \n                    ",
+            "date": "2025-11-24",
+            "rating": 3.0,
+            "text_content": "\n                    Le premier opus avait été une belle surprise, ce monde imaginaire , les chansons et le duo Grande/Erivo fonctionnait à merveille. Alors non pas que je n'ai pas apprécié cette suite direct mais moins été \"surrpris\". Ce second opus est beaucoup plus sombre du faite d'avoir cette \"méchante\", des trahisons, mensonges ou vérité qui éclatent et font des dégâts sur les personnages principaux. Moins donc de ce côté un peu couillon que j'avais bien aimé avec Glinda. C'est une belle aventure que j'ai apprécié en vo et Grande à vraiment une sacrée voix. Et l'introduction de Dorothy ret de ses compagnons de route bon, ouais ouais cela passe malgré tout même si un peu abusé de leur origine. Et hormis la chansonnette d'amour...le reste pas mal du tout.",
+            "likes": 0,
+            "dislikes": 1
+        },
+        {
+            "id": "review_1037565581",
+            "author": "\n                            Madeline Serrurier\n            \n                    ",
+            "date": "2025-11-20",
+            "rating": 5.0,
+            "text_content": "\n                    Magnifique absolument pas déçu de ce deuxième opus, toujours aussi fan de cet univers malgré le côté moins léger du deuxième\n        \n            ",
+            "likes": 2,
+            "dislikes": 1
+        },
+        {
+            "id": "review_1037599367",
+            "author": "\n                            Fabien Mana\n            \n                    ",
+            "date": "2025-11-24",
+            "rating": 0.5,
+            "text_content": "\n                    Trop parlant et trop. Chantant c’est pénible c’est vraiment dégoûtant au cinéma pas grand monde………..\n        \n            ",
+            "likes": 2,
+            "dislikes": 1
+        },
+        {
+            "id": "review_1037559346",
+            "author": "\n                            Henayah\n            \n                    ",
+            "date": "2025-11-19",
+            "rating": 5.0,
+            "text_content": "\n                    C'était super, j'ai adoré!",
+            "likes": 2,
+            "dislikes": 1
+        },
+        {
+            "id": "review_1037554917",
+            "author": "\n                            Loouuis\n            \n                    ",
+            "date": "2025-11-19",
+            "rating": 5.0,
+            "text_content": "\n                    Waw!!! Décors magnifique",
+            "likes": 2,
+            "dislikes": 1
+        },
+        {
+            "id": "review_1037555565",
+            "author": "\n                            Vador Mir\n            \n                    ",
+            "date": "2026-01-4",
+            "rating": 1.0,
+            "text_content": "\n                    Gros budget mais pas formidable. Heureusement qu'il y a Jeff Goldblum Ariana Grande est agaçante, les musiques sont inégales. Beaucoup d'effets spéciaux, peut-être que ça plaira aux enfants et aux aficionados de la comédie musicale, pour les autres passez votre chemin.\n        \n            ",
+            "likes": 1,
+            "dislikes": 11
+        },
+        {
+            "id": "review_1037559181",
+            "author": "\n                            Matthieu Charmetant\n            \n                    ",
+            "date": "2025-11-19",
+            "rating": 2.0,
+            "text_content": "\n                    Vraiment pas incroyable, moins bien que la partie I qui était déjà longue.",
+            "likes": 2,
+            "dislikes": 2
+        },
+        {
+            "id": "review_1037971921",
+            "author": "\n                            gimliamideselfes\n            \n                            \n                    ",
+            "date": "2026-01-2",
+            "rating": 3.0,
+            "text_content": "\n                    Le miracle de Wicked ne s'est pas reproduit. Cette suite reste en-dessous de son prédécesseur, notamment parce que narrativement c'est totalement le bordel et que les numéros musicaux sont un peu fades à part deux ou trois.",
+            "likes": 1,
+            "dislikes": 1
+        },
+        {
+            "id": "review_1037603156",
+            "author": "\n                            islander29\n            \n                    ",
+            "date": "2025-11-24",
+            "rating": 4.0,
+            "text_content": "\n                    difficile de suivre ce film si vous avez raté le premier opus...Pour le reste cela reste la magie du pays d’Oz, avec de jolies chansons ( soyez attentifs aux textes), de savants paysages et des effets spéciaux intéressants….C’est un produit américain, donc avec du savoir faire, et la volonté de faire passer des messages, je me suis demandé si au fond ; le pays d’oz n’était pas l’Amérique ? Simple question….Quoi qu’il en soit le film ressemble au premier opus, en développant d’autres questions, où plane parfois tristesse et désillusion…. Un film que je conseille, sauf si vous n’avez pas vu le premier ? Pour tout âge….\n        \n            ",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1037579262",
+            "author": "\n                            Math719\n            \n                    ",
+            "date": "2025-11-24",
+            "rating": 4.0,
+            "text_content": "\n                    J’ai vu Wicked 2 cette fois-ci avec les chansons originales, et quel plaisir d’entendre les véritables voix d’Ariana Grande et Cynthia Erivo ! Toutes deux sont impeccables et portent le film avec brio. Malgré quelques longueurs, on reste immergé dans cette histoire magique et on passe un très bon moment.",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1037836768",
+            "author": "\n                            Rudy M\n            \n                    ",
+            "date": "2025-12-21",
+            "rating": 3.0,
+            "text_content": "\n                    Ce film aurait été plus réussi en étant un peu moins long , avec des scènes de magies plus abouties et moins de chansons , globalement c’est pas mal mais rien d’extraordinaire\n        \n            ",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1037585507",
+            "author": "\n                            ToulouseEvents\n            \n                    ",
+            "date": "2025-11-22",
+            "rating": 4.5,
+            "text_content": "\n                    Prenez Wicked partie 1, enlevez-y un peu d'humour et de chansons. Ajoutez-y des moments sombres, des  personnages en questionnement existentiel et une envie de revanche, sans oublier de donner de la consistance aux personnages du Magicien d'Oz des années 60.",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1037799136",
+            "author": "\n                            Cinéphiles 44\n            \n                            \n                    ",
+            "date": "2025-12-17",
+            "rating": 3.5,
+            "text_content": "\n                    Avec \"Wicked : partie II\", Jon M. Chu semble avoir tiré les leçons de la première partie. Le récit gagne en fluidité et la durée est mieux calibrée, évitant les longueurs répétitives qui pesaient sur le premier volet. Le scénario continue d’explorer la dualité morale entre Elphaba (Cynthia Erivo) et Glinda (Ariana Grande). Les numéros musicaux demeurent bien entendu le point fort du film, portés par les voix exceptionnelles de ses deux héroïnes, capables de transmettre autant de puissance que de délicatesse. La mise en scène joue toujours sur une esthétique magique et spectaculaire, mais avec un rythme plus dynamique et des transitions plus fluides. Le film rend hommage avec subtilité au \"Magicien d’Oz\" de 1939. Si certains passages restent un peu convenus, le film offre une conclusion satisfaisante à ce diptyque musical.\n        \n            ",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1037588101",
+            "author": "\n                            Audrey L\n            \n                            \n                    ",
+            "date": "2025-11-23",
+            "rating": 3.5,
+            "text_content": "\n                    En vert, et contre tous... Séance VO pleine à craquer de fans de tous genres et âges (ça fait plaisir), nous-même arborant fièrement le t-shirt-souvenir du spectacle du West End (une expérience à vivre absolument) et l'accompagnateur qui n'a aucune idée de ce qui l'attend, mais \"aime bien le Magicien d'Oz, peut-être qu'il y aura un clin-d’œil à l'autre film\" (mon pov' vieux, accroche-toi aux accoudoirs, y'a pas que Dorothy qui va être décoiffée). Tandis qu'on a revécu presque aussi fort l'émotion vive du spectacle (la dernière heure est un arrache-cœur ultra efficace, on a eu souvent les yeux humides), le siège voisin n'a cessé de réagir aux mille twists \"Oh mais ça vient de là !\" du Magicien d'Oz, qui sont la véritable force narrative de cette seconde partie. Alors oui, cette suite est bien moins gaie et naïve que la première (l'arc-en-ciel est passé, maintenant c'est l'orage), elle aborde un virage à 180° (sans problème : le balais volant a la direction assisté) pour foncer dans le dramatique et les sentiments mis à nu. Comme deux faces à une pièce, un côté solaire et heureux, et l'autre obscur et blessé au cœur (vous l'avez ?). Voici donc les mille discordes entre Elphaba et Glinda, dont on vous gardera tous les secrets, ne dévoilant (comme un appât à votre intérêt) que les dommages collatéraux de la guerre du Rose et du Vert pourraient bien être à l'origine d'absolument tout ce que vous connaissiez du Magicien d'Oz... Les chansons sont nettement moins marquantes (même si l'on a quand même presque 30 min de chansons inédites, ce qui est un effort d'originalité louable... Dont un \"No Place Like Home\" qui ressemble méchamment à un hommage au \"Home\" final de Diana Ross dans The Wiz, la version \"blackploitation\" du Magicien d'Oz... que Cynthia Erivo aime beaucoup, coïncidence ?), on n'échappe pas à des longueurs (surtout au démarrage), et le \"rajeunissement numérique\" de Jeff Goldblum dans une scène, c'est non (quelle horreur... Faut vraiment arrêter avec cette mode de retouches, les sosies et le maquillage, ça existe). Mais à côté de ça, la magie opère de nouveau, surtout dans le final, qui met le paquet sur les amitiés profondes (Amitiés ? On a eu un petit moment de flottement mental à imaginer \"un peu plus que de l'amitié\" dans une magnifique scène \"d'écran scindé\"...), et sur les résolutions heureuses (parfois tirées par les cheveux, comme ",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1037583775",
+            "author": "\n                            Gregory S\n            \n                    ",
+            "date": "2025-11-22",
+            "rating": 3.5,
+            "text_content": "\n                    Tout d'abord si vous n'avez pas vu la 1ere partie il sera très difficile de rentrer et comprendre le film. Sinon il est aussi bien que le premier, voire peut être un peu mieux car moins long et avec un peu plus d'énergie. Néanmoins comme dans le 1er je trouve que les chansons manquent de force.\n        \n            ",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1037558903",
+            "author": "\n                            cédric l.\n            \n                    ",
+            "date": "2025-11-19",
+            "rating": 3.5,
+            "text_content": "\n                    N'ayant pas vu le premier volet, je me suis laissé influencer par la Bande-Annonce de celui-ci, je ne pense pas m'être tromper en décidant de visionner ce long-métrage. Cette histoire d'Amitié entre 2 sorcières que tout oppose est intéressante. Elphaba et Glinda personnifient à elle deux plusieurs protagonistes de la société. La première, du fait de sa couleur et ses prises de positions est perçue comme une paria, alors que la seconde représente une sorte de Miss France du Pays d'Oz. Il y a de très beaux décors et costumes, qui rendent ce film plutôt agréable à regarder, mais mon petit bémol, c'est les chansons à répétition qui parfoIs sont un peu mielleuses. Cynthia Erivo et Ariana Grande ont été Nominés aux Oscars pour leur rôles respectifs, si à tout hasard elle réitéraient cet exploit, elles réaliseraient du même coup un Record. Elles deviendraient  la 7ème et 8ème interprète(s) à obtenir 2 Nominations aux Oscars, pour avoir jouer le même rôle dans 2 films différents. Bonne Chance à Toutes les Deux !!!\n        \n            ",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1037562451",
+            "author": "\n                            Julien D.\n            \n                    ",
+            "date": "2025-11-19",
+            "rating": 4.0,
+            "text_content": "\n                    C’est beau, c’est bien joué, c’est pas complètement manichéen mais quand même assez feel good. Première moitié un peu longue quand même, et des chansons un chouya en dessous du premier film. Mais on passe, on appréciera, et on re regardera sans hésiter!\n        \n            ",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1037955657",
+            "author": "\n                            Ciné-13\n            \n                    ",
+            "date": "2026-01-1",
+            "rating": 4.0,
+            "text_content": "\n                    Dans la continuité de l’épisode 1, l’environnement est tout aussi mirifique.",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1037576380",
+            "author": "\n                            22sur20 | Alex\n            \n                    ",
+            "date": "2025-11-21",
+            "rating": 4.0,
+            "text_content": "\n                    WICKED PARTIE II : 17/20",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1037571531",
+            "author": "\n                            Cadreum\n            \n                    ",
+            "date": "2025-11-21",
+            "rating": 4.0,
+            "text_content": "\n                    Qui est le film ?",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1037748985",
+            "author": "\n                            PiMovies\n            \n                    ",
+            "date": "2025-12-12",
+            "rating": 1.0,
+            "text_content": "\n                    Je ne comprend pas tout les avis positifs, autant j'avais fortement apprécié le premier volet autant ce second reste fade et d'un oubli....",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1037603431",
+            "author": "\n                            Critiques d un passionné\n            \n                    ",
+            "date": "2025-11-24",
+            "rating": 3.0,
+            "text_content": "\n                    L’année dernière, WICKED avait été une énorme surprise, au point d’être à deux doigts d’intégrer mon TOP 10 2024. J’attendais donc ce deuxième volet avec une vraie impatience, d’autant qu’il devait conclure l’adaptation du classique de Broadway en rassemblant les enjeux émotionnels, politiques et musicaux mis en place dans le premier film.",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1037588585",
+            "author": "\n                            Pierre842\n            \n                    ",
+            "date": "2025-11-23",
+            "rating": 4.5,
+            "text_content": "\n                    C'était une bonne suite de Wicked.",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1037788564",
+            "author": "\n                            LeMeilleurPseudoDuMonde\n            \n                    ",
+            "date": "2025-12-16",
+            "rating": 3.0,
+            "text_content": "\n                    Après un Wicked plus que satisfaisant en 2024, on attendait avec une certaine excitation cette deuxième partie intitulée Wicked: For Good aux États-Unis. C'est malheureusement loupé, c'est une petite déception.",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1037593326",
+            "author": "\n                            Martial Bonkoungou\n            \n                    ",
+            "date": "2025-11-23",
+            "rating": 2.5,
+            "text_content": "\n                    La magie n'avait pas opéré avec le premier épisode. C'est un peu mieux avec cette seconde partie. C'est moins féerique, moins candide sans pour autant être dans une approche sombre même si Elfaba, jouée par Cynthia Erivo, voit des pans de son monde, de son ancrage, de ses illusions, disparaître petit à petit.  Facilités et liens laborieux font que cette histoire d'amitié à toute épreuve nous parait bien longue\n        \n            ",
+            "likes": 0,
+            "dislikes": 1
+        },
+        {
+            "id": "review_1037578364",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2025-11-24",
+            "rating": 4.0,
+            "text_content": "\n                    Je m’attendais à être déçu par ce deuxième opus. J’avais adoré le premier, comme beaucoup de monde, logique, et j’avais une étrange appréhension pour WICKED: FOR GOOD. Je pensais qu’ils allaient tomber dans la facilité voire dans le fan service, ou juste qu’ils avaient déjà tout donner en terme de créativité et d’idées thématiques. Quel plaisir de constater que ce n’est pas du tout le cas et que je suis très heureux d’avoir vécu l’aventure Wicked au cinéma. Merci Jon Chu et son équipe parce que c’est du grand art ce que vous avez délivré et c’est d’autant plus admirable de l’avoir fait dans un univers aussi simplet. Univers que je n’aime vraiment pas pourtant. Mais peu importe lorsque c’est aussi bien fait, avec autant de générosité visuelle et de génie. Et WICKED est une nouvelle fois un des meilleurs films de l’année. Bravo!",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1037834754",
+            "author": "\n                            Mélanie M.\n            \n                    ",
+            "date": "2025-12-21",
+            "rating": 2.5,
+            "text_content": "\n                    Ce deuxième volet se prend les pieds dans le chemin d'or... En cours de route, ils ont perdu les dialogues, l'humour et les scènes de danse nécessaires pour qu'on soit emporté dans l'univers du film. J'ai l'impression de n'avoir regardé qu'une succession de chansons sans grand lien les unes avec les autres et surtout sans avancées dans le scénario. C'est dommage parce que les décors, les costumes, les couleurs enfin l'univers complet est toujours aussi époustouflant.\n        \n            ",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1037592664",
+            "author": "\n                            Pôpô passion ciné\n            \n                    ",
+            "date": "2025-11-23",
+            "rating": 3.5,
+            "text_content": "\n                    And wickeeeeeed now : mais qu'est-ce que je l'attendais cette suite 勺",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1037756254",
+            "author": "\n                            Matthieu B.\n            \n                    ",
+            "date": "2025-12-12",
+            "rating": 2.5,
+            "text_content": "\n                    Film visionné au cinéma.",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1037599352",
+            "author": "\n                            Cam Pattier\n            \n                    ",
+            "date": "2025-11-24",
+            "rating": 2.5,
+            "text_content": "\n                    Je mets la même note que pour le premier, parce que ça reste vraiment sa continuité directe.",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1037560666",
+            "author": "\n                            Lcampa\n            \n                    ",
+            "date": "2025-11-19",
+            "rating": 2.0,
+            "text_content": "\n                    Raté ! Le premier était tellement rythmé beau intelligent. Ce deuxième opus est long lent répétitif . Montage totalement raté. Mais il ya quelques moments très réussis. La morale reste superbe toujours superbe. Vive les méchantes sorcières !!!\n        \n            ",
+            "likes": 1,
+            "dislikes": 3
+        },
+        {
+            "id": "review_1037556471",
+            "author": "\n                            Danny Curry\n            \n                    ",
+            "date": "2025-11-19",
+            "rating": 4.0,
+            "text_content": "\n                    Le 2e volet de Wicked a une dimension plus sombre et un rythme plus lent que la 1ère partie, mais c'est le cas également dans la comédie musicale d'origine. Si l'on peut regretter certaines longueurs et choix de mise en scène, l'attachement aux personnages reste intact. La performance du cast (en particulier de Jonathan Bailey, Cynthia Erivo, Ariana Grande et Ethan Slater) est excellente, aussi bien au niveau du jeu d'acteur que du chant. ",
+            "likes": 2,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1037755169",
+            "author": "\n                            UGO\n            \n                    ",
+            "date": "2025-12-12",
+            "rating": 4.0,
+            "text_content": "\n                    Je trouve que les chansons sont bien, déjà il y a moins que dans le 1 car sinon c'est énervant trop de chanson. Très bonne comédie musicale. Avec un bon scénario car je ne pensais pas que Nessa Rose allait mourir donc il y avait du suspense. Je trouve que c'est original que Fiero quitte G(a)linda pour Elphaba, je m' en doutais que il serait en couple et aussi à la fin le cri de Elphaba était très mal fait ( fait exprès ) donc c'était prévisible que Elphaba n' allait pas mourir. Je trouve que pour un des ses premiers films Ariana Grande joue très bien. Mais malheureusement, beaucoup de personnes trouvent que 1 volet suffisait mais un le 2 est mieux car   il y a plus de choses qui se passe ( même un peu trop ) et les chansons ont pas assez de danse comparer au 1. Voilà pourquoi je met la note de 4 ÉTOILES !\n        \n            ",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1037896030",
+            "author": "\n                            Nassou999\n            \n                    ",
+            "date": "2025-12-27",
+            "rating": 2.0,
+            "text_content": "\n                    La première partie de Wicked : partie II s’avère franchement lente, enfantine et peu utile, rendant l’entrée dans cette conclusion difficile et peu engageante. Le film gagne toutefois en intérêt dans sa seconde moitié, grâce à un virage plus politique et plus sombre.",
+            "likes": 2,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1037580238",
+            "author": "\n                            JMP\n            \n                    ",
+            "date": "2025-11-22",
+            "rating": 2.5,
+            "text_content": "\n                    j'avais eu un peu de mal a accrocher au premier, la suite aura eu le meme effet. Cest long sur 80% du film, et la fin qui aurait méritée plus de temps a été trop courte. Ça reste un bon film musical, mais ca ne merite pas le tapage médiatique qui l'entour.\n        \n            ",
+            "likes": 0,
+            "dislikes": 1
+        },
+        {
+            "id": "review_1037600456",
+            "author": "\n                            Giuliani Murris giraud\n            \n                    ",
+            "date": "2025-12-20",
+            "rating": 5.0,
+            "text_content": "\n                    Une suite incroyable, autant bien que le premier, à part la fin, je ne pensais pas que ça se terminerait comme ça, mais vraiment à voir c’est incroyable même en 3D\n        \n            ",
+            "likes": 1,
+            "dislikes": 2
+        },
+        {
+            "id": "review_1038078015",
+            "author": "\n                            FaRem\n            \n                            \n                    ",
+            "date": "2026-01-11",
+            "rating": 2.0,
+            "text_content": "\n                    « Ils ont besoin de quelqu'un de méchant pour que tu sois bienveillante. » Elphaba est désormais une paria aux yeux des gens qui la redoutent autant qu'ils ont peur d'elle. Le message est bien passé pour faire d'elle une méchante, mais elle est bien décidée à faire éclater la vérité sur le magicien et à laver son nom... Après un premier film qui servait de longue mise en place, c'est agréable de voir les choses s'accélérer dès le début de cette suite, mais ça ne dure malheureusement pas... Malgré des enjeux très clairs, le développement de l'histoire est totalement bâclé et précipité. Rien n'est justifié, tout est résolu comme par magie et l'univers n'a plus aucune importance à l'image des personnages secondaires. Après cinq heures de film, c'est presque un manque de respect. Bref, je n'avais pas forcément apprécié le premier, mais il ne m'avait pas déçu contrairement à cette suite qui commence bien avant de retomber dans ses travers et de proposer un dernier acte totalement raté. Bref, une duologie sans grand intérêt pour ma part.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1037705527",
+            "author": "\n                            Ashitaka3\n            \n                    ",
+            "date": "2025-12-7",
+            "rating": 3.5,
+            "text_content": "\n                    Une belle suite au premier film, inférieure en qualité et en ambiance mais qui se défend par de nombreuses séquences musicales riches en détails et en décors. Les effets spéciaux sont superbes et collent bien à la magie déployée pour l'histoire. J'ai trouvé moins d'émotions que dans le premier film et un montage très rapide vers le milieu fin qui ne permet pas de tout comprendre. On passe du coq à l'âne avec des personnages et des situations à peine préparées dans la séquence précédente. Il semble que certaines transitions aient été baclées pour tout mettre dans cette suite. Dommage mais ça reste un bon moment avec des acteurs en forme et cohérents.",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1037910103",
+            "author": "\n                            floramon\n            \n                    ",
+            "date": "2025-12-28",
+            "rating": 4.0,
+            "text_content": "\n                    dans la continuité du 2 , le film est beau , l'histoire est vraiment originale et sort de l'ordinaire. jai passé un très bon moment devant\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1037646567",
+            "author": "\n                            Adrien\n            \n                    ",
+            "date": "2025-11-29",
+            "rating": 4.0,
+            "text_content": "\n                    Je l'ai trouvé un tout petit moins bien que le premier volet mais je trouve qu'il est vraiment très bien aussi. Les acteurs sont bons, les chansons sont bien écrites ainsi que les dialogues, les décors sont magnifiques et la mise en scène est superbe. Peu de longueur ni de temps mort. Un long métrage vraiment captivant, prenant avec de l'action, du fantastique et de l'aventure. Bref, un très bon film bien qu'il est un tout petit peu en dessous du premier mais il fait le taff, tellement divertissent, je vous conseille d'allé le voir sur grand écran !!!\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1037660673",
+            "author": "\n                            Rideau sur l'Écran\n            \n                            \n                    ",
+            "date": "2025-12-1",
+            "rating": 3.0,
+            "text_content": "\n                    Le second acte de \"Wicked\" peine parfois à retrouver l’énergie aérienne du premier film. L’histoire s’alourdit, la tension dramatique s’installe, mais certains moments étirent l’ensemble. Le film aurait gagné en densité en étant un peu plus ramassé et un peu plus léger. Toutefois le film est sauvé par l’interprétation : Cynthia Erivo et Ariana Grande imposent une puissance émotionnelle et vocale qui redonne au récit sa force. On en ressort moins émerveillé qu'après la \"Partie I\", mais néanmoins convaincu par la performance de ce duo pas déplaisant.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1038550292",
+            "author": "\n                            Gwen R\n            \n                    ",
+            "date": "2026-02-27",
+            "rating": 3.0,
+            "text_content": "\n                    Visuellement plaisant et bien interprété, le scenario met sous le tapis la présence de Dorothy donc si on ne connait pas \"le magicien d'OZ\" on est paumé et cela plombe le film.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1037662302",
+            "author": "\n                            Cedric C.\n            \n                    ",
+            "date": "2025-12-1",
+            "rating": 4.5,
+            "text_content": "\n                    Plus d’aventure que dans le premier, les personnages sont super comme les décors et les costumes, mais je ne vous apprends rien\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1038017816",
+            "author": "\n                            jerome d\n            \n                    ",
+            "date": "2026-01-5",
+            "rating": 4.0,
+            "text_content": "\n                    wicked 1 j'ai deja adoré, tout se met en place naturellement. Un peu d'humour, la fraicheur d'Arianna Grande est epoustouflant, je pense que c'est elle qui porte le film...  ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1038006970",
+            "author": "\n                            coraly\n            \n                    ",
+            "date": "2026-01-4",
+            "rating": 3.0,
+            "text_content": "\n                    Un second volet plaisant, quoique moins captivant que le premier (mais peut-être est-ce l'effet de surprise en moins). On retrouve les personnages que l'on aime, leurs amours et amitiés puissantes (",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1037620133",
+            "author": "\n                            Michel C.\n            \n                    ",
+            "date": "2025-11-26",
+            "rating": 3.0,
+            "text_content": "\n                    Première impression : c’ est un copié/collé du premier volet….. Normal, puisqu’ ils ont été tournés et réalisés ensemble par Jon M. Chu. On retrouve la magie des couleurs, des décors sublimes et la beauté des personnages. Ces deux « sorcières » dont une « mal-aimée » ( !) sont toujours interprétées par Cynthia Erivo ( Elphaba ) et Ariana Grande ( Glinda ) ; elles sont juste magnifiques, avec plus de 2 heures de préparation et maquillage chaque jour, et le résultat est splendide. N’ oublions pas qu’ il s’ agit d’ une comédie musicale et que ces deux divas chantent réellement et se sont beaucoup investies sur ce plan. Parfois à en être envahissant ( ou trop perché ). Aussi que c’ est une adaptation du roman « Le Magicien d’Oz » de 1900 ( si, si ) dont une des plus connue, au cinéma, est celle d’ avant seconde guerre mondiale avec Judy Garland. On en a plein les yeux ( et plein les oreilles parfois ), ne serait ce que par les champs de tulipes, qui n’ ont rien à envier aux Jardin de « Keukenhof »  aux Pays Bas grâce à une culture de neuf millions de fleurs, pour les scènes du pays « Munchkin ». Pour l’intrigue, le triangle amoureux absolument nécessaire, est bien présent mais ne laisse guère de place au Prince Fiyero ( Jonathan Bailey ), les deux sorcières monopolisent l’ attention, dans cet univers du magicien d’ Oz. Les images sont extraordinaires, surtout si on aime le vert, et enchanterons la majorité des jeunes spectateurs, voire moins jeunes. Personnellement, une certaine usure et un aspect « vieillot » de l’ histoire, gâchent l’ euphorie, et me laissent un sentiment dubidatif…..!!**\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1038018060",
+            "author": "\n                            Vinz1\n            \n                            \n                    ",
+            "date": "2026-01-5",
+            "rating": 3.5,
+            "text_content": "\n                    Malgré quelques longueurs dispensables, des effets numériques peu réalistes (cf. certains animaux) et des chansons moins prenantes que dans le premier volet, l’ensemble de cette suite est tout de même spectaculaire et renforcé par un superbe trio d'acteurs (Jeff Goldblum, Ariana Grande et Cynthia Erivo, malgré un temps de jeu inégal, sont tous trois excellents). En outre, ce qui est franchement intéressant c'est que l'on peut y voir certaines scènes du film culte \"Le magicien d'Oz\" mais filmées sous un angle différent et ça c'est assez magique, tout comme les décors flamboyants et les couleurs chamarrées, si bien qu'on en oublie tous les défauts !\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1037781200",
+            "author": "\n                            Arthur Guezou\n            \n                    ",
+            "date": "2025-12-15",
+            "rating": 3.5,
+            "text_content": "\n                    “Wicked Part 2”, la théâtralisation d’un modèle",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1037630281",
+            "author": "\n                            Ghighi19\n            \n                    ",
+            "date": "2025-11-27",
+            "rating": 4.0,
+            "text_content": "\n                    Une seconde partie moins spectaculaire et encore c'est beaucoup dire mais toujours un vrai plaisir de se retrouver à Oz . Les comédiens sont incroyables et se donnent vraiment à fond . Un sublime musical qui rend honneur au spectacle original .\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1037770047",
+            "author": "\n                            Timoté L.\n            \n                    ",
+            "date": "2025-12-14",
+            "rating": 4.5,
+            "text_content": "\n                    Bien que les personnages soient un peu crédule et prennent parfois des décisions douteuses, le film reste une expérience unique et satisfaisante tant au niveau des décors que du déroulement de l'histoire\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1037600233",
+            "author": "\n                            The CritizMan\n            \n                    ",
+            "date": "2025-11-24",
+            "rating": 3.0,
+            "text_content": "\n                    WICKED – Partie 2 (Wicked For Good) peine un peu à tenir la promesse de son final : moins de chansons, un rythme plus sage, et surtout des personnages cultes du Magicien d’Oz — l’Homme de Fer, Dorothée, l’Épouvantail et le Lion peureux — qui ne servent strictement à rien dans l’intrigue. Ça fait bizarre de les voir débarquer pour finalement n’avoir aucun impact. Heureusement, le traitement de Glinda et Elphaba reste impeccable : leur duo porte tout le film, émotionnellement comme narrativement. Mais impossible de ne pas se poser la question : couper ce diptyque en deux était-il vraiment nécessaire ? Hum… pas sûr qu’on y gagne.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1037640966",
+            "author": "\n                            Perchman.fr\n            \n                    ",
+            "date": "2025-11-28",
+            "rating": 3.5,
+            "text_content": "\n                    Cette deuxième partie, bien qu’ambitieuse, se révèle en-dessous du premier volet. Cynthia Erivo livre une performance plus assurée et profondément habitée, tandis qu’Ariana Grande s’impose davantage et confirme son aisance dans cet univers. J’aurais aimé que les personnages du Magicien d’Oz soient davantage présents : leur inclusion aurait permis un détour narratif passionnant et aurait enrichi l’intrigue.",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1037621164",
+            "author": "\n                            caramel2017\n            \n                    ",
+            "date": "2025-11-26",
+            "rating": 3.0,
+            "text_content": "\n                    Pas mal pour le principe de retrouver les supers interpretes et les magnifiques decors mis à l’oeuvre dans ce projet gigantesque…mais tout à vrai dire : tout à ete deja dit dans le premier opus qui se suffit à lui meme. Ici on a comme un “bonus dvd” sur grand ecran. C’est donc un complement interessant pour ceux qui ont aimé la partie 1 mais pas necessaire. Ici on detail juste un peu plus la fabrique des mensonges… tres bel echo à la presse ou nos medias dans notre veritable societé. Mais Le veritable film est bien dans la parie 1 et son magnifique finish\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1038161843",
+            "author": "\n                            Pandaman972\n            \n                    ",
+            "date": "2026-01-19",
+            "rating": 3.5,
+            "text_content": "\n                    Pour la partie 2 de Wicked, j’ai clairement moins accroché que pour la partie 1. Je pense sincèrement qu’ils auraient pu condenser les deux films en un seul, car cette deuxième partie souffre vraiment de longueurs. Il y a beaucoup trop de chansons à mon goût. Je comprends totalement le principe de la comédie musicale, mais là j’ai trouvé que c’était un peu abusé, au point que même ma fille me regardait d’un air saoulé tellement ça enchaînait les morceaux musicaux.",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1037573834",
+            "author": "\n                            Alolfer\n            \n                    ",
+            "date": "2025-11-21",
+            "rating": 3.0,
+            "text_content": "\n                    Après une grande réussite du 1er film, la 2e partie de Wicked était grandement attendu. Dans la lignée du 1er, les décors sont fantastiques, les costumes grandioses, glorifiant l'univers de Oz.",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1037626068",
+            "author": "\n                            Caro Cinéma\n            \n                    ",
+            "date": "2025-11-26",
+            "rating": 4.5,
+            "text_content": "\n                    Au début, on est vraiment dans un show à l’américaine, des décors toujours somptueux, une fantaisie soignée, la comédie musicale est esthétique mais un peu statique… ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1037670857",
+            "author": "\n                            Simon Bernard\n            \n                    ",
+            "date": "2025-12-2",
+            "rating": 3.0,
+            "text_content": "\n                    Après les événements du premier opus qui ont mené Elphaba à renier le magicien d’Oz et son oeuvre, on retrouve l’ensemble des personnages divisés en plusieurs camps. Glinda devient la bonne fée et est utilisée par Madame Morrible et le magicien d’oz comme étendard de la lutte contre la méchante sorcière de l’Ouest. Elle et Fiyero ont des doutes.",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1037592644",
+            "author": "\n                            mattewlogan\n            \n                    ",
+            "date": "2025-11-23",
+            "rating": 5.0,
+            "text_content": "\n                    Magnifique, suite qui respecte vraiment la première partie, les actrices sont incroyables les chansons magnifiques et les décors somptueux ￼\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1037929949",
+            "author": "\n                            Melvin RICHER\n            \n                    ",
+            "date": "2025-12-29",
+            "rating": 3.0,
+            "text_content": "\n                    Le film est gentil et colorée mais bon j’ai eu du mal à accrocher je le trouve bien trop simple avec bcp trop de solution de facilité mais vu le rire et la joie des enfants dans la salle, force de constater que le film est réussie pour certain !\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1037564572",
+            "author": "\n                            Jimmy H\n            \n                    ",
+            "date": "2025-11-20",
+            "rating": 3.5,
+            "text_content": "\n                    Après le premier, je m’attendais énormément. J’ai adoré le premier et le deuxième est aussi très bon, mais moins bien. Clairement, les musique sont largement moins bonne que dans le premier film. L’histoire est bien plus sombre et il ce passe trop de choses folles, pour des réactions que j’avoue ne pas comprendre lol. Les réactions pour moi, sont en décalage avec les réactions que j’aurai eux. Mais je suis quand même satisfait d’avoir vu le dénouement. Je retiens plus le premier que le deuxième, mais ce n’est pas pour autant un mauvais films\n        \n            ",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1037646108",
+            "author": "\n                            Chloé D.\n            \n                    ",
+            "date": "2025-11-29",
+            "rating": 2.5,
+            "text_content": "\n                    Les décors sont toujours aussi beaux et l’univers fait voyager. L’histoire est cependant un peu moins surprenante que sur le premier opus, même si pour autant je ne me suis pas ennuyée durant les plus de 2h que durent le film.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1037583430",
+            "author": "\n                            Jeremie Lemoine\n            \n                    ",
+            "date": "2025-11-22",
+            "rating": 3.5,
+            "text_content": "\n                    Deuxième opus pas à la hauteur du premier, qui se précipite pour pour marquer chaque étape clé de l'histoire du Magicien d'Oz quand le premier film se concentrait sur la relation de ses 2 personnages.\n        \n            ",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1037629392",
+            "author": "\n                            Leosieg\n            \n                    ",
+            "date": "2025-11-27",
+            "rating": 2.5,
+            "text_content": "\n                    J'étais allée voir le premier volet l'an dernier et - sans avoir adoré - j'avais été agréablement surprise. Ses longueurs et son manque d'action lui donnaient l'allure d'une longue \"intro\", mais je me disais que ce serait sans doute plus dynamique dans la seconde partie. ",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1037898962",
+            "author": "\n                            Hélène S.\n            \n                    ",
+            "date": "2025-12-27",
+            "rating": 3.0,
+            "text_content": "\n                    Après avoir vu le premier, j'avais super hâte de voir ce second Wicked et j'ai été assez déçue. Heureusement que j'avais un énorme pot de popcorn à dévorer pour m'occuper pendant la première moitié du film car je me serais ennuyée sinon. Il y a clairement un problème de rythme avec une première moitié très longue où on fait du surplace et du coup l'impression d'une seconde moitié où tout est expédié vitesse grand V. Ainsi, on a l'impression d'un bricolage à la va-vite quant au rattachement de l'histoire du Magicien d'Oz à celle de Wicked ce qui est dommage car c'est quand même pas mal de réussir à connecter les deux comme ça et certaines choses ne sont pas suffisamment explorées parce qu'on nous sert des chansons à rallonge un peu insipides et l'amitié entre Glinda et Elphaba jusqu'à plus soif. Vraiment dommage car l'Univers et l'histoire étaient bien.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1038060737",
+            "author": "\n                            alchimissste\n            \n                    ",
+            "date": "2026-01-9",
+            "rating": 3.0,
+            "text_content": "\n                    Suite de la relecture du magicien d'Oz avec la vision Elphaba et Glinda",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1037601140",
+            "author": "\n                            Areva Percival\n            \n                    ",
+            "date": "2025-11-24",
+            "rating": 2.0,
+            "text_content": "\n                    Les 2 étoiles reviennent uniquement aux costumes et aux décors. ",
+            "likes": 1,
+            "dislikes": 1
+        },
+        {
+            "id": "review_1037587119",
+            "author": "\n                            Emma DELARBRE\n            \n                    ",
+            "date": "2025-11-23",
+            "rating": 2.0,
+            "text_content": "\n                    De très beaux effets spéciaux et un film assez poétique. C’est bien tout ce qu’il y a de positif à retirer de cette œuvre. Un synopsis sans queue ni tête qui donne l’impression, à de nombreux moments, d’ être bâclé. Les chansons, quoique musicalement intéressantes sont niaises à en mourir. Pas du tout du calibre de la partie 1 qui offrait une expérience beaucoup plus interessante.\n        \n            ",
+            "likes": 0,
+            "dislikes": 1
+        },
+        {
+            "id": "review_1037562258",
+            "author": "\n                            desclaux lise\n            \n                    ",
+            "date": "2025-11-19",
+            "rating": 5.0,
+            "text_content": "\n                    Un vrai bijou. Suspense incroyable, fin imprévisible.",
+            "likes": 1,
+            "dislikes": 1
+        },
+        {
+            "id": "review_1038064719",
+            "author": "\n                            Darkniamor\n            \n                    ",
+            "date": "2026-01-10",
+            "rating": 3.0,
+            "text_content": "\n                    Une suite plus profonde et plus sombre. Par conséquent moins poétique que le premier opus.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1037935374",
+            "author": "\n                            Cecilia Garcia\n            \n                    ",
+            "date": "2025-12-30",
+            "rating": 3.5,
+            "text_content": "\n                    une jolie suite  avec l univers d oz . un beau visuel.  une belle histoire comédie musicale 殺\n        \n            ",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1037608767",
+            "author": "\n                            antistress\n            \n                    ",
+            "date": "2025-11-25",
+            "rating": 4.0,
+            "text_content": "\n                    Un peu en dessous du premier (qui bénéficiait de l'effet de surprise,  d'un rythme plus effréné et de chansons plus mémorables), ce Wicked partie 2 est néanmoins une très bonne suite (toujours virtuose) et une parfaite conclusion. À noter une tonalité un peu plus sombre que le premier même si l'ensemble procure une grande douceur.",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1037570684",
+            "author": "\n                            Fabrice Drouot\n            \n                    ",
+            "date": "2025-11-21",
+            "rating": 5.0,
+            "text_content": "\n                    Wicked: For Good est tout simplement le meilleur film que j’aie jamais vu. J’ai été bouleversé du début à la fin : l’histoire, les chansons, les personnages… tout m’a touché en plein cœur. J’ai pleuré énormément, mais ce sont des larmes qu’on n’oublie pas, celles qui restent parce que le film a vraiment réussi à vous emporter ailleurs.",
+            "likes": 1,
+            "dislikes": 2
+        },
+        {
+            "id": "review_1037652027",
+            "author": "\n                            Fes77\n            \n                    ",
+            "date": "2025-11-30",
+            "rating": 3.5,
+            "text_content": "\n                    comme pour le premier on ne voit pas letemps passer ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1037563586",
+            "author": "\n                            Robin Deschepper\n            \n                    ",
+            "date": "2025-11-20",
+            "rating": 5.0,
+            "text_content": "\n                    Toppppp à voir absolument. Meilleur sortie de 2025 le film est tellement émouvant plein d’émotions…\n        \n            ",
+            "likes": 1,
+            "dislikes": 1
+        },
+        {
+            "id": "review_1037562215",
+            "author": "\n                            Eveassu\n            \n                    ",
+            "date": "2025-11-20",
+            "rating": 1.5,
+            "text_content": "\n                    J’ai adoré le premier film — c’était mon film préféré de 2024. Il était bouleversant, profond, et portait un message politique vraiment fort. C’est pour ça que la partie 2 m’a énormément déçue.",
+            "likes": 1,
+            "dislikes": 1
+        },
+        {
+            "id": "review_1037767175",
+            "author": "\n                            Galactus\n            \n                    ",
+            "date": "2025-12-14",
+            "rating": 4.0,
+            "text_content": "\n                    La parfaite continuité du premier : acteurs et actrices formidables, dans une suite un peu plus sombre, et plein de messages universels.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1037573698",
+            "author": "\n                            Bénédicte Crevola\n            \n                    ",
+            "date": "2025-12-3",
+            "rating": 3.5,
+            "text_content": "\n                    Après avoir vu le 1 que j'avais beaucoup aimé, nous revoilà 1 an après pour le 2 et le grand final. ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1037811485",
+            "author": "\n                            illusionperdue\n            \n                    ",
+            "date": "2025-12-19",
+            "rating": 3.0,
+            "text_content": "\n                    Aussi merveilleux que le premier, qui prolonge sa grande virtuosité, par sa mise en scène, chorégraphiée, chantée, et costumée, haut en couleur, c'est un spectacle enchanteur qui respire la maturité, et la sincérité. Tous les personnages ont leur fissure, et leur blessure, des conflits d'enfants, qui prennent de l'ampleur en grandissant, pris aux pièges dans les rouages de l'orage.",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1037554243",
+            "author": "\n                            Geoffrey F.\n            \n                    ",
+            "date": "2025-11-18",
+            "rating": 1.0,
+            "text_content": "\n                    Digne d’un Disney Channel ! Aucune émotion, une conclusion sans saveur, des dialogues vraiment vides, je me suis vraiment ennuyé. Je pense ça doit parler uniquement aux enfants de moins de 6ans, les fans d’Ariana Grande et encore …\n        \n            ",
+            "likes": 1,
+            "dislikes": 8
+        },
+        {
+            "id": "review_1037615219",
+            "author": "\n                            Cap10flam\n            \n                    ",
+            "date": "2025-11-25",
+            "rating": 4.5,
+            "text_content": "\n                    Je viens tout juste de sortir du cinéma et je suis encore complètement sous le charme. Wicked 2 est une suite qui dépasse toutes les attentes et qui réussit à porter l’histoire encore plus haut, autant sur le plan visuel qu’émotionnel.",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1037610079",
+            "author": "\n                            Clemant78\n            \n                    ",
+            "date": "2025-11-25",
+            "rating": 0.5,
+            "text_content": "\n                    Aucune histoire par rapport à Wicked 1, une perte de temps. Pourtant l’histoire du pays d’Oz avait du potentiel…\n        \n            ",
+            "likes": 1,
+            "dislikes": 2
+        },
+        {
+            "id": "review_1037761188",
+            "author": "\n                            Mimosa75\n            \n                    ",
+            "date": "2025-12-13",
+            "rating": 4.0,
+            "text_content": "\n                    Deuxième partie agréable avec un rythme qui est moins soutenue que la partie I ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1037576082",
+            "author": "\n                            chrisucciu\n            \n                    ",
+            "date": "2025-11-21",
+            "rating": 5.0,
+            "text_content": "\n                    Le film est tout ce qu'on peut en attendre : fidèle au matériel source, touchant, entraînant, sombre par moments (beaucoup plus que le premier). La fin est poétique et surprenante. Alors si vous n'aimez pas les comédies musicales et la magie, en effet, ce film n'est peut-être pas pour vous... Pour ma part, ce fut un pur moment de bonheur et j'ai déjà hâte de le revoir (en VO évidemment pour apprécier pleinement les voix incroyables d'Ariana Grande et Cynthia Erivo à leur juste valeur !)",
+            "likes": 0,
+            "dislikes": 1
+        },
+        {
+            "id": "review_1037805474",
+            "author": "\n                            Lecharentais37\n            \n                    ",
+            "date": "2025-12-18",
+            "rating": 3.0,
+            "text_content": "\n                    Déçu. Un peu brouillon, on ne sait pas toujours où en est, et surtout où en sont les personnages.",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1037643613",
+            "author": "\n                            Bazouiye\n            \n                    ",
+            "date": "2025-11-29",
+            "rating": 3.0,
+            "text_content": "\n                    Cette partie 2 m’a laissé une impression mitigée.",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1037587588",
+            "author": "\n                            Prail31\n            \n                    ",
+            "date": "2025-11-23",
+            "rating": 3.5,
+            "text_content": "\n                    Je dois avouer avoir préféré le 1er. Non pas que c’était ininteressant, au contraire même, j’ai été agréablement surpris des différents plots twists, du jeu de parallélisme avec l’histoire du conte sans jamais réellement montré directement Dorothy, et de la fin. ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1037562458",
+            "author": "\n                            Laure M\n            \n                    ",
+            "date": "2025-11-19",
+            "rating": 4.0,
+            "text_content": "\n                    J'ai adoré ",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1038181090",
+            "author": "\n                            Lourenco Carlos\n            \n                    ",
+            "date": "2026-01-21",
+            "rating": 3.5,
+            "text_content": "\n                    Après le succès du premier opus, Wicked: For Good revient pour clore l’adaptation cinématographique du célèbre musical. Et si la magie opère toujours, le voyage est cette fois-ci un peu plus contrasté.",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1037790202",
+            "author": "\n                            Gracie_L\n            \n                    ",
+            "date": "2025-12-16",
+            "rating": 3.0,
+            "text_content": "\n                    Loin du manichéisme auquel on pouvait s’attendre, ce deuxième volet donne lieu à davantage d’introspection entre les deux protagonistes. ",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1037556225",
+            "author": "\n                            Dûnya Berguin\n            \n                    ",
+            "date": "2025-11-19",
+            "rating": 4.0,
+            "text_content": "\n                    Vu en avant première le film et les chansons sont excellents. Vraiment le travail sur les décors et sur chaque détails c’est vraiment appréciable. Une bonne partie 2 malgré la légende que les parties 2 sont toujours décevantes… merci !\n        \n            ",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1037630318",
+            "author": "\n                            Relonnor\n            \n                    ",
+            "date": "2025-11-27",
+            "rating": 2.0,
+            "text_content": "\n                    Un petit poil meilleur que la première partie.",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1038820485",
+            "author": "\n                            Lucas Bachelier\n            \n                    ",
+            "date": "2026-03-26",
+            "rating": 3.5,
+            "text_content": "\n                    Une suite spectaculaire et émotive qui approfondit la relation entre ses héroïnes. Wicked: Part Two séduit par ses numéros musicaux et son ampleur, malgré quelques longueurs.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1037836521",
+            "author": "\n                            LapinoFurioso\n            \n                    ",
+            "date": "2025-12-21",
+            "rating": 3.5,
+            "text_content": "\n                    Je suis content d'être allé voir cette suite du premier volet de Wicked en salle. J'avais vu des retours un peu mitigé disant qu'il était moins bien que la première partie, et surtout que ses chansons étaient bien moins marquantes que celles du premier film. Je m'attendais alors à voir un film plutôt passable mais je trouve qu'il clôture bien l'histoire inaugurée dans le film de l'an dernier.",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1038171053",
+            "author": "\n                            Louis G.\n            \n                    ",
+            "date": "2026-01-20",
+            "rating": 3.0,
+            "text_content": "\n                    Très inégal, le film souffre de ne pas avoir suffisamment développé la psychologie de ses personnages. Restent des numéros musicaux efficaces à l'image du premier volet.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1037855182",
+            "author": "\n                            Dorian Carrayrou\n            \n                    ",
+            "date": "2025-12-23",
+            "rating": 5.0,
+            "text_content": "\n                    Merci à Ariana Grande de sauver ce film. Dans la fin de la première partie, Elphaba promet une vengeance et résultat que dalle, c'est Glinda qui fait tout le travail. Encore une fois merci à Ariana\n        \n            ",
+            "likes": 0,
+            "dislikes": 1
+        },
+        {
+            "id": "review_1037714139",
+            "author": "\n                            Julomax\n            \n                    ",
+            "date": "2025-12-7",
+            "rating": 4.0,
+            "text_content": "\n                    Très bien !!!",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1037568489",
+            "author": "\n                            Marie - Lou RONOT\n            \n                    ",
+            "date": "2025-11-21",
+            "rating": 2.0,
+            "text_content": "\n                    Je suis tellement déçue, on pourrait résumer l’entièreté du film à «tout ça pour un homme». Soyons franc, le début du film tourne autour de la cause des animaux puis cela est rapidement abandonnée et mis sur le côté afin de consacrer tout le reste du film au prince. On aurait pus appeler ce film Fyero j’aurais pas vue la différence.",
+            "likes": 0,
+            "dislikes": 1
+        },
+        {
+            "id": "review_1037939159",
+            "author": "\n                            Benjamin G.\n            \n                    ",
+            "date": "2025-12-30",
+            "rating": 0.5,
+            "text_content": "\n                    Wicked : Partie 2 est une immense déception. Malgré un budget colossal, une licence adorée et un potentiel artistique énorme, le film échoue presque sur toute la ligne. On ressort de la séance avec un sentiment de lassitude profond, celui d’avoir assisté à quelque chose de long, creux et étrangement fade.",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1037961533",
+            "author": "\n                            Filmement vôtre\n            \n                    ",
+            "date": "2026-01-1",
+            "rating": 4.5,
+            "text_content": "\n                    Après un premier film de très haute qualité, j’attendais cette suite avec une grande impatience. Et finalement, je l’ai trouvée meilleure !",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1037561300",
+            "author": "\n                            Pri\n            \n                    ",
+            "date": "2025-11-19",
+            "rating": 0.5,
+            "text_content": "\n                    Bonsoir mais il faut changer de catégorie car c’est un clip vidéo arriver à ce stade là. Je suis en concert de Ariana grande, moi qui voulais vivre le film bh me voilà entrain de regarder le clip vidéo. 99,999999% du film est une musique !!!!!",
+            "likes": 1,
+            "dislikes": 6
+        },
+        {
+            "id": "review_1037721169",
+            "author": "\n                            seingi\n            \n                    ",
+            "date": "2025-12-8",
+            "rating": 2.5,
+            "text_content": "\n                    Le premier film était assez naïf mais c'est ce côté innocent et rafraichissant qui me plaisait. Ce deuxième opus est un peu décevant. D'abord il faut savoir qu'une grande partie du film est chantée en anglais (même en VF) et cela fait partie de la compréhension de l'histoire, donc ce n'est pas vraiment accessible aux enfants en bas âge ou pour les personnes ayant des difficultés pour lire les sous-titres. Ensuite, ce deuxième volet perd clairement en légèreté et pour ma part  cela gâche un peu le rêve qui était apporté par le coté enchanteur du visuel et de la comédie musicale naïve du premier volet. Enfin, sans connaître l'histoire du magicien d'Oz, cette histoire est peu compréhensible et les situations parfois peu crédibles. A voir toutefois pour les deux actrices principales qui chantent elles même je pense.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1037699356",
+            "author": "\n                            why_so_serious\n            \n                    ",
+            "date": "2025-12-6",
+            "rating": 1.0,
+            "text_content": "\n                    Une purge. Un des pires films de l’année. Le 1er n’était déjà pas ma came mais pourquoi pas, ça passait. Les chansons notamment étaient correctes et l’histoire avait un minimum d’intérêt. Mais alors la, les chansons sont toutes oubliables, longues, chiantes et ne racontent rien. Je ne crois pas une seconde aux relations entre les personnages, je m’en fous totalement et les instants émotions n’ont eu aucun impact sur moi si ce n’est de l’ennui. J’ai lutté pendant ce qu’il m’a semblé durer une éternité pour ne pas dormir au ciné. Les animaux en 3D supers moches m’ont aidé à rester éveillé, quelque peu fasciné devant autant de laideur.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1037671854",
+            "author": "\n                            Girl F\n            \n                    ",
+            "date": "2025-12-2",
+            "rating": 3.5,
+            "text_content": "\n                    Wicked : Partie Deux est un bon film dans l’ensemble, mais clairement en dessous de la première partie. Le plus gros point positif, c’est Elphaba. Je l’aimais déjà dans le premier film, mais dans celui-ci je l’aime encore plus : elle reste fidèle à elle-même, à ses convictions, et c’est vraiment la seule intrigue que j’ai eu envie de suivre jusqu’au bout. Visuellement, le film est magnifique, avec des paysages superbes même s’il est plus sombre. L’émotion est aussi très forte : j’ai beaucoup pleuré, surtout lors de la ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1037587296",
+            "author": "\n                            messeda samir\n            \n                    ",
+            "date": "2025-11-23",
+            "rating": 3.0,
+            "text_content": "\n                    Une deuxième partie moins réussie que le premier film. Je réfléchissais aux défauts et ils sont nombreux. Scénario bâclé, chansons trop nombreuses et moins réussies , des acteurs un peu moins bien dirigés....Finalement je me suis dit que cette partie est peut-être plus difficile à adapter sur grand écran. Il se passe beaucoup de choses mais tout va dans tous les sens. J'ai quand même mis 3 étoiles car les acteurs sont attachants.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1037681028",
+            "author": "\n                            Loannhayday Hayday\n            \n                    ",
+            "date": "2025-12-3",
+            "rating": 2.5,
+            "text_content": "\n                    je mais cette note car ces un assez bon film mais je ne le trouve pas autant acrocheur que d’autre film que je regarde deplus il y’as plusieurs éléments qui me frustre surtout dans cette partie mais sinon sa reste un assez bon film.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1037957150",
+            "author": "\n                            Jennesta\n            \n                    ",
+            "date": "2026-01-1",
+            "rating": 2.5,
+            "text_content": "\n                    J'ai adoré le premier film ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1037690463",
+            "author": "\n                            Ace938824\n            \n                    ",
+            "date": "2025-12-4",
+            "rating": 3.5,
+            "text_content": "\n                    Contre toute attente, j’ai préféré ce deuxième volet au premier, mais pour des raisons complètement différentes. Je le trouve beaucoup plus axé sur l’action et moins sur le blabla. L’histoire me paraît également plus intéressante : là où le premier film avait, selon moi, un scénario très pauvre, celui-ci compense avec un récit mieux construit.",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1038990700",
+            "author": "\n                            Razelgoude\n            \n                    ",
+            "date": "2026-04-13",
+            "rating": 0.5,
+            "text_content": "\n                    j'ai pas envie de le regarder au vue du premier qui ma déçue ,il y a trop de chanson et de clichés et j'aime pas le délire de tout vert et tout rose . Un peux d'u  côte nous avons Barbie parfaite droite dans ses bottes et de l'autre une personnes mal aimer pleine de défaut et rejeter. J'aime PAS!!\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1037591430",
+            "author": "\n                            Barbie Rockstar\n            \n                    ",
+            "date": "2025-11-23",
+            "rating": 4.5,
+            "text_content": "\n                    Bien que toujours magnifique, avec des acteurs toujours aussi brillants et des scènes chantées irreprochables, on ne ressent plus ce je ne sais quoi qui avait rendu le premier volet aussi mémorable,  excellent film, mais pas au niveau du premier.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1038174080",
+            "author": "\n                            spectacleaime\n            \n                    ",
+            "date": "2026-01-20",
+            "rating": 1.5,
+            "text_content": "\n                    N'ayant pas apprécié le premier, pas de surprise. Une Ariana Grande au visage sans aucune réaction, c'est affligeant.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1037593761",
+            "author": "\n                            Weeaboo_peach\n            \n                    ",
+            "date": "2026-04-1",
+            "rating": 4.0,
+            "text_content": "\n                    ça m'a donné envie de visionner le magicien d'Oz. très sympathique, visuellement très joli. Je recommande \n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1037803421",
+            "author": "\n                            Elbaz Raphael\n            \n                    ",
+            "date": "2025-12-18",
+            "rating": 4.0,
+            "text_content": "\n                    LA suite est enfin là! ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1037674169",
+            "author": "\n                            Laurens\n            \n                    ",
+            "date": "2025-12-8",
+            "rating": 4.5,
+            "text_content": "\n                    Grandiose…. J’ai adoré la mise en scène, les couleurs, les musiques, l’histoire… Tout cela vous fait tout oublier et vous êtes transporté…\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1037554896",
+            "author": "\n                            Nostromo\n            \n                    ",
+            "date": "2025-11-19",
+            "rating": 3.5,
+            "text_content": "\n                    Si vous avez aimé la partie 1, vous apprécierez sûrement la seconde.",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1038122873",
+            "author": "\n                            Alain-Yves Lamberts (Yvan Aisel)\n            \n                    ",
+            "date": "2026-01-15",
+            "rating": 3.0,
+            "text_content": "\n                    Bon, rien de neuf sur les effets spéciaux, mais on comprend enfin le début de la saga. On reste tout même bien accroché à l’histoire et c’est visuellement agréable.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1037554213",
+            "author": "\n                            MaxFroh\n            \n                    ",
+            "date": "2025-11-18",
+            "rating": 4.0,
+            "text_content": "\n                    Vu dans le cadre d’une avant-première. C’est une bonne suite, j’ai passé un bon moment. Belle image, belles musiques.\n        \n            ",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1038330519",
+            "author": "\n                            ewan_carlier\n            \n                    ",
+            "date": "2026-02-5",
+            "rating": 2.0,
+            "text_content": "\n                    Autant de problèmes que dans le premier avec moins de choses plaisantes. Des longueurs, une intrigue à rallonge, des scènes gênantes, une  qui ne transporte plus, et une réécriture de l’œuvre originale qui frustre.",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1038127975",
+            "author": "\n                            Sarah Choueifati\n            \n                    ",
+            "date": "2026-01-16",
+            "rating": 0.5,
+            "text_content": "\n                    C'est la raison pour laquelle les gens ne prennent plus la peine de payer des places de ciné. L'intrigue entière aurait pu tenir dans le premier film, mais en divisant en deux, ça rapporte deux fois plus de fric non? ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1037669467",
+            "author": "\n                            Cyril Lones\n            \n                    ",
+            "date": "2025-12-2",
+            "rating": 5.0,
+            "text_content": "\n                    une suite incroyable avec un respect total de l'oeuvre original les acteurs sont toujours aussi bon\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1037873219",
+            "author": "\n                            catherine gailland\n            \n                    ",
+            "date": "2025-12-25",
+            "rating": 4.5,
+            "text_content": "\n                    EXCELLENT BELLE Progression DANS LA STORY MAGNIFIQUE                                                                                           un bon film juste avant Noël pour les enfants en famille",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1038234712",
+            "author": "\n                            Mino Gasnot\n            \n                    ",
+            "date": "2026-01-26",
+            "rating": 4.0,
+            "text_content": "\n                    Très bon film malgré une intro longue et un peu raté le millieu du film est splendide, musique, décor, dialogue tout est bon. Le jeu des actrices est superbe mais le gros point noir du film c'est sa fin trop longue pour rien on sent qu'ils avaient plein d'idées et ne savaient pas où les mettres alors on se tappe 20 min de fin inutile qui rajoute aucun suspens, aucune intrigue ni aucun mystère dommage. Malgré tout ça si vous avez aimé le 1 foncé voir cette partie 2 qui légèrement en dessous mais toujours incroyable ✨\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1037566087",
+            "author": "\n                            Joseph Delachat\n            \n                    ",
+            "date": "2025-11-20",
+            "rating": 5.0,
+            "text_content": "\n                    Alors je suis allé voir wicked partie 2 au cinéma le 18 novembre à Dijon et je trouve que ce film m'est extrêmement bien en avant Elfaba (Cynthia et rivaux)",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1037572335",
+            "author": "\n                            last_rainy_town\n            \n                    ",
+            "date": "2025-11-21",
+            "rating": 5.0,
+            "text_content": "\n                    Vraiment excellent film ! les chansons représentant bien l'ambiance du film et nous mettant bien dans l'ambiance. La partie II est vraiment une suite bien construite qui est remplie de surprise en bien.\n        \n            ",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1037675501",
+            "author": "\n                            Bertrand Molette\n            \n                    ",
+            "date": "2025-12-3",
+            "rating": 1.5,
+            "text_content": "\n                    bon alors autant le 1er épisode était bien avec un regard différent sur ce conte.... autant lâ... c'est mou, tout est long, il y a 25% de coupes à faire... ce 2nd épisode n'apporte rien.... J'en peux plus de ces comédies misocales US interchangeables où tout le monde chante et danse pareil.... Non franchement inutile.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1037441154",
+            "author": "\n                            Emeelyne\n            \n                    ",
+            "date": "2025-12-5",
+            "rating": 4.5,
+            "text_content": "\n                    Des larmes. Du rire. De l’amour. Fan de Wicked depuis la première heure, ce deuxième volet ne m’a pas déçu.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1037672821",
+            "author": "\n                            Nathalie LAVERDURE\n            \n                    ",
+            "date": "2025-12-2",
+            "rating": 4.0,
+            "text_content": "\n                    J’avais trouvé le 1er un peu trop “gnan gnan”. Le 2eme est plus enlevé ! J’espère un 3eme mais je ne sais pas où s’arrête le roman.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1037744386",
+            "author": "\n                            Grégory K.\n            \n                    ",
+            "date": "2025-12-10",
+            "rating": 3.0,
+            "text_content": "\n                    Moins bien que le I, assez triste et lent quand même… on passe un bon moment malgré tout. ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1037562037",
+            "author": "\n                            ChrisProd\n            \n                    ",
+            "date": "2025-11-19",
+            "rating": 3.5,
+            "text_content": "\n                    Oui, j'ai vu le film et j'ai beaucoup aimer le générique qui est, selon moi, super bien réalisé. Point\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1037740450",
+            "author": "\n                            Elobast999\n            \n                    ",
+            "date": "2025-12-10",
+            "rating": 4.0,
+            "text_content": "\n                    franchement j’ai étais agréablement surprise pour une suite, il est même peut-être meilleur que le tout premier, allez le voir !!!\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1038331973",
+            "author": "\n                            Mageti\n            \n                    ",
+            "date": "2026-02-5",
+            "rating": 2.0,
+            "text_content": "\n                    Tout est en gros plan et tout le reste, les décors, etc... est flou. Constamment, toujours. moi, clairement, ça m'a sorti du film. dommage\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1037662043",
+            "author": "\n                            Victor variot\n            \n                    ",
+            "date": "2025-12-1",
+            "rating": 3.5,
+            "text_content": "\n                    Film très sympa, les finances étaient bien présentes et l'histoire est très riche !! ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1037613498",
+            "author": "\n                            Lucaschavanne49\n            \n                    ",
+            "date": "2025-11-25",
+            "rating": 5.0,
+            "text_content": "\n                    Nous avons en face le meilleur film de cette année.",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1037576471",
+            "author": "\n                            Anthony Drouot\n            \n                    ",
+            "date": "2025-11-21",
+            "rating": 5.0,
+            "text_content": "\n                    Love love love ! ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1037582381",
+            "author": "\n                            Anaelbarbaria2007\n            \n                    ",
+            "date": "2025-11-22",
+            "rating": 5.0,
+            "text_content": "\n                    Cette seconde partie est tout simplement un chef d’œuvre cinématographique les décors, les chansons, les costumes sont magnifiques et incroyable. Les acteurs sont vraiment parfait et j’adore le fait que chaque acteurs sois mis en valeur. Le film est également très émouvant et personne ne peut rester indifférent face a cette histoire d’amitié incroyable et à la fois tragique. Réserver vos places maintenant ! Et préparez vous pour 2h18 de pure magie.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1037590103",
+            "author": "\n                            irene Pabot du Chatelard\n            \n                    ",
+            "date": "2025-11-23",
+            "rating": 4.5,
+            "text_content": "\n                    j'ai adorée !!!!!!!!!",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1037864743",
+            "author": "\n                            Dam’s01\n            \n                    ",
+            "date": "2025-12-24",
+            "rating": 5.0,
+            "text_content": "\n                    Wicked 2 est une très belle réussite. Le film adopte un ton plus sombre que le premier, mais sans jamais perdre la magie qui fait l’identité de la saga. Les musiques restent absolument incroyables : elles nous emportent, nous enveloppent et donnent à chaque scène une intensité émotionnelle rare. Les costumes et les décors sont splendides, d’une richesse visuelle qui renforce l’immersion. Et dans un contexte aussi morose que celui que l’on traverse, ça fait un bien fou de se laisser porter par un film aussi “bonbon”, lumineux et généreux. Une suite qui assume sa noirceur tout en continuant de faire rêver.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1037579951",
+            "author": "\n                            Samuel23\n            \n                    ",
+            "date": "2025-11-22",
+            "rating": 5.0,
+            "text_content": "\n                    Ne connaissant pas du tout la comédie musicale Wicked, j’ai découvert l’histoire par le biais de ces films ! Et comment dire qu’en 1 an de temps je me suis pris d’amour pour cet univers ! Ce second film est vraiment un chef d’œuvre visuel et musical. Tout est parfait, les actrices jouent à merveille. Ont pourrais comprendre l’histoire rien qu’en observant leurs expressions faciales tout au long du film. ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1037583093",
+            "author": "\n                            Lechevallier Manon25\n            \n                    ",
+            "date": "2025-11-22",
+            "rating": 5.0,
+            "text_content": "\n                    Incroyable j'ai pleuré tout le long !!!il aut voir les premiers pour mieux comprendre histoirevous aller passer par tout les émotions\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1037744110",
+            "author": "\n                            Sylvainedusud\n            \n                    ",
+            "date": "2025-12-10",
+            "rating": 2.5,
+            "text_content": "\n                    Dommage trop mais trop vraiment trop de chanson ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1039527160",
+            "author": "\n                            moket\n            \n                    ",
+            "date": "2026-06-13",
+            "rating": 3.0,
+            "text_content": "\n                    Encore une fois, même si je ne suis pas trop client du truc, il faut reconnaître que c'est bien produit. L'univers visuel est intéressant même s'il \"vomit\" un peu trop de couleurs, le merveilleux est bien présent mais les chansons sont trop cucul.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1039603622",
+            "author": "\n                            Attigus R. Rosh\n            \n                    ",
+            "date": "2026-06-21",
+            "rating": 2.5,
+            "text_content": "\n                    Wicked II (ou Wicked for Good en version originale) est une suite un peu en-dessous de son prédécesseur (qui déjà était moyen et plein de défaut).",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1039574480",
+            "author": "\n                            AlexLaloix\n            \n                            \n                    ",
+            "date": "2026-06-18",
+            "rating": 3.5,
+            "text_content": "\n                    Après un premier volet réussi, cette seconde partie de \"Wicked\" se révèle un peu moins convaincante. L'histoire se montre moins captivante, les personnages sont moins attachants et le rythme souffre de plusieurs longueurs qui donnent l'impression que le film s'étire inutilement. Heureusement, tout n'est pas à jeter : visuellement, c'est toujours aussi somptueux, les performances du casting restent excellentes, en grande partie grâce au duo Cynthia Erivo et Ariana Grande, et les chansons sont une nouvelle fois de bonne facture. Même si cette suite conserve de belles qualités et quelques moments marquants, elle perd une partie de la magie qui faisait tout l'intérêt du premier film. En résumé, c'est un spectacle qui reste tout à fait correct, mais qui peine à égaler, et encore plus à surpasser, le niveau du précédent opus.",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1039530372",
+            "author": "\n                            gizmo129\n            \n                    ",
+            "date": "2026-06-13",
+            "rating": 2.5,
+            "text_content": "\n                    Après avoir subit un premier épisode de faible facture, nous voilà bien obligé de regarder cette dernière partie de Wicked. Le point positif est que l'histoire prend un peu plus d'importance que les chansons, la contrepartie est qu'aucune chanson ne se démarque et pour une comédie musicale c'est un comble. Ce deuxième volet conclut les intrigues en suspens et fait le lien avec l'histoire originelle de manière assez habile. Wicked reste réservé uniquement aux fans d'Ariana Grande ou de l'histoire du magicien d'Oz, les autres ne sont jamais invités à la fête.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1039304976",
+            "author": "\n                            Kouto\n            \n                    ",
+            "date": "2026-05-17",
+            "rating": 2.0,
+            "text_content": "\n                    Cette seconde partie de l’adaptation de la comédie musicale de Broadway manque autant de rythme que d’inventivité. Le récit aurait clairement gagné à être raccourci et les longueurs se font de ce fait trop ressentir. Même si celui-ci tend à devenir légèrement plus sombre avec son questionnement sur la notion de bien et de mal, le ton demeure bien trop sirupeux. Les numéros musicaux n’ont toujours rien d’enchanteur et se ressemblent beaucoup et surtout la réalisation sclérosée n’est pas très homogène dans l’usage des effets numériques. Ce film comblera surtout les fans de la première partie et laissera sur le côté les autres.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1039070158",
+            "author": "\n                            Bryan _\n            \n                    ",
+            "date": "2026-04-22",
+            "rating": 5.0,
+            "text_content": "\n                    Une fabuleuse seconde partie ! ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1039332051",
+            "author": "\n                            Guillaume.G\n            \n                    ",
+            "date": "2026-05-20",
+            "rating": 4.0,
+            "text_content": "\n                    Wicked : Partie II est une suite des plus sublime qui se passe en parallèle du Magicien D’Oz. ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1039697253",
+            "author": "\n                            Aria Wolf\n            \n                    ",
+            "date": "2026-07-1",
+            "rating": 4.0,
+            "text_content": "\n                    Bien que je trouve les musiques et la réalisation un peu plus marquantes dans le premier opus, ce deuxième volet reste une suite solide qui conclut correctement l’histoire.",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1039777781",
+            "author": "\n                            KitKat\n            \n                    ",
+            "date": "2026-07-10",
+            "rating": 3.5,
+            "text_content": "\n                    C’est pas le film de l’année certes mais je l’ai trouvé cool. Les musiques sont bien, le scénario aussi et le jeu d’acteur est bon. Je crois que je l’ai préféré au premier car celui ci était plus dans le dénouement que dans la présentation.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1039220003",
+            "author": "\n                            AndGae\n            \n                    ",
+            "date": "2026-05-8",
+            "rating": 1.0,
+            "text_content": "\n                    Aussi longué et inintéressant que le premier opus. Le duo d'acteurs est plus porté par leurs noms et anciennes performances que dans le premier et ce deuxième opus.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1039654042",
+            "author": "\n                            Faustine_rchd\n            \n                    ",
+            "date": "2026-06-27",
+            "rating": 2.5,
+            "text_content": "\n                    Second volet de « Wicked » assez décevant. Alors que le premier était beau, cohérent et avec un bon scénario, celui-ci n’est pas à la hauteur. Le film dure plus de 2 heures et pourtant toutes les actions se passent dans la dernière demie-heure du film. La fin est bâclée avec une issue incohérente pour les personnages et la morale étonnante. De plus, certains personnages amenés pendant le film, notamment en référence au Magicien d’Oz, disparaissent soudainement sans que l’on sache ce qui leur arrive.",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1039197893",
+            "author": "\n                            Yoshito\n            \n                    ",
+            "date": "2026-05-5",
+            "rating": 5.0,
+            "text_content": "\n                    Aussi bien que le premier opus ! J'ai adoré les décors, les musiques et le casting de fou ! La fin m'a quand même étonné !\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        }
+    ]
+}

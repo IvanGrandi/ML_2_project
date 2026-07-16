@@ -1,0 +1,572 @@
+{
+    "id": 8672,
+    "name": "Coups de feu dans la Sierra",
+    "release_date": "1962-10-10",
+    "runtime_in_minutes": 94,
+    "genres": [
+        "Action",
+        "Drame",
+        "Western"
+    ],
+    "synopsis": "\n                    Steve Judd, un shérif à la retraite, doit aller chercher l'or d'une communauté de chercheurs et le ramener à la banque qui l'emploie. Il se fait accompagner par son vieil ami Gil Westrum et son jeune protégé Heck. Ceux-ci n'ont accepté le travail que pour s'emparer de l'or. En route, ils sont les hôtes d'un paysan quaker dont la fille Elsa, malgré le refus de son père, se joint à eux pour aller épouser son fiancé Billy au camp de mineurs.\n        \n            ",
+    "reviews": [
+        {
+            "id": "review_43861557",
+            "author": "\n                            Acidus\n            \n                    ",
+            "date": "2014-09-7",
+            "rating": 3.0,
+            "text_content": "\n                    Nettement plus réussi que \"New Mexico\", \"Coups de feu dans la Sierra\" est à la fois le deuxième film de Sam Peckinpah mais aussi son deuxième western. Ce dernier ne présente pas de grosses surprises tant dans le scénario que dans la mise en scène même si on ressent les progrés de son réalisateur. Classique mais sympathique.\n        \n            ",
+            "likes": 2,
+            "dislikes": 0
+        },
+        {
+            "id": "review_13882779",
+            "author": "\n                            tomPSGcinema\n            \n                    ",
+            "date": "2010-07-23",
+            "rating": 3.5,
+            "text_content": "\n                    Coups de feu dans la Sierra est un très bon western de la part de Sam Peckinpah. ",
+            "likes": 1,
+            "dislikes": 1
+        },
+        {
+            "id": "review_51484779",
+            "author": "\n                            Estonius\n            \n                    ",
+            "date": "2016-04-29",
+            "rating": 3.5,
+            "text_content": "\n                    Regrettons d'abord le rôle raté (et ce ne rien de le dire tellement son jeu est exécrable) du jeune cow-boy (qui a d'ailleurs disparu de la circulation), mais aussi le caricaturisme excessif des personnages sinon ça se laisse regarder. McCrea et Scott sont plutôt bons. Et puis quand même cette scène du mariage, il fallait oser !\n        \n            ",
+            "likes": 2,
+            "dislikes": 0
+        },
+        {
+            "id": "review_37394920",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2013-05-19",
+            "rating": 2.5,
+            "text_content": "\n                    Le réalisateur a bien progressé pour son deuxième film. Dans un premier temps on est un peu déçu au niveau du casting, ça joue moyennement heureusement les deux vieux chevaux de retour Scott et Mccrea retrouvent la flamme sur le final.\n        \n            ",
+            "likes": 0,
+            "dislikes": 1
+        },
+        {
+            "id": "review_6715944",
+            "author": "\n                            Kubrick's Club\n            \n                    ",
+            "date": "2010-09-26",
+            "rating": 1.5,
+            "text_content": "\n                    Le dénouement et la morale de l'histoire valent effectivement le détour, mais le film s'attarde beaucoup trop longuement sur l'épisode du mariage sans lendemain. Globalement décevant.\n        \n            ",
+            "likes": 0,
+            "dislikes": 1
+        },
+        {
+            "id": "review_26181552",
+            "author": "\n                            Stewart&cie\n            \n                    ",
+            "date": "2011-07-19",
+            "rating": 4.0,
+            "text_content": "\n                    Magnifique western, très bien joué, quasiment sans temps mort, et dominé par les excellents Joel Macrea et Randolph Scott. Le duel final est superbe et la fin rempli d'émotion. A voir.\n        \n            ",
+            "likes": 0,
+            "dislikes": 1
+        },
+        {
+            "id": "review_49969862",
+            "author": "\n                            this is my movies\n            \n                            \n                    ",
+            "date": "2016-01-22",
+            "rating": 4.5,
+            "text_content": "\n                    S. Peckinpah, après un 1er film mal maîtrisé, décidait de s'affranchir des studios et offrait un duel de légende(s) entre J. McCrea et R. Scott, qu'il sortait de sa retraite par la même occasion. Un film qui contient déjà en son sein toutes les thématiques du cinéaste et qu'il ne cessera d'exploiter par la suite, que ce soit cette nostalgie d'une époque mangée par la modernité, la dualité des personnes, l'appât du gain, ce duel entre la fougue de la jeunesse et la force de l'expérience. Formellement, le film n'a pas encore cette radicalité mais ça n'en reste pas moins splendide avec une lumière naturelle qui sublime tous les plans, des acteurs au top, une façon de filmer la sensualité innocente des femmes qui frappe juste mais aussi quelques préoccupations avant-gardiste (l'écologie !!!). Un western crépusculaire au sens le plus pur de l'expression, avec des paysages automnaux sublimes. C'est du grand et beau cinéma, avec un scénario profond et dense, qui brosse quelques portraits plein de nuances. Les 2 acteurs principaux arrêteront leur carrière peu après, déclarant qu'ils ne pourraient jamais trouver mieux. Peckinpah réalisait ici son film le plus libre, le plus abouti, le plus calme presque et lançait véritablement sa carrière. D'autres critiques sur\n        \n            ",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_23147126",
+            "author": "\n                            stebbins\n            \n                    ",
+            "date": "2011-02-16",
+            "rating": 4.0,
+            "text_content": "\n                    Coups de feu dans la Sierra... Titre pittoresque pour un film qui ne l'est pas moins, éventuels prémices du chef d'oeuvre de Sam Peckinpah : le bien nommé Straw Dogs. Pour son deuxième long métrage le réalisateur s'interroge déjà sur la barbarie humaine et la perte de l'innocence d'une icône de beauté souillée par la violence. En ce sens la séquence du mariage est tout à fait représentative de cette thématique : couleurs criardes des prostituées déguisées en demoiselles d'honneur, montage agressif annonçant l'oeuvre toute entière de Peckinpah, puritanisme bafoué à grands coups de castagnes... Le film est une réussite fonctionnant sur l'instantanéité, davantage efficace même que certains films plus connus du cinéaste ( La Horde Sauvage en tête ) car moins esthétisé, moins distancié que dans ces derniers. Coups de feu dans la Sierra demeure donc une oeuvre d'excellente facture, qui n'a pas encore l'envergure d'une pièce maîtresse mais qui s'en rapproche indiscutablement. Peut-être le film le plus modeste de Sam Peckinpah.\n        \n            ",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_8254190",
+            "author": "\n                            thethythy\n            \n                    ",
+            "date": "2008-05-9",
+            "rating": 4.0,
+            "text_content": "\n                    Sam Peckinpah est connu pour ses réalisations remplies de scènes de violences dont certaines sont restées dans l'histoire du cinéma (comme dans \"La horde sauvage\" ou dans \"Chiens de paille\"). Ici, le réalisateur, alors encore débutant (c'est son second long métrage comme réalisateur), propose un western de facture classique mais dont le propos est fortement teintée de nostalgie. Elle évoque la fin d'une époque, celle du far western. Les héros sont âgés et un peu fatigués. L'automobile fait son apparition dans les rues de terre séchées des villes champignons. Pourtant, si le héros est parfois branlant, il ne perd pas son sens de l'honneur et de ses devoirs qu'il a acquis en affrontant la dure loi de l'ouest sauvage. Ce sens de la justice restera intact et sera même transmis à la génération suivante. L'intrigue, bien qu'assez banale et parfois très convenue, accroche encore grâce à la réalisation serrée de Peckinpah. Le superbe photographie de Lucien Ballard y est également pour quelque chose.\n        \n            ",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1000235315",
+            "author": "\n                            Jack G\n            \n                    ",
+            "date": "2019-08-2",
+            "rating": 2.0,
+            "text_content": "\n                    Deuxième réalisation de Sam Peckinpah après le fiasco de son New Mexico l'année précédente, Coups de feu dans la Sierra montre quelques progrès de la part du cinéaste, mais sans encore atteindre un niveau satisfaisant.",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_3164208",
+            "author": "\n                            Starwealther\n            \n                    ",
+            "date": "2007-06-18",
+            "rating": 1.0,
+            "text_content": "\n                    Ce 2ème western de Peckinpah est loin d’être le plus réussi, je ne l’ai pas trouvé intéressant, l’histoire est très linéaire, trop banale et elle est donc loin d’être passionnante. Le scénario est simple, un ancien shérif a pour but d’aller chercher de l’or dans la Sierra pour ensuite la ramener à la banque qui l’emploie. Pour cela, il engagera un des ses vieux amis mais aussi un garçon plus jeune qu’il choisira pour les accompagner. Sur le chemin de la Sierra, ils s’arrêteront à une ferme et rencontreront une jeune fille dont le père ne lui laisse le droit de ne rien faire. Peckinpah montre ici comment les gens pouvaient vivre à l’époque, le père n’est plus dans la réalité, il ne voit les choses qu’en fonction de la religion. Lui et sa fille vivent comme des bêtes, ils ne voient jamais personne. Cette fille malheureuse toute seule dans sa ferme décidera de les accompagner pour aller épouser son fiancé. Seulement, il ne lui plaira pas vraiment et Peckinpah peindra une société où l’homme a vraiment le dessus sur la femme. Une fois marié la femme ne peut plus se débarrasser de son mari même si elle ne l’aime pas. Un film que j’ai trouvé assez moyen malgré une belle photo de la nature des terres de l’Ouest-américain, mais aussi une musique agréable mais tout à fait classique dans le style western. La fin rattrape le film mais c’est malheureusement un peu tard, la fusillade de fin est bien filmée et les acteurs sont vraiment charismatiques au moment de la scène du face à face. Seulement, j’ai trouvé que ce western manquait de pêche, de mouvement, cette mollesse est assez pénible et limite soporifique. Dommage\n        \n            ",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_21602178",
+            "author": "\n                            ElAurens\n            \n                    ",
+            "date": "2010-10-20",
+            "rating": 3.5,
+            "text_content": "\n                    Deuxième film de Sam Peckinpah et dernier western pour Randolph Scott qui clôture une filmographie bien remplie. Coups de feu dans la Sierra bénéficie de la touche de son réalisateur qui apporte quelque chose d'unique, sans être (très) violent. Ce film marque aussi une transition parfaite entre le western des années 40/50 et celui dit moderne. Jeune réalisateur Peckinpah impressionne déjà derrière la caméra, des superbes plans, la psychologie des personnages ou encore une histoire banale, mais rendue tellement intéressante. Un très bon film.\n        \n            ",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1016481415",
+            "author": "\n                            chrischambers86\n            \n                    ",
+            "date": "2021-08-23",
+            "rating": 4.0,
+            "text_content": "\n                    Le premier grand film de Sam Peckinpah! Formidables de complicitè, Joel McCrea tourne aux côtès de Randolph Scott dans un genre qui a bien vieilli depuis \"Buffalo Bill\" (1944), \"Carson City\" (1952) et consorts! Le temps du Grand Ouest amèricain est rèvolu et nos deux hèros fatiguès n'ont plus vingt ans en puisant dans leurs faiblesses! Le futur rèalisateur de \"The Wild Bunch\" leur fait porter leur âge avec magnificence, les sublime dans l'affrontement final avec les frères Hammond! Peckinpah - comme Leone et David Miller (cf. \"Lonely Are the Brave\") - enterre dèfinitivement le western où le mythe n'a plus sa raison d'être! On serait même tentè de dire que Peckinpah dètruit le genre sans le moindre scrupule! A l'arrivèe, c'est crèpusculaire, amer, touchant et inoubliable, servi par la beautè rousse de Mariette Hartley et la musique splendide de Bassman, l'une des victimes du maccarthisme! Un western majeur...\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1022351626",
+            "author": "\n                            weihnachtsmann\n            \n                            \n                    ",
+            "date": "2022-11-3",
+            "rating": 4.0,
+            "text_content": "\n                    Le héros va s’enquérir de multiples tâches sur le chemin de l’or: sauver une jeune fille, faire du jeune homme un cow-boy honnête, et remettre son ami sur le bon chemin.",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1022802550",
+            "author": "\n                            Redzing\n            \n                            \n                    ",
+            "date": "2022-12-8",
+            "rating": 3.0,
+            "text_content": "\n                    Un ancien shérif, désormais poussiéreux, accepte de convoyer une cargaison d'or à travers une route dangereuse, depuis la mine vers la banque. Sauf qu'il ignore que le danger ne viendra pas des bandits. Mais plutôt de son ami et associé, qui a décidé de récupérer l'or à son compte. Et des mineurs eux-mêmes, avec qui ils s'embrouilleront...",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1002325517",
+            "author": "\n                            Hotinhere\n            \n                    ",
+            "date": "2020-02-9",
+            "rating": 3.5,
+            "text_content": "\n                    Un sublime western crépusculaire et désenchanté dans lequel Sam Peckinpah s'attaque à la mort de l'Ouest et de ses légendes à travers le portrait d'un ancien shérif fatigué.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1016094608",
+            "author": "\n                            Ricco92\n            \n                    ",
+            "date": "2021-07-27",
+            "rating": 4.0,
+            "text_content": "\n                    Les années 60 marquent le déclin du western classique qui avait régné en maître sur le cinéma américain pendant plusieurs décennies. En 1962, Sam Peckinpah illustre cela avec son second long-métrage de cinéma : Coups de feu dans la sierra.",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1022436628",
+            "author": "\n                            mazou31\n            \n                    ",
+            "date": "2022-11-9",
+            "rating": 4.0,
+            "text_content": "\n                    Un film culte, comme on dit, moins par son honnête facture que par sa symbolique d’un western cloturant l’ère glorieuse du western, alors que va sortir les premiers westerns spaghettis qui vont renouveller le genre. Ambiance crépusculaire, avec deux vedettes vieillissantes qui traînent le mythe de l’aventurier de l’Ouest intègre, pas toujours, mais raté et désenchanté. Mise en scène magnifique, décors naturels somptueux, ryhthme lent, clichés d’une autre époque. Tout réussit à en faire un beau film de fin d’époque.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_26147720",
+            "author": "\n                            selenie\n            \n                            \n                    ",
+            "date": "2011-07-17",
+            "rating": 5.0,
+            "text_content": "\n                    Second western de Sam Peckinpah et déjà une très grande réussite. Malgré une encore évidente influence du western classique des années 50 Peckinpah cherche son style. Le face à face McCrea-Scott reste un grand moment de cinéma. Les seconds rôles sont aussi réussis et importants que les deux géants. Paysages et décors particulièrement soignés pour une histoire d'hommes durs face à leurs démons.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_42399120",
+            "author": "\n                            bobmorane63\n            \n                    ",
+            "date": "2014-05-3",
+            "rating": 4.0,
+            "text_content": "\n                    Je crois que c'est le premier film qu'a réalisé Sam Peckinpah en 1962 mais il impose son style de cinéma  un peu dérangeant qui fera sa gloire à l'avenir et le renouveau du Western dit violent !! Je dis dérangeant car la scène du mariage m'a un peu mis mal à l'aise. A part ça, le cinéaste met en scène deux stars du genre vieillissantes, Randolph Scott et Joel Mc Créa, pour une ballade transportant de l'or de la banque accompagné d'un jeune homme et d'une fille d'un fermier qui rève d'aventure mais inconsciente d'un monde masculin hostile. La vraie valeur de l'homme est le thème central de ce long métrage. La nature est belle comme souvent dans les Westerns de même que la musique qui accompagne le film. Randolph Scott et Joel Mc Créa sont excellents dans leurs derniers roles mémorables de même que les acteurs secondaires impeccables. Une œuvre à voir.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_42118797",
+            "author": "\n                            Grouchy\n            \n                    ",
+            "date": "2014-04-10",
+            "rating": 4.0,
+            "text_content": "\n                    Une chose est sûre : les premiers films de Peckinpah sont le véritable contraire de ceux qu'il réalisa après le déclic de la Horde Sauvage ; nous avons affaire dans ce film à un traitement plus classique au niveau de la mise en scène, loin des fusillades au montage spectaculaire et aux personnages proche du grotesque. Néanmoins, le cinéaste évoque déjà les thèmes principaux de son genre favori. Il s'agit du dernier parcours de vieux cow-boys nostalgiques ( Scott et McCrea ), détachés du monde, dans un état obsolète, et très méfiants vis à vis de la jeunesse. Et c'est bien cette jeunesse qui est dénoncée, dans le personnage de Ron Starr et des frères Hammond, plongés dans une illusion de supériorité. L'héroïne doit aussi cacher sa féminité, par les cheveux courts, pour pouvoir mieux se fondre parmi un monde machiste, les autres femmes dans l'histoire n'étant que des prostituées. Le décor n'est plus sublimé par les couleurs des costumes et paysages, mais ce sont bien la crasse et la décrépitude qui s'imposent : les prospecteurs sont littéralement attardés, vicieux et violents, clairement éloignés du pur manichéen. C'est la mélancolie qui est la source du problème dans le film : le père déçu du monde qui ne jure que par la Bible, revenant aux fondements de la moralité humaine, et dans le dernier plan, McCrea regarde une dernière fois les montagnes, symbole de beauté de l'Ouest, geste clairement annonceur du puissant style de Peckinpah, qui participe durant les années 60 à la construction du western crépusculaire.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1011804690",
+            "author": "\n                            onsefaitunetoile\n            \n                    ",
+            "date": "2020-11-30",
+            "rating": 4.0,
+            "text_content": "\n                    Un classique mais qui a tout du western moderne. On passe un moment avec des légendes de l'ouest vieillissantes, qui ont besoin de lunettes, qui ont des rhumatismes, qui ont un code d'honneur que les jeunes ne comprennent pas, un sens de la justice et une droiture qui en fait presque des gentleman cowboy ! Le film est plaisant pour ses décors mais aussi et surtout pour ses comédiens, même si ils n'ont pas la réputations d'un Wayne, ou d'un Stewart, ils restent de sacré acteurs avec une carrière impressionnante. Quant au réalisateur, il signe son second film et entrera dans l'histoire avec ce genre indémodable qu'est le western avec la Horde Sauvage.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_32486352",
+            "author": "\n                            WardStradlater\n            \n                    ",
+            "date": "2012-06-28",
+            "rating": 5.0,
+            "text_content": "\n                    Du très bon Western. Même si certains codes du genre sont bien respectés, Peckinpah sort du lot en glissant dans son film une certaine idée de la morale, un humour noir crédible et parvient ainsi à nous offrir un film multi-couches, très profond, avec pas mal d’interprétations à la clé.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_50277207",
+            "author": "\n                            Dynastar21\n            \n                    ",
+            "date": "2016-01-29",
+            "rating": 3.5,
+            "text_content": "\n                    Pour son deuxième film, Sam Peckinpah nous offre une belle réalisation. Un western de qualité aux paysages somptueux tournés en décors naturels dont les deux rôles principaux sont tenus par deux grands acteurs du cinéma (R.Scott prendra sa retraite avec ce film). Ce long-métrage préfigure l'œuvre de Peckinpah et de ses westerns crépusculaires sur le déclin du grand ouest, ces cow-boys devenus tous aussi mauvais les uns que les autres, la violence omniprésente ou encore la perte des valeurs morales et l’appât du gain (cf. le cowboy Gil Westrum et son apprenti, prêt à trahir son ancien ami - campé par Joel McCrea - pour lui voler les quelques grammes d’or qu’il doit transporter pour le compte d’une banque). Dans celui-ci, on ressent très bien la nostalgie de la \"grande époque\" du western à travers l'histoire de ces deux anciens justiciers fatigués devant faire face à la jeunesse intrépide et malveillante qui ne respecte plus rien, la scène du duel final représentant très bien cette idée. Malgré quelques longueurs dans la première partie, la deuxième, plus rythmée offre plusieurs séquences mémorables. Notamment celle du mariage où l'on reste scotché par cette violence animale de ces mineurs péquenauds et malpropres vis à vis de la jolie campagnarde... Le puritanisme américain y est bafoué par ces prostituées aux couleurs criardes - demoiselles d'honneur-, ce poivrot faisait office de juge et cette violence pour se disputer le \"droit de propriété\" de la jeune femme (considérée comme un bien mobilier). Sam Peckinpah réalise ici un western désabusé, modeste mais efficace, prémisse de ses chefs d'œuvre crépusculaires, notamment la Horde Sauvage ou encore Les Chiens de Paille .\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1031591579",
+            "author": "\n                            chrisbal\n            \n                    ",
+            "date": "2026-06-10",
+            "rating": 3.0,
+            "text_content": "\n                    Ce 2ème film de Sam Peckinpah réunit les 2 excellents acteurs que sont Randolph Scott et Joël McCrea dont les personnages sont liés par une belle complicité, ayant partagé beaucoup de choses dans le passé avant de prendre des chemins différents.",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_23065948",
+            "author": "\n                            🎬 RENGER 📼 Cinéphile Nostal𝙂𝙚𝙚𝙠\n            \n                            \n                    ",
+            "date": "2011-02-10",
+            "rating": 3.0,
+            "text_content": "\n                    Second long-métrage pour Sam Peckinpah qui réalise ici un western conventionnel (en apparence) mais qui a l'originalité de mettre en scène deux antihéros fatigués et vieillissants. Avec un goût prononcé pour la nostalgie, ce western réunit deux grands acteurs Hollywoodiens (Randolph Scott & Joel McCrea). Le film nous offre aussi un tout autre visage du sempiternel western, puisque l'on assiste ici à la mort du far-west, avec ses deux acolytes usés par le temps et un fougueux freluquet à la gâchette facile. Le tout, à travers de superbes décors, sublimés par l'utilisation du CinemaScope.",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_41285652",
+            "author": "\n                            TTNOUGAT\n            \n                            \n                    ",
+            "date": "2014-03-7",
+            "rating": 3.0,
+            "text_content": "\n                    Le titre français aurait dû ajouter ‘’derniers’’ à ‘’coups de feu dans la sierra’’ car c’est vraiment le ton du film. Les deux grands acteurs sont fort bien choisis, ils se ressemblent dans leur jeu le plus souvent  inexpressif. Peckinpath les a un peu bousculés, 63 ans pour Scott et 56 ans pour McCrea, ce sera le dernier film pour le premier et le dernier western important pour le second. Malgré de bonnes idées, ce western ne fait pas partie des grands. Sa première partie est bien trop molle et trop bavarde, l’entrée est grotesque avec Steve Judd et son air totalement ahuri sur un cheval trop petit pour lui, il se fait en plus d’emblée traiter de vieillard. Il faudra attendre l’arrivée à Coarse Gold, village retiré du monde qui vit comme en 1860, pour que le film décolle. Curieusement la mise en scène arrive alors pour remplir l’écran, elle ne cessera de s’améliorer (sauf le zoom, d'un goût douteux, prémonitoire aux films suivants, sur le visage ensanglanté de Joshua Knudsen) pour terminer de façon magistrale. Indiscutablement, il y a du talent chez Peckinpath. Nous ne sommes qu’en 1960, pourquoi a-t-il choisit de trop montrer la crasse, la laideur, le laisser aller et glorifier la violence libératrice dans ses westerns ? Ce genre s’y prête mal, les deux ne peuvent qu’y perdre. Les films de guerre ou d'espionnage lui conviennent  mieux. Dans ‘’Apportez moi la tête d’Alfredo Garcia’’, avec son acteur fétiche Warren Oates, Peckinpath donnera une réponse douloureuse à ses problèmes existentiels. Pour ma part, je crois que sans l’alcool et les drogues, Peckinpath aurait  gagné 25 ans de vie et avec la sagesse de l’âge venu, il nous aurait gratifié de films somptueux.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_21678539",
+            "author": "\n                            benoitparis\n            \n                    ",
+            "date": "2010-10-25",
+            "rating": 3.5,
+            "text_content": "\n                    Sam Peckinpah a ses débuts, qui n’impose pas encore son style et son univers personnel, mais pose déjà des jalons et montre son savoir faire. On est encore loin de la violence déchaînée, hallucinée et stylisée en même temps, des westerns postérieurs. On voit déjà des aventuriers vieillissants, au crépuscule de leur carrière, et de fait, de leur vie. On a aussi un beau personnage de femme s’affranchissant. Il n’y a pas encore d’anti-héros chez Peckinpah mais déjà des personnages complexes et vulnérables et un Ouest réaliste, dont les aspects sordides ne sont pas occultés et qui mérite pleinement l’appellation de soleil couchant : Peckinpah a un talent tout particulier pour évoquer la mort et le tout dernier plan de « Coups de feu dans la sierra » est à cet égard singulièrement émouvant.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_17404176",
+            "author": "\n                            real-disciple\n            \n                    ",
+            "date": "2011-03-4",
+            "rating": 4.5,
+            "text_content": "\n                    Coups de feu dans la Sierra est un des plus beaux westerns. Des paysages magnifiques servie par une belle musique qui fait transparaître la nostalgie sous-jacente, des acteurs exceptionnels (Randolph Scott l'opportuniste qui a des restes de sentiments nobles, Joel McCrea dont l'estime personnelle est forte tout comme sa loyauté, et puis la ravissante Mariette Hartley qui apporte la fraîcheur de la jeunesse tout comme Ron Starr impétueux). Le directeur de la photographie Lucien Ballard a fait un très grand boulot avec ses teintes automnales. Et surtout une fin fabuleuse, qui clôt l'ancien monde des héros du western classique, dernier morceau de bravoure.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_22452743",
+            "author": "\n                            soniadidierkmurgia\n            \n                            \n                    ",
+            "date": "2012-08-11",
+            "rating": 4.0,
+            "text_content": "\n                    Pour son deuxième film (le premier reconnu par l'auteur), Peckinpah montre déjà son obsession du temps qui passe et son goût pour la nostalgie. Ses deux cowboys sur le retour joués par deux acteurs au crépuscule de leur carrière (dernier film pour Randolph Scott et quasi pareil pour McRea) font figure de dinosaures dans une Amérique en pleine mutation. La scène d'ouverture plante d'emblée le décor avec une arrivée au village en trompe l'œil par rapport aux canons traditionnels du western. Le vieux cowboy doit laisser tout d'abord la place à une course d'un autre temps mettant en scène un chameau et ensuite à une automobile futur emblème de la puissance américaine. Randolph Scott lui en est réduit à singer dans une baraque de foire le grand Billy Cody lui-même devenu attraction foraine.  Ces deux là  n'ont plus d'avenir et ce n'est que dans la transmission du savoir et des valeurs qu'ils peuvent espérer exister encore un peu avant de disparaître. Pour ce faire Peckinpah leur a joint un couple de jeunes gens en quête d'identité. C'est cette relation entre les générations qui intéresse Peckinpah plus que l'action proprement dite qui ne sert que de véhicule au propos du réalisateur débutant. Cet apprentissage se fera durement face à la barbarie des chercheurs d'or qui n'ont de foi qu'en la recherche du précieux métal. Au passage Peckinpah aborde furtivement et de manière allusive le thème de l'inceste avec le personnage du père rigoriste de la jeune Elsa (Mariette Hartley). Enfuie de chez elle, elle donnera à  Steve Judd (McRea) l'occasion d'une sortie de piste  honorable et à Gil Westrum (Randolph Scott) la possibilité du rachat à travers la poursuite et l'achèvement de la mission qu'il avait un temps compromise par sa trahison.",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_22369621",
+            "author": "\n                            totoro35\n            \n                    ",
+            "date": "2010-12-18",
+            "rating": 3.0,
+            "text_content": "\n                    Bien avant Sergio Leone, Peckinpah décrivait déjà la lente agonie du vieil ouest avec ce western certes classique mais faussement inoffenssif, profondément mélancolique et désenchanté mais non dénué d'un certain humour.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_2104661",
+            "author": "\n                            platinoch\n            \n                            \n                    ",
+            "date": "2007-03-26",
+            "rating": 5.0,
+            "text_content": "\n                    Un grand classique du western, avec tous les éléments qui ont fait le succès du genre: des personnages stéréotypés comme les deux vieux briscards solitaires forts d'un respect mutuel et d'une amitié virile, le jeune pistoléro un peu chien fou qui découvre la vie et l'amour, et bien sûr, la bande de vilains (très) méchants et idiots prêts à mourrir pour une histoire finalement assez insignifiante (jusque là on est presque dans le schéma de \"Rio bravo\"!).",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_42230488",
+            "author": "\n                            JohanJett\n            \n                    ",
+            "date": "2014-04-20",
+            "rating": 3.0,
+            "text_content": "\n                    Après le désastreux New Mexico qui était son premier film et son premier western,le cinéaste Sam Peckinpah réalisa son second film ,Coups de feu dans la Sierra . ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_22346362",
+            "author": "\n                            Plume231\n            \n                    ",
+            "date": "2010-12-15",
+            "rating": 3.0,
+            "text_content": "\n                    Je préfère le dire dès le début ce western m'a un peu déçu. C'est la réunion de deux monstres sacrés du genre d'un côté, Joel McCrea, qui n'a pas tourné dans un film majeur dans le genre mais qui n'en est pas moins un acteur dôté d'un grand charisme, de l'autre Randolph Scott, qui est surtout célèbre pour sa collaboration dans des séries B avec Budd Boetticher et qui nous gratifie ici d'un phrase pince-sans-rince à chaque fois au bon moment. A voir ces deux noms en-tête de générique, on peut s'attendre à un film crépusculaire et déchirant. Ce n'est pas le cas. Ca suit son bonhomme de chemin à part quelques coups de feu échangés de temps en temps mais presque rien. Donc rien de particulier qui submerge d'émotion à l'horizon. Et cela permet une transition dans le côté Peckinpah de la chose. Car le réalisateur est connu pour son côté très rentre-dedans. Hors rien ici non plus de tout cela à part quelques petits indices qui révèlent les futures bases de son univers comme la bande de frères particulièrement tarée et celui du père bigot complètement fêlé (oui, je sais ma phrase contient un pléonasme). Ce qui veut dire en résumé que niveau western crépusculaire-en-insistant-sur-les-bonnes-vieilles-valeurs-du-genre-et-qui-est-à-deux-doigts-de-tirer-les-larmes John Ford était le BOSS unique et incontestable et que Sam Peckinpah n'était pas super à l'aise sur ses plates-bandes. Ceci dit le film est très loin d'être mauvais, c'est même très honorable, mais cela reste trop classique.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_16794366",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2012-11-15",
+            "rating": 4.5,
+            "text_content": "\n                    Western de très bonne facture, quasi crépusculaire et avec un casting sans aucune tête d'affiche. Les thèmes maintes fois vu dans le genre western mais tout cela tient bien la route grâce à un scénario et dialogues très bien écrit. Pas mal de rebondissements, des fusillades à la Peckinpah, bref un classique.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_585510",
+            "author": "\n                            tietie007\n            \n                    ",
+            "date": "2006-10-27",
+            "rating": 4.0,
+            "text_content": "\n                    Western qui oscille entre le classicisme fordien et un réalisme qui deviendra la marque de fabrique de Peckinpah. Par le choix de deux acteurs vieillissants, Scott et McCrea, le grand Sam rend hommage au western des années 40-50, avec des héros positifs qui mettent l'honneur au dessus de tout ! Mais sous le vernis classique, perce déjà le futur réalisateur qui a chamboulé le western américain. Tourné en décor naturel, ce qui tranche avec l'habitude des studios, les personnages que vont affronter nos deux héros sont assez sordides, cupides et dépravés. Certains scènes, comme celle des poules, allégorie de l'animalité, annoncent le style futur de Peckinpah, réaliste et violent !",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_2092486",
+            "author": "\n                            bobmorane75\n            \n                    ",
+            "date": "2007-03-25",
+            "rating": 5.0,
+            "text_content": "\n                    Un très bon western comme on les aime. Absurde, moraliste à la sauce américaine des années soixante, avec des acteurs excellents, des scènes de bagares et de coups de feu sans tomber dans la démesure. Un juste aperçu de la réalité de ce qu'était le far west. Ce film est un grand moment de bonheur\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_3523143",
+            "author": "\n                            Vixare\n            \n                    ",
+            "date": "2007-07-17",
+            "rating": 4.0,
+            "text_content": "\n                    Coups de Feu dans la sierra est le parfait intermédiaire entre les \"vieux classiques\" et la nouvelle génération de westerns avec les Major Dundee, La Horde sauvage ... Le parfait intermédiaire car en introduisant de nouveaux éléments dans un western regroupant 2 géants du classicisme que sont Randolph Scott et Joel McCrea, Peckinpah annonce les nouveautés, annonce la \"mini révolution\" du western qu'il a l'intention de mener. On retrouve le anti-héros, le \" méchant-bon \" associé ici à un pur héros classique avec le personnage Steve Judd, vieux briscard droit dans ses bottes \"cherchant à mourir la conscience tranquille\". Ainsi le caractère du héros évolue, les lieux aussi avec le mariage dans \"l’hôtel de passe\", la manière de filmer aussi, on s'attarde sur des détails en faisant saliver le téléspectateur, avant la bagarre finale Peckinpah s'attarde par exemple sur la peur des poules ... malgré tout notre grand Sam conserve pas mal d'éléments du western classique pour bien réussir son mélange : le stéréotype du héros avec McCrea, la question de l'honneur : \" J'ai dit on sort ! Et l'honneur de la famille vous en faites quoi ??\", de la nécessité de mourir en héros et à la loyale : \"face à face et à mi-distance\", Peckinpah se régale à notre plus grand plaisir car le tout est très réussi, le début du film peut paraître un peu long mais on se prend vite au jeu. ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_44506772",
+            "author": "\n                            CH1218\n            \n                    ",
+            "date": "2014-11-1",
+            "rating": 3.0,
+            "text_content": "\n                    Souvent considéré comme le premier western moderne d’une nouvelle ère, on est encore loin de la représentation violente et crépusculaire que l’on retrouvera dans les longs métrages que réalisera par la suite Sam Peckinpah. Pour sa deuxième mise en scène, «Coups de Feu dans la Sierra», est plutôt classique mais offre des beaux rôles de cow-boys vieillissants à deux vétérans du genre : Randolph Scott et Joel McCrea. Une histoire convenable, plaisante à suivre, non exempte de quelques longueurs mais plus intense sur la fin.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_3757085",
+            "author": "\n                            loulou451\n            \n                    ",
+            "date": "2007-08-2",
+            "rating": 4.0,
+            "text_content": "\n                    Et si Sam Peckinpah, avant les critiques et le public américain, avait d'abord souffert de son peu de clairvoyance dans le choix de ses titres de film. Ce \"Ride the high country\" n'échappe pas à cette remarque générale… Et quel dommage ! Ce western tourné en 1961, au crépuscule de la grande tradition du western américain, marque un tournant dans le genre. Pas sûr que Sergio Leone ne se soit pas inspiré de celui-ci pour inventer le western spaghetti ! La scène du règlement de compte final où la caméra avance sur les personnages a des accents léoniens. Mis à part cette anecdote, le film vaut surtout par la réalisation brillante de Peckinpah. Les dialogues sont d'une richesse inouïe, alternant tour à tour l'humour, la gravité, la philosophie et la psychologie. Pour sûr, Peckinpah vise juste en réalisant ces \"Coups de feu dans la Sierra\". Dans sa quête des abîmes humains où les consciences se heurtent aux parois pleines d'aspérités du bien et du mal et où germent une fois encore les blés de la violence (la scène du viol est terrifiante !), le réalisateur de Chiens de paille et de La Horde sauvage est aidé par un trio d'acteur éblouissant. Randolph Scott, Joël McCrea et Mariette Hartley sont criants de vérité. Portés par un scénario exceptionnel, leur prestation se hisse vers les sommets. Un très grand western.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_90050",
+            "author": "\n                            Caine78\n            \n                            \n                    ",
+            "date": "2006-09-29",
+            "rating": 4.0,
+            "text_content": "\n                    Un très bon western, marquant la fin du vieil Ouest de manière vibrante et remarquable. Grace à la superbe photo ainsi que la mise en scène toujours très personnelle de Sam Peckinpah, cette oeuvre aux paysages somptueux est un véritable régal, qui éclaire un scénario assez classique. Certaines situations sont vraiment brillantes et la psychologie des personnages très intéréssantes, avec toujours raffinement et brio. De plus, on retrouve deux géants du genre, vieillissants et qui nous marquent particulièrement, chacun dans un registre très différent. A noter la très belle distribution au niveau des seconds rôles, avec notamment les excellents Edgar Buchanan, L.Q. Jones et surtout Warren Oates. Un western original, personnel et brillant. Que demander de mieux?\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_16794442",
+            "author": "\n                            Buzz063\n            \n                    ",
+            "date": "2010-03-4",
+            "rating": 4.0,
+            "text_content": "\n                    Si on laisse de côté New Mexico, parasité par un producteur, Coups de feu dans la Sierra est le premier vrai film de Peckinpah dont les oeuvres sont immediatement reconnaissables. Ainsi bien que l'on y voit certaines figures classiques du western (le juge soudard, la bagarre dans le saloon, le jeune cowboy chien fou), on y trouve aussi des éléments que l'on retrouvera dans ses films ultérieurs. On reconnait le ton crépusculaire qui est caractéristique de ses westerns, la première scène très inhabituelle pour un film de ce genre (une course entre des chevaux, un dromadaire et une voiture, une fine gâchette réduite à travailler dans une foire dans un déguisement ridicule de Buffalo Bill) et les deux anciennes gloires de l'Ouest annoncent dans un sens les porte-flingues de la Horde sauvage. La fusillade finale ressemble d'ailleurs à une version light de l'acte suicidaire de la horde quelques années plus tard. Les cinq frères Hammond et leur façon de \"partager\" une femme rappellent furieusement Les Chiens de paille. La scène finale de la mort de Joel McCrea sera reprise sous forme d'hommage par Sergio Leone avec la mort de Cheyenne dans Il était une fois dans l'Ouest.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_27137078",
+            "author": "\n                            Rik13\n            \n                    ",
+            "date": "2011-09-14",
+            "rating": 3.5,
+            "text_content": "\n                    Western classique, deuxième film de Sam Peckinpah, \"Coups de feu dans la Sierra\" montre l'opposition de deux hommes vieillissant dans la période finale de la ruée vers l'or. Une histoire d'amitié et de passage de témoin à la jeune génération dans l'univers impitoyable de l'ouest américain. Très bonne interprétation de Randolph Scott et Joel McCrea. Un bon western.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_42969018",
+            "author": "\n                            Sid Nitrik\n            \n                    ",
+            "date": "2014-06-28",
+            "rating": 3.0,
+            "text_content": "\n                    Ce deuxième film de Sam Peckinpah témoigne tout d'abord d'une maîtrise technique en nette amélioration par rapport au précédent western du réalisateur. La mise en scène est très correcte et la direction des acteurs bien meilleure. Sur un scénario simple mais efficace, l'américain livre une œuvre profondément nostalgique à travers le périple de deux anciens justiciers fatigués qui acceptent une mission de convoyage d'or. Campés par deux grands spécialistes du genre, Randolph Scott et Joel McCrea, particulièrement bien choisis pour de tels rôles (ce sera le dernier western de Scott), les dialogues tournent autour de la nostalgie du bon vieux temps et préfigurent ainsi une grande partie de l'oeuvre du réalisateur. Si la première partie du film est parfois un peu longuette, la seconde et l'affrontement avec une fratrie de péquenauds miniers retient très bien l'attention et offre quelques fusillades de bonne facture. Un western somme toute assez classique mais qui reste bien prenant.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1015119635",
+            "author": "\n                            James Cocody\n            \n                    ",
+            "date": "2021-05-22",
+            "rating": 4.0,
+            "text_content": "\n                    Avis personnel. Western routinier on ne peut plus classique, avec ses bons et ses moins bons côtés. Deux gloires vieillissantes dans le rôle de durs expérimentés font trio avec un jeunot qu'on \"virilise\" de quelques coups de poing, un transport d'or et les convoitises qu'il engendre, la bonne jeune fille innocente et son papa sentencieux, les vilains garçons qui s'en prennent à la pauvre jeune fille innocente, la bordelière extravertie et ses filles et, bien sûr, les bons vont triompher, les méchants seront punis et on aura même le héros qui aura droit à une fin héroïque. Ce n'est pas \"THE\" western au souffle dévastateur mais les amateurs du genre peuvent y trouver sans surprise ce qu'ils attendent.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_25710635",
+            "author": "\n                            Labouene\n            \n                    ",
+            "date": "2011-06-21",
+            "rating": 5.0,
+            "text_content": "\n                    Magnifique western de Peckinpah, sur le thème de l'amitié trahie et du vieillissement des anciennes gloires de l'Ouest. C'est également un film sur la transmission des valeurs entre les différentes générations, entre les grandes valeurs des anciens et l'impétuosité et l'irrespect du jeune roquet (qui s'en prendra quelques unes pour comprendre...) Ce n'était que le deuxiéme film de Peckinpah après le moins indispensable \"New Mexico\", et déja les prémices d'une grande et belle filmographie (sauf tueur d'élite, tout simplement mauvais...).\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_16795601",
+            "author": "\n                            titusdu59\n            \n                    ",
+            "date": "2010-03-4",
+            "rating": 3.0,
+            "text_content": "\n                    Un western moyen plus, avec de bonnes scènes d'action, et un dénouement final spectaculaire, mais qui pêche en tournant trop autour du personnage féminin, qui, au final, m'a irrité.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1023500024",
+            "author": "\n                            White Fingers\n            \n                    ",
+            "date": "2023-01-19",
+            "rating": 3.0,
+            "text_content": "\n                    Encore un film crépusculaire qui met en scène deux acteurs accoutumés des westerns (séries B) : Randolf Scott et Joel MacCrea. Le démarrage du film est un peu laborieux mais il va trouver sa pleine puissance quand les deux protagonistes vont se trouver confrontés à la mine ouverte à une bande de frères qui préfigurent ce que seront les salauds des films « spaghettis » : crasse, veulerie, perversité, vice… Dans un univers de brutes épaisses et de pervers, la jeune oie blanche, Mariette Hartley, est une proie bien facile pour les frères Hammond. Du père tyrannique et fanatique, elle passe à la fratrie déviante. Son prétendant n’est autre qu’un des acteurs principaux de la série western culte « Le Virginien ». Le final est assez réussi avec un épilogue tragique et spectaculaire. Un bon film, un peu inégal, noir par moment, avec des personnages ayant presque tous leur part d’ombre, mais qui se termine avec brio et panache (... avec qui ?).",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_27234510",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2011-09-23",
+            "rating": 4.0,
+            "text_content": "\n                    Du grand Peckinpah… Voilà un gigantesque deuxième film dont l’idée peut sembler simpliste mais qui en fait révèle une capacité inouïe à intégrer une multitude de thèmes dans une histoire d’apparence banale. Le scénario fût étoffé par Penkinpah lui-même car il le trouvait fade et que les producteurs se moquaient de son sort. Il diffère ainsi du western traditionnel car touche à plusieurs thèmes : une amitié, une trahison, l’opposition jeunesse intrépide et vieillesse expérimentée, le triste sort des mineurs souvent alcooliques, les mariages impossibles et arrangés... Le tournage n’a duré que 26 jours et ce style direct allant à l’essentiel n’est pas du tout préjudiciable. 1h30 de rythme intense où les rebondissements se suivent sans jamais laisser de temps morts. Les décors changent quasiment tout le temps (un western en décor naturel, quelle joie !) des vastes plaines aux lacs d’altitude en passant par les cités minières. Randolph Scott (ex-Shérif Judd, réelle tête d’affiche) et John McCrea (Gil Westrum qui a mal tourné) ont des rôles tout à fait interchangeables et ce fût d’ailleurs le cas à cause d’une discorde, le duo se cherche et se repousse formidablement. Ron Starr, parfait inconnu, joue le jeunot aventurier et impulsif tandis que Mariette Hartley qui participe au premier film de sa carrière est merveilleuse, le genre lui va bien. On est clairement dans un modernisme tout à fait propre à Peckinpah très distinct des grandes épopées fordiennes. L’héroïsme n’est plus représenté par des vieux roublards  en ayant vu des tonnes mais par une jeunesse désabusée. Même si les trois compères risquent gros (leur vie) pour peu (11486$ au lieu du quart de million prévu), il n’empêche qu’après le mariage qui dégénère, un deuxième choc arrive avec la tentative de vol (désespérée) des deux aidants. Tout cela ajoute à la noirceur dans laquelle évolue les personnages tout en contrastant avec les décors lumineux n’inspirant que calme et bien-être. Pour conclure, le final est vraiment impressionnant, on est tout près et même carrément dans le western épique avec un dernier règlement de compte à colts tirés et dans les règles de l’art. Quelle aventure originale et rythmée ! A voir assurément en premier si l’on veut connaître l’œuvre de Sam Peckinpah.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_35169138",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2013-01-15",
+            "rating": 4.5,
+            "text_content": "\n                    (VIDEO) Pas de faute de mise en scène. Pas d'erreur grossière de scénario - la récupération du cheval par Randolph Scott pourrait être une petite facilité. Interprétation incontestable. Décors grandioses. C'est violent. C'est intense. C'est beau ! C'est beau ! C'est beau !\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_2055489",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2007-03-21",
+            "rating": 0.5,
+            "text_content": "\n                    je n'ais pas aimer se film desoler pour se qui aime bien se film mais je le trouve vraiment nul j'ai était vraiment deçu\n        \n            ",
+            "likes": 1,
+            "dislikes": 2
+        },
+        {
+            "id": "review_1030763179",
+            "author": "\n                            Tietie007\n            \n                    ",
+            "date": "2024-05-28",
+            "rating": 3.0,
+            "text_content": "\n                    Un film atypique pour Peckinpah, loin de ce qu'il fera après. Un western nostalgique d'une certaine époque, mettant en scène de vieux acteurs comme McCrea et Randolph Scott, tourné dans des décors naturels.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_31461092",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2012-05-22",
+            "rating": 5.0,
+            "text_content": "\n                    Un excellent western avec deux grosses pointures du genre ! Coups de feu dans la sierra c'est 90 minutes de bonheur !\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1031641157",
+            "author": "\n                            Seb De Niro \n            \n                    ",
+            "date": "2024-08-12",
+            "rating": 3.5,
+            "text_content": "\n                    2ème film de Peckinpah (et co-écrit), il s'agit d'un western tourné dans les montagnes californiennes.",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_58406759",
+            "author": "\n                            babidi\n            \n                    ",
+            "date": "2018-02-18",
+            "rating": 4.0,
+            "text_content": "\n                    un très bon western de sam peckinpah ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_217224",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2006-09-29",
+            "rating": 5.0,
+            "text_content": "\n                    Ce western est une gigantesque démonstration du talent de Peckinpah, cinéaste atypique qui signe ici son plus beau film. Totalement contrôlé, celui-ci est instantanément magnifique dès ses premières minutes. Automnal et crépusculaire, une oeuvre forte et importante.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_44906896",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2014-12-3",
+            "rating": 4.5,
+            "text_content": "\n                    voici un excellent western crépusculaire, qui annonce une décennie d'oeuvres du même acabit, et de nombreux chef d'oeuvres. les acteurs sont formidables, et les péripéties nombreuses. courez y.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_3355029",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2007-07-4",
+            "rating": 2.5,
+            "text_content": "\n                    Voilà un western sympathique, parfois drôle et qui, en prime, met en scène plutôt habilement le thème de la vieillesse, assez rarement abordé. Même si les personnages manquent tout de même d'originalité, un film tout à fait correct.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_42894767",
+            "author": "\n                            Moon In June\n            \n                    ",
+            "date": "2014-06-17",
+            "rating": 3.5,
+            "text_content": "\n                    Sympathique, mais un peu classique et pépère. On est loin de la subversion des prochains Peckinpah.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1637893",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2007-02-5",
+            "rating": 5.0,
+            "text_content": "\n                    D'une quasi-perfection d'écriture et de mise en scène, ce film est un des plus beaux westerns des années soixante, tant du point de vue de la somptuosité des images que de celui de l'atmosphère élégiaque qui s'en dégage. Une oeuvre nostalgique et automnale qui évoque la vieillesse désenchantée de ces 2 gunfighters avec une justesse poignante. L'auteur de La Horde Sauvage entame avec ce chef-d'oeuvre sa grande saga des \"losers\".\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_13764307",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2009-05-9",
+            "rating": 2.5,
+            "text_content": "\n                    Un bon western ne m'ayant pas enthousiasmé, un fin mi figue mi raisin toutefois je conserve ce film de Peckinpah.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_26480959",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2011-08-6",
+            "rating": 4.0,
+            "text_content": "\n                    C'est plutôt réussi comme début de carrière! Avec Coups de feu dans la Sierra,  Peckinpah réalise un western percutant. Ce n'est pas un chef d'oeuvre c'est vrai, mais il faut reconnaître que c'est bien fait! La mise en scène est de facture classique, rien de révolutionnaire , ce qui d'ailleurs prouve que le jeune réalisateur maîtrise parfaitement son art.",
+            "likes": 0,
+            "dislikes": 0
+        }
+    ]
+}

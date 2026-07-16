@@ -1,0 +1,841 @@
+{
+    "id": 8164,
+    "name": "Le Syndicat du crime",
+    "release_date": "1993-07-21",
+    "runtime_in_minutes": 95,
+    "genres": [
+        "Action",
+        "Drame"
+    ],
+    "synopsis": "\n                    Sung Tse Ho et Mark Gor deux seigneurs de la mafia à Hong Kong, coulent des jours heureux sous les ordres d'un parrain vieillissant. Tout irait pour le mieux si Ho n'avait un frère cadet qui a choisi de faire carrière dans la police.\n        \n            ",
+    "reviews": [
+        {
+            "id": "review_9091856",
+            "author": "\n                            moket\n            \n                    ",
+            "date": "2019-02-6",
+            "rating": 5.0,
+            "text_content": "\n                    Un excellent polar à la sauce John Woo : c'est à dire action et gunfights à volonté. Si les gunfights ne sont pas si nombreux, ils sont en revanche d'une maîtrise magistrale. Le scénario est assez classique: mafia, vengeance et une forte amitié. Les acteurs sont excellents : Chow Yun Fat crève l'écran et irradie le film de sa présence charismatique. Certaines scènes sont complètement cultes !\n        \n            ",
+            "likes": 4,
+            "dislikes": 1
+        },
+        {
+            "id": "review_23545192",
+            "author": "\n                            Stewart&cie\n            \n                    ",
+            "date": "2016-01-9",
+            "rating": 4.5,
+            "text_content": "\n                    Absolument grandiose, sans aucune hésitation mon John Woo préféré.",
+            "likes": 4,
+            "dislikes": 1
+        },
+        {
+            "id": "review_13226483",
+            "author": "\n                            gimliamideselfes\n            \n                            \n                    ",
+            "date": "2009-04-7",
+            "rating": 4.0,
+            "text_content": "\n                    J'avoue avoir lâché le film après la première demi heure, ça ne me passionnait pas, mais la scène finale m'a scotché… John Woo a du talent pour sûr. Même si je préfère pour l'instant son dernier film (3 royaumes) où j'ai été pris de bout en bout. Je compte revoir ce syndicat du crime car la fusillade finale m'a vraiment donné envie, elle ne vaut peut-être pas celle de Exiled de To, mais tout de même. Quel sens du rythme. Il n'empêche que malgré tout les acteurs sont convainquant, l'histoire pas trop mauvaise. Il me faut je pense un seconde visionnage.\n        \n            ",
+            "likes": 2,
+            "dislikes": 1
+        },
+        {
+            "id": "review_10062148",
+            "author": "\n                            EricDebarnot\n            \n                    ",
+            "date": "2008-08-31",
+            "rating": 2.5,
+            "text_content": "\n                    Enfin édité dans une version correcte en DVD, \"le Syndicat du Crime\" commence par nous offrir un retour dans le passé des plus refroidissant : post-synchronisation ridicule typique du film de série B de Hong Kong de l'époque, manque de crédibilité totale de l'interprétation, long tunnel d'introduction massacré par des intermèdes comiques (l'humour chinois n'est JAMAIS drôle, ne l'oublions pas), on commence par se demander comment on a pu s'intéresser à un tel naveton. Et puis la machinerie mélodramatique de Woo se met en marche, implacablement, entre gun fights délirants - pas encore assez conceptuels sans doute, s'accrochant encore trop à un certain réalisme - en scènes d'amour entre hommes (la famille, les amis avant tout le reste...), et on se retrouve in extremis passionnés à nouveau par ce cinéma outrancier et finalement d'une belle générosité dans sa noirceur.\n        \n            ",
+            "likes": 3,
+            "dislikes": 0
+        },
+        {
+            "id": "review_39304682",
+            "author": "\n                            Redzing\n            \n                            \n                    ",
+            "date": "2025-10-23",
+            "rating": 3.5,
+            "text_content": "\n                    Il faut reconnaître que John Woo a été bien patient avant d'imposer son style ! L'homme débute sa carrière de réalisateur en 1974, âgé de moins de 30 ans, chose extrêmement rare à Hong Kong. Où le milieu du cinéma reste fermé, et les réalisateurs plutôt âgés.",
+            "likes": 3,
+            "dislikes": 2
+        },
+        {
+            "id": "review_9035937",
+            "author": "\n                            Akamaru\n            \n                    ",
+            "date": "2010-07-21",
+            "rating": 3.0,
+            "text_content": "\n                    Le précurseur de tous les polars hong-kongais réalisés depuis 1986.Et donc à ce titre,un peu d'indulgence est nécessaire si l'on pense que ce gangster-movie est peu original ou kitsch.C'est un mythe dans le genre.Point.John Woo nous gratifie déja de ces fameux ballets aériens et de sa caméra nerveuse.Hong-Kong sert de toile de fond lors de l'affrontement entre 2 petites frappes et une triade,le tout arbitré par la police.Chow-Yun-Fat fait un numéro sensationnel,et lance complètement sa carrière internationale.Très typé 80's,le film se déguste comme tel.Sous ses dehors fun,\"Le syndicat du crime\"parle des relations fraternelles,amicales,de la dignité,de l'honneur,et de l'impossibilité d'échapper à son destin.Shakespearien.\n        \n            ",
+            "likes": 2,
+            "dislikes": 2
+        },
+        {
+            "id": "review_57198452",
+            "author": "\n                            pierrre s.\n            \n                            \n                    ",
+            "date": "2020-09-18",
+            "rating": 2.5,
+            "text_content": "\n                    Le premier polar de John Woo n'est pas son meilleur. Le début est plombé par des petites scènes humoristiques qui ne fonctionnent pas, et globalement on met du temps à entrer dans l'histoire. Mais petit à petit, tout se met en place, et le style du réalisateur de The Killer apparaît. S'enchainent alors guns-fights et grosses scènes d'actions pour notre plus grand plaisir.\n        \n            ",
+            "likes": 1,
+            "dislikes": 1
+        },
+        {
+            "id": "review_1000902497",
+            "author": "\n                            Dik ap Prale\n            \n                            \n                    ",
+            "date": "2019-10-21",
+            "rating": 4.0,
+            "text_content": "\n                    L'heroic bloodshed naîtra de ce bijou venu de Honk-Kong. A l'époque, Tsui Hark convainc John Woo de lâcher ses comédies pour mettre en scène A Better Tomorrow, premier du nom. Face au succès public deux films suivont dont un préquel écrit par Woo, mais malheureusement réalisé par Hark après leur différents, sur la base du scénario d'Une Balle Dans La Tête, plus tard mis en scène comme il se devait. Ding Sheng a récemment réalisé le remake officiel Honk-Kongais, peu référencé et peu recommandable par ailleurs. Non soutenu par Woo pour avoir déjà officialisé son propre remake Coréen, en 2010, cet épisode plus récent de 2018 garde tous les patos de la version d'origine sans jamais retrouver son élégance.\n        \n            ",
+            "likes": 1,
+            "dislikes": 1
+        },
+        {
+            "id": "review_1008547025",
+            "author": "\n                            Rourkewhite\n            \n                    ",
+            "date": "2020-07-6",
+            "rating": 2.5,
+            "text_content": "\n                    Le temps ne pardonne pas ce type de productions qui vieillit mal et finit par ressembler étrangement à une auto-parodie... Pas exempt de qualités, notamment sur un effort dramatique considérable consenti sur l'action pure, le film a marqué son époque et doit encore faire plaisir aux nostalgiques mais les autres passeront leur chemin risquant de ne retenir que l'aspect caricatural de l'ensemble.\n        \n            ",
+            "likes": 1,
+            "dislikes": 1
+        },
+        {
+            "id": "review_33046006",
+            "author": "\n                            Acidus\n            \n                    ",
+            "date": "2012-08-8",
+            "rating": 3.5,
+            "text_content": "\n                    Bon polar signé John Woo dont les points positifs (bonnes scènes d'action, bons acteurs, quelques bonnes idées dans la mise en scène) l'emportent sur les points négatifs ( film assez kitsch avec des passages complètement tirés par les cheveux). En bref, c'est simple mais bougrement efficace.\n        \n            ",
+            "likes": 1,
+            "dislikes": 1
+        },
+        {
+            "id": "review_21002975",
+            "author": "\n                            carbone144\n            \n                    ",
+            "date": "2010-09-5",
+            "rating": 3.5,
+            "text_content": "\n                    Cours, simple et bien fait, prenant et sans temps morts. De quoi faire un excellent divertissement. J'ai adoré la BO.\n        \n            ",
+            "likes": 1,
+            "dislikes": 1
+        },
+        {
+            "id": "review_26583162",
+            "author": "\n                            softy76\n            \n                    ",
+            "date": "2011-08-11",
+            "rating": 3.0,
+            "text_content": "\n                    Le meilleur film de j woo avec \"une balle dans la tête\"!!tout ce qui fait  son cinéma est déjà en place(fraternité,amitié,loyauté,trahison,bravoure,violence et gunfight)L'interprétation de chow yun fat en \"marc\" est énorme!!!\n        \n            ",
+            "likes": 1,
+            "dislikes": 1
+        },
+        {
+            "id": "review_12092630",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2009-10-30",
+            "rating": 5.0,
+            "text_content": "\n                    Quel excellent film réalisé par le grand John Woo. Ce dernier a fait confiance à 4 bons acteurs : Ti Lung, un célèbre acteur de film de Kung Fu, Chow Yun Fat, un comédien charismatique, Leslie Cheung, un jeune beau gosse et Waise Lee qui fait ses débuts dans le monde du cinéma. Le scénario est assez bien.  Les gunfights et les scènes dramatiques sont les points forts de ce chef d'œuvre. ",
+            "likes": 2,
+            "dislikes": 0
+        },
+        {
+            "id": "review_41958530",
+            "author": "\n                            LeLobo\n            \n                    ",
+            "date": "2014-03-27",
+            "rating": 3.5,
+            "text_content": "\n                    Tous les films \"le syndicat du crime\" sont super cools, avec du hong-kong gunfight. Je crois que les 3 opus contiennent une scène terminale de pure boucherie, où ça se flingue non stop à bout portant pendant une demi heure, comme s'il y avait un réservoir inépuisables de badguys.\n        \n            ",
+            "likes": 1,
+            "dislikes": 2
+        },
+        {
+            "id": "review_20442338",
+            "author": "\n                            AMCHI\n            \n                            \n                    ",
+            "date": "2010-08-15",
+            "rating": 3.0,
+            "text_content": "\n                    Je crois que c'est ce polar qui alla lancer la mode en Asie en tout cas si Le Syndicat du crime n'est pas un chef-d'oeuvre il n'en reste pas moins un polar rudement efficace qui exalte l'amitié avec une ambiance assez mélancolique ponctuée de fusillades grandioses et ne lésinant pas sur la violence. A découvrir.\n        \n            ",
+            "likes": 1,
+            "dislikes": 5
+        },
+        {
+            "id": "review_61021699",
+            "author": "\n                            Santu2b\n            \n                            \n                    ",
+            "date": "2018-11-22",
+            "rating": 4.0,
+            "text_content": "\n                    Au milieu des années 1980, John Woo a déjà signé une bonne dizaine de films ; essentiellement des comédies alimentaires qu'il n'a cessé de renier. Alors qu'il est sur le point d'arrêter sa carrière, il fait la rencontre déterminante de Tsui Hark qui lui propose de mettre en scène la film dont il rêve : un polar dans l'esprit du \"Samouraï\". \"Le syndicat du crime\" constitue un tournant décisif dans la carrière du cinéaste et incontestablement son premier grand film. Celui où se déroule une autre rencontre importante avec le grand Chow Yun Fat, ici halluciné. Toujours sous sa houlette, l'oeuvre comporte d'ores et déjà sa scène cultissime (en l’occurrence celle des pots de fleurs) ; habitude que Woo donnera à chacun de ses opus. Ce n'est peut-être pas le film le plus abouti de son auteur au niveau du style mais on ne peut que frémir d'impatience à l'idée de voir la suite.\n        \n            ",
+            "likes": 0,
+            "dislikes": 1
+        },
+        {
+            "id": "review_22853130",
+            "author": "\n                            Yetcha\n            \n                            \n                    ",
+            "date": "2011-01-25",
+            "rating": 4.5,
+            "text_content": "\n                    Ce John Woo n'a rien perdu de sa force. Les chassés-croisés, les destins brisés, les amitiés changeantes et celles qui sont indéfectibles, les gunfight etc etc... Devenu un classique du genre, il reste une référence et un excellent film même tant d'années après sa réalisation. Du vrai John Woo!!!\n        \n            ",
+            "likes": 0,
+            "dislikes": 1
+        },
+        {
+            "id": "review_47649072",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2017-12-15",
+            "rating": 3.5,
+            "text_content": "\n                    S'il accuse son age avec sa narration lapidaire, son jeu d'acteur complètement exagéré qui nécessite une certaine indulgence culturelle, et son aspect technique douteux (son crachotant, image flou...), A Better Tomorrow représente également l'un des films les plus marquants de son époque. John Woo et ses accolytes (Tsui Hark notamment) frappent au coeur avec cette histoire de triade, parsemée de scènes ultra-puissantes, et de fusillades spectaculaires et jouissives qui ont fait la réputation du réalisateur. Le quatuor d'acteur principal donne une véritable lecon de charisme, en particulier Ti Lung et Chow Yun-Fat. En ce qui me concerne, j'adore !\n        \n            ",
+            "likes": 0,
+            "dislikes": 1
+        },
+        {
+            "id": "review_23361268",
+            "author": "\n                            this is my movies\n            \n                            \n                    ",
+            "date": "2016-12-25",
+            "rating": 4.5,
+            "text_content": "\n                    C'est le film qui a révélé J. Woo à HK et un peu plus tard sur la scène internationale. Car si le film a pété plusieurs records sur son sol, il faudra un peu plus longtemps en France avant de le découvrir. Film de gangsters qui contient tous les thèmes et les tics de mise en scène du spécialiste du cinéma d'action, le scénario est également très travaillé, traitant du passage de témoins entre différentes générations de criminels, décrivant une ville violente, gangréné par des gangs et développant des personnages attachants. Mise en scène impeccable, acteurs au top, thème musical obsédant bref c'est une référence du genre.\n        \n            ",
+            "likes": 0,
+            "dislikes": 1
+        },
+        {
+            "id": "review_13288522",
+            "author": "\n                            lhomme-grenouille\n            \n                            \n                    ",
+            "date": "2014-01-3",
+            "rating": 4.0,
+            "text_content": "\n                    L’un des films dans lequel le duo John Woo-Chow Yun-Fat brille de mille feux. Pour moi, ce film dispose vraiment de tous les avantages de la meilleure période du cinéma de Woo :nerveux, plein d’ampleur et avec sa dose de drame… Personnellement, j’adore…\n        \n            ",
+            "likes": 0,
+            "dislikes": 1
+        },
+        {
+            "id": "review_40097614",
+            "author": "\n                            sword-man\n            \n                    ",
+            "date": "2013-12-4",
+            "rating": 4.5,
+            "text_content": "\n                    Après avoir réalisé une dizaine de films dont il n'est pas vraiment fiers, John Woo fait la rencontre de Tsui Hark, qui accepte de produire le film dont rêve John Woo. Le résultat est un polar, genre peu en vogue à Hong Kong à l'époque, le style est du pur Woo, tant dans ses thèmes que sa mise en scène et sa chorépraphie de la violence et c'est un carton en Chine. \"Le syndicat du crime\" ou \"A better tomorrow\" impose le style de John Woo: redemption, amitié masculine, trahison, gunfight ultra chorégraphié et baroque. Les enjeux du scénario sont fort émotionnellement et donne plus d'éclat aux brillantes scènes d'action. Un pur plaisir de cinéma jubilatoire avec un Chow Yun Fat trop classe, et un Ti Lung que l'on a plaisir a revoir.\n        \n            ",
+            "likes": 0,
+            "dislikes": 1
+        },
+        {
+            "id": "review_56481153",
+            "author": "\n                            Benjamin A\n            \n                            \n                    ",
+            "date": "2017-08-12",
+            "rating": 3.5,
+            "text_content": "\n                    John Woo a déjà une carrière de plus de dix ans lorsqu'il met en scène Le Syndicat du Crime en 1986, où il évoque l'histoire de deux frères, l'un dans la police et l'autre dans la pègre, qui va accepter une dernière mission avant de se ranger.",
+            "likes": 0,
+            "dislikes": 1
+        },
+        {
+            "id": "review_10508286",
+            "author": "\n                            stebbins\n            \n                    ",
+            "date": "2008-10-6",
+            "rating": 5.0,
+            "text_content": "\n                    Coup de coeur ! Incroyable de voir la manière dont John Woo s'approprie un genre sans le détruire. Un polar crépusculaire sublimé par des séquences de gunfights époustouflantes. Tout frise la perfection : la mise en scène, la musique ( très datée, mais en parfaite harmonie avec les images ), le traitement des trois personnages ( Kit le bon, Mark la brute, Ho le truand ) le scénario ( richesse psychologique et dénouement percutant, bouleversant...), les éclairages flamboyants... Le Syndicat du Crime figure sans nul doute parmi les meilleurs films HK des années 80 : Chow Yuen Fat est charismatique en estropié frivole, Leslie Cheung est émouvant en frère ingrat. Chaque personnage à son épaisseur car John Woo ne sombre jamais dans le manichéisme ( on parvient même à comprendre Shing ). Le réalisateur HK parvient à alterner règlements de compte, scènes d'action et désordre relationnel avec un style purement efficace. A Better Tomorrow est donc un coup de maître, un véritable chef d'oeuvre du cinéma . Une leçon d'esthétisme.\n        \n            ",
+            "likes": 0,
+            "dislikes": 1
+        },
+        {
+            "id": "review_13865683",
+            "author": "\n                            dahbou\n            \n                    ",
+            "date": "2009-05-16",
+            "rating": 5.0,
+            "text_content": "\n                    John Woo posait les bases de son propre mythe avec le premier volet d'une série desormais légenaire où l'on retrouve toute les bases de son cinéma c'est à dire gangster, gunfight,amitié indéstructible, honneur, redemption et affrontement chevalresque et oui rien que ça.Bref un classique qui mit son temps à être reconnu en France et qui fit de Chow Yun Fat une star transcendé par 2 scènes celle ou il brule un billet à la Gainsbourg et une autre avec un gunfight vengeur.\n        \n            ",
+            "likes": 0,
+            "dislikes": 1
+        },
+        {
+            "id": "review_12971163",
+            "author": "\n                            NicoMyers\n            \n                    ",
+            "date": "2009-03-21",
+            "rating": 2.5,
+            "text_content": "\n                    Pur divertissement que ce Syndicat du crime, dans lequel John Woo conjugue le bon et le moins bon. Pour le moins bon, usage intensif d’une musique sirupeuse, humour bas du front et réactions prévisibles, genre virilité exacerbée, honneur bafoué… Pour le mieux, une mise en scène inspirée et vive, peut-être influencée par Scorsese ou Tarantinesque avant l’heure, et une violence hyper stylisée de laquelle Woo tire le sens du film. A chaque fois que celle-ci apparaît, elle bouleverse les personnages et leurs buts. Une première fois, elle donne à Kit le désir ardent de se venger de son frère ; une seconde fois, elle est témoin de la dévotion de ce même frère. Elle est rarement gratuite, puisqu’elle provoque chaque rebondissement, elle change la situation au fur et à mesure du film – vision d’une société qui gangrenée par la mafia et le meurtre. Morale plutôt anti-capitaliste dans une Chine qui n’a plus rien de communiste : il faut parfois accepter d’être simple flic ou vendeur de voiture, et laisser le pouvoir ou l’argent aux tueurs les plus (im)pitoyables.\n        \n            ",
+            "likes": 0,
+            "dislikes": 1
+        },
+        {
+            "id": "review_8595786",
+            "author": "\n                            orlandolove\n            \n                            \n                    ",
+            "date": "2010-07-26",
+            "rating": 2.0,
+            "text_content": "\n                    Premier acte imparfait de la trilogie \"Syndicat du crime\" du grand John Wu. Certes les fusillades sont très bien filmées, mais derrière l'histoire et la direction d'acteur ne suivent pas toujours. Prometteur pour le numéro 2...\n        \n            ",
+            "likes": 0,
+            "dislikes": 1
+        },
+        {
+            "id": "review_16948677",
+            "author": "\n                            bolt\n            \n                    ",
+            "date": "2010-03-28",
+            "rating": 5.0,
+            "text_content": "\n                    Excellent film. Du grand art.  Le scénario est accrocheur. Et l’action omniprésente. Un must à voir absolument. Le meilleur des trois épisodes.\n        \n            ",
+            "likes": 0,
+            "dislikes": 1
+        },
+        {
+            "id": "review_9953663",
+            "author": "\n                            Julien D\n            \n                            \n                    ",
+            "date": "2012-09-1",
+            "rating": 4.0,
+            "text_content": "\n                    Grâce à ce film, John Woo et Tsui Hark ont littéralement révolutionné le cinéma hongkongais. Alors qu’il n’y était jusque là produit que des comédies et des films d’arts martiaux, les deux cinéastes ont pu user de leur influence pour réaliser un polar au style visuel très léché, où se mêlent habilement de magnifiques scènes d’action, ne ressemblant pas aux chorégraphies de combats conventionnels, et une magnifique relation fraternelle comme on n'en voit que trop rarement dans les films de mafieux, aux antipodes du stéréotype manichéen jusque là récurent dans le cinéma chinois. Et c'est sans parler de l'interprétation magistrale de Chow Yun Fat dans le rôle de l'un des gangsters les plus cool de l'histoire du cinéma dont le style et le style inspira un grand nombre de réalisateurs, à commencer par Tarantino dans son \"Reservoir dogs\". Enfin bref, c'est une petite perle du genre, dont l'influence sur le cinéma asiatique est similaire à ce que \"Le parrain\" fut au nouvel Hollywood!\n        \n            ",
+            "likes": 0,
+            "dislikes": 1
+        },
+        {
+            "id": "review_15315103",
+            "author": "\n                            obalone\n            \n                    ",
+            "date": "2009-08-31",
+            "rating": 4.0,
+            "text_content": "\n                    Une bonne surprise avec un excellent Chow Yun-Fat. l'histoire est intéressante et la fin osé.\n        \n            ",
+            "likes": 0,
+            "dislikes": 1
+        },
+        {
+            "id": "review_16892087",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2010-03-20",
+            "rating": 4.5,
+            "text_content": "\n                    La version française est pas terrible, mais sinon bon film.\n        \n            ",
+            "likes": 0,
+            "dislikes": 1
+        },
+        {
+            "id": "review_13351006",
+            "author": "\n                            Julien D\n            \n                    ",
+            "date": "2009-04-14",
+            "rating": 4.0,
+            "text_content": "\n                    Y a rien à dire, c'est du très grand polar chinois. On y trouve tous les thèmes chers à John Woo (conflits entre frères, amitié éternelle, loyauté, violence, romance...) et sa mise en scène unique (gunfights de légende, ralentis, sens du cadre...). Son style s'améliorera avec ses films suivants, mais tout est déjà là, en 1986, et le cinéma d'action ne sera plus jamais le même...\n        \n            ",
+            "likes": 0,
+            "dislikes": 1
+        },
+        {
+            "id": "review_1001190726",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2019-11-18",
+            "rating": 4.5,
+            "text_content": "\n                    John Woo est décidément le maître des films d'actions hong-kongais, celui là contrairement aux autres ne se focalise pas que sur l'action mais aussi sur l'intrigue et les enjeux des personnages entre eux, mais bien sur on arrive pas jusqu'à la fin avec John Woo sans que ça castagne de partout avec des armes à feux, et que ça règle ses comptes en se tirant dessus de partout !",
+            "likes": 0,
+            "dislikes": 1
+        },
+        {
+            "id": "review_48612547",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2015-09-17",
+            "rating": 3.0,
+            "text_content": "\n                    Bon,c'est un film qui vieillit assez mal : les bruitages, les raccords, le doublage... Tout vieillit mais pas bien du tout. Ce n'est pas le meilleur de Woo, clairement. Mais bon, Woo reste Woo, et malgré quelques longueurs, on a un scénario qui tient la route et des gunfights jouissifs qui relèvent clairement le niveau (et Chow-Yun Fat en rôle secondaire ça aussi ça le monte). Un film assez mineur mais pas désagréable.\n        \n            ",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_9204301",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2008-07-10",
+            "rating": 4.0,
+            "text_content": "\n                    Un bon petit polar qui signe les débuts du style de John Woo, ainsi que ceux de sa collaboration avec Chow Yun Fat.",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_15435135",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2009-09-15",
+            "rating": 4.0,
+            "text_content": "\n                    Le premier grand film de deux hommes : John Woo et Chow Yun-Fat qui posent ici les jalons de leurs futures collaborations. Le polar HK n'est pas né avec ce film mais il a explosé pour ne plus disparaitre.\n        \n            ",
+            "likes": 0,
+            "dislikes": 1
+        },
+        {
+            "id": "review_1037544462",
+            "author": "\n                            Max Rss\n            \n                    ",
+            "date": "2025-11-17",
+            "rating": 4.0,
+            "text_content": "\n                    Hey toi à qui je m'adresse : partons du principe (peu probable) que tu ne connais pas le John Woo d'avant, celui qui bossait à Hongkong. Et tu te demandes par quel film il faut commencer. Et bien, c'est celui-là, sans hésitation. Pourquoi ? Parce qu'il y aborde ses thèmes de prédilection comme jamais il ne le fera par la suite. La loyauté à la vie, à la mort. Le code de l'honneur des truands de l'ancienne génération. Auxquels viennent se greffer la difficile rédemption des truands qui ont décidé de se ranger ainsi que le conflit fraternel, opposant deux frères qui ont choisi deux chemins différents. En clair, avec \"Le syndicat du crime\", tu te retrouves face à un film au ton très intime. Mais alors, pour ce qui est de l'action, qu'en est-il exactement ? Elle est aussi présente, rassure toi, mais elle l'est simplement moins et Woo n'use pas encore du ralenti comme il le fera dans les années à venir. Ce qui n'empêche pas les fusillades d'être une nouvelle fois réjouissantes. Et quoi d'autre ? Ah ben ouais, le tandem Ti Lung/Chow-Yun-Fat qui fonctionne méga bien. Ce dernier volant la vedette, ultra charismatique et on a rarement fait plus badass que lui avec un flingue ou une mitraillette entre les mains. Si tout cela avait été, non pas aussi explosif, mais aussi bien rythmé que ne le sont \"The killer\" ou \"A toute épreuve\", il aurait pu aisément titiller les chevilles du premier nommé, c'est moi qui te le dis mon p'tit.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1038137859",
+            "author": "\n                            Charlotte28\n            \n                    ",
+            "date": "2026-01-20",
+            "rating": 2.0,
+            "text_content": "\n                    On ne peut pas s'y tromper! John Woo assure la mise en scène pour le meilleur comme pour le kitsch! Quant au scénario, il accumule les attendus thématiques (famille, honneur, frères ennemis, trahisons) autant que les attendus psychologiques (la compagne dévouée, l'ambitieux implacable, le repenti, l'ami sacrificiel - et ce frère hystérique décérébré!), rendant les rebondissements peu surprenants. Un film d'action relativement divertissant mais peu intéressant.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1019454239",
+            "author": "\n                            Starwealther\n            \n                    ",
+            "date": "2022-03-19",
+            "rating": 2.5,
+            "text_content": "\n                    Ca pète dans tous les sens dans ce John Woo, un des films préférés de notre ami Quentin Tarantino. Je ne suis cependant pas de son avis sur la qualité du film que je trouve assez pauvre au niveau du scénario. Seuls les gunfights sont superbement réussis, c'est le point fort de John Woo. L’acteur Chow Yun-Fat est au top comme d’habitude.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1027212811",
+            "author": "\n                            Serpiko77\n            \n                    ",
+            "date": "2023-09-22",
+            "rating": 4.0,
+            "text_content": "\n                    Le film qui a changé la donne du cinéma Hong-Kongais, d'abord parce qu'il a remis en selle John Woo qui aurait probablement stoppé sa carrière si le succès n'avait pas été au rendez-vous. Et aussi parce qu'il aura été précurseur de tous les polars géniaux qui suivront derrière sur une bonne dizaine d'années.",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1038712166",
+            "author": "\n                            ne0n\n            \n                    ",
+            "date": "2026-03-25",
+            "rating": 4.0,
+            "text_content": "\n                    J'ai 12 ans, je tombe sur cette VHS, en VOSTFR dans la médiathèque... Ce fût mon premier John Woo et mon introduction au cinéma d'action Hong-kongais. (En vrai j'avais la  VHS d'Action Force 10 avec Jackie Chan à la maison, mais il n'y avait pas un tel niveau de violence). ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1036914631",
+            "author": "\n                            Kouto\n            \n                    ",
+            "date": "2025-09-14",
+            "rating": 2.0,
+            "text_content": "\n                    Un polar franchement oubliable signé John Woo. L’intrigue simpliste confronte deux frères, l’un gangster l’autre policier dans une intrigue qui sent le déjà-vu. L’ensemble manque franchement de rythme et la réalisation est maladroite, les personnages sont insipides et on s’ennuie ferme.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1038696221",
+            "author": "\n                            Pascal\n            \n                    ",
+            "date": "2026-03-14",
+            "rating": 3.0,
+            "text_content": "\n                    Ressortie en salle de ce classique (1986)  signé John Woo, du polar hong-kongais ( Heroic bloodsheld ) aujourd'hui considéré comme un des films fondateurs du genre.",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1037295889",
+            "author": "\n                            Alolfer\n            \n                    ",
+            "date": "2025-10-25",
+            "rating": 4.0,
+            "text_content": "\n                    John Woo démontre le cinéma d'action dans toute sa splendeur ! Le syndicat du crime est absolument une merveille cinématographique et de scènes d'actions complètement dingue. De plus, son cinéma d'action se démarque par d excellents personnages et d'une histoire passionnante ! Comme souvent, le cinéma d'action peut être génial, si un génie opére\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_32626548",
+            "author": "\n                            real-disciple\n            \n                    ",
+            "date": "2012-07-10",
+            "rating": 4.0,
+            "text_content": "\n                    John Woo, avant de perdre son talent à Hollywood pour des raisons commerciales imposées savait vraiment créer des polars qui avaient de la suite dans les idées. Histoire émouvante servi par des acteurs connus en Chine, Woo fait moins bien que The Killer mais à déjà bien commencé avec Le syndicat du crime qui raconte l'histoire de deux voies différentes prises par deux frères. Sur fond de mélodie qui revient souvent, on a droit à pas mal de dose d'émotion mais aussi des superbes scènes de fusillade comme Woo sait si bien les filmées. C'est une histoire familiale, d'amitié, d'amour puisque les deux frères s'opposent sans pour autant se détester car le sang les unit. Le syndicat du crime en outre d'être un beau titre est aussi un très bon film.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_58832921",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2018-03-28",
+            "rating": 4.5,
+            "text_content": "\n                    La terre natale de John Woo, la belle ville de Hong Kong intrigué par les règlements de compte de gangsters, de superbe scène de gunfire où les balles fusent en l’air, l’ambiance musicale est magnifique, de la cantopop au nocturne de citadin, Leslie Cheung et Chow Yun Fat sont au cœur de l’intrigue, passionnant scénario sur la dualité des individus.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_29703357",
+            "author": "\n                            cylon86\n            \n                    ",
+            "date": "2012-03-19",
+            "rating": 4.0,
+            "text_content": "\n                    John Woo invente son propre style avec ce premier volet d'une trilogie désormais culte où il met en avant les thèmes qu'il affectionne comme le code d'honneur et l'amitié indestructible. Le scénario a beau ne pas être très original, il est très bien écrit et surtout mis en scène avec brio, les gunfights étant filmés avec de superbes ralentis. Parfois un peu kitsch, \"Le Syndicat du crime\" est tout de même une perle du genre dont on ne se lasse pas.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_123929",
+            "author": "\n                            Misoramengasuki\n            \n                    ",
+            "date": "2010-08-9",
+            "rating": 1.5,
+            "text_content": "\n                    Efficace et spectaculaire, bien sûr. Mais aussi bien conventionnel. John Woo suit les règles du cinéma hongkongais sans vraiment chercher à les dépasser. Seule l'histoire d'amitié entre ces deux excellents acteurs que sont Chow Yun Fat et Sung Ti donne un peu d'épaisseur au propos. Pas mal d'outrances qui n'apportent rien, une absence assez étrange de second degré qui me laisse sur ma faim. Pas désagréable, mais pas inoubliable non plus.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_26869067",
+            "author": "\n                            Iroquois76140\n            \n                    ",
+            "date": "2011-08-28",
+            "rating": 4.0,
+            "text_content": "\n                    Le meilleur de la trilogie du Syndicat du crime avec Chow - Yun - Fat et avec réalisateur John woo.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_60168634",
+            "author": "\n                            Matis H.\n            \n                    ",
+            "date": "2018-08-31",
+            "rating": 3.5,
+            "text_content": "\n                    Entièrement construit autour de l'art de la rupture, formelle et narrative, \"Le Syndicat du crime\" est une œuvre brute et imparfaite, qui voit surgir des instants de virtuosité de la part de John Woo.",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_8951986",
+            "author": "\n                            dai72\n            \n                    ",
+            "date": "2008-06-23",
+            "rating": 1.0,
+            "text_content": "\n                    Je m'attendais à beaucoup mieux quand même. Je me disais: John Woo, Chow Yun Fat, un polar, la mafia Hong-Kongaise, ça va être bien. Et puis finalement non. C'est mou, c'est pathétique, c'est mal fait, on n'y croit pas, on ne rentre jamais dans l'histoire, là où on est censé rire on ne rit pas et là où on n'est censé être épaté on rit. Une étoile cependant pour quelques bons moments mais trop rares malheureusement.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_10473567",
+            "author": "\n                            Romain Pinel\n            \n                    ",
+            "date": "2008-12-6",
+            "rating": 2.5,
+            "text_content": "\n                    Film considéré comme révolutionnaire et qui révélé cet excellent réalisateur qu'est John Woo.Cela dit ça ne veut pas dire qu'il est parfait , film culte et bon film sont deux notions très nuancées ( Evil Dead ).Déjà le scénario est typique de John Woo, avec des relations d'amitié et des liens familiaux trés important , associés à une histoire de vengeance , d'opposition des deux cotés de la loi etc.Les fusillades portent également sa signature de part leur intensité et leur mise en scène avec bien évidemment pas de happy end.Ceci etant dit , il est temps de passer aux défauts qui sont loin d'être négligeable , déjà c'est un film qui a assez mal vieilli , les trucages sont très mal fait ( un coup on voit la blessure , un coup non ) , les gunfights aussi ne sont pas parfaits , on sent que c'est les débuts de John Woo car ils sont carrément exagérés par moments.Ensuite au niveau des acteurs , ben on a une bonne dose humour ......chinois et l'humour chinois .... ben c'est l'humour chinois quoi , surtout que j'ai eu la malchance de le voir en Vf je vous raconte pas le supplice.Mais sinon les acteurs s'en sortent bien , surtout Chow Yun Fat , excellent en gangster désinvolte.Doit voilà ce film reste sympa à voir mais faut vraiment être fan du genre.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_16404329",
+            "author": "\n                            Guillaume p\n            \n                    ",
+            "date": "2010-01-13",
+            "rating": 5.0,
+            "text_content": "\n                    Un premier épisode qui pose les bases d'une trilogie remarquable.",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1016443986",
+            "author": "\n                            Ykarpathakis157\n            \n                    ",
+            "date": "2021-08-20",
+            "rating": 1.0,
+            "text_content": "\n                    Malheureusement John Woo n'a jamais fait un bon film a part A toute épreuve. Le Syndicat du crime a été une grande déception pour moi car je m'attendais à un film d'action très stylé mais ce n'était pas le cas. Le réalisateur John Woo pense que c'est de l'action mais l'histoire était encore une fois trop lente tout comme dans The Killer et les scènes d'action (s'il y en a vraiment) n'étaient pas si bonnes ou inoubliables comme celles des autres films de ses films. L'attaque de la scène du restaurant et la partie finale étaient ridicule. Malheureusement le problème n'est pas seulement le manque d'action car le film n'était pas aussi stylé que je l'attendais la réalisation n'a rien de remarquable et je suis désolé de le dire mais ce n'était ni un film de première classe ni même un bon film de série B. divertissant. Cependant j'ai toujours l'espoir que John Woo revienne un jour et fasse des films comme A toute épreuve...\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_13373274",
+            "author": "\n                            Travis.B33\n            \n                    ",
+            "date": "2009-04-16",
+            "rating": 4.0,
+            "text_content": "\n                    C'est un chef-d'oeuvre asiatique de la part du grand John Woo.Des personnages inoubliables,de superbes scène d'action et un film qui m'a aussi beaucoup plu par sa tristesse,sa cohérance et sa fin.Un film indémodable!\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1096137",
+            "author": "\n                            Camusduverseau\n            \n                    ",
+            "date": "2006-12-4",
+            "rating": 4.0,
+            "text_content": "\n                    Très bon film d'action où les scènes de \"flingue\" ressemblent plus à une comédie musicale qu'à l' \"Arme fatale\" ! A voir même si on est allergique à ce genre de film !\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_27555956",
+            "author": "\n                            fritzlang1971\n            \n                    ",
+            "date": "2011-10-21",
+            "rating": 3.5,
+            "text_content": "\n                    Co-produit par Tsui Hark, écrit et réalisé par John Woo, ce film d'action avec de belles scènes de gun-fight ravira les amateurs du genre. Un bon film qui malheureusement à mal vieilli et où il est à noter la belle composition de Chow Yun Fat dans le rôle de Mark.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_33413373",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2012-08-31",
+            "rating": 3.5,
+            "text_content": "\n                    tres bon john woo avec sona cteur fetiche de l'epoque chow yun fat, le syndicat du crime est un polar violent ou tout les themes favorit de john woo sont present ( amitie,amour ,vengeance)!! le scenario est bien trouver mais le truc c'est que la mise en scene a un peu vieillit ave cl'epoque, mais la vrai surprise sont surtout les scene d'action et surtout les gun fight ( john woo le precurseur ) qui sont vraiment spectaculaire!!! ma scene preferer est incontestablement la scene de vengeance dans le petit restaurant !!! excellent,a voir d'urgence pour les fand e john woo , chow yun fat  voir les fan de polar asiatique!!\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_17018303",
+            "author": "\n                            Alexandre-B\n            \n                    ",
+            "date": "2010-04-7",
+            "rating": 4.0,
+            "text_content": "\n                    Après Les Larmes D’un Héros,film asiatique le plus rigolo que j’ai vu(regardez-le,je vous assure:c’est tordant),John Woo a signé un projet bien plus concluant.Le Syndicat Du Crime est en effet un formidable film d’action policier,dans lequel John Woo filma ses premières fusillades cultes.Le scénario est en béton:les thèmes chers à John Woo y font leur apparition: l’honneur,l’amitié,la famille,la haine,la rédemption…Mais le véritable atout du film,c’est Chow-Yun Fat,époustouflant.Une des plus belles réussites du maître.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_12316495",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2009-02-12",
+            "rating": 5.0,
+            "text_content": "\n                    ca c'est un putain de classic du cinéma asiatique!!!!!",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_4910315",
+            "author": "\n                            Grégouch M\n            \n                    ",
+            "date": "2016-04-29",
+            "rating": 2.0,
+            "text_content": "\n                    Pas du tout culte pour moi. Un doublage francais horrible et un scénario comprenant quelques invraisemblances. La relation entre le héros avec son ami mais aussi son frère est très profonde et les scenes de fusillades sont spectaculaires. Un film moyen que je ne regarderai pas une deuxième fois\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_54050799",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2017-01-8",
+            "rating": 3.5,
+            "text_content": "\n                    Il vieillit bien ce Syndicat malgré sa musique assez... datée, pleurnicharde et caricaturale à l'insu de son ignorance !... Mais même ça, on s'y (re)fait plutôt vite tandis que l'on suit le mouvement très mélodramatique des frères ennemis, l'un aigri, l'autre repenti... comme un mouvement de musique classique en somme avec des hauts et des bas puis une grave crise avant que tout ne se résolve brutalement dans une espèce de catharsis extérieure inattendue.",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_27344637",
+            "author": "\n                            Johnny Merguez\n            \n                    ",
+            "date": "2012-08-7",
+            "rating": 3.0,
+            "text_content": "\n                    le 1er syndicat du crime est un bon polar asiatique ou l'on retrouve déja les themes cheres de John Woo avec quelques gunfight bien réalisées mais moins spectaculaires que dans the killer et a toute épreuve! le film a subit le poids des années et manque pas mal de rythme par moments! Mais chow yun fat est toujours dans son élément et livre une composition excellente.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_27784705",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2011-11-6",
+            "rating": 5.0,
+            "text_content": "\n                    gros show avec les gang fight, mon dieu ce film est juste grandiose, à voir absolument pour ceux qui aiment les films de mafia\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_27103984",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2011-09-12",
+            "rating": 5.0,
+            "text_content": "\n                    Période hongkongaise d’un John Woo en grande forme, on est là dans un film de samouraïs où les armes automatiques ont remplacé les sabres. Fan de Peckinpah, Woo et Hark utilisent des ralentis grossiers qui rendent l’action encore plus impressionnante, les scènes sont violentes et fortement issues des arts martiaux : la scène des pots de fleurs est mythique tant dans sa conception, dans sa cruauté que dans l’attitude du personnage principal. Le scénario tourne beaucoup autour de Ho et de son petit frère Kit engagé dans la police et c’est peut-être pourquoi des creux se font sentir alors que lorsque Mark fait son apparition, la puissance des personnages est révélée. D’ailleurs, c’est aussi le mystère et le charisme de Mark –interprété par Chow Yun-Fat– qui a plu aux spectateurs et c’est justifié. Tout réside dans le charisme des acteurs qui donnent du souffle au film et surtout au récit. Ce film est finalement très complet et on voit bien que Yakuza et Triades sont deux mondes complètement différents où aucune pitié ni tradition n’est respecté par les mafias hongkongaises. De plus, de multiples facettes du milieu sont abordées ce qui donne de la crédibilité au film malgré quelques décorsUne BO d’enfer à noter avec des longs morceaux au synthé et un thème accrocheur. Une fin dure et cruelle est au rendez-vous mais come le dit le titre anglais : ‘A Better Tomorrow’ est à espérer…\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_21724296",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2010-10-29",
+            "rating": 5.0,
+            "text_content": "\n                    le film d action hong kongais par exelence .chow yun fat est exelent.les gunfight sont sublime\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_17169099",
+            "author": "\n                            El-Coyote\n            \n                    ",
+            "date": "2010-05-8",
+            "rating": 3.0,
+            "text_content": "\n                    La façon de jouer des acteurs chinois ne m'emballe pas du tout malgré un scénario intéressant. Par contre les scènes d'action et pyrotechniques présagent déjà le talent de John Woo dans son art de filmer.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_16186605",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2009-12-10",
+            "rating": 5.0,
+            "text_content": "\n                    si vous réussissez à rester sur votre siège en visionnant ce chef d'oeuvre, c'est qu'il y avait de la colle bi-composant epoxy dessus. chef d'oeuvre absolu du ciné asiatique, grande époque de john woo et de ses protégés chow yun fat, leslie cheung et ti lung. en plus vous avez le droit de vous payer la seconde séance toute aussi majestueuse avec le syndicat du crime 2.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_8911883",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2008-06-19",
+            "rating": 5.0,
+            "text_content": "\n                    Le film qui révolutionna le polar hongkongais et en passant le cinéma d'action en général. Tous les thèmes de Woo sont ici mis en valeur : l'amitié, l'amour, l'honneur sur un scénario sans faute et sans temps mort. Les gunfihhts sont peu nombreux mais époustouflants et Chow Yun Fat crève littéralement l'écran, comme d'habitude, en jouant le tueur violent mais au fond trop sympa et trop stylé. Un chef-d'oeuvre du cinéma de Hong Kong et de John Woo.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_8391351",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2008-05-17",
+            "rating": 5.0,
+            "text_content": "\n                    L'affiche est à l'image du film: splendide!\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_20236516",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2010-08-10",
+            "rating": 0.5,
+            "text_content": "\n                    Ce film m' a retourné le cerveau!!! chef d'oeuvre de john woo!! et chow yun fat au top de sa forme!!!\n        \n            ",
+            "likes": 0,
+            "dislikes": 1
+        },
+        {
+            "id": "review_1038125022",
+            "author": "\n                            Jean Ingalls \n            \n                    ",
+            "date": "2026-01-16",
+            "rating": 5.0,
+            "text_content": "\n                    Que dire sur Le Syndicat du Crime, mis à part qu'il a été à sa sortie le précurseur du polar dans son pays et instantanément le meilleur polar qui détrône même les plus grands polars américains qui faisaient à l'époque figure de pionniers en la matière. John Woo est venu mettre un grand coup dans la fourmillière avec son histoire de triades sur fond d'amitié, d'amour, de haine et de trahisons dans un Hong-Kong comme vous ne l'avez jamais vu, au travers de truands au grand coeur. Le Syndicat du Crime est très intense et atteint le coeur à de nombreux moments, un film touchant, vibrant, qui explose l'âme du spectateur avec une recette que seul John Woo sait assaisonner à sa manière. Les acteurs sont magnifiques et hantent leurs personnages à jamais. Le thème de la fraternité est délicat mais adroitement maîtrisé par le cinéaste.",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_35789332",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2013-03-5",
+            "rating": 3.0,
+            "text_content": "\n                    Action, amitié et gunfights, du bon John Woo... Le film a un peu vieilli malheureusement, on s'en rend compte avec les dialogues et quelques longueurs. Mais ce Syndicat du Crime, premier succès de John Woo, reste une référence : Malgré ces petits défauts, on retrouve tous les thèmes de prédilection du maitre (amitié, honneur, ultra-violence, ralentis, vol de colombes), et surtout les gunfights acharnés qui ont fait sa réputation. Un peu en deça de The Killer et d'A Toute Epreuve, Le Syndicat du Crime reste tout de même un très bon polar d'action made in HK.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1033016572",
+            "author": "\n                            pentarou\n            \n                    ",
+            "date": "2024-11-27",
+            "rating": 2.5,
+            "text_content": "\n                    Ce film était une pépite à l'époque mais je pense que c'était surtout parce qu'on se sentait privilégié de le voir alors que c'était un film de niche très difficile d'accès.",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_16278120",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2009-12-26",
+            "rating": 5.0,
+            "text_content": "\n                    Un film génial.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_3063752",
+            "author": "\n                            YINGYANG\n            \n                    ",
+            "date": "2007-06-11",
+            "rating": 4.0,
+            "text_content": "\n                    La déchéance de 2 gangsters qui ont la classe (surtout Chow Yun Fat, toujours le sourire bright au début), leur retour dans l’arène pour un final à 4000 coups de feu / minute, la psychologie de 2 frères : « moi gangster, toi policier mais nous toujours frères », un grand numéro d’acteur de Chow Yun Fat, des bonnes grosses scènes avec de l’hémoglobine sur les murs. Voilà, c’est le 1er gros succès de John Woo. Par contre, la musique a pas mal vieilli (un peu comme beaucoup de films des 80’s me direz-vous !)\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_251023",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2011-08-28",
+            "rating": 4.5,
+            "text_content": "\n                    4 Etoiles sans hésiter.",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_13128493",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2009-03-31",
+            "rating": 4.0,
+            "text_content": "\n                    Le classique du cinema policier Made in Hong Kong\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1032207743",
+            "author": "\n                            Seb De Niro \n            \n                    ",
+            "date": "2024-10-8",
+            "rating": 4.0,
+            "text_content": "\n                    Premier film dans le genre. C'est ce-dernier qui donnera naissance au genre heroic bloodshed et qui aura une grande influence sur le cinéma Hong-Kong et même Hollywood par la suite. Notons par exemple que l'état mettra en place suite à ce film un système de classification des œuvres cinématographiques.",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_25791286",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2011-06-24",
+            "rating": 4.0,
+            "text_content": "\n                    Pour les fans de John Woo avec son esthétisme soignée, ses ballets de gunfights si particulier et les thèmes chers au réal ( amitiés, trahison, loyauté, honneur, violence).\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_14237631",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2009-06-14",
+            "rating": 4.0,
+            "text_content": "\n                    Un grand John Woo, désormais entré dans la légende. Le film a plutôt mal vieilli, mais les scènes d'action restent spectaculaires. Il est aisé de voir qu'elles étaient révolutionnaires pour l'époque! Mais la vraie force de ce film consiste aussi dans ses personnages et le charisme qu'ils dégagent. Un film comme on voit plus (ou peu): démesuré dans la forme, mais intimiste dans le fond; où quand l'action est compatible avec l'émotion.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_16124012",
+            "author": "\n                            Tong S\n            \n                    ",
+            "date": "2009-11-29",
+            "rating": 5.0,
+            "text_content": "\n                    4/4 car très bon films, humour, sang, pistolets garantis et en plus très bon ACTEURS\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_16996015",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2015-08-31",
+            "rating": 4.0,
+            "text_content": "\n                    Le Syndicat Du Crime . Film Thriller Hong-Kongais Réalisé par John Woo ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_10858184",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2008-11-5",
+            "rating": 5.0,
+            "text_content": "\n                    Le début des guns-figth de jhon woo, mais pas d’acrobaties juste de l’action pure avec des tueurs qui shoot comme il respire. Si on voit un maximum de polars chinois, hongkongais ou japonais, les intrigues se ressemblent. Mais là c’est jhon woo aux commandes et c’est très bon. Le début laisse place à de la comédie involontaire, mais la combinaison du jeux, de la violence, et de la relation des personnages. Un polar dans la grande tradition et très bon . Très loin de paycheck et de M :I 2.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_37809323",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2013-06-19",
+            "rating": 2.0,
+            "text_content": "\n                    Première collaboration John Woo - Tsui Ark, ce polar moderne est une innovation à Honk Kong à l'époque où le territoire produit essentiellement des films de sabre, il y fera un carton et révèlera son réalisateur ainsi que Chow Yun Fat.",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_3946351",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2007-08-16",
+            "rating": 4.0,
+            "text_content": "\n                    Bon film sur la mafia HK avec un scénario assez bon et des acteurs principaux assez convainquants pour une production de ce genre.",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1038669050",
+            "author": "\n                            Linconnudu13e\n            \n                    ",
+            "date": "2026-03-12",
+            "rating": 3.5,
+            "text_content": "\n                    \"Le Syndicat du crime\" pose les bases du style de John Woo : gunfights élégants, amitié tragique et sens du geste. Le film reste moins abouti et moins intense émotionnellement que ses œuvres ultérieures, mais sa fraîcheur, son énergie et la présence magnétique de Chow Yun‑Fat en font un polar fondateur, à la fois efficace et déjà très stylisé.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1016492872",
+            "author": "\n                            Rudy\n            \n                    ",
+            "date": "2021-08-26",
+            "rating": 3.5,
+            "text_content": "\n                    Un excellent John Woo, où l'on retrouve la patte du réalisateur. Les scènes d'action sont excellentes, totalement maîtrisées, on en prend plein la vue, et ça explose dans tous les sens. Le film parle de fraternité, d'amitié et de loyauté, tous les thèmes de John Woo sont traités à merveille dans ce premier épisode.",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1951631",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2007-03-7",
+            "rating": 5.0,
+            "text_content": "\n                    Mais quel film culte donc exceptionnel sur la mafia de Chine avec des scènes de fusillade époustouflantes et des acteurs émouvants entre l' histoire d'amour fraternel et l' histoire d' amitié. Ce film nous montre que même les plus grands mafieux restent des êtres humains avant tout avec des sentiments. Un film à avoir absolument dans sa liste de films vus.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1351419",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2007-01-3",
+            "rating": 5.0,
+            "text_content": "\n                    Quel claque !! Bon vous me direz on ne comprend pas forcément comment 2 parrains peuvent se faire mettre a l'amende par le bleu de service mais c'est pas grave , l'action est tellement bien avec des dialogues devenus cultes grace au groupe Arsenik et pour moi 2 scenes parfaites avec une musique d'anthologie signee Peter Gabriel lors de la fusillade dans le restaurant vers les premieres 20 minutes et vers la fin lorsque le bleu vient livrer la malette d'argent !!!\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_21390648",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2010-10-3",
+            "rating": 3.5,
+            "text_content": "\n                    c'est très réussi, c'est même supérieur à son film le plus populaire (volte/face). Les acteurs, le scenario, la mise en scène, les scènes d'actions, le rythme et même la musique ... ce film a des qualités non négligeables.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_123406",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2010-07-23",
+            "rating": 4.5,
+            "text_content": "\n                    Film atypique aux accents de série B, le film commence dans une sorte de comédie grand-guignolesque, genre dans lequel John Woo a beaucoup oeuvré auparavant et auquel il semble rendre un dernier hommage avant de le quitter définitivement, et se transforme vite en drame réaliste ponctué de scènes virtuoses aux accents rédempteurs. ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1039089418",
+            "author": "\n                            Totoloinloin\n            \n                    ",
+            "date": "2026-04-24",
+            "rating": 1.0,
+            "text_content": "\n                    Ça a très mal vieilli, l'impression de voir un téléfilm des années 70. En VO comme en VF c'est très dur, plus qu'une passion du cinéma il faut une dévotion totale à la pellicule. Ce film a inspiré les infiltrés,  oui très possible, de très loin !\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        }
+    ]
+}

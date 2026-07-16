@@ -1,0 +1,410 @@
+{
+    "id": 274915,
+    "name": "Promare",
+    "release_date": "2019-07-31",
+    "runtime_in_minutes": 111,
+    "genres": [
+        "Action",
+        "Animation",
+        "Science Fiction"
+    ],
+    "synopsis": "\n                    Une énorme tempête de feu a dévasté la moitié des villes du monde, affaiblissant les hommes et donnant naissance à des mutants capables de manier le feu, les Burnish. 30 ans plus tard, un groupe de mutants terroristes, appelés les Mad Burnish, menacent de détruire de nouveau la Terre. Le seul rempart de l’humanité ? La Burning Rescue, une équipe de pompiers d’un nouveau genre. Galo Thymos et son équipe vont tout faire pour arrêter les Mad Burnish. \n        \n            ",
+    "reviews": [
+        {
+            "id": "review_1000161718",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2019-07-26",
+            "rating": 5.0,
+            "text_content": "\n                    Après l'avoir vu une première fois lors de japan expo puis une deuxième en avant-première, je n'ai qu'une chose a dire : ce film est génial ! Que ce soit pour les fans du studio Trigger qui y trouveront un grand nombre de clins d'oeil ou pour les nouveaux venus qui découvriront leur univers décalé et fou. Foncez voir Promare ! J'ai moi-même hâte d'y retourner une 3e fois :D !\n        \n            ",
+            "likes": 7,
+            "dislikes": 1
+        },
+        {
+            "id": "review_1000165774",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2019-07-26",
+            "rating": 4.0,
+            "text_content": "\n                    Promare est un film de Hiroyuki Imaishi que l’on connait pour ses séries animées déjantées comme Gurren Lagann et Kill la Kill. Donc si vous connaissez ces deux animes vous savez en gros ce qui vous attend. Nous avons une chance inouïe de pouvoir apprécier ce petit bijou sur grand écran à partir du 31 juillet grâce à Eurozoom. Courrez voir ce film c’est une pépite qui va vous en mettre plein la vue.",
+            "likes": 4,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1000159631",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2019-07-25",
+            "rating": 5.0,
+            "text_content": "\n                    J'ai été a l'avant première de Promare à la Japan Expo, je m'attendais a rien et ... C’ÉTAIT ÉNORME !!!!",
+            "likes": 2,
+            "dislikes": 1
+        },
+        {
+            "id": "review_1000236330",
+            "author": "\n                            Axel L.\n            \n                    ",
+            "date": "2019-08-3",
+            "rating": 5.0,
+            "text_content": "\n                    Un véritable chef d'oeuvre digne des autres oeuvres d'Imaichi, à voir absolument ! Surtout pour les fan de Gurren Lagann !\n        \n            ",
+            "likes": 2,
+            "dislikes": 1
+        },
+        {
+            "id": "review_1000281386",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2019-08-8",
+            "rating": 5.0,
+            "text_content": "\n                    Ce film est un réel chef-d'oeuvre pour tout fan de l'animation japonaise, il en devient un hommage au studio magnifique qu'est Trigger. ",
+            "likes": 3,
+            "dislikes": 1
+        },
+        {
+            "id": "review_1008597124",
+            "author": "\n                            Acidus\n            \n                    ",
+            "date": "2020-07-8",
+            "rating": 1.0,
+            "text_content": "\n                    \"Promare\" tire son unique intérêt de son animation. Un style certain, nerveux avec un beau choix de couleurs. Cependant,  à côté de cette originalité visuelle, c'est le vide absolu. Scénario creux, personnages caricaturaux,... Au final, \"Promare\" n'est qu'une suite de scènes d'action et un enchaînement de clichés qui lasse très vite. On s'ennuie ferme face à aussi peu d'inspiration. Je le déconseille.\n        \n            ",
+            "likes": 1,
+            "dislikes": 2
+        },
+        {
+            "id": "review_1000236884",
+            "author": "\n                            Gfa Cro\n            \n                    ",
+            "date": "2019-08-3",
+            "rating": 1.0,
+            "text_content": "\n                    Vu et avis le 20190802",
+            "likes": 3,
+            "dislikes": 13
+        },
+        {
+            "id": "review_1000256918",
+            "author": "\n                            Nicolas R.\n            \n                    ",
+            "date": "2019-08-5",
+            "rating": 2.5,
+            "text_content": "\n                    plutôt déçu par ce film,  fan de gurren lagann ou kill la kill , je n'y voit ni hommage ni clin d'oeil, mais un manque outrageant d 'originalité . là où ces deux séries nous emmenaient vers un WTF interstellaire  dans primaire on dirait qu'il fallait simplement cocher toutes les cases pour en faire un film trigger. visuellement c'est intéressant mais qu'est ce que je me suis ennuyé ! un mix entre gurren lagann et darling in the franxx vraiment dérangeant.\n        \n            ",
+            "likes": 1,
+            "dislikes": 3
+        },
+        {
+            "id": "review_1001697646",
+            "author": "\n                            Perks of being Jo\n            \n                    ",
+            "date": "2020-01-9",
+            "rating": 4.0,
+            "text_content": "\n                    Film d'animation nous venant tout droit d'un studio japonais, Promare s'impose comme le film dynamique de l'année. Une bombe de couleurs, d'actions et d'animation sur-vitaminée, livrant un sous-texte qui peut paraître classique à certains moments, ou pas assez poussé, mais on lui pardonne vite ses défauts (qu'il semble assumer) face à la dose évidente de travail derrière l'oeuvre. L'animation est certes nerveuse mais aussi soignée, très originale, elle émerveille les yeux du spectateur qui pendant près de 2h ne fait qu'en prendre plein la gueule. Il est regrettable que ce long métrage ait été si peu distribué en salle.",
+            "likes": 1,
+            "dislikes": 1
+        },
+        {
+            "id": "review_1015548284",
+            "author": "\n                            moket\n            \n                    ",
+            "date": "2021-06-21",
+            "rating": 4.0,
+            "text_content": "\n                    Un parti pris visuel original et réussi, des scènes de combats de mécha impressionnantes mais un scénario un peu brouillon. Qu'importe, c'est un pur délire. A voir en japonais pour le doublage habité et les techniques scandées avec conviction.\n        \n            ",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1018702539",
+            "author": "\n                            Fabien S.\n            \n                    ",
+            "date": "2022-01-24",
+            "rating": 4.0,
+            "text_content": "\n                    Un très bon film d'animation japonais manga , futuriste, punk , avec des  humanoïdes robots en antagoniste .\n        \n            ",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1001136493",
+            "author": "\n                            JL D\n            \n                    ",
+            "date": "2025-08-9",
+            "rating": 4.0,
+            "text_content": "\n                    Animation décalée pour un film bien chargé, on s'ennuie pas et on jubile sur certaines scènes.",
+            "likes": 0,
+            "dislikes": 1
+        },
+        {
+            "id": "review_1010109769",
+            "author": "\n                            Marc L.\n            \n                    ",
+            "date": "2020-09-11",
+            "rating": 3.0,
+            "text_content": "\n                    Histoire de sortir un peu des productions Ghibli et assimilées et de celles du studio Madhouse, il était temps que je me (ré)intéresse à une veine plus classique de l’animation nippone, plus proche de l’idée que le profane s’en faisait en Europe au cours des  années 80 et 90, ce qui lui valut de s’attirer  les foudres des censeurs et des défenseurs de l’exception culturelle : le dessin-animé de robots géants, ou MechAnime.  Pas de chance pour moi, trop jeune pour avoir réellement kiffé Goldorak et l’Empire des Cinq, les autres références fondatrices que furent Macross, Patlabor et autres Evangelion avaient débarqué sur les chaînes françaises au moment où je commençais à délaisser mon rendez-vous hebdomadaire avec.les dessin-animés japonais et je ne suis jamais parvenu à combler ce désintérêt adolescent..  Dans le cas de ‘Promare’, la troupe de héros du jour fait partie d’une escouade de Soldats du feu du futur, la Burning Rescue, qui lutte contre des mutants-terroristes pyromanes, les Burnish.  ce qui change un peu des Mechwarriors qui affrontent bêtement une invasion extraterrestres, mais cela n’empêche pas cet Anime de recycler consciencieusement la totalité des archétypes des vieilles séries d’animation nippone, notamment ses engins de combat évolutifs qui ne cessent de se transformer et de gagner en puissance, ses filles aux cheveux roses avec un petit animal rondouillard en guise de comic-relief, son méchant androgyno-baroque et son personnage principal qui coche toutes les cases du caractériel obstiné et héroïque à l’excès façon Seiya dans les Chevaliers du zodiaque.  Cette avalanche de clichés, les studios Trigger en sont parfaitement conscient et ils ne cherchent d’ailleurs à aucun moment à innover dans une dramaturgie elle-aussi bien ringarde : l’attrait que peut susciter ‘Promare’ s’avère quasi exclusivement visuel : les orientations graphiques sont peut-être singulières - de l’imagerie 2D animée en 3D, farouchement géométrique et dont la palette de couleurs a apparemment été gérée par un daltonien - mais une fois tout cela mis en mouvement, c’est un véritable feu d’artifice qui se déclenche.  Peut-être que je manque un peu de références récentes niveau Anime Shônen mais j’ai rarement vu un spécimen aussi survolté, aussi mégalomane dans sa volonté d’en mettre plein la vue, qui pousse l’esthétique de la violence des affrontements sans jamais se fixer de limites, au point qu’on ne parvienne plus à imaginer ce qu’on voit envisageable, même dans un univers futuristes bourré de pompiers blindés.  Une telle séance est limite épuisante, sans arriver forcément à passionner un spectateur adulte  mais enfin, ‘Promare’ constitue une expérience visuelle qui vaut tout de même le coup.\n        \n            ",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1000279702",
+            "author": "\n                            Nathan M\n            \n                    ",
+            "date": "2019-08-8",
+            "rating": 5.0,
+            "text_content": "\n                    Excellent. Animation irréprochable, mélange de CGI et de 2D acidulé qui donne une vraie identité au film, charadesigns originaux (Mention spéciale à Varys). L’esprit TRIGGER poussé à l’extrême !\n        \n            ",
+            "likes": 1,
+            "dislikes": 1
+        },
+        {
+            "id": "review_1000957286",
+            "author": "\n                            Ryuka92\n            \n                    ",
+            "date": "2019-10-26",
+            "rating": 4.5,
+            "text_content": "\n                    La nouvelle folie du studio Trigger (Kill la kill, Little Witch Academia) s'appelle Promare et est même sortie au cinéma. C'est avec un plaisir non dissimulé que l'on retrouvera leur univers coloré et dingue sur grand écran. On a le droit à une introduction très efficace qui  nous place dans le métro japonais et nous montre les premiers cas de combustions humaine, ou plutôt de burnish. Dessins très simples, musiques qui collent parfaitement, mise en scène très cinématographique, le début nous attire beaucoup et surtout nous intrigue. Les burnish sont des êtres humains qui peuvent s'enflammer et déclencher des incendies. Un peu comme des mutants, ils vont se multiplier au cours des dernières années et devenir \"dangereux\" pour l'humanité. Il va être constitué une brigade anti-feu et une autre anti-burnish. Un groupe terroriste, les Mad Burnish brûlent la ville depuis un moment. Le contexte posé, nous allons suivre la brigade anti-feu à l'action, tout ceci une bonne dizaine d'années après les événements de l'introduction. Et c'est là que c'est le véritable début du feu d'artifice visuel commence. L'équipe va être présenté un à un à la façon d'un catcheur qui rentre sur le ring, on sait que le studio a l'habitude de ce genre de présentation tape à l’œil et même si ça peut paraître un poil classique, la style est là et fait toute la différence. Puis on entre directement dans le feu de l'action et c'est le cas de le dire. La mise en scène est ultra dynamique, les angles de caméra bougent sans arrêt sans perdre le spectateurs et sont des plus pertinents. Les couleurs pètent à l'écran de milles feux, on en prend pleins les yeux ! Des méchas font leur apparition et de plus en 3D cel shading, tout ça sans que l'animation en pâtisse. C'est ultra nerveux, stylisé au maximum et ça donne un plaisir monstrueux à regarder, on aimerait que cette séquence dure tout le film tant c'est l'extase. De plus la bande son plutôt électro accompagne merveilleusement bien l'action. Il faut le dire, jamais une animation 3D n'a atteint une telle fluidité auparavant, un bel exploit que cette première scène d'action tripante, maîtrisée et des plus stylisé. Ça met dans le bain et on est en plein kiff, il n'y a pas d'autres mots. D'ailleurs la direction artistique est complètement folle avec des dessins certes un tantinet simpliste mais des couleurs qui pètent, une 3D exemplaire et des formes plutôt triangulaires pour tout ce qui est flammes, fumée et autres effets; plutôt original ! Ça y est on est lancé dans le bain d'une bien belle manière et on adore ça mais il arrive tout de même le temps de développer un peu l'histoire et les personnages. Ainsi le film calme un peu le jeu pour poser les bases narratives. Les personnages sont pour la plupart très intéressants et plutôt travaillés, surtout les antagonistes terroristes plus complexes qu'ils n'y paraissent au début. L'histoire va nous réserver plusieurs rebondissements importants dont quelques uns d'attendus pour ceux qui connaissent l'univers de la japanimation. A ce moment là les réalisateurs ont déjà réussis leur pari d'accrocher le spectateur et vont pouvoir développer plus tranquillement l'univers de Promare et son contexte. Ce dernier n'est pas sans rappeler les X-Men avec la relation entre les hommes et les mutants. Il développe d'ailleurs très bien cette tension et donne même lieu à des moments surprenants pour un anime de ce genre. Des moments sacrements humains, voir chargés en émotions que l'on attendait pas vraiment. C'est rafraîchissant, ça fait avancer l'histoire et on se prend d'empathie pour certains personnages. Un sacré tour de force vu le début grand spectacle du film. De découvertes en découvertes on avance dans l'histoire, les questions que l'on se posent trouvent peu à peu des réponses et aucunes ne resteront sans éclaircissement même si le dénouement peu paraître un peu obscur tout de même. Ainsi le titre Promare prendra tout son sens. Le film aborde même des sujets des plus sérieux comme le rejet, la ségrégation, le massacre de population par racisme ou peur, les expérimentations humaines qui sont en plus tous assez bien traités dans l'ensemble. Un petit regret, il y a un très grand nombre de personnages et tous n'ont pas le même traitement de faveur, ainsi beaucoup ne sont pas développés suffisamment et servent plutôt de faire valoir qu'autre chose. On peut aussi reprocher au grand méchant ses motivations et sa folie déjà vu plusieurs fois. Avec toute honnêteté, pour peu qu'on aime l'animation japonaise ou pas, le film est un véritable plaisir des yeux et des oreilles. Un trip stylisé qui pète à la tronche et scotche au siège. On prend un plaisir gigantesque à mater cet ovni visuel des plus originaux !\n        \n            ",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1037025227",
+            "author": "\n                            Kouto\n            \n                    ",
+            "date": "2025-09-27",
+            "rating": 3.5,
+            "text_content": "\n                    Véritable orgie visuelle de tous les instants, ce film d’animation japonais est un trip à l’imagerie fracassante et incandescente. En dépit d’une intrigue demeurant très convenue et bateau, le long-métrage par son rythme trépident, son duo de protagonistes principaux et surtout sa recherche permanente d’inventivité graphique aux couleurs flashs détonantes.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1027946808",
+            "author": "\n                            Chaîne 42\n            \n                    ",
+            "date": "2023-11-15",
+            "rating": 3.5,
+            "text_content": "\n                    Je suis en dessous de la moyenne mais cela ne me surprend pas car cette animation de 2019 a de grosses qualités de scénario, de déroulé, de personnages et visuel. C'est juste que je le trouve too much pour ce qui est de la robotique et aussi un peu trop convenu une fois que l'on a bien intégré l'histoire qui est de pure S.F. Il reflète des préoccupations actuelles et a une bonne moralité, il foisonne de personnages assez construits et fonctionne surtout avec des actions assez vives mais compréhensibles. J'ai un peu de mal avec le perso principal même s'il évolue en mieux devenant moins naïf au fil de l'histoire, il reste assez agaçant et surfait c'est ce qui me retient dans cette affaire ; tout reste en même temps que bien étudié, assez superficiel comme une produit fabriqué.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1022647187",
+            "author": "\n                            Sweetharmonie \n            \n                    ",
+            "date": "2022-11-25",
+            "rating": 5.0,
+            "text_content": "\n                    Incroyable !Je l'ai vu en avant premier et j'ai pas été déçue :l'action l'animation l'histoire les personnages tout est super!\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1000625524",
+            "author": "\n                            war m\n            \n                    ",
+            "date": "2019-09-18",
+            "rating": 3.0,
+            "text_content": "\n                    Les scènes de baston entre méchas sont réjouissantes et parfois complètement folles, mais le film est un poil trop long et aurait gagné à se laisser aller totalement vers l’abstraction pure. Dans tous les cas, si vous trouvez que les films de superhéros sont trop timides, sachez que Promare vous venge en long, en large et en travers.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1000159183",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2019-07-25",
+            "rating": 5.0,
+            "text_content": "\n                    Promare n'est ni plus ni moins que le meilleur film d'action que vous verrez cette année.",
+            "likes": 1,
+            "dislikes": 1
+        },
+        {
+            "id": "review_1000165276",
+            "author": "\n                            Yamamoto T\n            \n                    ",
+            "date": "2019-07-26",
+            "rating": 5.0,
+            "text_content": "\n                    La quintessence de ce que peux faire Trigger en terme d'histoire et d'idée visuelle qui fusent à 1000 à l'heure !! Si vous ne l'avez toujours pas vu foncez le voir et profitez du moment.\n        \n            ",
+            "likes": 1,
+            "dislikes": 1
+        },
+        {
+            "id": "review_1000240934",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2019-08-3",
+            "rating": 5.0,
+            "text_content": "\n                    Un film épuisant dans le bon sens ! De l'action a ne plus savoir quoi en faire, une animation de toute beauté et une BO incroyable. Trigger did it again. A voir de toute urgence !!\n        \n            ",
+            "likes": 1,
+            "dislikes": 1
+        },
+        {
+            "id": "review_1000669301",
+            "author": "\n                            Aliya y\n            \n                    ",
+            "date": "2019-09-23",
+            "rating": 5.0,
+            "text_content": "\n                    promare fut un veritable chef d'oeuvre a regarder. j'y suis retourné trois fois, la qualité d'animation est incroyable, du jamais vu! J'ai pu partager ce film avec ma meilleure amie Justin Bresson et j'en suis très heureuse. Promare est une claque cinematographique. ALLEZ LE VOIR\n        \n            ",
+            "likes": 1,
+            "dislikes": 1
+        },
+        {
+            "id": "review_1000169698",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2019-08-4",
+            "rating": 5.0,
+            "text_content": "\n                    Alors , Promare , commençons par l’objectivité, Promare est un film d'Hiroyuki Himaishi, à la base , réal de série tel que Kill la kill ou Gurenn Lagann, deux excellentes séries, mais aujourd'hui sort Promare , nouvelle production de Himaishi et du studio Trigger , coutumier des claques visuelles.Le film est un exemple à suivre en terme de mix 2D-3D , ce mix qui ne jure jamais et ,ne choque jamais l’œil, le scénario n'est pas très poussé mais il reste cohérent et a quelque rebondissement , prévisible , certe. La musique est tout simplement magnifique, bref , allez voir Promare et je trouve scandaleux que trop peu de salle en France le diffusent, il faut soutenir ce genre de film si bon mais qui font si peu d'entrés en France.\n        \n            ",
+            "likes": 1,
+            "dislikes": 1
+        },
+        {
+            "id": "review_1000234171",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2019-08-2",
+            "rating": 5.0,
+            "text_content": "\n                    immense hommage à kill la kill,gurren lagann et tout le studio trigger. un style d'animation particulier mais très bon avec de splendide couleur.le scénario n'est pas très poussé mais bien suffisent pour apprécié le spectacle et les personnage très bien écrit rattrape le scénario. a mon avis le meilleur film d’animation de ces dernière années\n        \n            ",
+            "likes": 1,
+            "dislikes": 1
+        },
+        {
+            "id": "review_1000239447",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2019-08-3",
+            "rating": 5.0,
+            "text_content": "\n                    Un film complètement décomplexé qui ne se prends pas au sérieux, de l'action absolument tout le temps, mais de l'action parfaitement maîtrisé par le papa de Gurren Lagann et Kill La Kill.",
+            "likes": 1,
+            "dislikes": 1
+        },
+        {
+            "id": "review_1000259888",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2019-08-5",
+            "rating": 5.0,
+            "text_content": "\n                    Je n'ai jamais vu ça nulle part auparavant, encore moins au cinéma.",
+            "likes": 1,
+            "dislikes": 1
+        },
+        {
+            "id": "review_1000281620",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2019-08-8",
+            "rating": 5.0,
+            "text_content": "\n                    Je suis aller voire Promare avec ce sentiment que l'animation japonaise allez vers un nouveau tournent, et bordel je n'ai pas était déçus entre l'animation a couper le souffle et un scénario absurde qui c'est rester cohérent, ce film est une vrai réussite.",
+            "likes": 1,
+            "dislikes": 1
+        },
+        {
+            "id": "review_1000669365",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2019-09-23",
+            "rating": 5.0,
+            "text_content": "\n                    Après avoir été convaincu d'aller voir Promare avec Aliya Maouhe, je suis ressortie de cette séance de cinéma avec qu'une envie: aller le revoir ! Les musiques et l'animation sont tout simplement incroyables. Et en tant que weeb qui se respecte j'ai pu apercevoir les références aux autres chefs d'oeuvres de l'animation japonaise. Bref allez le voir avant qu'il ne soit plus au cinéma.\n        \n            ",
+            "likes": 1,
+            "dislikes": 1
+        },
+        {
+            "id": "review_1000229061",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2019-08-2",
+            "rating": 4.5,
+            "text_content": "\n                    pour les fans du studio Trigger uniquement ",
+            "likes": 0,
+            "dislikes": 1
+        },
+        {
+            "id": "review_1005251867",
+            "author": "\n                            Daniel B.\n            \n                    ",
+            "date": "2020-04-6",
+            "rating": 3.0,
+            "text_content": "\n                    Hmmmm, très surprenant comme film.",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1000159069",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2019-08-4",
+            "rating": 4.5,
+            "text_content": "\n                    Ma critique je l'ai écrite pour un gros webzine, mais pour ceux qui ont la flemme je vous résume en gros mon ressenti en quelques lignes : Ce film est visuellement fou, si le fond est bien plus intelligent qu'il en a l'air, l'histoire simplissime est au service d'un spectacle qui ne lâche pas son spectateur d'une semelle, en remets une couche même quand tu crois que c'est fini, te balance un final après le final, c'est survolté, dingue, et rafraichissant dans le paysage très calibré de l'animation japonaise, amateur d'humour, d'action, d'animation folle et de bande-son épique au rythme des hurlements des héros qui enflammes leur âmes en même temps que la salle, foncez, c'est immanquable, ne ratez pas ce film, il faut le voir, on a que trop peu ce genre de proposition chez nous et bien souvent c'est toujours les mêmes qui se mouillent pour nous l'offrir, je remercie encore une fois Eurozoom de nous permettre de sortir de notre zone de confort bien calibrée en nous sortant de telles pépites pour les mirettes. J'en redemande, si j'avais ce genre de proposition de cinéma, à la fois radicale et osée, j'irais en salle bien plus souvent que quand on me sert la soupe au super-héros en lycra moulant.\n        \n            ",
+            "likes": 0,
+            "dislikes": 1
+        },
+        {
+            "id": "review_1000259346",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2019-08-5",
+            "rating": 4.0,
+            "text_content": "\n                    Studio TRIGGER + Hiroyuki Imaishi = un film over the top à l'action jouissive et terriblement fun à regarder !",
+            "likes": 0,
+            "dislikes": 1
+        },
+        {
+            "id": "review_1000226864",
+            "author": "\n                            Maumau G\n            \n                    ",
+            "date": "2019-08-1",
+            "rating": 4.0,
+            "text_content": "\n                    Un peu peur au début avec l'animation 3D , mais très bon film encore une fois je ne suis pas déçue des studios Toho animation et trigger ! L'HISTOIRE tient la route , et on s'attache bien aux personnages :)\n        \n            ",
+            "likes": 0,
+            "dislikes": 1
+        },
+        {
+            "id": "review_1000264000",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2019-08-6",
+            "rating": 4.5,
+            "text_content": "\n                    Malgré un scénario assez classique, je me suis laissée emporter par l'histoire, du fait de la réalisation et de l'animation vraiment incroyable. C'est vraiment très beau et généreux en contenu. Les musiques ne sont pas transcendantes mais donne la dynamique nécessaire pour le film.",
+            "likes": 0,
+            "dislikes": 1
+        },
+        {
+            "id": "review_1000264752",
+            "author": "\n                            Eric G\n            \n                    ",
+            "date": "2019-08-6",
+            "rating": 5.0,
+            "text_content": "\n                    Très bon film d'un studio déjà connu pour ses œuvres démentielles.",
+            "likes": 0,
+            "dislikes": 1
+        },
+        {
+            "id": "review_1000271696",
+            "author": "\n                            Robin P\n            \n                    ",
+            "date": "2019-08-7",
+            "rating": 4.5,
+            "text_content": "\n                    Un film à couper le souffle. Si le scénario peut paraître pauvre, et les personnages secondaires oubliables, c'est qu'ils sont là juste pour justifier l'utilisation constante d'une animation débordante de vie, de musiques géniales et de scènes boostées à la sauce shonen.\n        \n            ",
+            "likes": 0,
+            "dislikes": 1
+        },
+        {
+            "id": "review_1000180862",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2019-07-29",
+            "rating": 5.0,
+            "text_content": "\n                    L’histoire, décrite comme un mélange entre Kill la Kill et Gurren Lagann, suit Galo, nouvelle recrue fraîchement débarquée dans une caserne de pompiers qui utilisent des mechas appelé « Matoi-Tech » .",
+            "likes": 0,
+            "dislikes": 1
+        },
+        {
+            "id": "review_1000239835",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2019-08-3",
+            "rating": 5.0,
+            "text_content": "\n                    Une claque visuelle et auditive en bonne et du forme. Probablement l'un des meilleurs film d'animation de ces dernières années\n        \n            ",
+            "likes": 0,
+            "dislikes": 1
+        },
+        {
+            "id": "review_1014044098",
+            "author": "\n                            GreySky\n            \n                    ",
+            "date": "2021-03-30",
+            "rating": 0.5,
+            "text_content": "\n                    Hystérie visuelle, combats gigantomachiques de gros robots lourdauds. Visuellement ça veut en mettre plein la vue, mais c'est vain. Comme un gros prout coloré.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1000460484",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2019-08-27",
+            "rating": 4.0,
+            "text_content": "\n                    Papa de Gurren laggan et Kill la Kill, Le réal signe ici son premier long-métrage, Promare. ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1016781135",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2021-09-13",
+            "rating": 2.0,
+            "text_content": "\n                    c'est pas facile... L'aspect hideux du film et ses musiques horrible empêche toute immersion...",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1010640944",
+            "author": "\n                            thomas D\n            \n                    ",
+            "date": "2020-10-8",
+            "rating": 5.0,
+            "text_content": "\n                    Fan de gurren lagann, et du studio en général, film sympa, avec quelques clin d’œil aux séries précédentes.",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1023405056",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2023-01-15",
+            "rating": 5.0,
+            "text_content": "\n                    Je suis allé le voir 13 fois en salle. Une belle expérience aussi bien filmique que de communauté. Des films comme ça on n'en voit qu'une seule fois dans sa vie.",
+            "likes": 0,
+            "dislikes": 0
+        }
+    ]
+}

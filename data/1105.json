@@ -1,0 +1,1220 @@
+{
+    "id": 1105,
+    "name": "Touchez pas au grisbi",
+    "release_date": "1954-03-17",
+    "runtime_in_minutes": 94,
+    "genres": [
+        "Action",
+        "Drame",
+        "Policier"
+    ],
+    "synopsis": "\n                    Max-le-menteur et Riton viennent de réussir le coup de leur vie : voler 50 millions de francs en lingots d'or à Orly. Avec ce \"grisbi\", les deux gangsters comptent bien profiter d'une retraite paisible. Mais Riton ne peut s'empêcher de parler du magot à sa maîtresse Josy. L'entraîneuse transmet la précieuse information à Angelo, un trafiquant de drogue avec lequel elle trompe Riton. Angelo kidnappe le vieux truand et demande le \"grisbi\" à Max comme rançon...\n        \n            ",
+    "reviews": [
+        {
+            "id": "review_42514385",
+            "author": "\n                            Estonius\n            \n                    ",
+            "date": "2014-05-12",
+            "rating": 5.0,
+            "text_content": "\n                    Avec le temps le film est presque devenu un documentaire sur le grand banditisme de ces années-là, la première partie est à cet égard très curieuse où toute éclipse est gommée : on se met en pyjama, on se lave les dents, on mange du pâté étalé sur des biscottes et tout ça en prenant bien son temps, afin de contraster avec le déchaînement de violence de la dernière partie. La distribution est dominée de très loin par Jean Gabin, impérial (ce n'est pourtant pas son meilleur rôle, mais quel talent), Lino Ventura dont c'était le premier film est assez transparent. On notera la présence de Jeanne Moreau dans un petit rôle, parmi d'autres jolies femmes dont Dora Doll mais aussi l'époustouflante inconnue Marilyn Buferd jouant le rôle de Betty; la maîtresse entretenue par Gabin. Un film policier sans flic, un film sur l'amitié, un film sans fautes.\n        \n            ",
+            "likes": 10,
+            "dislikes": 1
+        },
+        {
+            "id": "review_59678646",
+            "author": "\n                            TTNOUGAT\n            \n                            \n                    ",
+            "date": "2018-07-8",
+            "rating": 5.0,
+            "text_content": "\n                    Sans aucun doute un des plus beaux films policiers du cinéma français et un des derniers Gabin dans lequel il reste admirable de bout en bout, superbement dirigé par le réalisateur. Gabin à 50 ans, il bouge encore très bien et son pouvoir de séduction est intact. Ce film est incontournable pour ses admirateurs quelque soient leurs âges. L’action du film est en continue sur moins de 2 jours entiers ce qui n’empêche nullement de s’intéresser à tous les personnages, tous très bien décrits. Le classicisme sobre de ce chef d’œuvre saute aux yeux, l’utilisation du cinéma pour raconter le roman est un régal visuel : aucun effet spécial, de la maitrise, du raffinement, de la rigueur et constamment de la beauté autant dans les décors que dans les costumes. Sur le fond Becker n’attenue pas la misogynie de l’époque en France, il en rajoute même en donnant à Jeanne Moreau une tête de circonstance qui a du bien l’amuser. Seule l’étonnante séquence de la série de baffes rétablit avec humour ce déséquilibre.\n        \n            ",
+            "likes": 6,
+            "dislikes": 0
+        },
+        {
+            "id": "review_38781761",
+            "author": "\n                            conrad7893\n            \n                    ",
+            "date": "2013-08-24",
+            "rating": 3.0,
+            "text_content": "\n                    film noir avec GABIN toujours dans le même rôle, celui d'un gangster, beau parleur  et qui en impose;",
+            "likes": 6,
+            "dislikes": 3
+        },
+        {
+            "id": "review_16995288",
+            "author": "\n                            tomPSGcinema\n            \n                    ",
+            "date": "2010-04-4",
+            "rating": 4.0,
+            "text_content": "\n                    Cette adaptation du roman d'Albert Simonin de la part de Jacques Becker est une excellente surprise. ",
+            "likes": 3,
+            "dislikes": 1
+        },
+        {
+            "id": "review_17343963",
+            "author": "\n                            🎬 RENGER 📼 Cinéphile Nostal𝙂𝙚𝙚𝙠\n            \n                            \n                    ",
+            "date": "2010-05-10",
+            "rating": 2.5,
+            "text_content": "\n                    Film majeur dans l'Histoire du \"polar à la Française\", puisqu'il est l'un des tous premiers du genre, face aux innombrables polars U.S qui pullulaient dans les salles obscures de l'époque.",
+            "likes": 4,
+            "dislikes": 3
+        },
+        {
+            "id": "review_28762235",
+            "author": "\n                            Julien D\n            \n                            \n                    ",
+            "date": "2012-01-12",
+            "rating": 4.0,
+            "text_content": "\n                    Toute l’âme du cinéma des années 50 est concentrée dans ce film noir. En plus de nous faire découvrir l’argot des gangsters d’après guerre, ce thriller nous propulse une intrigue parfaitement ficelé et dont l’humanité des personnages, pourtant patibulaires, est très bien mis en lumière à travers leurs relations et leurs dialogues que l’on croirait signés de la plume d’Audiard. Le rôle de Max semble avoir été écrit pour Jean Gabin tant il lui colle à la peau. L’autre atout du film est d’avoir permis de révélé un nouveau talent, Lino Ventura dans son premier rôle.\n        \n            ",
+            "likes": 3,
+            "dislikes": 0
+        },
+        {
+            "id": "review_89883",
+            "author": "\n                            Caine78\n            \n                            \n                    ",
+            "date": "2006-09-29",
+            "rating": 4.0,
+            "text_content": "\n                    Un grand classique du polar. La mise en scène de Jacques Becker est très noir et donne à ce film une dimension toute particulière. L'ensemble est très classique mais reste magistrale de bout en bout, avec quelques scènes extrêmement réussies. De plus, la fatalité de certains personnages fait froid dans le dos. Un Gabin classique mais efficace niveau interprétation, également entouré de Jeanne Moreau et Lino Ventura. Bien.\n        \n            ",
+            "likes": 3,
+            "dislikes": 0
+        },
+        {
+            "id": "review_24238400",
+            "author": "\n                            Akamaru\n            \n                    ",
+            "date": "2011-04-12",
+            "rating": 2.0,
+            "text_content": "\n                    \"Touchez pas au Grisbi\"(1953)est une institution du film de gangsters à la française.Il relança la carrière après-guerre de Jean Gabin,et contribue à donner une image plus sympathique des bandits,bien qu'il s'attache aussi à une forme de sobriété dans leurs actes.Jacques Becker(père de Jean)n'a pas peur de laisser traîner son intrigue,pour laisser se développer les rapports entre les personnages.En truand vieillissant,désillusionné et loyal,Gabin y est formidable,et confirmait sa stature d'acteur proche du peuple.Les débuts de Lino Ventura,ex-catcheur,étaient fulgurants,avec une présence physique presque animale.Jeanne Moreau fait aussi partie de la distribution en fille de joie.Le Grisbi en question,ce sont les 50 lingots d'or dérobés par Gabin et sa bande à orly,.Ce qui suscite les jalousies,et précipite la confrontation entre 2 races de gangsters:ceux qui ont une parole et ceux qui tirent.Les scènes de poursuite automobile sont plutôt bien filmées pour l'époque,mais Becker abuse des séquences en studio où il ne se passe pas grand chose.Un grand classique,cependant, enveloppé dans un noir et blanc distancié.\n        \n            ",
+            "likes": 2,
+            "dislikes": 2
+        },
+        {
+            "id": "review_1007542282",
+            "author": "\n                            lhomme-grenouille\n            \n                            \n                    ",
+            "date": "2020-05-26",
+            "rating": 1.0,
+            "text_content": "\n                    « Oh bah... C'est sympa chez toi, Max.",
+            "likes": 7,
+            "dislikes": 17
+        },
+        {
+            "id": "review_40018584",
+            "author": "\n                            landofshit0\n            \n                    ",
+            "date": "2013-11-26",
+            "rating": 2.0,
+            "text_content": "\n                    Touchez pas au Grisbi est peut être plus connut en tant que réplique d'Audiard pour les tontons flingueurs que pour un film à part entière. Ne vous y trompez pas les dialogues ici ne sont pas signés Audiard,malheureusement ceux ci n'ont rien de percutant et dates carrément d'une autre époque. Tout comme date la mise en scène de Beker,dans laquelle il ne se passe pas grand chose,les scènes de danses au cabaret sont sans intérêt et sont interminables. Alors oui c'est le film qui révéla Lino Ventura qui a déjà une véritable présence cinématographique. Hormis ça pas grand chose à retenir de ce film poussiéreux.\n        \n            ",
+            "likes": 2,
+            "dislikes": 5
+        },
+        {
+            "id": "review_1006697835",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2020-05-3",
+            "rating": 1.0,
+            "text_content": "\n                    Toucher aux intouchables c'est risqué. Et pourtant ... Mettre une seule étoile à Gabin, Ventura, Audiard et Jacques Becker, il faut être fou. Et pourtant... Tout simplement parce qu'avec ces immenses noms du cinéma Français, on s'attend à une oeuvre magistrale. C'est poussif, d'une lenteur ennuyeuse. Gabin fait du Gabin en serrant les mâchoires pour contenir la violence qui est en lui. Ventura est effacé et les dialogues d'Audiard sont argotiques certes mais ils ne sont pas percutants. La réalisation est assez convenue. Bref ce n'est pas le meilleur film de ces sommités du 7ème art.\n        \n            ",
+            "likes": 4,
+            "dislikes": 6
+        },
+        {
+            "id": "review_55451262",
+            "author": "\n                            weihnachtsmann\n            \n                            \n                    ",
+            "date": "2017-04-26",
+            "rating": 3.5,
+            "text_content": "\n                    Presque un policier solaire!!! Aucune action à part la dernière course poursuite, des dialogues contenus et réduits mais une présence et une ambiance absolument réussie malgré une histoire  plutôt peu développée et simpliste.\n        \n            ",
+            "likes": 1,
+            "dislikes": 1
+        },
+        {
+            "id": "review_25932744",
+            "author": "\n                            bsalvert\n            \n                            \n                    ",
+            "date": "2011-07-3",
+            "rating": 4.0,
+            "text_content": "\n                    Cette série de films est une vraie réussite et nous fait passer un excellent moment.\n        \n            ",
+            "likes": 1,
+            "dislikes": 1
+        },
+        {
+            "id": "review_40558590",
+            "author": "\n                            Hotinhere\n            \n                    ",
+            "date": "2023-04-14",
+            "rating": 3.5,
+            "text_content": "\n                    Becker signe un polar français à l'ancienne, avec une ambiance poisseuse, des dialogues argotiques savoureux, et des vieilles canailles interprétées par un casting de poids.\n        \n            ",
+            "likes": 1,
+            "dislikes": 1
+        },
+        {
+            "id": "review_11656348",
+            "author": "\n                            Antony\n            \n                    ",
+            "date": "2010-09-5",
+            "rating": 3.0,
+            "text_content": "\n                    Etonnant que je n'ai pas vu ce \"Touchez pas au grisbi\" plus tôt. Gabin assure, et c'est peu de le dire puisque tout le film repose finalement sur lui ; et Lino fini presque comme effacé face à tellement de talent. Le final, totalement jouissif, ne fait qu'entériner les choses. Jeanne Moreau, quant à elle, est si jeune que l'on a bien du mal à la reconnaître sinon par la voix. Bref une bonne histoire aux dialogues incroyable et le tout magnifiquement interprété. Vive le cinéma français 50's !\n        \n            ",
+            "likes": 1,
+            "dislikes": 1
+        },
+        {
+            "id": "review_40464361",
+            "author": "\n                            Max Rss\n            \n                    ",
+            "date": "2019-03-13",
+            "rating": 2.0,
+            "text_content": "\n                    « Touchez pas au grisbi » a une «importance» un peu particulière, et ce, pour deux raisons: la première, c’est que ce film a permis a Jean Gabin de conquérir de nouveau les sommets du box office. Lui qui depuis son retour de la guerre, continuait de jouer dans des films à succès, mais qui peinait quand même à trouver sa place dans ce cinéma d'après-guerre. La deuxième c’est que ce film a lancé la carrière d’un certain Lino Ventura. Et oui, si ce film n’avait pas vu le jour, Lino serait resté un anonyme parmi la foule. Ce parait impossible à concevoir aujourd’hui étant donnée sa notoriété. Bref. Voici un polar auquel le titre colle parfaitement. Il s’agit ici de conserver un grisbi en lingots d’or. Deux mecs, deux gangsters, des vrais s’affrontent pour se l’approprier: Monsieur Max (Gabin) et Angelo (Ventura). Mais il ne faut pas se leurrer, « Touchez pas au grisbi » a beau être un classique, un film culte, il ne s’agit que d’un polar ordinaire dont le principal intérêt réside dans la confrontation entre les deux monstres sacrés que sont Gabin et Ventura. Tout le reste, c’est du classique. La mise en scène (bien qu’elle soit signée Jacques Becker) est très lancinante, le rythme, itou et les dialogues manquent sérieusement d’envergure (là on aurait eu besoin d’Audiard). Aujourd’hui, la seule raison qui pousse à regarder ce film, c’est la confrontation entre ses deux acteurs principaux.\n        \n            ",
+            "likes": 2,
+            "dislikes": 5
+        },
+        {
+            "id": "review_1016618583",
+            "author": "\n                            soniadidierkmurgia\n            \n                            \n                    ",
+            "date": "2024-04-23",
+            "rating": 5.0,
+            "text_content": "\n                    « Touchez-pas au grisbi » tient un peu du miracle, qui aura réuni pour une seule et unique fois Jacques Becker et Jean Gabin. Jacques Becker vient d’essuyer deux échecs au box-office avec « Casque d’or » et « Rue de l’estrapade », il cherche alors avidement un sujet pouvant plaire au public. En lisant « Touchez pas au grisbi », le premier roman d’Albert Simonin paru en 1953, il est certain qu’il peut entrer à nouveau dans le jeu. ",
+            "likes": 2,
+            "dislikes": 0
+        },
+        {
+            "id": "review_19247491",
+            "author": "\n                            kray\n            \n                    ",
+            "date": "2010-07-15",
+            "rating": 4.5,
+            "text_content": "\n                    Un grand classique du policier français. Gabin , ventura, tous sont exceptionnels , et l'intrigue palpitante .\n        \n            ",
+            "likes": 1,
+            "dislikes": 1
+        },
+        {
+            "id": "review_8299937",
+            "author": "\n                            Gonnard\n            \n                    ",
+            "date": "2008-05-11",
+            "rating": 2.5,
+            "text_content": "\n                    Un bon petit polar. Jean Gabin tire le film vers le haut avec sa classe. Lino Ventura fait sa première apparition, elle est assez transparente. Le scénario est pas mal, il aurait toutefois mérité d'être approfondi. Les dialogues sont bien plats, ils m'ont déçu.\n        \n            ",
+            "likes": 1,
+            "dislikes": 1
+        },
+        {
+            "id": "review_28764056",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2012-01-13",
+            "rating": 4.0,
+            "text_content": "\n                    Pas mauvais ce film de gangster, mais il ne vaut pas le tonton flingueurs, sinon Gabin, Dary et Ventura.\n        \n            ",
+            "likes": 1,
+            "dislikes": 1
+        },
+        {
+            "id": "review_42103910",
+            "author": "\n                            Yannickcinéphile\n            \n                            \n                    ",
+            "date": "2014-04-8",
+            "rating": 2.5,
+            "text_content": "\n                    Oui, bon, Touchez pas au grisbi est un petit film policier conventionnel qui sans vraiment décevoir n’enchante guère non plus.",
+            "likes": 1,
+            "dislikes": 2
+        },
+        {
+            "id": "review_40304591",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2014-01-20",
+            "rating": 4.0,
+            "text_content": "\n                    Pour son premier rôle au cinéma, on trouve un Lino Ventura déjà exceptionnel, très à l’aise, et ce même en face de l’immense Jean Gabin, toujours aussi charismatique.\n        \n            ",
+            "likes": 1,
+            "dislikes": 1
+        },
+        {
+            "id": "review_4783592",
+            "author": "\n                            Santu2b\n            \n                            \n                    ",
+            "date": "2010-11-21",
+            "rating": 2.0,
+            "text_content": "\n                    On le présente souvent comme un des précurseurs des polars à la française bien avant Melville et autres, \"Touchez pas au Grisbi\" de Jacques Becker même si il m'a laissé sur ma faim mérite d'être vu rien que pour ses interprètes. On peut en effet apercevoir Jeanne Moreau toute jeune et un certain Lino Ventura dans son premier rôle et faisant déjà preuve d'une étonnante maturité. Le tout bien sûr completé par un Gabin au mieux de son charisme. Cependant malgré ces bons points il faut reconnaitre que l'oeuvre en elle même ne passionne pas. Visuellement la mise en scène de Becker fait preuve de sobriété et s'en sort bien mais on attendait une histoire un peu plus excitante avec un tel casting et on se retrouve finalement avec un scénario archi-classique et sans rebondissements majeurs. Le film laisse ainsi un gout en demi teinte dans la bouche.\n        \n            ",
+            "likes": 1,
+            "dislikes": 3
+        },
+        {
+            "id": "review_1007460606",
+            "author": "\n                            Cricriiiiiiii\n            \n                    ",
+            "date": "2020-05-24",
+            "rating": 2.0,
+            "text_content": "\n                    Précurseur du film de mafieux, Touchez Pas Au Grisbi déçoit par son manque de poigne. L'action y est comme engluée, chaque situation, chaque développement, semble prendre des heures à se mettre en place et se dérouler à un train de sénateur notamment à travers des dialogues souvent trop verbeux et pas toujours très compréhensibles, la faute à un argot omniprésent. L'ensemble du casting, sans grand reproche, tente bien d'insuffler un peu de vie à cette histoire, mais cela ne suffit pas à relever le niveau d'un scénario trop mou et à l'intrigue un peu simpliste.\n        \n            ",
+            "likes": 1,
+            "dislikes": 5
+        },
+        {
+            "id": "review_56563805",
+            "author": "\n                            AMCHI\n            \n                            \n                    ",
+            "date": "2017-08-21",
+            "rating": 2.0,
+            "text_content": "\n                    Je croyais que ce polar me plairait davantage mais Touchez pas au grisbi ne m'a pas emballé, polar réputé du cinéma français pour différentes raisons notamment ayant relancer la carrière de Gabin qui allait se spécialiser dans les rôles de patriarche bougon ayant bon cœur ou encore de faire connaître Lino Ventura dans un véritable rôle.",
+            "likes": 2,
+            "dislikes": 14
+        },
+        {
+            "id": "review_27851329",
+            "author": "\n                            sly-stallone88\n            \n                    ",
+            "date": "2011-11-11",
+            "rating": 3.5,
+            "text_content": "\n                    du policier comme on aime, dialogues, duels et règlements de compte !!!\n        \n            ",
+            "likes": 0,
+            "dislikes": 1
+        },
+        {
+            "id": "review_10942115",
+            "author": "\n                            halou\n            \n                    ",
+            "date": "2011-09-22",
+            "rating": 3.0,
+            "text_content": "\n                    Classique, un peu trop, mais le film reste prenant.\n        \n            ",
+            "likes": 0,
+            "dislikes": 1
+        },
+        {
+            "id": "review_57608225",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2017-12-12",
+            "rating": 1.5,
+            "text_content": "\n                    Je me réjouissais de revoir ce polar en noir & blanc truffé d'argot.  Mais j'ai trouvé que ce film pêche par son manque de rythme.  On met quasi une heure avant que cela ne \"bouge\".  L'intrigue est pauvrissime. On voit trop bien par certains plans bien lourdement insistants que le film est fait pour ses protagonistes. Non vraiment, par rapport à \"Le Deuxième souffle\" (malgré une invraisemblance), Touchez pas ne tient plus la route !\n        \n            ",
+            "likes": 3,
+            "dislikes": 3
+        },
+        {
+            "id": "review_1032935356",
+            "author": "\n                            Redzing\n            \n                            \n                    ",
+            "date": "2024-11-20",
+            "rating": 3.5,
+            "text_content": "\n                    Quoi que l'on en pense, \"Touchez pas au grisbi\" n'a rien d'anecdotique dans le cinéma français. Puisqu'il s'agit du film qui a relancé la carrière de Jean Gabin, qui embrassera ensuite ces personnages de sachant charismatique. Et c'est aussi le premier rôle de Lino Ventura, qui se fera repérer en inquiétant gangster.",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1036659266",
+            "author": "\n                            Charlotte28\n            \n                    ",
+            "date": "2025-08-19",
+            "rating": 3.0,
+            "text_content": "\n                    Que s'interrogent ceux qui fantasment sur cette période sur leur conception de la virilité et leur vision de la femme... Une fois ce contexte rappelé, ce film de gangsters bénéficie d'atouts certains: la présence incomparable de Jean Gabin, le choix de s'appesantir sur la lassitude de deux bandits après un coup juteux aux conséquences logiquement imprévues, une tonalité désabusée s'opposant aux avantages sociaux, économiques, relationnels dont bénéficie Max le menteur. Cependant, le reste du récit est très convenu, à l'image d'une réalisation banale, qui ne parvient jamais à instaurer suspense ou attrait pour le sort des protagonistes. Quelques idées intéressantes, mais un ensemble peu trépidant.\n        \n            ",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_28687006",
+            "author": "\n                            dougray\n            \n                    ",
+            "date": "2012-01-8",
+            "rating": 3.0,
+            "text_content": "\n                    Grand classique de la filmographie de l’immense Jean Gabin, \"Touchez pas au grisbi\" n’est pourtant pas son film le plus réussi. Pourtant, on retrouve cette ambiance à l’ancienne qui fait le charme des vieux films avec ses voyous habillés comme des milords, ses rivalités entre gangs, ses femmes forcément réduits au rang de potiches serviles, son argot parisien… On se délecte également de l’interprétation, comme toujours sans fausse note, avec le grand Jean Gabin magnifique en truand respecté, René Dary en complice de toujours, Dora Doll et Jeanne Moreau en danseuses de revue, Paul Frankeur en patron de boîte et surtout la première apparition de l’énorme Lino Ventura qui éclaboussait déjà l’écran de son charisme. L’affrontement entre Gabin et Ventura, deux des plus grands monstres sacrés du cinéma français, est d’ailleurs le principal intérêt du film qui, pour le reste, s’avère d’une facture particulièrement classique. La mise en scène, tout d’abord, souffre d’un rythme lancinant que ne vient pas relever la musique (anecdotique) ou le travail sur l’image (idem). Certaines scènes sont même franchement inutiles, à commencer par celles de la maîtresse américaine de Max. Ce défaut, inhérent à la plupart des vieilles productions, en est particulièrement frappant en raison d’une intrigue sans grande surprise qui ne doit son salut qu’à la présence de Gabin et Ventura et à un final crépusculaire surprenant. Quant aux dialogues, on aurait particulièrement apprécié que Michel Audiard soit de la partie. Au lieu de répliques mémorables, on a le droit à un recueil de toutes les expressions du milieu parigot des années 50. C’est déjà ça, sans doute, mais c’est insuffisant pour rivaliser avec les grands films de Gabin.\n        \n            ",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_40022308",
+            "author": "\n                            vinetodelveccio\n            \n                    ",
+            "date": "2013-11-26",
+            "rating": 4.0,
+            "text_content": "\n                    Un film noir à l'ancienne, bourru, viril et délicieusement écrit. Becker réalise un film ciselé et parfaitement rythmé, à l'ambiance particulière dans laquelle on se sent tout de suite bien. On aimerait faire partie de ce Paris interlope fait d'amitiés éternelles et de trahisons si prévisibles. La réalisation est efficace et dynamique et les dialogues sont un vair petit bijou. On se régale de chaque réplique, d'autant plus que celles-ci sont servies par une brochette d'acteurs mythiques totalement dans leur élément.\n        \n            ",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_33959095",
+            "author": "\n                            cylon86\n            \n                    ",
+            "date": "2012-10-14",
+            "rating": 3.0,
+            "text_content": "\n                    Film qui relança la carrière de Jean Gabin qui jusque là faiblissait, \"Touchez pas au grisbi\" permet à l'acteur de trouver un rôle sur mesure en gangster bougon et lucide qui pense à la retraite après un gros coup. Confrontation des générations (Lino Ventura face à Gabin) aussi bien au niveau des personnages que des acteurs, le film retranscrit parfaitement l'atmosphère des années 50 et bénéficie d'un scénario plutôt simple mais efficace que Jacques Becker met en scène avec talent, prenant son temps pour installer l'ambiance et définir les personnages avant de finir sur une scène de fusillade très réussie.\n        \n            ",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_45745672",
+            "author": "\n                            Loskof\n            \n                    ",
+            "date": "2015-02-2",
+            "rating": 3.5,
+            "text_content": "\n                    Un vrai bon film de gangster à l'ancienne, avec tout ce que cela peut comporter de qualités et de défauts. Les qualités? Des gueules de cinéma, Gabin en chef de la pègre, qui se déplace lentement, qui donne une impression de maîtrise totale, d'emprise sur les autres. Lino Ventura dont s'était le premier film, un des mes acteurs fétiches. On a doit aussi à une plongée presque documentaire dans le milieu mafieux, bien loin des films actuels avec 50 scènes d'actions, où tout est affaire de relation, tout se fait discrètement, lentement. Mais le film a aussi ses défauts. Je ne lui reprocherai pas sa lenteur car c'est propre à l'époque et car cela sert le propos, jusqu'à un final haletant. ce qui m'a dérangé c'est plus l'abus de scènes inutilement longues qui alourdissent le film. C'est un peu contradictoire de vanter et lui reprocher sa lenteur, mais je pense qu'il manque une scène au milieu qui redonne du rythme, avant l'attente finale. Car là finalement le film est juste une longue attente. Mais ça reste un classique !\n        \n            ",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_29284614",
+            "author": "\n                            benoitparis\n            \n                    ",
+            "date": "2012-02-18",
+            "rating": 3.5,
+            "text_content": "\n                    Le film noir à la française c’est la plupart du temps une histoire de gangsters, avec tout le pittoresque un peu facile, ou carrément  démagogique, du milieu. Il n’y a réellement que Melville qui ait réussi à partir de là pour faire quelque chose d’original (si on laisse de coté les parodies de Lautner). Becker reste dans les clous, on a droit à Pigalle, aux histoires d’hommes… Mais heureusement il part d’un roman avec une intrigue intéressante, et la réalisation est documentée et rigoureuse, en en faisant pas trop sur l’argot, le folklore du truand, les codes d’honneur. On aime ou on n’aime pas le genre, on est obligé de saluer le travail du réalisateur.\n        \n            ",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_53244902",
+            "author": "\n                            Newstrum\n            \n                    ",
+            "date": "2016-10-22",
+            "rating": 4.5,
+            "text_content": "\n                    Un des grands classiques du film policier français, qui annonce par ses thèmes (un truand qui veut se ranger et fait passer l'amitié avant l'argent) et sa manière (personnages laconiques, rythme ralenti imposé par un Becker au sommet de son art), toute une série de films policiers français à venir, et en particulier ceux de Melville. Voir ma critique complète sur mon blog :\n        \n            ",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_57727945",
+            "author": "\n                            Housecoat\n            \n                    ",
+            "date": "2017-12-22",
+            "rating": 4.0,
+            "text_content": "\n                    On oublie un peu avec les années à quel point le Cinéma Français était une véritable pointure en terme de films de gangsters à une époque. En plus de donner un rôle clinquant à Jean Gabin, ce premier volet de la trilogie de Max le Menteur donne une dimension poétique au monde des affranchis. Le véritable danger ne se trouve pas chez les policiers mais uniquement dans l'entourage proche tant par erreur que par trahison alors qu'une tragédie peut vite arriver par manque de prudence dans ce milieu où la trahison fait loi. Les criminels sont vieillissants et expérimentés mais une banale erreur de débutant vient vite nous rappeler à quel point l'avenir est proscrit au milieu des grands pontes, l'amour et l'amitié sont des poisons à abandonner si l'on veut survivre. Incontournable.\n        \n            ",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_15713858",
+            "author": "\n                            Alasky\n            \n                    ",
+            "date": "2024-12-6",
+            "rating": 5.0,
+            "text_content": "\n                    Film de gangster franchouillard, classique mais magistral avec Gabin et Ventura, deux acteurs à la classe immense. On constate encore une fois avec une certaine amertume que ces acteurs sont irremplaçables.\n        \n            ",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_16355082",
+            "author": "\n                            ferdinand75\n            \n                            \n                    ",
+            "date": "2010-01-5",
+            "rating": 2.5,
+            "text_content": "\n                    Un bon polar classique, mais quelque part plutôt décevant. Il a pris un vrai coup de vieux, surtout par la faute d'un scénario vraiment très faible; l'argument est simple, simpliste , pas plus épais qu'un papier à cigarette. Le film est vraiment sauvé par une interprétation majestueuse : Gabin à son apogée, Ventura et Jeanne Moreau débutants sublimes, des seconds rôles comme on en faisait à l'époque. La mise en scène est belle, des plans soignés, des contre -plongées, des cadrages au couteau; L'utilisation du Noir & Blanc est parfaite. La faiblesse c'est vraiment cette intrigue, qui a du mal a nous garder captivé.\n        \n            ",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_120480",
+            "author": "\n                            Yasujirô Rilke\n            \n                    ",
+            "date": "2007-11-15",
+            "rating": 4.0,
+            "text_content": "\n                    \"Touchez pas au grisbi\" est le souvenir nostalgique d'un cinéma français de qualité qui n'est plus. La \"noirceur\" des scénes, le pétillant des dialogues, la carrure des acteurs, voilà ce qui fait toute la force titanesque d'une oeuvre comme celle-ci. Mieux que \"Les Tontons flingueurs\", la richesse de l'argot du film nous fait sourire à plus d'un moment. Passant de la prononciation roc de \"paddock\" pour désigner un lit à celle guturale de \"tire\" pour appeler une voiture, on se plait dans l'univers du \"Milieu\". \"Touchez pas au grisbi\" est donc une bien belle porte d'entrée vers la force des situations du Milieu. Le jeu de Jean Gabin, quant à lui, est un exemple à suivre à la trace. De nos jours, plus aucun acteur n'a la présence de ce monstre sacré. Son regard posé et son imposante carrure force le respect. Grâce à ses atouts naturels, Gabin incarne le personnage de Max à la perfection. Tout les acteurs d'ailleurs sont impeccables, participant pleinement à l'univers du film. Quant à la réalisation de Jack Becker, elle est pleine d'humanité et nous décrit la belle amitié entre ces deux hommes de façon tout à fait original. On retient aussi et surtout le théme original qui revient en laet motiv faisant sonné l'armonica ( comme anonçant la venu du western ). Finalement \"Touchez pas au grisbi\" est un vrai chef d'oeuvre français. Je n'aime pas dire ça mais il faut l'avouer, des films comme ça, on en fait plus aujourd'hui.\n        \n            ",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_41065370",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2014-07-16",
+            "rating": 4.0,
+            "text_content": "\n                    Un classique du genre; \"Touchez pas au grisbi\" est un excellent polar à la française. Il réunit deux monuments du cinéma: Jean Gabin et Lino Ventura. Ce dernier a d'ailleurs fait ses premiers pas sur grand écran avec ce film.\n        \n            ",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1027544156",
+            "author": "\n                            Marcelo_Di_Palermo\n            \n                    ",
+            "date": "2023-10-19",
+            "rating": 2.0,
+            "text_content": "\n                    un film qui a vieilli et qu'il faut regarder d'un point de vue \"historique\". Noter que la version restaurée en DVD est superbe. Cela dit, et contrairement à beaucoup, je n'aime pas trop Jean Gabin car il ne sait jouer qu'un seul personnage et toujours de la même façon : prenant toujours les mêmes poses, bourru, quasi antipathique mais aimé (et je me demande bien pourquoi). Mais bon, oublions Gabin. Le scénario est original et intéressant: un polard, mais sans policier, et une sorte de tranche de vie de truands, où on se beurre la biscotte et on se lave les dents en pyjama. On n'échappe malheureusement pas aux clichés : Gabin qui tombe des filles (dont il pourrait être le père), les femmes vouées aux rôles de secretaires ou de riche veuve esseulée... A voir malgré tout comme un témoignage des années 50.\n        \n            ",
+            "likes": 0,
+            "dislikes": 2
+        },
+        {
+            "id": "review_21510286",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2011-03-27",
+            "rating": 3.0,
+            "text_content": "\n                    Un film noir bien posé. Jean Gabin est irréprochable.\n        \n            ",
+            "likes": 0,
+            "dislikes": 1
+        },
+        {
+            "id": "review_40151823",
+            "author": "\n                            ER  9395\n            \n                    ",
+            "date": "2013-12-9",
+            "rating": 4.0,
+            "text_content": "\n                    Du cinéma classique (dans le sens noble du terme ) comme on l'aime , une réalisation et un scénario parfait , Gabin , Ventura et les seconds rôles au diapason , bref , un vrai bonheur .\n        \n            ",
+            "likes": 0,
+            "dislikes": 2
+        },
+        {
+            "id": "review_7216337",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2008-03-12",
+            "rating": 2.5,
+            "text_content": "\n                    Certe le film ouvre une nouvelle page du cinéma français mais au vue du casting on reste sur sa faim. ",
+            "likes": 0,
+            "dislikes": 3
+        },
+        {
+            "id": "review_15860851",
+            "author": "\n                            Lotorski\n            \n                    ",
+            "date": "2009-10-12",
+            "rating": 2.5,
+            "text_content": "\n                    Pas mal, mais pas décoiffant non plus. J'ai quand à moi surtout apprécié les scènes que beaucoup interprèteront comme d'inutiles longueurs.\n        \n            ",
+            "likes": 0,
+            "dislikes": 2
+        },
+        {
+            "id": "review_55592164",
+            "author": "\n                            bobmorane63\n            \n                    ",
+            "date": "2017-05-10",
+            "rating": 4.0,
+            "text_content": "\n                    Un film de gangsters très réussit réalisé par le cinéaste Jacques Becker très inspiré !! Ce long métrage est surtout connu pour son interprète principal Jean Gabin qui entame, selon la légende, comme une seconde carrière de comédien qui jouera par la suite beaucoup de polars chez des grands metteurs en scène mais il ne fera pas que cela . \"Touchez pas au Grisbi\" , le dernier mot du titre pouvait ètre une curiosité mais qui signifie un paquet de lingots d'or signalé quand on en parle ou qu'on le voit par une musique courte à l'harmonica. Max, le personnage central et son ami et collègue Riton veulent prendre aucun risque à leurs ages avec l'or caché et prendre une retraite paisible. Sauf qu'un certain Angelo, mafieux comptant des gommes sous son aile, kipnappe Riton  contre le Grisbi et Max va avoir fort a faire.  Un polar qui possède un bon scénario et une mise en scène qui vieillit bien de Jacques Becvker. Les scènes de fusillades et course poursuite sont impressionnantes. Impressionnant comme le jeu de Jean Gabin qui est une fois de plus admirable avec d'excellents comédiens à ses cotès comme Lino Ventura dans la peau du méchant ou la jeune et belle Jeanne Moreau. Un classique du cinéma Français.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1019038913",
+            "author": "\n                            ned123\n            \n                            \n                    ",
+            "date": "2022-02-17",
+            "rating": 4.5,
+            "text_content": "\n                    J'ai vu un film... un grand classique, un excellent classique, une magnifique prestation de Jean Gabin, the King, et un face-à-face avec Lino Ventura, le Boss... Ce film est une histoire d'amitié et d'honneur dans ce monde fantasmé des truands, autour desquels gravitent des \"p'tites pépées\" au touché soyeux et aux épaules dénudées... Ce film montre comment un truand vieillissant (Jean Gabin) va être engagé, après un coup fumant de vol de lingots d'or, à perdre son \"grisbi\" pour préserver une amitié, avec son complice embarqué par un rival. Le film est très noir, intense et la réalisation de Jean Becker est intense. Les dialogues contribuent à faire de ce film une une réussite totale ! Une certaine nostalgie fleure bon les années 50, le banditisme à la papa, les règlements de compte à la sulfateuses, les décapotables ouvertes au vent et aux balles... Un grand film...\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1032533011",
+            "author": "\n                            Philippe C\n            \n                    ",
+            "date": "2024-10-23",
+            "rating": 2.5,
+            "text_content": "\n                    Ce film date, et n'a pas très bien vieilli, avec ces gangsters en costume cravate, ces femmes à baffes soumises,  et sa première demi heure un peu lente avant que ne se mette en place la véritable histoire. Restent le charme du N&B, le jeu de Gabin, celui moins convaincant de Lino débutant, l'atmosphère des bistrots et cabarets d'antan, et les rues de ¨Paris avec ses lampadaires poussifs, ses  tractions-avant  et sa faible circulation\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1036577226",
+            "author": "\n                            Nicolas L.\n            \n                    ",
+            "date": "2025-08-11",
+            "rating": 3.0,
+            "text_content": "\n                    C'est un vieux polar sans flics mais avec des truands  essentiellement : une histoire qui tient bien la route, des dialogues en vieil argot qui sentent la clope et le zinc, et un Gabin qui en fait trop côté gros bras… mais on lui pardonne, c’est l'epoque et le style qui voulait ça. Et ça en est  assez désuet mais charmant finalement.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1026447317",
+            "author": "\n                            Michael78420\n            \n                    ",
+            "date": "2023-07-31",
+            "rating": 3.0,
+            "text_content": "\n                    Attention, plongée dans les années 1950. Les vraies, avec des hommes virils et des femmes à leur place (oui cette phrase choque la morale de 2023, mais c'était comme ça que ça se passait à l'époque). Jean Gabin est somptueux, respecté, craint. Sa voix profonde se dégage entre toutes. Son personnage a aussi ce petit côté coquin des hommes de son temps et qui ne déplait pas aux femmes, comme par exemple lorsqu'il caresse la poitrine d'une de ses maîtresses : \"Dis-donc ça te fatigue pas trop de porter tout ça ? Je pourrais te donner un petit coup de main !\" Ou encore, contemplant le décolleté d'une autre : \"Ça fait plaisir de retrouver ses petits amis en bonne forme.\" On pourra sourire aussi de voir dans un bar des Toilettes-Téléphone. Ils avaient déjà tout compris ! Aujourd'hui on fait pareil avec nos smartphones lorsqu'on va aux WC ! À noter la première apparition de Lino Ventura dans un film, qui se distingue déjà, préfigurant sa superbe carrière.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1000398634",
+            "author": "\n                            ronny1\n            \n                    ",
+            "date": "2019-08-21",
+            "rating": 3.5,
+            "text_content": "\n                    « Touchez pas au grisbi » est devenu une légende. Il fut le film fondateur du cinéma noir français des années cinquante et des réalisateurs comme Verneuil, entre autres, lui doivent beaucoup. Jacques Becker fut bien sur très influencé par le cinéma américain, et beaucoup de critiques français attribuent à « Grisbi «  le statut de chef d’œuvre. Difficile de se faire une idée de nos jours, car la comparaison avec « White Heat» (L’enfer est à lui) (1949) ou «The Enforcer » (La femme à abattre) (1951) tous deux de Raoul Walsh (1951) ou encore « Asphalt Jungle » de John Huston (1950), n’est pas en faveur du film de Jacques Becker, et de loin. En premier, un manque d’intensité et même d’atmosphère (pourtant un point fort du cinéaste) qui est une déception au regard de ses films précédents. Des rôles féminins réduits à des utilités décoratives (et même au propre comme au figuré pour Marilyn Buferd), Jeanne Moreau mise à part. Mais pas sur que sans la gifle que lui décroche Gabin, son interprétation retienne l’attention. Gabin lui même entame ce que sera le cabotinage Gabin, avec ses tics et son parler argotique. Les deuxièmes rôles sont mal travaillés et seul Lino Ventura, dont c’est le la première apparition à l’écran, offre une prestation (déjà) des plus convaincante. A retenir aussi la musique de Jean Wiener. Même si le film se laisse voir avec plaisir et en tenant compte de son impact sur le cinéma français, parler de chef d’œuvre semble tenir de l’euphorie cocardière.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1028368025",
+            "author": "\n                            rocky6\n            \n                    ",
+            "date": "2023-12-17",
+            "rating": 4.0,
+            "text_content": "\n                    Un polar savoureux qui met en vedette un Jean Gabin parfait. Il incarne un truand qui a réussi un gros coup en dérobant une belle quantité d'or. Malheureusement son complice a trop parlé et un caid de la drogue (Lino Ventura) a découvert ka vérité et veut mettre la main sur le magot. Reflet d'une époque, le film nous replonge dans le milieu criminel des années 50. Le casting est très bon, dominé par un Gabin plus vrai que nature en truand à l'ancienne.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_27167156",
+            "author": "\n                            NeoLain\n            \n                            \n                    ",
+            "date": "2011-09-17",
+            "rating": 5.0,
+            "text_content": "\n                    Touchez pas au grisbi, oui mais qu'est-ce donc le grisbi  ? c'est de l'argent, du pèse, du fric.  Superbe film policier français, un casting ou chaque protagoniste s'impose, explose. Jean Gabin qui joue Max, personnage que l'on devine déjà très débrouillard et dont il est difficile de faire déstabilisé son aplomb et qui vaut mieux pas trop chercher. L'acteur René Daray touchant pour son personnage Riton, la présence de Jeanne Moreau dont on va pas se plaindre, et je termine par le grand Ventura. Toutes les situations ou ils se trouveront est un régal de dialogues et de prestations, on ne lâche pas une miette du début à la fin.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_51493927",
+            "author": "\n                            Eselce\n            \n                    ",
+            "date": "2016-04-30",
+            "rating": 5.0,
+            "text_content": "\n                    L'un des films avec Jean Gabin que je préfère. Les costumes sont de rigueur, la cravate est serrée et toujours élégante chez Gabin. Les dialogues sont délicieux, les pétoires sonnent authentiques, l'histoire et l'ambiance sont magiques. Sans compter les dialogues, les prises de vue, les vieilles voitures et les règlements de compte à l'ancienne, façon gentleman. Un chef d'oeuvre, pour moi, que j'ai vu et revu sans me lasser.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1014393278",
+            "author": "\n                            Audrey L\n            \n                            \n                    ",
+            "date": "2021-04-23",
+            "rating": 3.5,
+            "text_content": "\n                    Touchez pas au grisbi est un véritable test d'âge. Soit votre vocabulaire s'est bonifié comme un grand vin avec votre âge, soit vous vous sentirez trop jeune pour comprendre la moitié des dialogues, en argot \"que même papy n'avait plus entendu depuis son adolescence\". Subjectivement plutôt partie prenante de la seconde catégorie, on s'est souvent demandé ce que racontaient les personnages, où allait untel quand il voulait \"aller au pageot\" (premier regard vers papy : \"c'est au lit\" - \"aaaah.\"), \"flube\" (deuxième regard : \"peur\" - \"aaaah.\"), \"Et tous les crevards que je gave pour qu'ils se tiennent tranquilles, pour qu'ils n'aient pas le temps de devenir curieux, c'est toi qui vas les arroser à ma place?\" (\"oh tant pis, je vais regarder les images...\"). Pas facile de décrocher suffisamment de l'argot des dialogues pour se concentrer sur l'intrigue, surtout quand la plupart des actions sont racontées (untel a enlevé untel, l'autre a piqué l'argent, etc...) sans qu'on ne les voit en images. C'est aussi un assez grand problème de Touchez pas au grisbi : hormis la dernière ligne droite avec le règlement de compte, il ne se passe pas grand-chose (très bavard). On s'est un peu ennuyé pendant la première partie, constituée de beaucoup de texte (dont on comprenait environ 70%). Heureusement que la seconde partie change la donne, et rentre tête baissée dans l'action avec la sulfateuse au poignet, la guimbarde lancée à toute berzingue, et le grisbi qui se fait la malle (ça y est, on s'y met). On aime assez le duo antagoniste entre Jean Gabin (qui s'énerve moins que d'habitude, ça lui va bien) et Lino Ventura comme toujours très à l'aise avec ce genre de rôle. Sans s'être passionné pour ce film, on a passé un bon moment lors de la seconde partie et du final très convaincant, qui nous consolent d'avoir enchaîné les \"Kékidit ?!\" jusque-là.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1020649842",
+            "author": "\n                            Alain D.\n            \n                            \n                    ",
+            "date": "2022-06-27",
+            "rating": 4.0,
+            "text_content": "\n                    A voir et à revoir, ce film en N&B de 1953 démontrant beaucoup de qualités. Un polar à l'ancienne, au scénario solide signé Albert Simonin,  une mise en scène sans faille de Jacques Becker, une bande musicale envoûtante avec la musique devenue culte de Jean Albert Wiener. Quant au prestigieux casting, il nous offre pas moins que Mr Jean Gabin, comme toujours impérial, Melle Jeanne Moreau que l'on vois hélas trop peu, et Lino Ventura qui assure parfaitement pour son premier rôle de cinéma. ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1027917092",
+            "author": "\n                            Agnes L.\n            \n                    ",
+            "date": "2023-11-13",
+            "rating": 4.0,
+            "text_content": "\n                    Belle surprise que ce film de 1954 qui est regardable aujourd'hui avec plaisir. Cela n'est pas toujours le cas pour les films de cette période. Gabin, encore assez vert, a la stature et la gouaille pour jouer Max, le menteur. Il s'agit d'un chef de bande, qui a  volé des lingots d'or pour pouvoir prendre sa retraite. Les dialogues sont savoureux avec l'argot des gangsters. C'est vif, sans violence excessive et le dénouement est presque moralisateur.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_57614596",
+            "author": "\n                            Nicolas S.\n            \n                    ",
+            "date": "2017-12-13",
+            "rating": 3.5,
+            "text_content": "\n                    \"Touchez pas au grisbi\" est l'adaptation fidèle du premier roman de la trilogie écrite par Albert Simonin. Suivront \"Le Cave se rebiffe\" et \"Grisbi or not Grisbi\" devenu \"Les Tontons flingueurs\" au cinéma.",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_31987987",
+            "author": "\n                            Misoramengasuki\n            \n                    ",
+            "date": "2012-05-17",
+            "rating": 4.0,
+            "text_content": "\n                    Le film qui a relancé la carrière de Gabin et lui a donné le goût des rôles de patriarche du milieu. Par la suite, il finira par se caricaturer dans ces emplois taillés sur mesure. Ici, il est parfait. Le mérite en revient grandement à Albert Simonin, auteur du roman éponyme et qui a signé les dialogues du film. Si Michel Audiard, par la suite, utilisera la langue verte pour tirer de mémorables feux d’artifice verbaux, Simonin est beaucoup plus sobre. Pas de paroles inutiles, seuls quelques traits d’humour. L’atmosphère est crépusculaire, le ton est tranchant. Le milieu est impitoyable et ces truands sur le retour, qu’on pourrait croire débonnaires, peuvent encore mordre! A ce jeu-là, Lino Ventura, qui débute à l’écran, impose déjà un physique remarquable, mais il faudra attendre un peu pour le voir briser la glace et devenir le grand acteur qu’on connaît. René Dary, excellent choix de casting, est le complément parfait de Gabin, loser benêt manipulé par sa maîtresse. Jacques Becker signe une mise en scène stylée et d’une grande lisibilité : du début à la fin, rien ne semble forcé, tous les plans s’enchaînent avec le plus grand naturel. Avec la belle photo de Pierre Montazel et la célèbre musique de Jean Wiener, cela donne un classique du polar à la française, qui a remarquablement bien vieilli.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1006351925",
+            "author": "\n                            Djam A\n            \n                    ",
+            "date": "2020-04-26",
+            "rating": 5.0,
+            "text_content": "\n                    le film qui a ressuscité gabin même si il a fait de très bon film en 45 et 53",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1014239058",
+            "author": "\n                            Pierre Augustin\n            \n                    ",
+            "date": "2021-04-12",
+            "rating": 4.5,
+            "text_content": "\n                    Vu en 2021 pour la 1ère fois, c'est assez excellent de voir de vieux films comme ça en noir et blanc avec une façon de vivre et des habitudes qu'on ne connaît plus. Gabin et Ventura fidèles à eux-même comme d'habitude, assez incroyable de les voir si jeunes! Scénario classique, 1ère partie assez lente pour finir en apothéose, par contre assez compliqué de comprendre les dialogues entre l'argot désué et la prononciation.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1007004344",
+            "author": "\n                            Ducerceau\n            \n                    ",
+            "date": "2023-11-28",
+            "rating": 4.0,
+            "text_content": "\n                    Un vrai polar à la française avec des vrais jules comme  Gabin et Ventura. Et des pin-ups et des bourgeoises. Bien sûr, ça tire dans tous les coins mais avec la dose indispensable d'une belle histoire d'amitié. À noter que, pour une fois, Lino n'a pas le beau rôle.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_56573592",
+            "author": "\n                            Roub E.\n            \n                            \n                    ",
+            "date": "2017-08-22",
+            "rating": 4.0,
+            "text_content": "\n                    Du polar français à l'ancienne qui n'a pas vieilli tant il semble représenter une période du banditisme parisien presque rentrée dans l'inconscient collectif. Jean Gabin et Lino Ventura roulent des mécaniques comme ça n'est pas permis avec des dialogues qui reflètent l'idée de ce que l'on se fait du parler de la rue de l'époque. Le film a une vision très pessimiste de ses personnages et de leur destinée. En effet aucun ne donne l'impression de pouvoir atteindre ses buts à long terme, justement par appât de l'argent facile et des raccourcis. Du coup on se demande vraiment comment tout cela va finir, le gangster à moitié dandy et moitié gorille joué par Gabin ne paraît pas immunisé contre la scoumoune. Un film du passé sur une époque révolue mais dans laquelle on se plonge avec plaisir.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1006719107",
+            "author": "\n                            Fabien S.\n            \n                    ",
+            "date": "2020-05-4",
+            "rating": 5.0,
+            "text_content": "\n                    Un chef d'œuvre. Un bon film noir de gangster avec Lino Ventura et Jean Gabin accompagnée de Jeanne Moreau.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1003084434",
+            "author": "\n                            ManoCornuta\n            \n                            \n                    ",
+            "date": "2020-05-10",
+            "rating": 4.0,
+            "text_content": "\n                    Ah, la bonne époque, celle où le cinéma français parvenait à trouver son langage propre sur un genre qui semblait la chasse gardée américaine. Touchez Pas au Grisbi a fait date, en contribuant d'une part au regain de la carrière de Gabin (lequel, impeccable en vieux truand bourru, trouvera là son futur leitmotiv), en introduisant une nouvelle garde prometteuse avec Lino Ventura, et en adoptant un ton et une atmosphère régulièrement repris dans les années suivantes. Le film noir à la française commençait ainsi sous les meilleurs auspices, en dépit de quelques petites maladresses dans le rythme, mais le style, lui, était déjà ciselé.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1007420781",
+            "author": "\n                            CH1218\n            \n                    ",
+            "date": "2020-05-23",
+            "rating": 3.0,
+            "text_content": "\n                    Signé Jacques Becker, ce classique des années 50 voir évoluer Jean Gabin, René Dary ainsi qu’un trentenaire alors inconnu nommé Lino Ventura. « Touche pas au Grisbi » est un film de gangsters qui tarde à trouver son rythme et dont ses actrices (Jeanne Moreau, Dora Doll, une très belle ex-miss America Marilyn Bufeld ou encore Gaby Basset, la première épouse de Gabin) ne font que de la figuration.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_56384243",
+            "author": "\n                            Gérard Delteil\n            \n                    ",
+            "date": "2017-08-2",
+            "rating": 3.5,
+            "text_content": "\n                    Toute la mythologie des gangsters des années cinquante en un seul film. Loi du milieu, amitiés viriles, sexisme caricatural, rien ne manque. Evidemment, ça n'a pas grand chose à voir avec la réalité sordide de la pègre, dont pas mal d'éléments avaient fait leurs classes et leur beurre en collaborant avec la Gestapo. La scène d'interrogatoire dans une cave est à ce propos singulièrement soft. Gabin fait du Gabin avec une relative sobriété. Paul Frankeur est à son habitude excellent et Ventura fait une apparition massive très remarquée. Jeanne Moreau et Dora Doll ne sont pas trop gâtées mais sont impeccables dans leurs rôles - limités - de souris à truands. En revanche, les autres comédiens manquent de présence. Le scénario est très conventionnel mais l'image est belle et les dialogues en argot d'époque de Simonin restent savoureux. Touchez pas au grisbi, bien que ringardisé par les films noirs américains qui tiennent beaucoup mieux la rampe soixante ans plus tard, reste un document sur l'idéologie propagée par les truands reconvertis comme Simonin, Bastianni ou Giovanni. Et quel plaisir de revoir ces comédiens qui ont marqué le cinéma.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1006879801",
+            "author": "\n                            DanDan\n            \n                    ",
+            "date": "2020-05-10",
+            "rating": 4.0,
+            "text_content": "\n                    Un classique du film noir français aussi bien que les américains!! Jean Gabin est notre Humphrey Bogart National! 1er Role de Lino Ventura au cinéma qui excelle en sale gangster véreux sous les traits \"d'Angelo\"...Jean Gabin en \"Monsieur Max\" est excellent..La jeune Jeanne Moreau en danseuse de cabaret exquise...Le film est très attrayant bien qu'il a plus de 65 ans....A noter le rôle d'une des maîtresses du \"Nantais\" en un second rôle réussi la belle et ravissante américaine Marilyn Buferd\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1027862079",
+            "author": "\n                            inspecteur morvandieu\n            \n                    ",
+            "date": "2023-11-9",
+            "rating": 3.5,
+            "text_content": "\n                    Le film de Jacques Becker se distingue des films noirs français de l'époque par son refus d'une certaine esbroufe et des clichés sur le milieu des truands. Les portraits des personnages sont brefs mais les quelques indices qui éclairent le caractère de chacun nous les font paraître pour vrais. Au long de cette histoire dans le milieu de la pègre, où le truand Max (Gabin) est menacé de se faire dépouiller de son dernier larcin par le gangster plus malhonnête et moins scrupuleux Angelo (Ventura), sa rigueur et son observation juste des moeurs des truands - qu'on devine dès les premières scènes du film dans un night-club parisien- détournent Becker de l'artifice dramatique et de l'action rocambolesque. La simplicité et la sincérité exigées par Becker se retrouvent dans le statut des personnages qui ne sont, pour les \"bons\", ni d'invulnérables héros ou modèles, ni, pour les \"méchants\", des brutes épaisses.",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_56773025",
+            "author": "\n                            Fabios Om \n            \n                    ",
+            "date": "2017-09-11",
+            "rating": 4.0,
+            "text_content": "\n                    un très bon film très bien écrit et magnifiquement interprèter à l'époque les film était tellement bien écrit et m'était en valeur les acteur . En plus avec des acteur comme gabin qui en impose c'est forcément plus facile de faire un bon film . Un film qui réuni des grand acteur de leur génération Gabin et Ventura que tous le monde attendais enfin ! un bon film très rythmé et une scène de claque culte !\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1003995235",
+            "author": "\n                            fabrice d.\n            \n                    ",
+            "date": "2020-03-16",
+            "rating": 4.0,
+            "text_content": "\n                    On a ici affaire à un classique du cinéma policier français des années 50.",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_24090521",
+            "author": "\n                            real-disciple\n            \n                    ",
+            "date": "2011-04-14",
+            "rating": 3.5,
+            "text_content": "\n                    Très grand film à l'atmosphère très pesante avec un panel d'acteurs formidables, un polar à la française comme on en fait plus.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_11731559",
+            "author": "\n                            gastonlebrave\n            \n                    ",
+            "date": "2009-01-9",
+            "rating": 4.0,
+            "text_content": "\n                    On revoit toujours ce film de 1954 avec autant de plaisir: les regrettés Gabin et Ventura y sont pour beaucoup.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_9690840",
+            "author": "\n                            Najou\n            \n                    ",
+            "date": "2008-08-11",
+            "rating": 4.0,
+            "text_content": "\n                    Ces films ont vraiment créé un style : les films noirs français des années 50 où l'on retrouve toujours nos acteurs favoris (Gabin, Ventura, Moreau). On regarde toujours ça avec autant de plaisir! Le suspens, l'ambiance, les dialogues, leur manière de jouer... Formidable! Ce genre d'acteurs n'existe plus, quel dommage...\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_2781798",
+            "author": "\n                            selenie\n            \n                            \n                    ",
+            "date": "2009-01-15",
+            "rating": 5.0,
+            "text_content": "\n                    Sans aucun doute l'un des meilleurs films policiers français.",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_40026512",
+            "author": "\n                            Raphaël O\n            \n                            \n                    ",
+            "date": "2013-11-26",
+            "rating": 4.0,
+            "text_content": "\n                    Un polar très sombre porté par un Jean Gabin excellent.\n        \n            ",
+            "likes": 0,
+            "dislikes": 2
+        },
+        {
+            "id": "review_144138",
+            "author": "\n                            JamesDomb\n            \n                    ",
+            "date": "2006-09-29",
+            "rating": 5.0,
+            "text_content": "\n                    Touchez pas au grisbi apparaît aujourd'hui comme étant la pierre fondatrice du film policier français moderne, la quintessence du polar hexagonal. Un renouveau du genre qui inspirera entre autre les Melville, Grangier, Verneuil et compagnie. Jacques Becker en collaboration avec le grand Albert Simonin (auteur du roman et ici dialoguiste et co-scénariste) crééent des personnages crédibles, truands impitoyables mais pittoresques plongés dans le \"milieu\" de la pègre parisienne. Becker en fait par ailleurs une description minutieuse et jamais vue auparavant dans le cinéma hexagonal. Touchez pas au grisbi c'est aussi l'histoire d'une profonde amitié, une histoire de trahison et de ses ravages, un film sur le temps qui passe, une lutte entre les anciens qui cherchent à raccrocher mais qui se font toujours rattrapés par leur passé et la nouvelle génération encore plus gourmande qu'ils ne l'étaient. Becker souhaite que les personnages soient montrés dans leurs fragilités pour les rendre crédibles aux yeux des spectateurs. Il privilégie les petits détails du quotidien en montrant les truands chez eux, se brossant les dents et même en pijama. Ainsi, le film et les personnages (abordés avant tout comme des gens normaux) de Becker ne tombent jamais dans les stéréotypes. Les dialogues de Simonin sont succulents et surtout merveilleusement servis par la brillante distribution, Jean Gabin et René Dary en tête. Gabin qui retrouvait enfin le succès auprès du public et le rang qu'il occupait avant guerre dans le cinéma français entame avec Touchez pas au grisbi une nouvelle carrière florissante. Il pose également les bases de son rôle de vieux patriarche autoritaire qui deviendra récurrent et faisant de lui le \"Parrain\" du cinéma français. Le thème musical signé Jean Wiener est resté gravé dans toutes les mémoires. La photo noir et blanc de Pierre Montazel est sublime et parvient même à rendre les yeux de Jean Gabin lumineux. Ce film demeure aujourd'hui LA référence du genre.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_11826491",
+            "author": "\n                            Vixare\n            \n                    ",
+            "date": "2009-01-15",
+            "rating": 5.0,
+            "text_content": "\n                    Un classique du film policier de l'époque, Touchez pas au grisbi nous emmène dans le milieu Parisien du début des années 50 : une histoire simple, une réalisation efficace et parlante, puis une excellente interprétation voilà le secret de cette réussite de Jean Becker. C'est toujours un plaisir de se plonger dans cette atmosphère spéciale, clandestine du Paris d'après-guerre cette fois montrée sous un jour nouveau et à travers l'amitié sincère et forte entre Gabin et Dary, l'usage du Noir et Blanc apporte d'ailleurs encore plus de crédibilité au tout, la musique colle tout à fait à la réalisation et aux manœuvres de Becker. Le face à face Gabin-Ventura, une nouvelle fois réunis ravira les fans et nous tiendra en haleine jusqu'au bout. Un très bon moment de cinéma !\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1028478966",
+            "author": "\n                            gerard stevenson\n            \n                    ",
+            "date": "2023-12-26",
+            "rating": 2.0,
+            "text_content": "\n                    \"Touchez pas au grisbi\" classique du cinéma français. Pour ma culture, je me devais de visionner ce film hyper connu.",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_40027711",
+            "author": "\n                            Nangeuh\n            \n                    ",
+            "date": "2013-11-26",
+            "rating": 3.0,
+            "text_content": "\n                    Un film ou quand même il se passe pas grand chose mais appréciable pour les dialogues et un jean gabin au top.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_41037971",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2014-02-16",
+            "rating": 3.5,
+            "text_content": "\n                    Film noir, classique du polar français de l'époque réunissant Jean Gabin qui deviendra une vedette et Lino Ventura alors au début de sa carrière.",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_54058943",
+            "author": "\n                            Stephenballade\n            \n                            \n                    ",
+            "date": "2016-12-31",
+            "rating": 4.0,
+            "text_content": "\n                    Un film de Jacques Becker (à qui on doit entre autres \"La grande illusion\" et \"Goupi Mains rouges\"), lequel a co-écrit le scénario avec Maurice Griffe (qui a aussi signé le script de \"Razzia sur la chnouf\") à partir du roman éponyme de l’écrivain et scénariste Albert Simonin (\"Mélodie en sous-sol\", \"Les tontons flingueurs\"). La tête d’affiche revient à Jean Gabin, décidément très charismatique dans la peau d’un truand vieillissant, si convaincant qu’on croirait que son rôle lui a été taillé sur mesure. Un rôle qui lui aura rapporté un prix de meilleur acteur à la Mostra de Venise 1954. Un rôle qui va lui en amener quelques-uns du même genre dans les années suivantes. Quand on écoute les dialogues de \"Touchez pas au grisbi\", on pourrait les penser sortis de la plume de Michel Audiard, pour la seule et unique raison que l’argot (souvent lié au monde des truands et à celui des policiers) a été utilisé. Eh bien sachez que l’argot a été quelque peu édulcoré par rapport au roman (un peu trop même d’ailleurs, car les dialogues manquent parfois d’envergure), l’auteur de ce dernier s’étant vu contraint de rajouter un lexique en fin de l’œuvre littéraire afin d’en faciliter la compréhension. De plus, et c’est là que se démarque ce long métrage de ce qui se faisait avant, c’est le fait que l’histoire se place du point de vue des gangsters, tout en se démarquant du genre polar noir en prenant plus un air de thriller qu’autre chose. L’aspect policier est toujours là, mais de façon très légère, alors que le thriller se pose plus sur l’affrontement entre deux générations de bandits : les anciens contre les plus jeunes. Pour matérialiser tout cela, nous avons bien sûr Jean Gabin, à qui on a associé René Dary pour interpréter un Riton rendu un peu gaga sur les bords par la beauté étourdissante de sa belle (Jeanne Moreau si jeune qu’elle aurait pu être leur fille). Plus de vingt ans de différence, ça parait trop beau pour être vrai, surtout pour Riton. D’autant plus qu’apparait une nouvelle sorte de truands, plus motivés que jamais pour prendre la place des vieux, avec de nouveaux marchés comme la drogue. Il n’en faut pas plus pour tourner la tête aux femmes atteintes de vénalité. Pour incarner la génération montante assoiffée de pouvoir, un jeune acteur fait semble-t-il sa première apparition. Il s’agit de Lino Ventura, alors crédité sous son véritable nom : Angelo Borrini. Quoi de mieux que de débuter au cinéma avec un personnage qui porte le même prénom que lui ? Il n’empêche qu’il ne semble pas vraiment impressionné par l’aura de Jean Gabin. Mieux : il lui donne parfaitement la réplique ! Tout en étant différent de ce que le public avait alors l’habitude de voir, c’est de nous faire prendre en sympathie les bandits. Comment ? Eh bien c’est simple : en nous faisant partager leur quotidien. Outre le fait qu'on les voit en pyjama, prendre leur petit déjeuner, aller au restaurant comme des gens normaux, on découvre ainsi un univers où les liens peuvent être fraternels, donnant une dimension humaine à des personnes qu’on ne pensait alors que seulement obsédées par l’appât du gain quel que soit le moyen utilisé. Entre les deux générations, outre la différence d’âge, on peut voir la différence dans la façon de procéder. Les plus expérimentés croient en un code d’honneur, les morts de faim ne jurent que par la fourberie et la trahison. Tout cela donne une profonde réflexion sur la sagesse acquise par l’âge, et sur l’amitié. \"Touchez pas au grisbi\" est assurément un grand film, soigné jusque dans les moindres détails, d’une bien belle photographie à l’ambiance tendue juste ce qu’il faut ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_6376860",
+            "author": "\n                            Niko0982\n            \n                    ",
+            "date": "2008-04-10",
+            "rating": 5.0,
+            "text_content": "\n                    Un vrai petit chef d'oeuvre dont on se lasse pas. Très bien joué, très sombre et très prenant.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1014255887",
+            "author": "\n                            Patjob\n            \n                    ",
+            "date": "2021-04-13",
+            "rating": 3.0,
+            "text_content": "\n                    Un classique du polar Français, dans toutes les acceptions du terme : bien fait et très représentatif d’un style mais manquant d’originalité. Sur un scénario banal et sans surprise, Jacques Becker parvient à créer une ambiance, dans le Paris nocturne des « caïds » de l’époque. Les dialogues signés Albert Simonin sont très bons, empruntant savoureusement à l’argot du milieu. Le tout génère un agréable moment avec cette histoire qui se révèle être avant tout une histoire d’amitié. Ce sont d’ailleurs les scènes entre les deux potes Max et Riton qui sont le mieux réussies, quand, dans des situations du quotidien (comme la belle scène du casse-croute avec des biscottes), les reproches sont exprimés avec regret, empathie et affection.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_20587520",
+            "author": "\n                            camray54\n            \n                    ",
+            "date": "2010-08-19",
+            "rating": 4.0,
+            "text_content": "\n                    Un bon policer français comme on savait faire, comme savait le faire Jean Becker, et intelligemment interprété par Jean Gabin. A voir !\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1001786319",
+            "author": "\n                            vivaBFG\n            \n                    ",
+            "date": "2020-01-12",
+            "rating": 4.0,
+            "text_content": "\n                    Un bon film de truand, bien noir comme on les faisait dans les années 50-60, avec un Gabin excellent et un Lino pas en reste, à ses débuts. Le scénario est parfait dans sa simplicité. Ce film nous plonge dans le monde des brigands et de leur jargon : délicieux. Sans compter les vues de Paris de ces années là...",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_17447685",
+            "author": "\n                            Photo-cineaste\n            \n                    ",
+            "date": "2010-05-20",
+            "rating": 2.5,
+            "text_content": "\n                    Ce film a été proclamé chef œuvre Absolut par pas mal de monde... Moi j'ai simplement eu l'impression de voir un film banal et qui a très mal vieillit. C'est certes sympa, ça se laisse certes regarder mais ce n'est pas non plus grandiose... Les acteurs sont d'ailleurs plutôt mauvais dans l'ensemble, mais ceci est surtout du à leurs répliques pas franchement tonitruantes...\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_40028013",
+            "author": "\n                            pierrre s.\n            \n                            \n                    ",
+            "date": "2013-11-27",
+            "rating": 4.0,
+            "text_content": "\n                    Gabin joue le caïd, Ventura le méchant, le tout dans le Paris dans années 50. Un peu carricatural sur les bords, ce polar relève pourtant du génie, grâce à une histoire bien foutue et des dialogues magiques!\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_58320847",
+            "author": "\n                            Attigus R. Rosh\n            \n                    ",
+            "date": "2018-02-10",
+            "rating": 3.5,
+            "text_content": "\n                    Petit film sympathique de l'ère Gabin – Ventura.",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_52264926",
+            "author": "\n                            Eowyn Cwper\n            \n                    ",
+            "date": "2016-07-22",
+            "rating": 3.0,
+            "text_content": "\n                    Ce film a marqué plus que les habituels drames de Gabin. Alors pourquoi ? Déjà, c'est un des rares opus réalisés par Jacques Becker (tandis que ses confrères ne juraient que par le caractère prolifique de leur carrière, il n'aura réalisé qu'une quinzaine d’œuvres).",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1003893168",
+            "author": "\n                            GéDéon\n            \n                    ",
+            "date": "2023-04-23",
+            "rating": 2.0,
+            "text_content": "\n                    En 1954, Jacques Becker signe un film policier sur le milieu du banditisme, dans lequel des malfrats se livrent une guerre sans merci pour récupérer un magot dérobé. Le réalisateur a décidé de limiter les scènes d’action au profit d’une analyse psychologique plus poussée de ses personnages. Cela crée une atmosphère particulière, avec de nombreux dialogues creux pourtant interprétés par de grands acteurs de l’époque (Jean Gabin, René Dary, Jeanne Moreau, etc.). Mais cela nuit fortement au rythme de l’histoire. Malheureusement, compte tenu d’un scénario sans surprise, on finit par s’ennuyer. Il s’agit tout de même de la première apparition au cinéma de Lino Ventura. Bref, du cinéma qui respire la naphtaline.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1026244938",
+            "author": "\n                            Luuuuuuuuc\n            \n                    ",
+            "date": "2023-07-20",
+            "rating": 5.0,
+            "text_content": "\n                    « Des clients comme ça, il en faudrait beaucoup. »",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_48999389",
+            "author": "\n                            Bertie Quincampoix\n            \n                    ",
+            "date": "2015-10-26",
+            "rating": 4.0,
+            "text_content": "\n                    Grand classique du film noir à la française, Touchez pas au grisbi possède de nombreuses qualités qui le rendent absolument délicieux : acteurs superbes – Jean Gabin en tête, tout comme Jeanne Moreau dans un rôle secondaire – musique magnifique, dialogues excellents. Un pur moment de plaisir.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_24238419",
+            "author": "\n                            titusdu59\n            \n                    ",
+            "date": "2011-04-12",
+            "rating": 3.0,
+            "text_content": "\n                    Comme la plupart des polars français de l'époque, \"Touchez pas au grisbi\" est un film extrêmement bavard. Tant et si bien qu'on s'ennuie vite. Le scénario manque terriblement de ressources pour remédier à ce problème, et les 70 premières minutes passent lentement, très lentement... Alors, Gabin a beau éclabousser de toute sa classe tout ce petit monde, la mise en scène de Becker a beau être d'un classicisme remarquable, on trouve quand même l'ensemble extrêmement poussif. Mais fort heureusement, les trente minutes de conclusion rehaussent de fort belle manière sa qualité générale. Becker nous offre ainsi de fort jolies scènes d'action, pour ne pas dire époustouflantes (on n'est qu'en 1955!), de même qu'une conclusion très forte, bien loin des traditionnels happy-endings des films noirs hollywoodiens de la même époque. On ne peut donc que regretter une entame trop longue, qui si elle avait été (fut-ce possible?) mieux gérée, aurait dans doute pu faire de ce \"Touchez pas au grisbi\" (Lion d'or à la Mostra de Venise) un très grand film. À noter également la petite apparition de Lino Ventura dans un second rôle, qui laissait déjà espérer le meilleur pour la suite (\"Les tontons flingueurs\", \"Garde à vue\" notamment).\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_5342394",
+            "author": "\n                            rogertg2\n            \n                    ",
+            "date": "2007-12-3",
+            "rating": 5.0,
+            "text_content": "\n                    Un très bon film policier en noir et blanc et sans effets spéciaux ridicules, comme on n'en fait plus de nos jours, avec en plus des acteurs excellents, de Jean Gabin aux plus petits rôles... Passionnant d'un bout à l'autre.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_11730850",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2012-12-17",
+            "rating": 4.5,
+            "text_content": "\n                    Un classique du film de gangster à la française avec un casting d'enfer. L'histoire se met en place calmement ensuite à la fin des fusillades éclatent, poursuites, prises de becs, ... . Un scénario passionnant, bien filmer vraiment un sommet du polar.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1037770943",
+            "author": "\n                            Zebrakelo\n            \n                    ",
+            "date": "2025-12-14",
+            "rating": 3.0,
+            "text_content": "\n                    Dans ce polar de mâles dominants (presque un concours…), on peut admirer le jeu d’acteur du grand Gabin notamment.",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_60663923",
+            "author": "\n                            Mafoipourquoipas\n            \n                    ",
+            "date": "2018-10-20",
+            "rating": 2.0,
+            "text_content": "\n                    2 étoiles - Touchez pas au grisbi",
+            "likes": 0,
+            "dislikes": 2
+        },
+        {
+            "id": "review_24210063",
+            "author": "\n                            ElAurens\n            \n                    ",
+            "date": "2011-04-11",
+            "rating": 3.0,
+            "text_content": "\n                    Pour moi, Touchez pas au grisbi, c'est avant tout le premier rôle du très grand Lino Ventura au cinéma. Pas n'importe quel rôle en plus, puisqu'il joue un truand italien rival de Jean Gabin, rôle qu'il avait d'abord refusé avant d'accepter. C'est également le début de la nouvelle carrière de Jean Gabin, qui n'avait plus la cote qu'il avait avant la guerre, et c'est aussi un des premiers rôles de Jeanne Moreau. Touchez pas au grisbi n'est pas exempt de tout reproches non plus, le scénario est très simpliste par exemple, le film se laisse bien regarder sans non plus être inoubliable. Un classique du cinéma français, peut être un peu surestimé, mais qui vaut le coup d'œil pour ses interprètes et surtout le face à face entre Gabin et Ventura.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_21778564",
+            "author": "\n                            Cinemartrem18\n            \n                    ",
+            "date": "2010-11-1",
+            "rating": 4.0,
+            "text_content": "\n                    Très bon. ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1014146816",
+            "author": "\n                            stans007\n            \n                    ",
+            "date": "2021-04-5",
+            "rating": 4.0,
+            "text_content": "\n                    Bon scénario, bonne photo, mise en scène précise, bonne musique… Un brin macho et démodé. Avec Jean Gabin, René Dary, Lino Ventura, Jeanne Moreau…\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_16231944",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2009-12-19",
+            "rating": 4.5,
+            "text_content": "\n                    Classique magnifique, tragique et noir du polar français des années 50. Le casting est royal avec Jean Gabin magnifique d'humanité, Lino Ventura, petite frappe sublime, Jeanne Moreau, parfaite en fausse ingénue par qui le malheur arrive et René Dary, au talent méconnu mais indéniable. La réalisation de Jacques Becker est un modèle du genre sachant capter à la fois la tension et l'humanité des personnages. Le scénario est également une parabole machiste et vieille comme le monde sur le rôle vénéneux de la femme, manipulatrice, séductrice et fatale face aux hommes bourrus mais au fond attachants! Je regrette vraiment cette époque où le cinéma français parvenait à être la référence du film noir, surpassant même les standards américains sur de nombreux points.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_60709981",
+            "author": "\n                            marmottefurieuse\n            \n                    ",
+            "date": "2018-10-24",
+            "rating": 4.0,
+            "text_content": "\n                    Un très bon film de gangsters des années 50 en noir et blanc avec un impeccable Jean Gabin dans le rôle du gangster viril (et parfois bourru) qui aspire à prendre une retraite paisible avec son partenaire Riton (René Dary) après avoir réussi à dérober des lingots d'or lors d'un dernier casse couronné de succès. Malheureusement, Angelo (Lino Ventura déjà très convaincant et charismatique dans son premier rôle) un autre gangster, a connaissance de l'existence du magot et fait tout en sorte pour récupérer la mise. Les dialogues, sans être de la veine quelque peu comique d'Audiard, et le scénario sont également réussis... Peu importe si le rythme peut paraître lent par rapport à nos standards de époque actuelle. Une réussite.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1015682683",
+            "author": "\n                            Musomuse\n            \n                    ",
+            "date": "2021-07-1",
+            "rating": 4.0,
+            "text_content": "\n                    Agréable à regarder. C'est assez lent mais dans un sens mélioratif. On sent le poids de la société décrite, les personnages sont très concrets et c'est du bon vieux cinéma français. Même si des fois je trouve tout ça un peu trop propre et manquant de  relief.",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_10442074",
+            "author": "\n                            Karussell\n            \n                    ",
+            "date": "2008-09-30",
+            "rating": 4.0,
+            "text_content": "\n                    Un grand classique du genre, une référence en matière de film policier à la française. Jean Gabin dans un rôle de gangster lui allant comme un gant, tour à tour chef de clan craint et respecté puis ami protecteur, face à Lino Ventura pas encore au sommet de sa carrière mais que l’on sent monter en puissance. Une pléiade de seconds rôles tenus par des noms tels que Paul Frankeur, Jeanne Moreau, Dora Doll. Et curiosité supplémentaire, le rôle de Marinette tenu par Gaby Basset, 1ère femme de Jean Gabin à la ville.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_28764936",
+            "author": "\n                            falex\n            \n                    ",
+            "date": "2012-01-13",
+            "rating": 3.0,
+            "text_content": "\n                    Un film noir à la française avec Gabin et également Jeanne Moreau et Lino Ventura aux débuts de leurs carrières. Le film a quand même vieillit mais reste intéressant pour son côté noir, sa thématique de l'amitié et son cadre d'époque. Dans le genre, pas mon Gabin préféré.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_29763368",
+            "author": "\n                            Régis B\n            \n                    ",
+            "date": "2012-03-24",
+            "rating": 3.5,
+            "text_content": "\n                    Un bon film de gangsters et un tres bon Jean Gabin\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_6853106",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2008-02-26",
+            "rating": 5.0,
+            "text_content": "\n                    tres bien joué par tous les acteurs\n        \n            ",
+            "likes": 0,
+            "dislikes": 2
+        },
+        {
+            "id": "review_1034423014",
+            "author": "\n                            Topaze87\n            \n                    ",
+            "date": "2025-03-9",
+            "rating": 5.0,
+            "text_content": "\n                    Jacques Becker nous offre ce chef d’œuvre qui constitue pour moi encore aujourd’hui le meilleur film de gangsters. Jean Gabin est impeccable dans ce film qui est aussi une histoire d’amitié dans ce magnifique Paris des années 50.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1027842639",
+            "author": "\n                            marc sillard\n            \n                    ",
+            "date": "2023-11-7",
+            "rating": 4.0,
+            "text_content": "\n                    Gabin a 49 ans. Il est svelte, pas de ventre. Pas de cheveux blancs non plus. Sept ans avant il a joué \"Miroir\", le prototype des films policiers qui feront la réputation de sa seconde carrière. Ici c'est Jeanne Moreau, 24 ans, qui tremble devant Max alors que la fois d'avant c'était Martine Carol, 27 ans. Max est un tombeur, les filles lui tombent dans les bras. \"Comment tu fais, Max\" lui demandent ses copains de bistrot. La fusillade finale est assez sommaire. C'est le boitillant Frankeur, ni sportif ni guerrier, qui règle son compte à coups de fusil mitrailleur au méchant Lino Ventura. A noter que ledit Ventura au générique est écrit en plus petit que Dary, Frankeur, ou Jeanne Moreau. Alors pourquoi cela a t-il marché cette fois-ci ? Plusieurs explications. La simplicité de l'histoire, le style cinématographique propre et net, la musique bien connue à l'harmonica qui revient comme un leitmotiv au juke box, les acteurs secondaires dont Ventura excellents, et peut-être surtout les dialogues à la Simonin en argot parisien littéraire qui collent complètement à la personnalité de Gabin. Pourtant il y a des longueurs dont la scène de lavage de dents, mais cela passe parce que c'est Gabin dit Max. Je me demande tout de même s'il ne faut pas avoir connu le Paris des années cinquante, ses bistrots à la bonne franquette, ses dancings ringards, ses tractions avant noires, ses rues mal éclairées, ses téléphones à cadran, pour apprécier ce film. Bon souvenir pour les vieux cinéphiles.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_16838559",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2010-03-10",
+            "rating": 5.0,
+            "text_content": "\n                    L’archétype même du film noir à la française des années 50. Une belle histoire d’amitié, une scène de fusillade mémorable, une direction d’acteurs parfaite, une réalisation élégante et rythmée. Bref, un des plus grands polars de son époque, tous pays confondus. Sans oublier que ce film est le premier d’un futur monstre sacré du cinéma : Lino Ventura.\n        \n            ",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_22838044",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2011-01-24",
+            "rating": 4.5,
+            "text_content": "\n                    Touchez pas au grisbi est un classique français du film de gangster bien macho . Tout y est : des dialogues percutants , une superbe musique , une magnifique photographie en noir et blanc et un Jean Gabin qui s'impose par son charisme sur toute la durée du film , notamment lors d'une scène mythique où il distribue des baffes à tour de bras . Simplement un classique !\n        \n            ",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1035432363",
+            "author": "\n                            Thomas B\n            \n                    ",
+            "date": "2025-04-24",
+            "rating": 4.5,
+            "text_content": "\n                    Adaptation du célèbre roman d'Albert Simonin, cet excellent film policier possède un impeccable casting, une réalisation magnifique de Jacques Becker ainsi qu'une superbe partition musicale de Jean Wiener. Un classique du cinéma français des années 1950 !\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1027916728",
+            "author": "\n                            LAvisDuNeophyte\n            \n                    ",
+            "date": "2023-11-13",
+            "rating": 3.5,
+            "text_content": "\n                    Assez difficile de rentrer dedans si on a pas l'habitude des films de cet époque, d'ailleurs plus a cause du son que de l'image qui est très belle bien qu'en noir et blanc. Grands acteurs, beaux éclairages. Le film monte crescendo en intensité avec des scènes d'action assez prenante  La fin est assez forte. Évidemment les rapports hommes femmes ou le vocabulaire ont des siècles de retard.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_55707181",
+            "author": "\n                            Joëlle Roubine\n            \n                    ",
+            "date": "2017-05-22",
+            "rating": 3.5,
+            "text_content": "\n                    Gabin est au plus grand de son art dans cette histoire de truands entre deux vies. D'ordinaire si pudique, voilà notre Gabin national tantôt plaquant ses mains grandes ouvertes sur les seins d'une des \"cocotes\" qui lui tourne autour, en embrasser à pleine bouche une autre... et on y croit. Gabin, le distingué, le gentleman, amant d'une aristo séduite parce qu'il lui est mystérieux. Et pour cause, elle ne sait rien de ses affaires. C'est qu'il n'y a pas de retraite dans le banditisme et quand on a envie de se ranger des voitures il faut tenter le dernier \"coup\", le gros. C'est là la naïveté du bandit, la même naïveté qui mène le joueur de casino plein aux as à jeter tous ses jetons sur le tapis pour les multiplier, mais qui en sort toujours perdant. Les jetons de Max, c'est le grisby, un grisby bien planqué, de l'or que toutes les polices recherchent, et d'autres malfrats aussi (Lino Ventura débutant) parce que Josy a trop parlé. Josy (la très jeune Jeanne Moreau) est le micheton de Riton (René Dary) ami de toujours et associé de Max. Il en est mordu, elle pas. Une histoire qui se construit scène après scène, bien tenue et formidablement menée qui donne à penser que tout de même le grand banditisme des années cinquante en tout cas tel qu'il est décrit dans le film où la violence ne s'exprime qu'entre malfrats tranche avec celui d'aujourd'hui bien plus impitoyable et pervers. Enfin, les dialogues - qui ne sont pas de Michel Audiard ! - sont si exquis, si drôles même dans le tragique qu'on pourrait presque se passer d'images... à condition d'accepter de se priver de voir les costumes époustouflants d'élégance des personnages que, Gabin particulièrement, porte à la perfection.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1197688",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2006-12-16",
+            "rating": 4.0,
+            "text_content": "\n                    Bon film de gangsters réalisé par un grand cinéaste : Jacques Becker. Meme si je lui préfère Goupi mains rouges et surtout Casque d'or, ce film est quand meme trsè interessant. On retiendra notamment la composition de René Daly et le dernier quart d'heure, noire et surprenante venant d'un film de cette époque.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_5948971",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2008-01-11",
+            "rating": 5.0,
+            "text_content": "\n                    C'est bien écrit, bien réalisé. L'atmosphére de la nuit d'aprés guerre est bien la, avec son milieu, ses truands et ses réglements de compte. Rien ne manque à ce polar, ce film noir, ce pur chef d'oeuvre. A voir, revoir et rerevoir sans fin.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_117929",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2006-09-29",
+            "rating": 5.0,
+            "text_content": "\n                    Voilà du grand Gabin. De bons dialogues. Des surprises. On ne va pas de cliché en cliché avec des personnages et des situations évidentes.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1010693288",
+            "author": "\n                            ldi-maria78\n            \n                    ",
+            "date": "2020-12-23",
+            "rating": 4.0,
+            "text_content": "\n                    Le film est certes sans éclat, très classique, mais procure toujours un grand plaisir à regarder, un Gabin magistral et la première apparition de Lino au cinéma. Certainement, l’un des meilleurs films policiers français. Un polar que je vous conseille fortement.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_212455",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2006-09-29",
+            "rating": 4.0,
+            "text_content": "\n                    Un des nombreux films policiers dans lesquels a joué Gabin, mais celui ci, en plus d'être meilleur que d'habitude,il marque le grand retour de l'acteur mythique, après quelques déceptions. Comme il le disait lui même, un bon film est basé sur un bon scénario, règle qu'il suit à la lettre. C'est un film qui est resté et qui restera encore pendant pas mal de temps un grand morceau du patrimoine Français et cinématographique.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1920899",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2007-03-4",
+            "rating": 2.5,
+            "text_content": "\n                    Bon polar avec acteurs mythiques comme Gabin et Ventura.\n        \n            ",
+            "likes": 0,
+            "dislikes": 2
+        },
+        {
+            "id": "review_37828062",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2013-06-21",
+            "rating": 3.5,
+            "text_content": "\n                    Ayant presque un demi siècle entre ce film et ma naissance, on découvre que le cinéma contemporain n'a pas inventé grand chose. C'est une histoire simple qui se finit par un échec comme certains films de gangster de Gabin que j'ai eu l'occasion de voir (plus récent je repense à Mélodie en sous-sol). ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_29127087",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2012-02-8",
+            "rating": 3.0,
+            "text_content": "\n                    Un bon vieux polar à la française comme on n'en fait plus. Certe ça manque un peu d'action et de rythme car il y a beaucoup de parlotte, mais le film est à voir pour son charme rétro et Jean Gabin en dur à cuir un peu macho. (il faut voir la scène ou il distribut les baffes à gogo).\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1014181746",
+            "author": "\n                            FMParis\n            \n                    ",
+            "date": "2021-04-7",
+            "rating": 5.0,
+            "text_content": "\n                    Film policier, film noir, mais surtout film sur l'amitié. Un chef d'œuvre.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_16685800",
+            "author": "\n                            Aquaeroman\n            \n                    ",
+            "date": "2010-02-18",
+            "rating": 5.0,
+            "text_content": "\n                    C'est noir et blanc, noir dans sa réalité et blanc dans ses propos!",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1015606833",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2021-06-25",
+            "rating": 4.5,
+            "text_content": "\n                    Ce que j'aime ses costumes élégants d'époque, qui dans un noir et blanc de toute beauté, rend une atmosphère nocturne tout à fait singulière. Le film se jour sur un faux rythme qui lui donne tout son charme et malgré une intrique de gangster très classique, on se prend à suivre l'histoire de ce malfrat distingué et fatigué, lassé de vivre mille fois les mêmes scènes et qui va se révéler un Homme par son amitié indéfectible.  On aurait aimé rester auprès de Jean Gabin, bien longtemps encore, ce film indémodable, entre autres, nous le rend si proche.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1033275722",
+            "author": "\n                            Bodler\n            \n                    ",
+            "date": "2024-12-18",
+            "rating": 3.0,
+            "text_content": "\n                    Le film est visuellement beau et Gabin fait du Gabin. Cependant ça a quand même pris un coup de vieux. Mais j'ai pas vu le temps passer, et rien que pour les costard, les gueules, l'argot, le bruit des talons sur les pavés d'un Paris méconnaissable, ça vaut le coup de le revoir.\n        \n            ",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_213716",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2006-09-29",
+            "rating": 5.0,
+            "text_content": "\n                    film vraiment magnifique, avec des acteurs fabuleux.",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1037591307",
+            "author": "\n                            Rosenberg\n            \n                    ",
+            "date": "2025-11-23",
+            "rating": 4.5,
+            "text_content": "\n                    Film fondateur du polar français moderne, \"Touchez pas au grisbi\" réalisé par Jacques Becker surprend encore aujourd’hui par son calme et sa retenue. Là où d’autres réalisateurs auraient mis l’accent sur l’action, Becker préfère filmer les gestes du quotidien, les silences, les habitudes d’un milieu criminel fatigué. Cette approche donne au film une profondeur presque mélancolique, très éloignée des clichés du gangster glamour.",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_58421634",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2018-02-19",
+            "rating": 5.0,
+            "text_content": "\n                    chef d'oeuvre absolu du genre. De la haute voltige, une synthèse comme dirait l'autre... Le meilleur du cinéma Français.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_16051882",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2009-11-15",
+            "rating": 4.5,
+            "text_content": "\n                    superbe film mettant le pied à l'étrier de Lino Ventura et permettant à Gabin de relancer sa carrière en perte de vitesse . Les dialogues sont exeptionnels et nous font redécouvrir l'argot de l'époque .\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1014482361",
+            "author": "\n                            Café Mocha\n            \n                    ",
+            "date": "2021-04-26",
+            "rating": 5.0,
+            "text_content": "\n                    Un plongeon dans les années cinquante qui fait un bien fou. On y parle un français sans aucun anglicisme. On y est viril mais galant. On s'y tire dessus et on mange du pâté sur des biscottes, mais on le fait toujours en costume-cravate impeccable. D'ailleurs, on en change toujours pour un rendez-vous galant. Et quand on découche dans la garçonnière de son ami, on se met en pyjama, et les draps dans le placard sont toujours impeccablement pliés. Ce qui frappe finalement dans le film, c'est toute la classe qui nous manque aujourd'hui.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_7191453",
+            "author": "\n                            ProjecteurTemporel\n            \n                    ",
+            "date": "2026-05-25",
+            "rating": 3.0,
+            "text_content": "\n                    Avec Touchez pas au grisbi, Jacques Becker transforme le film de gangsters en chronique crépusculaire, où la fatigue des corps et l’usure des fidélités comptent davantage que l’action elle-même. Jean Gabin impose une présence magnifique de lassitude et d’autorité tranquille, donnant au personnage de Max une profondeur mélancolique rare dans le polar français de l’époque. Becker excelle dans les détails du quotidien, les silences et les gestes ordinaires, faisant naître une tension discrète à partir d’un simple repas ou d’une conversation entre truands vieillissants. Pourtant, derrière cette élégance naturaliste et cette atmosphère de fin de règne très subtile, le récit paraît parfois trop retenu pour atteindre une véritable intensité dramatique. Une œuvre fondatrice et profondément humaine, admirable dans son dépouillement, mais dont la nonchalance feutrée peut aussi laisser une impression légèrement distante.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        }
+    ]
+}

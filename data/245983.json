@@ -1,0 +1,842 @@
+{
+    "id": 245983,
+    "name": "Sword Art Online Movie",
+    "release_date": "2017-05-17",
+    "runtime_in_minutes": 120,
+    "genres": [
+        "Action",
+        "Animation",
+        "Fantastique"
+    ],
+    "synopsis": "\n                    En l'an 2026, deux ans après avoir été libérés de S.A.O, Kazuto et ses amis survivants profitent enfin de jours paisibles. Récemment, la réalité augmentée est devenue possible grâce à l'Augma, et avec cette mode vient son lot de modifications du quotidien. Un nouveau jeu émerge \"Ordinal Scale\" qui devient rapidement si populaire que la réalité virtuelle s'en trouve délaissée. Kazuto, de nature peu athlétique, ne semble pas motivé par la réalité augmentée, mais c'est alors que d'anciens boss de S.A.O font leur apparition... Et d'autres fantômes du passé menacent de ressurgir...\n        \n            ",
+    "reviews": [
+        {
+            "id": "review_55399588",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2017-04-21",
+            "rating": 5.0,
+            "text_content": "\n                    J'ai eu la chance de voir ce film en avant première et je n'ai pas été déçu ! Gros fan de SAO, cela faisait presque 3 ans que j'attendais de retrouver cet univers depuis la fin de la saison 2. Et ce film tient toutes ses promesses: beaucoup d'actions avec plusieurs combats, toujours accompagnés de magnifique ost, mais aussi de l'émotion à travers le couple kirito / asuna ! ",
+            "likes": 22,
+            "dislikes": 2
+        },
+        {
+            "id": "review_54761530",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2017-03-31",
+            "rating": 5.0,
+            "text_content": "\n                    Vu en avant première. Un film à la hauteur des animations de l'anime, une histoire et un scénario très intéressants. ",
+            "likes": 10,
+            "dislikes": 1
+        },
+        {
+            "id": "review_55666799",
+            "author": "\n                            Jean-Claude L\n            \n                    ",
+            "date": "2017-05-17",
+            "rating": 3.0,
+            "text_content": "\n                    Un joli divertissement pour les amateurs de jeux vidéo et histoires  japonaises et ce n'est pas désagréable à voir même si vous n'êtes pas fan\n        \n            ",
+            "likes": 4,
+            "dislikes": 6
+        },
+        {
+            "id": "review_54838158",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2017-03-1",
+            "rating": 5.0,
+            "text_content": "\n                    Tout d'abord, je précise j'ai mis un 5 pas parce que je suis un fan-boy de la série (ce qui est le cas) mais je pense que Sao Ordinal Scale le mérite donc je me dois de faire un truc un peu plus argumenté.",
+            "likes": 5,
+            "dislikes": 1
+        },
+        {
+            "id": "review_54986068",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2017-03-12",
+            "rating": 5.0,
+            "text_content": "\n                    Ce film est juste une pure satisfaction, l'ayant vu au grand rex, je peux dire que l'expérience était saisissante ! Ce film est à voir, et ceux qui n'ont aimé que le premier arc de la série auront enfin leurs attentes comblées. Le film est beau, et même des gens n'ayant pas vu la série l'ont apprécié.",
+            "likes": 5,
+            "dislikes": 1
+        },
+        {
+            "id": "review_55399868",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2017-04-21",
+            "rating": 4.0,
+            "text_content": "\n                    J'ai passé un bon moment, scénario un peu moins abouti que le premier arc mais se laisse suivre. Les fans de Sao apprécieront les clins d'œil.\n        \n            ",
+            "likes": 3,
+            "dislikes": 0
+        },
+        {
+            "id": "review_55729054",
+            "author": "\n                            David H.\n            \n                    ",
+            "date": "2017-05-24",
+            "rating": 4.0,
+            "text_content": "\n                    pour commencer je ne suis jamais allé voir de manga au cinéma.",
+            "likes": 2,
+            "dislikes": 1
+        },
+        {
+            "id": "review_55717050",
+            "author": "\n                            Gfa Cro\n            \n                    ",
+            "date": "2017-05-22",
+            "rating": 2.0,
+            "text_content": "\n                    Vu et avis le 20170622",
+            "likes": 2,
+            "dislikes": 5
+        },
+        {
+            "id": "review_54516432",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2017-02-21",
+            "rating": 5.0,
+            "text_content": "\n                    Ce film est tout simplement un chef-d’œuvre en matière de films d'animations, l'histoire est très pousser, rien est à jeter, les scènes actions sont intense, les personnages toujours aussi prenants. Je félicite encore les producteurs de ce film qui nous ont produit un excellent film. Rien à en redire. Je n'ai pas su trouver de défaut à ce film. Encore félicitation.\n        \n            ",
+            "likes": 3,
+            "dislikes": 1
+        },
+        {
+            "id": "review_60116262",
+            "author": "\n                            Thibaud M.\n            \n                    ",
+            "date": "2018-08-22",
+            "rating": 3.5,
+            "text_content": "\n                    Ayant beaucoup aimé la série j’ai voulu voir ce film et honnêtement même si l’histoire est bien menée, je n’ai pas autant accroché qu’à la série. Ça reste quand même pas mal et on retrouve l’univers de SAO.\n        \n            ",
+            "likes": 1,
+            "dislikes": 1
+        },
+        {
+            "id": "review_55670432",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2017-05-18",
+            "rating": 4.0,
+            "text_content": "\n                    J'ai adoré ce film presque de bout en bout. \"Presque\"? Et oui presque. ^^",
+            "likes": 2,
+            "dislikes": 1
+        },
+        {
+            "id": "review_54732156",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2017-02-22",
+            "rating": 5.0,
+            "text_content": "\n                    Film d animation vraiment énorme ! ",
+            "likes": 1,
+            "dislikes": 2
+        },
+        {
+            "id": "review_54785026",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2017-02-25",
+            "rating": 5.0,
+            "text_content": "\n                    Génial, on retrouve l'atmosphère de la première saison mais il n'est pas nécessaire de voir les saisons pour accrocher au film !! Tout bonnement génial !!\n        \n            ",
+            "likes": 2,
+            "dislikes": 0
+        },
+        {
+            "id": "review_57677177",
+            "author": "\n                            Ilphrin\n            \n                    ",
+            "date": "2017-12-18",
+            "rating": 0.5,
+            "text_content": "\n                    Je ne connaissais pas, mais en tant que fan de réalité virtuelle, de mmorpg et de manga le sujet m'avait l'air super alléchant, j'étais donc tout acquis à la cause. ",
+            "likes": 1,
+            "dislikes": 3
+        },
+        {
+            "id": "review_55663772",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2017-05-17",
+            "rating": 2.5,
+            "text_content": "\n                    Je vais pas faire une longue disserte sur ce qui m'a déplû, je vais synthétiser: Ce qui sauve le film, ce sont clairement les scènes de fight qui sont très bien animées ainsi que le taff fait sur les musiques. Le reste par contre...dès lors qu'on est pas dans une phase d'action, les dessins et les plans sont bâclés. C'est SAO et pas une obscure licence, on me fera pas croire qu'ils ont pas les moyens pour assurer du début à la fin à ce niveau.",
+            "likes": 1,
+            "dislikes": 3
+        },
+        {
+            "id": "review_59467371",
+            "author": "\n                            gandalf001\n            \n                    ",
+            "date": "2018-06-7",
+            "rating": 0.5,
+            "text_content": "\n                    Pour les personnes qui ne sont pas des fans des jeux de type MMORPG (Jeu de rôle en ligne massivement multijoueur), ce film est tout simplement insupportable. Difficile de dire ce qui est le pire entre les chants, les dialogues ou le mélange réalité et jeu en réalité virtuel.\n        \n            ",
+            "likes": 0,
+            "dislikes": 2
+        },
+        {
+            "id": "review_1010145156",
+            "author": "\n                            moket\n            \n                    ",
+            "date": "2020-09-13",
+            "rating": 3.0,
+            "text_content": "\n                    Totalement novice dans cet univers, je n'ai pas vraiment réussi à entrer dedans, peut-être justement parce qu'il me manque toutes les références. L'univers est riche et visuellement, c'est réussi, mais je suis resté un peu à côté.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_55681282",
+            "author": "\n                            Freakin  Geek\n            \n                            \n                    ",
+            "date": "2017-05-19",
+            "rating": 4.5,
+            "text_content": "\n                    Sword Art Online The Movie : Ordinal Scale est une très grande réussite qui devrait séduire tous les fans fidèles et même permettre de récupérer les déçus. Le film de Tomohiko Ito ne passe pas loin du chef d’oeuvre mais il est dommage de ne pas avoir pensé à faciliter la compréhension de l’histoire aux néophites qui iront voir le film sans connaître. Il manque aussi une touche d’émotion aussi forte que ce que nous proposait la fin de la seconde saison mais l’intrigue très solide et les nombreuses scènes d’action font qu’on ne s’ennuiera pas une seule minute. Si vous êtes fans de Sword Art Online, ne passez surtout pas à coté de l’opportunité de retrouver Kirito et Asuna sur grand écran, vous ne le regretterez certainement pas.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_58831051",
+            "author": "\n                            Fred D\n            \n                    ",
+            "date": "2018-03-28",
+            "rating": 5.0,
+            "text_content": "\n                    Histoire de bien préciser les choses, je n'avais pas vu beraucoup d'épisodes de la série eponyme qui a durée 2 saisons. Je n'avais lu que son adaptation manga mais vu que les deux sont visiblement similaires, c'est tout comme.",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1036914565",
+            "author": "\n                            Kouto\n            \n                    ",
+            "date": "2025-09-14",
+            "rating": 3.5,
+            "text_content": "\n                    Plutôt à réserver aux connaisseurs de l’univers de SAO, cette suite à l’animé demeure dans le même ton et bénéficie de graphismes et d’une animation particulièrement soignée. L’intrigue met du temps à prendre forme et le rythme en souffre dans la première partie du film. Malgré tout, l’ensemble demeure divertissant et pourra plaire également aux néophytes mais les connaisseurs de l’œuvre apprécieront davantage les rapports évoqués entre les personnages.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1032157279",
+            "author": "\n                            Chaîne 42\n            \n                    ",
+            "date": "2024-09-24",
+            "rating": 2.5,
+            "text_content": "\n                    On retrouve dans ce film assez long de 2017 des éléments des deux premières saisons de l'animation avec la suite de la relation entre Kirito et Asuna au retour de SAO. Le thème principal est la présentation d'un autre type de jeu cette fois en réalité augmentée. Le scénario cependant est bien basique, histoire de vengeance qui amène à de nombreux combats ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_55671151",
+            "author": "\n                            Napoléon\n            \n                            \n                    ",
+            "date": "2017-06-30",
+            "rating": 3.5,
+            "text_content": "\n                    Avant tout il faut savoir que je ne suis absolument pas un spécialiste du genre. Le début est assez poussif avec une certaine sensation de stagnation, puis l'histoire qui était déjà intéressante et visionnaire, prends toute sa forme et s'avère très touchante pour un film extrêmement dépaysant.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1019949044",
+            "author": "\n                            Paul B\n            \n                    ",
+            "date": "2022-04-26",
+            "rating": 4.0,
+            "text_content": "\n                    Un film d'action tout en animation, avec un scénario prenant, un bon rythme, une bonne VF...",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_55869896",
+            "author": "\n                            SuperJS\n            \n                    ",
+            "date": "2017-06-8",
+            "rating": 3.5,
+            "text_content": "\n                    Pas du tout connaisseur de cette série, j'ai pu comprendre malgré tout l'histoire et apprécié cette vision originale de l'utilisation du jeu vidéo dans la vie réelle, critiquant l'usage abusif du virtuel au détriment de la vie réelle. Intéressant, on ne s'ennuie pas. La fin est cependant prévisible mais se laisse regarder. Bon divertissement.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_55764207",
+            "author": "\n                            dominique P.\n            \n                            \n                    ",
+            "date": "2017-05-28",
+            "rating": 3.5,
+            "text_content": "\n                    A la base ce n'est pas trop mon genre de dessins animé mais j'ai bien aimé.",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_55856842",
+            "author": "\n                            Mel A\n            \n                    ",
+            "date": "2017-06-6",
+            "rating": 4.5,
+            "text_content": "\n                    Moi qui n'ai pas suivis la série animé et n'étant pas une habituée du genre, j'avais peur de me retrouver perdu dans le monde de ce film. Pourtant, bien qu'il y ai quelques passages que j'ai eu du mal à comprendre, j'ai trouvé ce film très compréhensif.",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_55138108",
+            "author": "\n                            Lucas L (LeBigKalu sur SensCritique)\n            \n                    ",
+            "date": "2017-05-24",
+            "rating": 4.0,
+            "text_content": "\n                    Je suis fan de SAO, et je vais pas mentir si vous n'êtes pas un fan, je pense que vous risquerez de vous ennuyer un petit peu, car Ordinal Scale, est un film pour des fans, et en ça le film est réussi alors peut-être je ne suis pas objectif, mais J'ai beaucoup été touché par le film, l'histoire est bonne et intéressante, revoir les personnages de l'anime fait du bien et le combat de fin est jouissif si encore une fois vous êtes un fan. Une scène post générique que je ne vous gâcherai pas mais qui vaut le coup croyez moi. Réussite pour le dan que je suis. 17/20\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_55695626",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2017-05-20",
+            "rating": 4.0,
+            "text_content": "\n                    Super film qui réconciliera les fans de la 1ere heure déçus par le SAO post Aincrad. Les liens sont bien faits et rendent le tout plutôt canon. Pas de grosses incohérences ici donc, ce qui est appréciable dans ce genre de productions. Le fan service est là mais ne domine pas et l'animation est vraiment réussie. Bref, vivement la saison 3 et, pourquoi pas, une suite.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_55714118",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2017-05-22",
+            "rating": 1.0,
+            "text_content": "\n                    Film a recommander uniquement pour les fans du manga. Les voix japonnaises sont particulièrement insupportables et le lien entre la tete des persos virtuels et reel est pas simple pour les neophytes .\n        \n            ",
+            "likes": 2,
+            "dislikes": 9
+        },
+        {
+            "id": "review_55792890",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2017-05-30",
+            "rating": 5.0,
+            "text_content": "\n                    Bon déja je doit préciser que je suis plutôt fan de la saga SAO .",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1032747858",
+            "author": "\n                            Didice2005\n            \n                    ",
+            "date": "2024-11-7",
+            "rating": 3.5,
+            "text_content": "\n                    Bon film d'animation, avec comme d'habitude de bonne scène d'action, pareille que dans l'animé. ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_54994506",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2017-03-12",
+            "rating": 5.0,
+            "text_content": "\n                    Sword Art Online est a la basse une série japonais ou le héros, Kirito, ex-betâ Tester du jeu SwordArtOnline (SAO pour les intimes) ou il va se retrouver bloquer avec les 10000 autres joueurs, il y rencontrera",
+            "likes": 1,
+            "dislikes": 2
+        },
+        {
+            "id": "review_1020321338",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2022-05-30",
+            "rating": 4.5,
+            "text_content": "\n                    Un excellent film qui reprend l’univers de Sword Art Online, c’est comme avoir vu la structure d’un épisode de SAO en version longue. Vraiment incroyable, tout est parfaitement bien pensé et réalisé dans ce film, je valide très fortement !\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_55842885",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2017-06-5",
+            "rating": 2.5,
+            "text_content": "\n                    Ayant attendu ce film depuis pas mal de temps, je m'attendais à une histoire prenante, mais j'ai été très déçu en tombant sur une chose sans aucun fond, restant cependant très vendeur et agréable à regarder, simplement pour la beauté des décors et de l'univers.\n        \n            ",
+            "likes": 1,
+            "dislikes": 3
+        },
+        {
+            "id": "review_1019841736",
+            "author": "\n                            Samwasch\n            \n                    ",
+            "date": "2022-04-18",
+            "rating": 2.0,
+            "text_content": "\n                    Pas terrible. On est content de retrouver les personnages et un peu l'univers, mais je reste un fan des 10 tous premiers épisodes seulement, où c'était beaucoup plus subtile et profond. Le film représente la suite.. ratée..\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_54568482",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2017-05-23",
+            "rating": 5.0,
+            "text_content": "\n                    N'ayant pu le voir en avant premiere au kinepolis. J'ai pacienté jusqu'a la sorti de mai. excelent film qui suit bien l arc Aincrad avec tout les antagonistes du groupe des conquerants ainsi que les personnages des arc ALO, GGO et mother rosario. Le boss de fin est super. Que dire de plus, j'nvite les fan et non  d'aller le voir.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_58306952",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2018-02-8",
+            "rating": 2.0,
+            "text_content": "\n                    Un Isekai un peu surcoté, l'anime en soit n'est pas mauvais question graphisme mais on repassera pour l'originalité.",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_59554283",
+            "author": "\n                            Hippo D.\n            \n                    ",
+            "date": "2018-06-19",
+            "rating": 2.5,
+            "text_content": "\n                    J'espérais retrouver la même qualité de scénario que dans les premiers épisodes de la saison 1, mais je dois avouer être vraiment déçu. Le scénario sonne complètement creux et les personnages ont perdu leur charisme. S'agissant de la fin, la logique a laissé place à du gros fan-service et on n'aura pas d'explication sur la nécessité de passer par de telles étapes. Alors certes les graphismes sont magnifiques et les combats sont dynamiques, mais avec un tel budget, on aurait pu s'attendre à un scénario bien plus élaboré (et ça ne leur aurait pas coûté un yen de plus). Finalement, ce film est plutôt à voir comme une sorte d'épisode hors-série sans grand intérêt.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_54730307",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2017-07-20",
+            "rating": 0.5,
+            "text_content": "\n                    (savoir que je suis un « fan » de SAO vous sera probablement utile dans cette lecture)",
+            "likes": 2,
+            "dislikes": 27
+        },
+        {
+            "id": "review_56948417",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2017-10-1",
+            "rating": 4.0,
+            "text_content": "\n                    Une très bon anime ! Il donne un bol d’air frais à la série ! Une musique a pas piquer des annetons ! De très belles animations ! Un scénario bien ficelé et logique ! Et KIRITO est enfin non cheater !!!!!\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_55676971",
+            "author": "\n                            Paatrick\n            \n                    ",
+            "date": "2017-05-19",
+            "rating": 4.0,
+            "text_content": "\n                    Le truc important pour commencer : restez jusqu'à la fin du générique final, il y a un truc après ;-).",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_57045935",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2017-10-10",
+            "rating": 2.0,
+            "text_content": "\n                    Joliment réalisé, mais la scenario n'est pas à la hauteur des images. On s'ennuie dans une histoire sans suspens ni rebondissement. Les batailles passent au second plan et le combat ultime n'est même pas palpitant, expéditif comme le reste.\n        \n            ",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_54727271",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2017-02-21",
+            "rating": 5.0,
+            "text_content": "\n                    J'ai jamais vu un film d'animation tiré d'un animé aussi bien réaliser ! ",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_55860639",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2017-06-7",
+            "rating": 5.0,
+            "text_content": "\n                    Ce film est juste exceptionnel.",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_56066257",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2017-07-2",
+            "rating": 5.0,
+            "text_content": "\n                    C'est un chef d'oeuvre de l'animation japonaise de 2017. Des effets spéciaux à coupé le souffre, une histoire avec un rythme et un suspens insoutenable. Une vraie réussite.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_56290551",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2017-07-25",
+            "rating": 4.0,
+            "text_content": "\n                    Ce film est l'une des rares adaptations réussies. Apres les multiples échecs des Naruto et autres Dragon Ball le constat semblait sans issue... Mais SAO a su changer la donne dans une adaptation fidèle jusqu'au moindre détail à l'œuvre originale dans une continuité et un scénario de qualité.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_55675150",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2017-05-19",
+            "rating": 2.5,
+            "text_content": "\n                    Je lui met 2.5 parce que c'est SAO ....",
+            "likes": 0,
+            "dislikes": 5
+        },
+        {
+            "id": "review_54729210",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2017-02-25",
+            "rating": 4.5,
+            "text_content": "\n                    Fraîchement reposé après l'avant première d'hier à Lille je n'ai qu'une chose à dire : je retournerai le voir lors de la sortie nationale.",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_54745292",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2017-02-23",
+            "rating": 4.5,
+            "text_content": "\n                    Je m'attendais à voir un bon film et je ne suis pas déçu du déplacement à l'avant première à Lomme (Lille). Alors que la franchise use habituellement de la réalité virtuelle, Ordinal Scale mets en avant cette fois-ci la réalité augmenté et d'une manière tout aussi agréable qui nous fait vite rêver quand à la possibilité de cette technologie dans le futur. ",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_54729134",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2017-02-21",
+            "rating": 4.5,
+            "text_content": "\n                    Ce film est une grande réussite selon moi. La qualité de l'animation est excellente, la bande son un régal pour les oreilles, l'histoire très agréable à suivre avec une maturité des personnages qui fait sens avec ce qu'ils ont vécu jusqu'au film (cf : les 2 saisons de l'anime) et les quelques scènes d'humour sont bien amenées et bien dosées. Le gros point fort de ce film pour moi réside dans les bruitages des armes lors des scènes d'actions (tirs des armes à feu, épées qui s'entrechoquent, etc) qui sont empreints d'une intensité saisissante. On regrettera seulement la présence de 2-3 plans/scènes de fan service pas vraiment nécessaires.",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_54709645",
+            "author": "\n                            Nicolas S.\n            \n                    ",
+            "date": "2017-02-20",
+            "rating": 5.0,
+            "text_content": "\n                    Je sors a peine de l'avant première.",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_55713921",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2017-05-23",
+            "rating": 4.5,
+            "text_content": "\n                    Excellent film qui s'impose à la fois comme une bonne suite de la série et comme bon long métrage d'animation. Les personnages sont attachants et leurs interventions bien dosées, les musiques sont magiques et très bien mises en valeur puisqu'elles sont chantées par un des personnages, le scénario et correcte (dans la continuité de la série), et enfin : La mise en scène et les effets sonores sont époustouflants ! Le seul petit bémol vient des scènes faites pour ceux qui ne connaissent pas la série parfois un peu longues, alors que le film est clairement destiné à ceux qui ont vu au moins la saison 1, mais vraiment rien de grave...Foncez le voir s'il n'est pas trop tard !\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_55671967",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2017-05-19",
+            "rating": 4.0,
+            "text_content": "\n                    Bon film dans l'ensemble même si très peu équilibré.",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1001533790",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2019-12-24",
+            "rating": 5.0,
+            "text_content": "\n                    Agréable surprise. Super série malgré les aprioris ! L'univers, la musique, tout est réunis pour passer un bon moment !\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_57383809",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2017-11-16",
+            "rating": 5.0,
+            "text_content": "\n                    ce film est génial malheureusement je n'ai pas pu le voir au ciné mais je l'ai vu en streaming et j'ai beaucoup aimé c'est pas mieux que la série mais c pas mal pour un film fait à partir du manga j'espère qu'il y aurune suite\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_55694735",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2017-05-20",
+            "rating": 5.0,
+            "text_content": "\n                    Très bon film, les dessins sont tout le temps au top et les combats sont très bien chorégraphiés. Le scénario est lui aussi très bien. Bref que tout les fans de SAO aillent voir ce film.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_55847406",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2017-10-12",
+            "rating": 4.5,
+            "text_content": "\n                    Franchement je  suis aller  le  voir  récemment, absolument  rien a  redire ce  film  est  parfait !!!!",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_55721111",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2017-05-23",
+            "rating": 2.0,
+            "text_content": "\n                    SAO... L'un des mangas les plus surcoté de notre siècle, avec un arc que je trouve bon (le premier de la saison 2). Inutile de dire que je n'attendais rien de ce film. L'animation est nickel rien à dire là-dessus et les combats plus dynamiques que dans les premières saisons sont plus plaisant à voir. Autre bon point l'évolution de Kirito ",
+            "likes": 0,
+            "dislikes": 4
+        },
+        {
+            "id": "review_55685155",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2017-05-19",
+            "rating": 5.0,
+            "text_content": "\n                    Vraiment spectaculaire, film à voir et à revoir. Ce film qui a un scénario original dans l'univers de SAO, va vous apporter plein de clin d'oeil c'est tout simplement un fan service gratuit. On retrouve nos héros qui vont faire face un danger qui n'aura jamais pu imaginer, leur seul arme à leur disposition c'est tout simplement leur épées et leur VRMMO.",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_55704038",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2017-05-21",
+            "rating": 5.0,
+            "text_content": "\n                    Alors la ! Ce film est tout simplement sublime !! Tout les fans de SAO allez le voir c'est un chef d'oeuvre ! Vivement la saison 3 ! ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1019636866",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2022-04-1",
+            "rating": 4.0,
+            "text_content": "\n                    Les combats, l'histoire, l'animation...",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_54281879",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2017-05-20",
+            "rating": 5.0,
+            "text_content": "\n                    Juste énorme, le scénario colle parfaitement a la série ce qui fait une très bonne suite, et l'ost mais alors GÉNIAL !! (J'ai été le voir en vostfr et il est super après en VF je sais pas ce que sa peut rendre)\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_54713803",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2017-02-20",
+            "rating": 5.0,
+            "text_content": "\n                    Ayant eu la chance de participer à l'avant première dimanche 19 février au Grand Rex à Paris, je vous fais un rapide retour du film Sword Art Online Ordinal Scale.",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_55709427",
+            "author": "\n                            Lovely\n            \n                    ",
+            "date": "2017-05-21",
+            "rating": 5.0,
+            "text_content": "\n                    Ce film est magnifique, que ce soit Pour le combat ou les scènes romantiques. Je conseil ce film pour tout ceux qui sont fan d sao ou d anime japonais!\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_57518867",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2018-09-24",
+            "rating": 5.0,
+            "text_content": "\n                    Petite pépite, fan de la première heure(saison 1 arc 1) et même de la saison 2 arc 3, il y a tout dans ce film : ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_57588903",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2017-12-10",
+            "rating": 5.0,
+            "text_content": "\n                    Ce film est juste GENIAL, MAGNIFIQUE, EPOUSTOUFLANT, AWESOME !!!!! xD ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_55706483",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2017-05-21",
+            "rating": 5.0,
+            "text_content": "\n                    Ct juste magnifique !  Cette beauté et j'ai adorer le film tout entier j'en ai eus des frisson pendant tout le film et au moment",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_58194500",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2018-01-28",
+            "rating": 5.0,
+            "text_content": "\n                    tes bien realiser et ecris pour les fans ou pas de cette licence mais en tout cas cetais un exellent film bravo\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_57077613",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2017-10-14",
+            "rating": 5.0,
+            "text_content": "\n                    Ce film est génial!!! Autant que le manga! Je pourrais le revoir encore et encore!! Les effets sonores sont extra! WoW! Un des meilleurs films que j'ai vu \n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_55695401",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2017-05-20",
+            "rating": 5.0,
+            "text_content": "\n                    Juste sublime comme film, je conseille a tout les fan de SAO qui ont vu SAO au moin jusqu'a l'arc mother's rosario d'allez le voir. L'histoire est superbe et les combat trooop badass :-D\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_55704175",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2017-05-25",
+            "rating": 5.0,
+            "text_content": "\n                    Ce film est dans la continuité de la série sao que j'apprécie beaucoup mais les graphismes et les ost lors des scènes de combats sont vraiment supers !",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_55723899",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2017-05-23",
+            "rating": 5.0,
+            "text_content": "\n                    Le film tout simplement parfait pour completer le manga. Un gros 5/5. ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1013333076",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2021-02-19",
+            "rating": 4.5,
+            "text_content": "\n                    Ce film est génial néanmoins beaucoup de faux raccord avec la série tel que ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_55589602",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2017-05-21",
+            "rating": 5.0,
+            "text_content": "\n                    Non mais en vrai il était trop génial ! :heart: ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_55791918",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2017-05-30",
+            "rating": 5.0,
+            "text_content": "\n                    j'ai aimé il était super comme film l'histoire elle était bien mais il faut rester à la fin pour voir qu'il y aura encore une suite et comprends que le mec qui aide kirito dans Bullet of bullets en fait on verra bien\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_55673077",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2017-05-18",
+            "rating": 5.0,
+            "text_content": "\n                    Pour moi fan ultime de SAO rien a redire...Le film est magnifique,tout simplement dimmplementsublime même et vaut clairement le détour,a choisir entre SAO et les autres films actuels je choisis clairement SAO...",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_55690783",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2017-05-20",
+            "rating": 5.0,
+            "text_content": "\n                    Dans la droite ligne des animés.  Les OST sont d'une superbe qualité et accompagne superbement l'action.",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_55707183",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2017-05-21",
+            "rating": 5.0,
+            "text_content": "\n                    Je suis allée le voir au ciné il y a peine  trois heure et je vous le jure il a explosé mes attente d'une puissance juste waouw a en coupé le soufle quoi surtout la fin vivement que je me le retape demain.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_55731921",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2017-05-24",
+            "rating": 5.0,
+            "text_content": "\n                    J'ai adorée, franchement c'était parfait !! Je suis une petite fan de SAO et franchement je suis pas du tout déçu, sa m'a beaucoup beaucoup plus. Pendant les combats j'ai été émue c'était tellement beau.",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_55742072",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2017-05-25",
+            "rating": 4.0,
+            "text_content": "\n                    Je préviens tout de suite j'ai vue la version vf à mon grand désespoir, mes amis et moi nous somme rendu compte que nos places était pour la vf 30 minutes avant le début, mais bon ont à quand même était le voir. Les voix française sont un peu piquante au début et sans charisme ce qui gâche un peu les moments forts mais je ne retire pas de point pour ça car c'est un film qui j'estime doit être juger et apprécié en VO. Cependant je ne lui mettrais quand même pas 5/5 car bien q'excelent le film ne justifie pas 2h. Il est sympathique​ au debut, creux au milieu mais ne devient réellement genialisime qu'à partir de la derniére demi-heure. Quelques erreur scénaristique au début du film comme par exemple, on nous explique que les joueurs de SAO son rester enfermé dans le jeu pendant 3ans et autres petites épines qui ne génies en rien l'histoire ( je rappel tout de fois que ceci est dans la vf et peu être pas dans la vo) Et il confirme un schéma récurent qui est assez lourd :",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_55752526",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2017-05-26",
+            "rating": 5.0,
+            "text_content": "\n                    incroyable, magnifique ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_56648896",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2018-01-17",
+            "rating": 4.0,
+            "text_content": "\n                    Pour ma pare je viens de le regarder et il vas dans la suite logique de l anime.",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_57222370",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2017-10-29",
+            "rating": 5.0,
+            "text_content": "\n                    Super film franchement j'ai adorer.",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_57385663",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2017-11-17",
+            "rating": 5.0,
+            "text_content": "\n                    Je suis une grande de SAO, et voir le film au ciné était vraiment émouvant. L'histoire était passionnante, et différente des deux saisons, mais dans la continuité. Je ne me suis pas ennuyée une seconde.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_60068554",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2018-08-17",
+            "rating": 5.0,
+            "text_content": "\n                    Ce film est tout simplement géniale, il est l'incarnation même de l'esprit d'SAO.",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_62307395",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2019-04-7",
+            "rating": 2.0,
+            "text_content": "\n                    SAO (les deux saisons   ce film) pour moi c'est visuel et OST vraiment très bon mais dialogue et personnages ultra nier.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1016935414",
+            "author": "\n                            Va Christian\n            \n                    ",
+            "date": "2021-09-22",
+            "rating": 5.0,
+            "text_content": "\n                    Super Film ! Je vous invite a aller regarder le film ! Niveau graphisme était super y compris les musiques la voie des personnages et même la présentation de la saison 3 était cool\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_55709273",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2017-05-22",
+            "rating": 5.0,
+            "text_content": "\n                    super film des animation et des combats qui mon couper les souffle et beaucoup d'emotion, les fan vont se régaler surtout ce pour qui la 1er partie de la saison 1 aurais voulu plus de detail. Après j'avoue être un grand fan du manga et comme certain on pus  le soumettre le film peut laisser un gout d'achever de par les événement du film mais pas pour moi car je suis sur que pour la suite il reste beaucoup de chose a faire surtout concernant la guilde d'assassin des laughing coffin, mais bon cela reste un autre sujet. je vous le conseil fortement et je vous laisse le soin de vous faire votre propre opinion\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_58069680",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2018-01-17",
+            "rating": 5.0,
+            "text_content": "\n                    Juste un chef d'oeuvre ça commence lentement en posant les bases avec un kirito vraiment pas attiré pas la réalité augmenté et au fil du temps s'y faire à cause du principal antagoniste. Les animations, les effets de lumières et les scènes epiques à l'ancienne avec l'ost principal ça m'a vraiment donné des frissons j'ai attendu ce film longtemps je l'avais même oublié et quand je l'ai vu ma vie a changé je vous le conseille vivement si vous êtes fan de SAO fin magnifique et Yuna comme Yuki restera gravé en moi\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_59692351",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2018-07-10",
+            "rating": 5.0,
+            "text_content": "\n                    Éxélent film pas besoin d'avoir vus la serie tout est bien expliqué",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1001662301",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2020-01-3",
+            "rating": 2.5,
+            "text_content": "\n                    Je vois pas en quoi une bande annonce est un film je voulais voir Sword art online ordinale scale et voilà où j'en suis désolée si cette critique ne sert à rien mais je suis vraiment navrée d'avoir du passé 3h a chercher un truc qui ma emmené à une bande annonce\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1018603289",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2022-01-17",
+            "rating": 1.5,
+            "text_content": "\n                    On a juste vu le début de la saison 1 avec le pdv d'Asuna c'était vraiment nul, il n'a rien ajouter d'intéressant à l'œuvre (a part les 30 première minute  ou on voit l'amitié d'Asuna avec la nouvelle personnages)\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        }
+    ]
+}

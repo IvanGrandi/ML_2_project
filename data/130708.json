@@ -1,0 +1,527 @@
+{
+    "id": 130708,
+    "name": "Evangelion : 1.0 You Are (Not) Alone",
+    "release_date": "2009-02-25",
+    "runtime_in_minutes": 98,
+    "genres": [
+        "Action",
+        "Animation",
+        "Science Fiction"
+    ],
+    "synopsis": "\n                    Traumatisé par le Second Impact, le Quatrième Ange attaque Tokyo III et le destin de l'humanité est désormais entre les mains de l'agence spéciale Nerv. Le jeune Shinji Ikari est contraint de piloter EVA-01. Ce dernier, accompagné du pilote Rei Ayanami, aux commandes de l'EVA-00, sont chargés de se battre, mais EVA-01 est endommagé par le Sixième Ange. Misato Katsuragi met au point un plan pour transférer toute l'électricité du Japon dans le canon positron d'EVA-01 afin de vaincre l'Ange.\n        \n            ",
+    "reviews": [
+        {
+            "id": "review_22599053",
+            "author": "\n                            Ezhirel\n            \n                    ",
+            "date": "2013-06-30",
+            "rating": 4.5,
+            "text_content": "\n                    Quelle claque! Déjà la première chose qui m’a frappée dans le film est le relooking de l’univers et des anges qui est vraiment impressionnant. Le design est plus léché et les couleurs plus chatoyantes. De plus, étant donné que le scénario a été raccourci, les passages inutiles sont passés à la trappe, ce qui n’est pas foncièrement un mal. Bien au contraire, il n’y a plus de temps morts ou quasiment plus et les combats sont plus dynamiques. En revanche, forcément on en apprend un peu moins sur la psychologie des personnages, mais pour ma part cela ne m’a pas dérangé puisque l’anime a tendance à faire un peu trop dans les violoncelles à mon goût et ça en devient lassant à force. A voir pour les fans (au moins pour la refonte graphique) et pour ceux qui ne connaissent pas l’anime car le film vaut sincèrement le coup d’œil.\n        \n            ",
+            "likes": 2,
+            "dislikes": 1
+        },
+        {
+            "id": "review_13170379",
+            "author": "\n                            lhomme-grenouille\n            \n                            \n                    ",
+            "date": "2009-04-18",
+            "rating": 0.5,
+            "text_content": "\n                    Qu'on m'explique l'intérêt de ce film ! En effet, pour ceux qui connaissent l'œuvre d'origine, il leur faudra se contenter d'un simple condensé de l'intrigue originale – et encore ! – le tout ne se limitant qu’aux combats ! Alors peut-être que quelques adorateurs fanatiques s'en contenteront, mais avouons que, pour ceux qui apprécient raisonnablement cette saga, ce simple lifting par ailleurs resté fort sommaire, n’a pas vraiment de quoi créer l’excitation. Et que dire du sort qui est ici réservé au néophyte ?! Purgé de toute la trame et de tout le propos qui en faisait l’intérêt, l’univers d’Evangelion tel que nous le présente ce film finit par se résumer en un fade galimatias de termes inutilement compliqués et de péripéties évidés de tout sens. Bref, c'est inefficace, creux, diablement laid (Mais - ma parole ! que c'est laid !) ce qui fait de cet \"Evangelion 1.0\" un horrible kyste qu’Hideaki est venu greffer à une série qui n'en avait pas besoin. Inutile donc, et surtout hideux.\n        \n            ",
+            "likes": 4,
+            "dislikes": 7
+        },
+        {
+            "id": "review_42349102",
+            "author": "\n                            Paul G.\n            \n                    ",
+            "date": "2014-06-22",
+            "rating": 3.5,
+            "text_content": "\n                    Lors de la vision de ce film, j'ai été très intrigué par l'histoire et le scénario prenant, étant données que beaucoup de questions sont laissées en suspens, avec pour seul message :  \"à suivre...\"  Je n'ai pas pu tenir le coup et je me suis intéressé à cet univers là. Ainsi je me retrouve à lire les mangas pour étancher ma soif. Je découvre que le film suis particulièrement bien l'histoire des premiers tomes, ces mangas étant pourtant très riche, c'est une belle réussite de la part de la production de nous livrer un film avec pleins de détails. Le scénario traite aussi les problèmes auquel doit faire face un enfant que son père utilise sans scrupule et sans lui donner la moindre affection. Une notion de moralité par rapport au fait d'utiliser des enfants pour sauver le monde est aussi mise en jeu (un peu comme dans la stratégie Ender, du moins dans le livre). L'histoire étant complexe et riche il es difficile de tout expliciter en un seul film, donc ne vous inquiétez pas si vous en comprenez pas tout au début :).\n        \n            ",
+            "likes": 2,
+            "dislikes": 1
+        },
+        {
+            "id": "review_59589812",
+            "author": "\n                            this is my movies\n            \n                            \n                    ",
+            "date": "2018-06-25",
+            "rating": 3.5,
+            "text_content": "\n                    Le 1er film de la nouvelle adaptation du manga et de la série culte est en fait une compilation de la majorité des scènes des 6 premiers épisodes de la série, avec quelques ajouts mineurs ainsi qu'une intrigue plus lisible, plus posée et moins dispersée. Rien de neuf au niveau de l'animation, si ce n'est que c'est plus beau, plus moderne, parfois plus virtuose, avec toujours les mêmes thèmes et les mêmes problématiques. Si vous n'avez jamais vu la série, ce film est amplement suffisant pour rattraper votre retard. Reste que j'attends la suite avec impatience, car elle prendra plus de libertés avec cette dernière (là encore, pas besoin de regarder la série si vous êtes moyennement motivé).\n        \n            ",
+            "likes": 1,
+            "dislikes": 1
+        },
+        {
+            "id": "review_34961459",
+            "author": "\n                            Julien D\n            \n                            \n                    ",
+            "date": "2012-12-24",
+            "rating": 3.0,
+            "text_content": "\n                    Là où les fans de la série seront déçus de voir son scénario ainsi compressé, ceux qui ne savent où ils mettent les pieds risquent de n’y voir qu’une animation faite de personnages stéréotypés et de mechas affrontant des adversaires mal définis, aucun ne pourra nier la qualité graphique avec laquelle Anno adapte sa série sur grand écran. Effectivement, si le travail sur les personnages passe inextricablement à la trappe du fait de la division par deux du temps de l’intrigue, l’ajout d’effets numériques au cœur des combats transforme le résultat en un spectacle éblouissant et laisse présager (espérer?) une fin plus étoffée que la version tété.\n        \n            ",
+            "likes": 1,
+            "dislikes": 1
+        },
+        {
+            "id": "review_38846664",
+            "author": "\n                            TTNOUGAT\n            \n                            \n                    ",
+            "date": "2013-08-28",
+            "rating": 3.0,
+            "text_content": "\n                    Tout a fait admirable par le graphisme, tant par les dessins, les couleurs que par l’animation; c’est un régal pour les yeux avec en prime un érotisme discret. Sur le fond ce n’est pas intéressant du tout (à moins d'avoir le temps d'approfondir à fond les états d’âmes des protagonistes) comparé aux vraies sources que sont les écritures anciennes telles que l’apocalypse et d’autres mais les jeunes japonais adorent et cet intérêt méritent que l’on y aille voir. C’est a chacun de prendre ou non du  version est déjà modifiée en blu-ray 1.11 et sera suivie des deux autres.\n        \n            ",
+            "likes": 1,
+            "dislikes": 1
+        },
+        {
+            "id": "review_22739336",
+            "author": "\n                            Ti Nou\n            \n                            \n                    ",
+            "date": "2011-01-15",
+            "rating": 4.0,
+            "text_content": "\n                    Pour introduire la reconstruction de sa saga mythique Hideaki Anno reste assez fidèle à la série en n'introduisant que peu de changements. Légèrement condensé, le récit est parfois confus mais se suit pourtant sans déplaisir grâce à des personnages toujours intéressants.\n        \n            ",
+            "likes": 1,
+            "dislikes": 1
+        },
+        {
+            "id": "review_1007852843",
+            "author": "\n                            Chaîne 42\n            \n                    ",
+            "date": "2020-06-6",
+            "rating": 2.0,
+            "text_content": "\n                    Il y a clairement une consistance S.F. avec des personnages qui sont construits un peu bizarrement ne connaissant pas cette saga qui là est très sommairement expliquée. Dans tout les cas ce sont des combats contre des machines ou pas sophistiquées qui en veulent aux humains. Le climat est bien militaire et alambiqué, ainsi que certaines allusions. Le principe de donner des premiers rôles à des ados plus ou moins maltraités dans ce contexte parait de plus un peu louche.\n        \n            ",
+            "likes": 1,
+            "dislikes": 1
+        },
+        {
+            "id": "review_20599832",
+            "author": "\n                            Ashitaka3\n            \n                    ",
+            "date": "2010-08-20",
+            "rating": 3.0,
+            "text_content": "\n                    ne connaissant pas du tout evangelion, j'ai aimé ce film de par ses décors sa mise en scène recherchée, ses personnages mystérieux. Le film se regarde très facilement avec un oeil curieux et triste.\n        \n            ",
+            "likes": 1,
+            "dislikes": 2
+        },
+        {
+            "id": "review_33207898",
+            "author": "\n                            Machriasi\n            \n                    ",
+            "date": "2012-08-26",
+            "rating": 2.0,
+            "text_content": "\n                    malheuresement pas du tout emballé par ce film le scenario les personnages très stereotypés, il y a qq qualités mais vraiment j'ai eu beaucoup de mal a suivre\n        \n            ",
+            "likes": 1,
+            "dislikes": 2
+        },
+        {
+            "id": "review_27989161",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2011-11-20",
+            "rating": 4.5,
+            "text_content": "\n                    Un film de haute qualité qui en captivera plus d'un. Ce film permet de regardé sous un nouveau visage la vielle série de 95 qui est pour moi culte.\n        \n            ",
+            "likes": 1,
+            "dislikes": 1
+        },
+        {
+            "id": "review_40249710",
+            "author": "\n                            charly5766\n            \n                    ",
+            "date": "2013-12-17",
+            "rating": 4.0,
+            "text_content": "\n                    Film qui m'a intéressé grâce à Pacific Rim de Guillermo Del Toro puisque son oeuvre est très inspirée de la série Japonaise. Et le moins que l'on puisse dire c'est que je ne suis pas du tout déçu !! Scène dantesque, musique excellente, scénario profond, combat entre robot et gros monstres apocalyptique absolument mythique ... génial !!\n        \n            ",
+            "likes": 0,
+            "dislikes": 1
+        },
+        {
+            "id": "review_49785025",
+            "author": "\n                            PowerKing - Les Chroniques du Cinéphile\n            \n                            \n                    ",
+            "date": "2016-01-17",
+            "rating": 2.5,
+            "text_content": "\n                    Avis aux amateurs de bonne grosse SF musclée et de mangas dis traditionnels. Cette série adaptée sur grand écran cible purement et simplement les fans qui en connaitraient déjà les tenants et aboutissants. Pour les autres, et principalement ceux qui comme moi n’adhèrent pas particulièrement aux graphismes nippons purs et durs, la pilule risque d’être difficile à avaler. En effet, trop de facteurs sont si mal définis qu’il est pénible de suivre cette intrigue purgée de toute sa trame et la consistance qui en faisait l’intérêt à l’origine. On se contente d’une sommaire mise en bouche avec d’énorme machines androïdes pilotées  par des humains, visiblement aussi lambdas que vous et moi, et qui se battent avec toute l’énergie du Japon concentrée dans un invraisemblable canon, contre des ennemis indéfinissables.  Y a pas à dire, c’est du made in Japan tout craché. Ma critique n’est donc pas impartiale et s’adresse avant tout aux largués du manga dans toute sa splendeur. Il convient de s’en tenir à ce premier volet si vous n’avez pas adhéré. 2,5/5\n        \n            ",
+            "likes": 0,
+            "dislikes": 1
+        },
+        {
+            "id": "review_27967970",
+            "author": "\n                            totoro35\n            \n                    ",
+            "date": "2012-01-27",
+            "rating": 3.5,
+            "text_content": "\n                    Premier volet d'une tétralogie, une sorte de condensé de la série animée culte qui pourra rebuter les fans mais qui n'en reste pas moins un spectacle grandiose et souvent épique, parfois même mélancolique, malgré une mise en scène un tantinet télévisuelle.\n        \n            ",
+            "likes": 0,
+            "dislikes": 1
+        },
+        {
+            "id": "review_12987605",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2009-03-22",
+            "rating": 4.0,
+            "text_content": "\n                    Le mythe prend vie. Il y a longtemps que j'ai lu les mangas et je dois dire que j'ai eu grand plaisir à retrouver cette histoire et ce dessin. Le plus du film est qu'il suit très fidèlement le manga pour les fans mais qu'il est également très compréhensible pour les non-initiés. Du côté du dessin, le monde du futur menacé de destruction par les anges est superbement reproduit et certaines scènes sont saisissantes de par leur beauté. Le passage du papier à l'animé est vraiment très réussi. On est loin de l'époque Dragon Ball où chaque saut durait une éternité le temps que Goku finisse sa réflexion. Ici, on n'oublie évidemment pas le côté psychologique du combat mais on a moins besoin de l'expliquer vu que les visages des personnages font tout le travail. Evangelion: 1.0 You Are (Not) Alone est resté très fidèle au manga qui est déjà à la base de très bonne qualité. On n'est pas déçu par le spectacle! En revanche, comme on pouvait s'y attendre très peu de salles le projette en France dont une seule à Paris, le Publicis Cinémas qui projette le film une semaine de plus deux fois par jour! Un manga animé sur écran géant c'est pas tous les jours qu'on voit ça. N'hésitez pas, vous ne serez pas décu. Pour ma part, je n'ai  qu'une chose à ajouter. Vivement la suite!\n        \n            ",
+            "likes": 0,
+            "dislikes": 1
+        },
+        {
+            "id": "review_12852264",
+            "author": "\n                            titiro\n            \n                    ",
+            "date": "2009-03-13",
+            "rating": 4.0,
+            "text_content": "\n                    Ce film pas trop long nous réjoui comme des gamins devant Goldorak. Chaque \"ange\" est comme un nouveau \"golgoth\", et on découvre avec plaisir ces nouveaux ennemis au fur et à mesure du film, avec un dernier \"ange\" particulièrement coriace et bien trouvé. Très divertissant, sans la moindre seconde d'ennui. L'intrigue se met en place, et nous fait attendre avec impatience la suite. Ils devraient sortir plus de mangas de ce genre au cinéma.\n        \n            ",
+            "likes": 0,
+            "dislikes": 1
+        },
+        {
+            "id": "review_40875548",
+            "author": "\n                            Mathieu T.\n            \n                    ",
+            "date": "2014-02-10",
+            "rating": 4.0,
+            "text_content": "\n                    Un magnifique film qui fait plaisir à voir et qui a de l'originalité et du surnaturel. Ce sont bien là deux choses que les films japonais savent merveilleusement bien faire.\n        \n            ",
+            "likes": 1,
+            "dislikes": 2
+        },
+        {
+            "id": "review_21646298",
+            "author": "\n                            liamsi\n            \n                    ",
+            "date": "2018-04-22",
+            "rating": 5.0,
+            "text_content": "\n                    On atteint l'excellence avec ce premier film, comparé à la série animée les dessins ont été retravaillés pour un résultat splendide, l'histoire est condensée ce qui évite les lenteurs, et la bande son est sublime.\n        \n            ",
+            "likes": 0,
+            "dislikes": 1
+        },
+        {
+            "id": "review_12703849",
+            "author": "\n                            Clément Z\n            \n                    ",
+            "date": "2009-03-4",
+            "rating": 5.0,
+            "text_content": "\n                    Fan de la serie, c'est un pur bonheur de revoir cette oeuvre dans une nouvelle version.",
+            "likes": 0,
+            "dislikes": 1
+        },
+        {
+            "id": "review_31228233",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2012-04-22",
+            "rating": 4.0,
+            "text_content": "\n                    si certains critiques avaient lu le dossier de presse, il aurait compris où voulait amener les spectateurs... De son premier film, 1.11, il voulait surtout que l'on comprenne rapidement  l'univers d'Eva et surtout proposer une version alternative à l'histoire pour mieux partir sur d'autres horizons dans les parties suivantes comme ce 2.11 (ou 2.0 ^^) Bref, une formule un peu casse-gueule il est vrai mais je viens de revoir le 1.0 fini à l'instant et on subit moins cette impression de montage à l'arrache du au remontage sur sa version BR ou DVD mais aussi de par notre psyché qui n'a pu s'empêcher de comparer avec l'oeuvre originale.. une fois celle-ci \"oublié\" puisque moins vu que le film, on n'oppose moins les deux pour ne garder que le meilleur.\n        \n            ",
+            "likes": 0,
+            "dislikes": 1
+        },
+        {
+            "id": "review_52435888",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2016-08-9",
+            "rating": 3.5,
+            "text_content": "\n                    Un film a réservé aux fans de la première ou alors à ceux qui connaissent un peu la trame de la série et qui désirent en connaître un peu plus.",
+            "likes": 0,
+            "dislikes": 1
+        },
+        {
+            "id": "review_5545526",
+            "author": "\n                            gunbuster\n            \n                    ",
+            "date": "2009-08-29",
+            "rating": 0.5,
+            "text_content": "\n                    Cette \"chose\", ce rebuild, ce refaçonnage, ce massacre-bis d'Evangelion confirme toutes mes craintes sur le long-métrage : Hideaki Anno se la joue Georges Lucas, et nous refourgue un \"nouveau remake\" de son chef d'œuvre sauce effets spéciaux 10 ans après ladite série.On assiste à un résumé pur et simple des 6 premiers épisodes, le tout à un rythme qui nuit à la propre mise en scène du film, tout y est expédié à la vitesse de la lumière.Comme je le craignais, le pépère Anno s'est dit qu'il serait bien de refaire parler de lui :Il devient vieux et il sait qu'il ne pourra certainement jamais reproduire un tel exploit, Alors, tant que la licence Evangelion n'est pas tombée dans le domaine public et que ses fans de la premières heure ne sont pas encore décrépis, il est temps de traire la vache à lait que sont ces millions d'otakus.Mais bon, Hideaki Anno ne s'abaisse plus à réaliser lui-même ses films, il laisse son protégé faire le sale boulot, à qui il disait souvent, \"un jour du fera comme papa ! Tu réalisera tes propres films. Pour pas te fatiguer, tu n'as qu'à copier à l'identique les plans d'origine et rajouter quelques scènes pour faire genre on apporte quelque chose à l'édifice, on va dire qu'on explique mieux et tout et tout. De toute façon, ils l'ont bien gobé pour Death & Rebirth et The End of Evangelion, tous des légumes j'te dis...\"Le long-métrage perds tout intérêt puisque dénué de suspense pour les fans de la série, et totalement hermétique pour les novices qui n'y pigeront que dalle. L'action n'est pas prenante, et les introspections font 30 secondes montre en main dans ce \"premier jet\".Allez, à quand la suite ? (je sais, je peut être TRES drôle, quand je le veux!).\n        \n            ",
+            "likes": 0,
+            "dislikes": 3
+        },
+        {
+            "id": "review_17340053",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2010-05-9",
+            "rating": 4.0,
+            "text_content": "\n                    Presque du même niveau que la série dont il est issu (et ce « presque » justifie que le film n’obtienne pas 4 étoiles). La qualité graphique des dessins est ici rehaussée par des effets numériques plutôt magnifiques qui donnent une nouvelle dimension à l’image. La profondeur de l’histoire tout comme la « grandeur » des combats sont bien là. Pour les adeptes de la série  on peut regretter un traitement assez rapide de certaines scènes. Néanmoins l’essentiel n’est pas manqué. Sachant que le but de ce film était de donner une nouvelle version d’Evangelion tout en rendant les images plus spectaculaires on peut dire que c’est un pari réussi.\n        \n            ",
+            "likes": 0,
+            "dislikes": 1
+        },
+        {
+            "id": "review_1032974063",
+            "author": "\n                            Roub E.\n            \n                            \n                    ",
+            "date": "2024-11-23",
+            "rating": 3.0,
+            "text_content": "\n                    Je ne connaissais pas l anime et j ai été un peu perdu dans un premier temps. Un anime qui s inscrit dans la longue tradition des robots géants qui affrontent des monstres ou des Kaijus qui le sont tout autant. Une histoire qui a beaucoup inspiré Pacific RIM et je dois bien admettre que j ai préféré ce dernier. Ici j ai trouvé les scènes d action un peu trop statiques et j ai trouvé que les personnages manquaient de réels arcs narratifs.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1029126249",
+            "author": "\n                            Kivodulh\n            \n                    ",
+            "date": "2024-02-2",
+            "rating": 3.5,
+            "text_content": "\n                    On a plaisir à revenir à de la pure animation SF explosive japonaise !",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_27326384",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2015-01-8",
+            "rating": 4.5,
+            "text_content": "\n                    Etant fan de la série éponyme, je me suis régalé à revoir le début de cette série en version longue. La HD est incroyable, et les libertés prises par le réalisateur concernant les anges... Hallucinant.\n        \n            ",
+            "likes": 1,
+            "dislikes": 3
+        },
+        {
+            "id": "review_20812404",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2010-08-28",
+            "rating": 2.5,
+            "text_content": "\n                    Certains disait que le scénario de Evangelion était très compliqué. Dans le film, ce dernier est très compréhensible même si je pense qu'il n'est pas complet. Cependant il reste tout de même pas très bien mis en scènes car il y a de nombreuses longueurs et on ne sent pas que le héro sert vraiment à quelque chose. L'animation est superbe. Je verrais les autres film mais ce premier épisode ne m'a pas convaincu.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_13514695",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2009-04-25",
+            "rating": 2.5,
+            "text_content": "\n                    Je suis plus que perplexe a la vue Evangelion 1.0, car je voir pas trop l'intérêt de ce film. Car en y regardant bien, pas loin de 70% du film sont ABSOLUMENT identique a sont homologue qu'est la série. Je ne parle pas du scénario qui est normal vu que c'est une refonte de la série en trois films ( comme il l'on fait pour Ken ) mais ou est l'intérêt de faire les même plan ? Car franchement je comprend pas, quand j'ai vu le début sur le coup je me suis même poser la question si il n'avais pas simplement repris des passages de la série en fessant un nouveau montage. Mais en y regardant de plus prés on ce rend compte que l'animation est meilleur donc c'est bien une nouvel version mais IDENTIQUE a l'ancienne sur les plan.. donc en gros aucune utilité. heureusement que les 30 dernière minutes sont inédite car sinon ça n'aurais servie a rien de faire ce film. De plus en 1h30 que du le film ou nous explique rien ( OK dans la série non plus, du moins au début ) mais certaine chose sont expliqué comme les AT-FED ou le cordon, ici rien. Il en parle mais a aucun moment le spectateur aura la réponse. Voila un film fait juste pour les fans et rien que pour eux, un conseil si vous voulais vraiment apprécie la Evangelion a juste titre, regardez la série et oublier ce film qui au final n'apporte rien et pose plus de question qu'il n'en répond pour une personne nouvel.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_25660943",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2011-06-19",
+            "rating": 3.0,
+            "text_content": "\n                    Le commentaire précédent a résumé l'essentiel, je ne vais donc pas le paraphraser.",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_28716203",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2012-01-10",
+            "rating": 3.5,
+            "text_content": "\n                    Un long métrage sur Evangelion ? Et qui sera suivi par trois autres ? La série avait déjà été suivie par deux films, \"Death and Rebirth\" et \"The End of Evangelion\". Si le premier n'était autre qu'un condensé des épisodes de la série ressemblant à une gigantesque bande-annonce, le second avait apporté une conclusion psychédélique tout en s'appuyant sur les messages de portée morale et philosophique qui terminaient la série télévisée. Je me demandais ce que serait ce \"Evangelion: 1.0\" et au fond de moi j'espérais qu'on ne tombe pas dans le fan-service de base en nous resservant un simple remake director's cut qui intégrerait un peu d'animation 3D... Je viens pourtant de résumer à peu près ce qu'il en  est réellement. Ce premier film s'apparente à un \"Death and Rebirth\" conçu pour parler à un public plus large, car il faut admettre que ce dernier s'avérait tout bonnement incompréhensible (mais intrigant) pour les non-initiés. Mais qu'on se rassure, dans le cas présent, l'histoire a été justement condensée et le développement des personnages n'en a pas trop atrocement souffert. Visuellement c'est franchement beau: la technique gagne en finesse sans venir perturber la charte graphique d'origine.",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_12798475",
+            "author": "\n                            patior\n            \n                    ",
+            "date": "2009-03-9",
+            "rating": 1.0,
+            "text_content": "\n                    Je tiens à vous avertir que je ne connais pas le manga.",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_18664003",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2010-06-23",
+            "rating": 3.0,
+            "text_content": "\n                    Ne connaissant pas la série. Et n'étant pas un spécialiste des manga. J'ai trouver se film assez prenant malgré un difficile départ car au début pour ceux qui ne connaisse pas la série sont totalement perdu je pense. Mais quand le 2.0 sortira je serais dans les premiers à allez le voir :)\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_13371704",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2009-04-16",
+            "rating": 5.0,
+            "text_content": "\n                    Quelle bonne idée de revoir la série des Evangelion au cinéma. Les fans en ont rêvé, les jap's l'ont fait ! Certes, l'exercice n'était pas évident : ne pas toucher au scénario des premiers épisodes de la série pour en faire un résumé dans un film. Mais au final, le résultat est magique : les combats gagnent en intensité et les rapports entre les personnages sont moins gnangnan. Avec une séance par région, ne loupe pas la suite !\n        \n            ",
+            "likes": 0,
+            "dislikes": 2
+        },
+        {
+            "id": "review_38732893",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2013-08-21",
+            "rating": 4.5,
+            "text_content": "\n                    Ce film est un trip visuel ! L'animation mélange dessins, animations numériques, effets spéciaux \"3D\"... c'est magnifique. Le montage, la réalisation c'est du haut vol ! L'histoire est prenante et riche en première lecture et abonde en parabole et symbole sur la nature de l'être. Sans pour autant analyser chaque séquence, on se laisse aller à cette impression visuelle jamais atteinte jusqu'ici dans le genre SF/Mecha. Sans oublier des pointes d'humour et quelques petites touches sexy bien agréables. Les personnages sont attachants et on suit facilement la quête de Shinji, le jeune héros et ces questionnements.",
+            "likes": 2,
+            "dislikes": 0
+        },
+        {
+            "id": "review_13054485",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2009-03-26",
+            "rating": 4.0,
+            "text_content": "\n                    Ce 1er film, Evangelion : 1.0 You are (not) alone revisite les 6 premiers épisodes de l'anime. On voit donc les 3 premiers anges (enfin les 3ème, 4ème et 5ème ange... ok). Si donc la plupart de l'anime est respecté, lorsqu'on arrive à Ramiel (5ème ange), la donne change complètement. Il a complètement était revisité. L'environnement dans lequel évoluera les EVAs pour réussir à le détruire changera aussi. Déjà que Ramiel était plutôt dévastateur dans l'anime. Ici, il parait carrément invincible. Il en impose pour un povre octaèdre et je me suis plutôt écalté en la regardant ! Sortons de ces considérations liés à l'histoire, qu'en est-il du bordel et des prises de tête philosophique de la série ? Ah bin oui, forcément, c'est toujours là. Beaucoup de larmoiements autour de Shinjie Ikari, le personnage principale qui se pose beaucoup de questions, encore et toujours !Mais le gros problème de ce film, c'est qu'en plus de ne toujours rien expliquer de l'histoire globale, du pourquoi ces anges attaquent, etc... Ils rajoutent des séquences avec des personnages qui ne devrait arriver que bien plus tard. Et du coup... pffff... Ca rend la chose à mon avis encore plus incompréhensible pour ceux qui n'aurais jamais vu l'anime !Enfin, dernière grosse différence, que je qualifierais de pas terrible toujours, c'est l'enchainement. Et ça donne surtout une impression de super vitesse du scénrio (style : \"faut boucler en 1h38\") ! Donc je dirais :",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_17325700",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2010-05-8",
+            "rating": 5.0,
+            "text_content": "\n                    tous simplement exelent !!\n        \n            ",
+            "likes": 0,
+            "dislikes": 1
+        },
+        {
+            "id": "review_16748435",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2010-02-26",
+            "rating": 2.5,
+            "text_content": "\n                    2* parce que ca fait 10 ans que je n'avais pas revu Evangelion, et que ce pseudo film m'a rapellé plein de souvenirs... Sinon, complètement inutile pour un néophyte, et complètement inutile pour un connaisseur...",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_11237031",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2009-11-2",
+            "rating": 5.0,
+            "text_content": "\n                    Allez le voir il est excellent j'ai decouvert la série grace a un copain et quand j'ai vu le film j'ai directement acroché qui était lui même fan donc il faut le voir vous verez c'est bien mieux qu'un film pitoyable tel HSM ou twilight.\n        \n            ",
+            "likes": 0,
+            "dislikes": 1
+        },
+        {
+            "id": "review_58585428",
+            "author": "\n                            GC D.\n            \n                    ",
+            "date": "2018-03-5",
+            "rating": 4.0,
+            "text_content": "\n                    Un bon remake avec de super graphique et de petites nouveautés.Par contre la VF n'est pas terrible..\n        \n            ",
+            "likes": 0,
+            "dislikes": 1
+        },
+        {
+            "id": "review_12844588",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2009-03-12",
+            "rating": 2.5,
+            "text_content": "\n                    Film-résumé d'un manga à l'histoire vraiment originale mais qui se trainait en longueur, Evangelion 1.0 se révèle extrêmement frustrant pour les initiés vu qu'il s'arrête exactement là où l'on voulait le voir commencer.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1000769216",
+            "author": "\n                            Elianor84\n            \n                    ",
+            "date": "2019-10-6",
+            "rating": 3.0,
+            "text_content": "\n                    Un anime agréable qui retrace les début d'Evangelion ! Les Anges sont très bien fait mais certaines scènes sont un peu trop mielleuses.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_13203261",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2009-04-5",
+            "rating": 1.0,
+            "text_content": "\n                    Le film typique pour faire du fric. Evangelion est sorti il y a 15 ans, il y a eu des OAV pour boucler le tour. Dès lors ce film n'a aucun intérêt, n'ajoutant rien (ou plutôt enlevant !) à l'univers NGE. Si c'était une suite, une préquel, n'importe quoi en rapport avec évangélion, j'aurais apprécié. Ici, c'est essentiellement une arnaque basée sur une compil' de la série. Une étoile parce que c'est tout de même en HD.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_11672011",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2011-05-29",
+            "rating": 3.5,
+            "text_content": "\n                    You are [not] alone était certainement un des films les plus attendus de l'année 2007, notamment par les millions de fan d'Evangelion. Etant l'un d'entre eux, j'ai un avis plutôt mitigé.",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1036504251",
+            "author": "\n                            Lucas\n            \n                    ",
+            "date": "2025-08-4",
+            "rating": 3.5,
+            "text_content": "\n                    Très bon reborne de l’anime avec les nouvelles technologies d’animation de l’époque même si il n’a rien de nouveau dans la narration. Rien de bien nouveau dans ce reborne.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1030790765",
+            "author": "\n                            Puda\n            \n                    ",
+            "date": "2024-05-29",
+            "rating": 2.5,
+            "text_content": "\n                    Quand on connait le chef d'oeuvre qu'est la série, ce film passe plutôt mal. C'est litéralement un condensé des premiers épisodes avec beaucoup de choses super intéressantes complètement passées à la trappe. Alors logique, il faut bien sauter des passages mais Evangelion n'est pas une série qui se regarde à la va vite. Du coup l'idée de ce film est sûrement faite pour les non fans de la série qui souhaitent quand même rentrer dans l'univers sans avoir à regarder les 6 premiers épisodes et enchaine avec les films suivants. Les graphismes du film sont bien plus modernes et beaux par contre ! Mais il manque un peu l'âme de la série...\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_11142324",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2009-03-8",
+            "rating": 5.0,
+            "text_content": "\n                    Le film a un avantage: il s'adapte aussi bien au nouveau spectateur qu'au puriste.",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_37563937",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2013-05-30",
+            "rating": 4.5,
+            "text_content": "\n                    Superbe film tant d'un point de vue visuel que scénaristique ! J'ai adoré !\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_26369515",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2011-07-31",
+            "rating": 4.5,
+            "text_content": "\n                    Waw... magnifique. C'est grâce au film que j'ai regardé la série. Le film est un très très bon complément de la série qui laisse beaucoup de questions en suspens, des éléments pourtant très importants. La musique \"Beautiful world\" constitue à elle seule 4 étoiles dans ma note ! J'attends impatiemment le dernier film qui j'espère répondra enfin à toutes les questions qui entourent la fin de la série.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_16886409",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2010-03-18",
+            "rating": 5.0,
+            "text_content": "\n                    wahoouu fan de la premiere heure d'evangelion je me devais de poster 1.0 est graphiquement sublime la refonte graphique de certain des anges est tout simplement génial, les details graphique qui on été ajouté a l'univers donne une profondeur supplementaire a l'oeuvre original mais on est malgre tout decu de perdre une partie de la psychologie des personnages au profit d'une naration plus fluide et moin lancinante. Le fait que l'histoire prenne des racourcis etait fortement previsible et donc impose d'etre deja au courant des tenant et des aboutissants de la serie original afin de pouvoir suivre le fil sans trop de mal mais ca n'interdit pas au neophyte de s'aventurer dans un film bourer d'action et visuelement au rendez-vous.",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_12387486",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2009-04-2",
+            "rating": 5.0,
+            "text_content": "\n                    Rare sont ceux qui s'intéressent à la japanimation et qui en connaissent pas Evangelion. Série qui changea les codes des séries de Mécha dans les années 90, aujourd'hui, néophytes comme fan de la série peuvent (re)découvrir ce chef-d'oeuvre dont les six premiers épisodes de la série sont ici condensés.",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1015630965",
+            "author": "\n                            Bastien03\n            \n                    ",
+            "date": "2021-06-27",
+            "rating": 4.0,
+            "text_content": "\n                    Bien que reprenant la trame des premiers épisodes de l'animé, le film se distingue de part une animation moderne et quelques réécritures.",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_16286589",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2009-12-27",
+            "rating": 5.0,
+            "text_content": "\n                    Quel bonheur de revoir Shinji et l'Eva 01. Le maître est de retour avec l'anime culte, plus beau que jamais.",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1038925014",
+            "author": "\n                            Leviaa\n            \n                    ",
+            "date": "2026-04-6",
+            "rating": 3.0,
+            "text_content": "\n                    film moyen. Finalement, pour un reboot, le scénario n'a pour seul différence la couleur de l'eau et l'intensité des combats. Le rythme est bien trop rapide et ne permet pas de bien étaler l'histoire comme le fait la série. Pourtant, ce film m'a diverti, j'ai trouvé intriguant ce premier volet d'une tétralogie, étant donné qu'il résume environ 1 tiers de la série. De plus, les différences montrent bien que les prochains films auront du potentiel (et c'est le cas). Je ne parlerai pas du fait qu'il s'adresse principalement aux personnes ayant vu la série, étant donné que j'en fait moi-même parti. Bon film si on est curieux de voir les autres.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_13171019",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2009-04-3",
+            "rating": 5.0,
+            "text_content": "\n                    1er volet des Rebuild Of Evangelion et c'est tout simplement magnifique. Certe ce volet reprend les 6 premiers épisodes mais nous donne une claque monumentale, surtout sur la deuxieme partie. ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_12795723",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2010-01-13",
+            "rating": 5.0,
+            "text_content": "\n                    C'est le manga le plus fouillé à ce jour. Rien n'est laissé au hasard dans le scénario. Et après avoir vu plusieurs films de SF, car Evangelion est sorti il y a bien 15 ans, beaucoup de scénaristes et de réalisateurs se sont inspirés de cette oeuvre incroyable. Pour moi l'oeuvre la plus importante en matière d'animation japonaise.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_13054946",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2009-03-27",
+            "rating": 5.0,
+            "text_content": "\n                    Très bonne révision de l'anime, un graphisme époustouflant et l'ajout de petit scènes/détails supplémentaires est des plus agréable. Niveau bande son, je qualifierait celui-ci d' \"orgasme auditif\" (même si le terme peut paraitre étrange) car un effort énorme a été fait de ce côté, ce qui est des plus plaisant (les bases sont gardées et les nouvelles musiques s'intègrent parfaitement).",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_15493345",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2009-09-13",
+            "rating": 4.0,
+            "text_content": "\n                    Il est très difficile de noter ce film avec objectivité. Quiconque a déjà vu la série et connaît donc le fin mot de l'histoire sera émerveillé par ce film. Animation, effets spéciaux, esthétique... Tout s'y présente bien mieux que dans la série d'origine sans rien dénaturer.",
+            "likes": 0,
+            "dislikes": 0
+        }
+    ]
+}

@@ -1,0 +1,626 @@
+{
+    "id": 41169,
+    "name": "Le Train",
+    "release_date": "1964-09-30",
+    "runtime_in_minutes": 133,
+    "genres": [
+        "Action",
+        "Guerre",
+        "Thriller"
+    ],
+    "synopsis": "\n                    En 1944, le Colonel von Waldheim fait évacuer des tableaux de maîtres du Jeu de Paume pour les envoyer en Allemagne. Labiche, un cheminot résistant, est chargé de conduire le train transportant ces objets d'art.\n        \n            ",
+    "reviews": [
+        {
+            "id": "review_42067846",
+            "author": "\n                            Jean-philippe N.\n            \n                    ",
+            "date": "2014-04-5",
+            "rating": 4.5,
+            "text_content": "\n                    J'ai eu la bonne idée de regarder \"The train\" quelques semaines après \"Monuments men\", deux films qui traitent sensiblement de la même idée: la vie humaine vaut elle d'être sacrifiée pour des œuvres d'art aussi prestigieuses soient elles. Le constat est accablant: le film de George Clooney est une aimable plaisanterie, celui de John Frankenheimer un chef d'œuvre...\n        \n            ",
+            "likes": 10,
+            "dislikes": 1
+        },
+        {
+            "id": "review_21045845",
+            "author": "\n                            ElAurens\n            \n                    ",
+            "date": "2010-09-8",
+            "rating": 3.5,
+            "text_content": "\n                    Un hommage aux cheminots ce film de guerre avec Burt Lancaster est une réussite. Le film montre le courage des hommes, qui malgré une libération imminente sont encore prêts à payer de leurs vies pour la France. Un bon film sur le patriotisme, méconnu.\n        \n            ",
+            "likes": 7,
+            "dislikes": 1
+        },
+        {
+            "id": "review_2796269",
+            "author": "\n                            selenie\n            \n                            \n                    ",
+            "date": "2010-05-26",
+            "rating": 5.0,
+            "text_content": "\n                    Un des rares films qui met à l'honneur la résistance des cheminots lors de 39-45 avec le chef d'oeuvre de \"La bataille du rail\" de René Clément. Comme ce dernier la force du film est son réalisme sachant que les collisions sont réalisés sans trucage ou qu'encore que Burt Lancaster boite réellement après avoir été blessé sur la tournage. L'autre force du film est son casting évidemment avec des monstres tels que Michel Simon et Jeanne Moreau. Le film repose essentiellement sur la star (et producteur) Burt Lancaster. Heureusement le scénario n'oublie pas l'enjeu, celui de sauver des chef d'oeuvres de la peinture et donc, par là-même, d'y placer la question \"est-ce que mourir pour ces tableaux est nécessaire ?\".",
+            "likes": 5,
+            "dislikes": 1
+        },
+        {
+            "id": "review_35620910",
+            "author": "\n                            lilybelle91\n            \n                    ",
+            "date": "2013-03-16",
+            "rating": 4.0,
+            "text_content": "\n                    Un excellent film de guerre qui met en valeur les héros de la résistance ! Un grand film, porté par un casting 4 étoiles : Burt Lancaster, Jeanne Moreau, Michel Simon, suzanne Flon...\n        \n            ",
+            "likes": 5,
+            "dislikes": 1
+        },
+        {
+            "id": "review_40097248",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2013-12-4",
+            "rating": 4.0,
+            "text_content": "\n                    Dans la ligné de \"La Bataille du Rail\" de René Clément, \"Le Train\" est un très bel hommage aux cheminots français ayant combattu avec honneur et courage face à l'armée d'occupation pendant la seconde guerre mondiale, bien souvent au péril de leur vie. Les séquences de bravoures s'enchainent, la reconstitution est fort réussite et la galerie d'acteurs est impressionnante. Très bon film.\n        \n            ",
+            "likes": 5,
+            "dislikes": 1
+        },
+        {
+            "id": "review_39113880",
+            "author": "\n                            Frédéric Le Mouël\n            \n                    ",
+            "date": "2013-09-9",
+            "rating": 4.0,
+            "text_content": "\n                    Très bon film de guerre rendant un vibrant hommage à l'héroïsme et à la fraternité de la Résistance. Les scènes d'action (bombardements, collisions et déraillements de trains) sont particulièrement réussies. Excellente interprétation de Burt Lancaster et de Jeanne Moreau (bouleversante).\n        \n            ",
+            "likes": 4,
+            "dislikes": 1
+        },
+        {
+            "id": "review_39277364",
+            "author": "\n                            Samuel S.\n            \n                    ",
+            "date": "2013-09-25",
+            "rating": 4.0,
+            "text_content": "\n                    Dans la ligné de \"La Bataille du Rail\" de René Clément, \"Le Train\" est un très bel hommage aux cheminots français ayant combattu avec honneur et courage face à l'armée d'occupation pendant la seconde guerre mondiale, bien souvent au péril de leur vie. Les séquences de bravoures s'enchainent, la reconstitution est fort réussite et la galerie d'acteurs est impressionnante. Très bon film.\n        \n            ",
+            "likes": 4,
+            "dislikes": 1
+        },
+        {
+            "id": "review_33276041",
+            "author": "\n                            🎬 RENGER 📼 Cinéphile Nostal𝙂𝙚𝙚𝙠\n            \n                            \n                    ",
+            "date": "2012-08-22",
+            "rating": 4.0,
+            "text_content": "\n                    Le Train (1964) est assurément l’un des meilleurs films (si ce n’est pas LE meilleur) de John Frankenheimer (Le Prisonnier d'Alcatraz - 1962). Initialement réalisé par Arthur Penn, très rapidement la relation s’est tendue avec Burt Lancaster, qui souhaitait un vrai film d’aventure (en plus d’incarner le personnage principal, il est aussi le producteur du film), ce dernier décida quelques jours après le début du tournage de le renvoyer au profit de John Frankenheimer). Le film nous replonge en pleine Seconde Guerre Mondiale, alors que l’armée Allemande est sur le point de capituler, Paris d’être libéré et que les alliés sont attendus d’un jour à l’autre, le colonel Von Waldheim (magnifique Paul Scofield), grand amateur d’art, décide de réquisitionner toutes les grandes toiles peintes par les plus grands artistes français (exposés au musée du Jeu de Paume). La conservatrice (Suzanne Flon) impuissante face à ce pillage de tous les fleurons de la peinture française (Gauguin, Renoir, Van Gogh, Manet, Picasso, Degas, Miro, Cézanne, Matisse, Braque, Utrillo, ...), véritable patrimoine de notre pays (!), décide de faire appel à des cheminots résistants (les toiles devant être convoyées vers l’Allemagne en train). C’est le chef de gare (le brillant Burt Lancaster) qui va devoir déjouer les plans des Allemands en attendant de pied ferme l’aide des alliés qui se fait attendre.",
+            "likes": 4,
+            "dislikes": 0
+        },
+        {
+            "id": "review_23281668",
+            "author": "\n                            kael1935\n            \n                    ",
+            "date": "2011-02-26",
+            "rating": 5.0,
+            "text_content": "\n                    Quel Film ! Extraordinairement \"divertissant\". Sans doute l'un des plus grand film d'action. Une sorte de \"Mission impossible\" géant. Evidemment philosophique dans son propos \"Identité, Nation, Patrimoine vs Vie humaine\",  finalement l'aspect le plus évident du film et pas forcément le plus fort.",
+            "likes": 4,
+            "dislikes": 0
+        },
+        {
+            "id": "review_16077062",
+            "author": "\n                            Gonnard\n            \n                    ",
+            "date": "2009-11-20",
+            "rating": 5.0,
+            "text_content": "\n                    Quand la SNCF est à l'honneur... Un hommage en tout cas plus efficace que \"La bataille du rail\" de René Clément sorti vingt ans plus tôt. Le scénario tient bien la route, il s'en passe des choses en deux heures de film, or ce n'est pas toujours le cas. Burt Lancaster possède un charisme évident à l'écran, il est parfait dans son rôle. Jeanne Moreau, qui a dix lignes de dialogues, est très logiquement présente à l'affiche, no comment. La musique est étrangement inexistante, dommage car certains passages un peu longs auraient gagné à être acompagnés d'un petit air. Ce dépouillement a tout de même un côté appréciable, il évite au film de tomber dans le pathos, ce qui était tentant.\n        \n            ",
+            "likes": 3,
+            "dislikes": 2
+        },
+        {
+            "id": "review_43236594",
+            "author": "\n                            bobmorane63\n            \n                    ",
+            "date": "2014-07-27",
+            "rating": 5.0,
+            "text_content": "\n                    Un chef d'œuvre du début des années 60 pendant la seconde guerre mondiale (L'histoire je veux dire) réalisé avec beaucoup de suspenses et un peu d'humanité par John Frankenheimer qui signe l'un de ses meilleurs films !! Ce long métrage se passe en France, peu après le débarquement en Normandie de Juin 1944, un général Allemand qui a sous ses mains tout les tableaux d'œuvres d'arts comme Picasso, Renoir et autres a les envoyer dans un train dans leurs pays. Une résistante convainque trois conducteurs du train",
+            "likes": 2,
+            "dislikes": 1
+        },
+        {
+            "id": "review_40862434",
+            "author": "\n                            chrischambers86\n            \n                    ",
+            "date": "2014-02-2",
+            "rating": 4.0,
+            "text_content": "\n                    Avant toute chose, il faut savoir que \"The Train\" fut commencè par Arthur Penn et terminè par John Frankenheimer! Rèalisè en 1964, cet excellent film de guerre, fondè sur un drame de la Rèsistance, prèsente un formidable intèrêt (sans aucun lien avec la rèalitè pourtant) et donne dans le très spectaculaire et le sabotage, celui des locomotives et de la façon de les arrêter! Un très bel hommage aux cheminots français d'hier et d'aujourd'hui dont la noblesse de caractère et la bravoure ont inspirè cette superproduction en noir & blanc! Gauguin, Renoir, Van Gogh, Manet, Picasso, Matisse...L'argent est une arme et ces tableaux sont aussi nègociables que de l'or et valent surtout plus cher! Berlin prèfèrerait les voir entre les mains du IIIe Reich! Pas ètonnant qu'il y est une telle pagaille chez les Fritz! Les tableaux sont pourtant les biens de la France, des marchandises irremplaçables! il n'y a là que des chefs d'oeuvre! Mais ces tableaux sont une partie de la France, les Allemands veulent les emporter! Dèjà, ils nous ont volè jadis notre terre et notre pain, ont vècu dans nos maisons et maintenant ils veulent voler nos chefs d'œuvre ? Cette beautè, ces images de notre ville, la France, le trèsor de tous, il faut les sauver à tous pris! On risque souvent sa vie pour des choses moins importantes que ça mais on peut heureusement compter sur un parfait Burt Lancaster pour stopper ce train! Ne le ratez surtout pas car l'efficacitè du mètrage y est indèniable, avec des moments de pur suspense, et une distribution prestigieuse (Jeanne Moreau, Suzanne Flon, Michel Simon alias « Papa Boule » maculè de suie...) où le spectateur voyage de gare en gare, tout en restant confortablement assis dans son canapè! Avec en fond sonore la musique de Maurice Jarre...\n        \n            ",
+            "likes": 2,
+            "dislikes": 1
+        },
+        {
+            "id": "review_37916059",
+            "author": "\n                            Redzing\n            \n                            \n                    ",
+            "date": "2013-06-29",
+            "rating": 3.0,
+            "text_content": "\n                    Après avoir pillé des tableaux de maîtres dans toute la France, un officier Allemand décide de les faire expédier par train en Allemagne, alors que Paris s'apprête à être libérée. La résistance s'organise pour faire rater le transfert. Des peintures valent-elles que des hommes se sacrifient pour elles ? C'est la question que se posent les deux ennemis du film, l'officier Allemand et le chef de la résistance. Le premier y voit une beauté artistique qui doit être préservée mais aussi conquise, le second y voit un symbole pour son pays et ses camarades. Ces deux personnages sont fort bien campés par Burt Lancaster et Paul Scofield, proche de la folie sur la fin. \"The Train\" se veut également comme un hommage aux cheminots, mais donne une image faussée de la population Française (image de la France résistante). Néanmoins, le courage de ces hommes y est montré de manière poignante. Par ailleurs, malgré des chutes de rythme, la réalisation de Frankenheimer est de qualité. Un bon film de guerre.\n        \n            ",
+            "likes": 3,
+            "dislikes": 1
+        },
+        {
+            "id": "review_47823439",
+            "author": "\n                            Eselce\n            \n                    ",
+            "date": "2015-07-9",
+            "rating": 4.0,
+            "text_content": "\n                    Très bon film qui sonne authentique. Une bonne réalisation, une histoire très prenante et de la résistance pour que la France conserve ses chefs d'oeuvre de peinture. J'avais beaucoup aimé l'idée de départ de \"Monuments Men\" sans aimer le film. Celui-ci, même s'il a 50 ans, est une version bien meilleure mêlant de l'action, de la mécanique, du drame. Je regrette tout de même qu'il n'y ait pas quelques images d'archives ou un petit résumé historique sur le final.\n        \n            ",
+            "likes": 3,
+            "dislikes": 0
+        },
+        {
+            "id": "review_35142151",
+            "author": "\n                            leochou\n            \n                    ",
+            "date": "2013-01-12",
+            "rating": 3.0,
+            "text_content": "\n                    Ce film qui rend hommage à la résistance française et des martyres, manque cruellement de rythme et a une réalisation très sage de John Frankenheimer. Sa manque également d'émotion et c'est sans doute cela le principal défaut du film. Malgré l’impressionnante présence de la star Burt Lancaster et d'un bon casting on est jamais transcendé par le film. reste toutefois le scène de la collision et un final qui tient en haleine. Ce n'est pas une oeuvre marquante mais l'ensemble reste honnête..\n        \n            ",
+            "likes": 2,
+            "dislikes": 2
+        },
+        {
+            "id": "review_1009654321",
+            "author": "\n                            soniadidierkmurgia\n            \n                            \n                    ",
+            "date": "2020-08-25",
+            "rating": 4.0,
+            "text_content": "\n                    Quand il aborde le tournage du « Train » en 1964, Burt Lancaster vient tout juste d’atteindre ses cinquante ans et il sort de l’échec commercial du « Guépard » tourné sous la direction de Luchino Visconti. Ayant dominé avec son complice Kirk Douglas les années 1945-1960 à Hollywood, il est encore au sommet après l’Oscar reçu en 1961 pour sa prestation mémorable sans « Elmer Gantry, le charlatan » de Richard Brooks. A la suite, il a entamé une collaboration avec John Frankenheimer, alors réalisateur débutant. Les deux hommes ont déjà tourné trois films ensemble dont « Le prisonnier d’Alcatraz » quand Lancaster appelle Frankenheimer à la rescousse pour venir remplacer Arthur Penn sur le tournage du « Train ». Les deux hommes ne s’entendent pas sur le sens à donner au film qui relate un épisode de la fin de la Seconde Guerre décrit dans un roman de Rose Valland (ancienne conservatrice de musée et résistant) au sujet de la tentative allemande en pleine débâcle de piller via le réseau ferroviaire, un grand nombre de chefs d’œuvre de la peinture française. Arthur Penn, réalisateur intellectuel, entend s’attarder sur les motivations psychologiques profondes du cheminot résistant que doit jouer Lancaster alors que celui-ci lui intime de privilégier l’action. Frankenheimer d’abord réticent accepte après avoir demandé que le scénario soit remanié (Walter Berstein s’en chargera). Cette co-production franco-italo-américaine si elle n’en fait pas un thème majeur du film, n’oublie pas à divers moments de soulever la question de l’enjeu de la sauvegarde du patrimoine culturel face à celui du sacrifice de vies humaines. Et ceci dans chacun des deux camps. Très peu bavard, « Le train » puise plutôt son inspiration du côté de « La bataille du rail » de René Clément (1946), en proposant une approche plus grand public de l’énorme travail de sape réalisé par les cheminots entrés en résistance. Le résultat remplit parfaitement son double  objectif de captiver le spectateur en lui faisant toucher du doigt le travail de l’ombre parfaitement synchronisé des cheminots bien décidés à pourrir jusqu’au bout les plans de l’envahisseur nazi. Burt Lancaster s’il se voit réservé un moment de bravoure typiquement hollywoodien à la toute fin du film,  imprègne sa prestation de toute la rigueur et de toute la retenue dont il était capable quand le rôle l’exigeait. Aucun temps mort donc pour ce film remarquablement dirigé par un John Frankenheimer qui pouvait donner le meilleur quand il était inspiré. Les deux hommes se retrouveront pour un autre film de guerre cinq ans plus tard avec « Les parachutistes arrivent ».  On  notera les courtes mais très marquantes apparitions de Michel Simon, Jeanne Moreau, Jacques Marin et Suzanne Flon. Quant à l’acteur anglais, Paul Scofield, il campe avec nuance ce colonel allemand tout à la fois esthète et impitoyable quand un obstacle se dresse sur son passage. C’est sans doute lui qui porte le mieux la problématique du film liée aux motivations des personnages si chère à Arthur Penn s’étant opposé à un Burt Lancaster convaincu qu’en temps de guerre, les hommes se définissent par ce qu’ils font plutôt que par ce qu’ils pensent.\n        \n            ",
+            "likes": 1,
+            "dislikes": 1
+        },
+        {
+            "id": "review_1027662426",
+            "author": "\n                            Uchroniqueur\n            \n                    ",
+            "date": "2023-10-27",
+            "rating": 4.0,
+            "text_content": "\n                    \"Le Train\", film de guerre franco-américain de John Frankenheimer et Bernard Farrel, sorti en 1964. ",
+            "likes": 2,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1565785",
+            "author": "\n                            thethythy\n            \n                    ",
+            "date": "2007-01-27",
+            "rating": 4.0,
+            "text_content": "\n                    Ce film est un hommage au courage des cheminots français qui ont resistés à l'occupation allemande durant la seconde guerre mondiale. Si l'intrigue tient la route, le choix de Burt Lancaster comme personnage principal est très contestable dans le sens ou il ne fait pas du tout français moyen surtout lorsque les autres personnages sont joués par des acteurs français. Le choix du noir et blanc est justifié par le sujet grave du film et aussi par son aspect esthétique, bien que le réalisateur n'ayant pas la carrure d'un Orson Welles n'en a pas tiré tous les avantages.\n        \n            ",
+            "likes": 2,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1023565066",
+            "author": "\n                            Grégoire\n            \n                    ",
+            "date": "2023-01-23",
+            "rating": 4.5,
+            "text_content": "\n                    \"Le train\" est un très bon film sur une opération réelle de la résistance durant la seconde guerre mondiale. Le noir et blanc est superbe, le suspense est omniprésent, et les acteurs sont inspirés. Les scènes les plus spectaculaires sont très réussies et réalistes (exemples : ",
+            "likes": 2,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1000509710",
+            "author": "\n                            Eowyn Cwper\n            \n                    ",
+            "date": "2019-09-2",
+            "rating": 4.0,
+            "text_content": "\n                    Tourné à une époque d’où nous parviennent les rumeurs de l’oppression exercée par les producteurs en personne – et pas du haut de leur société comme aujourd’hui –, Le Train est de ces œuvres tournées dans la douleur et le danger bien réel de l’hyperréalisme, tel un Fitzcarraldo sur rails.",
+            "likes": 0,
+            "dislikes": 1
+        },
+        {
+            "id": "review_1023292664",
+            "author": "\n                            Roub E.\n            \n                            \n                    ",
+            "date": "2023-01-8",
+            "rating": 4.0,
+            "text_content": "\n                    Alors que les allies approchent de Paris un officier allemand veut organiser l’exfiltration d’oeuvres d’art du musée du jeu de paume vers l’Allemagne. Un groupe de résistant et notamment des cheminots vont tenter de faire capoter le transfert pour sauver ces œuvres. Le train est un film de guerre spectaculaire réalisé de manière réaliste par John Frankenheimer. Posant tout le long la question du sacrifice d’hommes et de femmes pour sauver des œuvres d’art il allie très bien scènes d’actions à grand spectacle et des passages plus intimistes. Toujours impressionnant même âgé de presque 60 ans.\n        \n            ",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_44987545",
+            "author": "\n                            TTNOUGAT\n            \n                            \n                    ",
+            "date": "2014-12-9",
+            "rating": 4.0,
+            "text_content": "\n                    C'est passionnant de bout en bout avec Burt Lancaster, héros mythique du septième art, qui augmente  la force de ce film. Film qu'il faut prendre au premier degré comme un formidable film d'aventure tourné dans un contexte terrifiant, surtout pour ceux d'entre nous qui ont connu l'occupation allemande. En vérité, il n'y a aucun rapport entre le l'histoire de Labiche et le contexte, ce que nous voyons est une allégorie à la fois pour les héros glorifiés et les soldats allemands caricaturés. Mais comme c'est  un hommage mérité de toutes façons pour les cheminots français qui ont à leur manière freiné les ambitions de Hitler, ce film est plus que bienvenu. Chacun peut voir les locomotives B quelque chose occupent les premiers rôles de bout en bout et cela n'a pas de prix aujourd'hui. Michel Simon et Jeanne Moreau y font une apparition remarquée et les acteurs français se distinguent, notamment le chef de gare (Jacques Marin) et Didont (Albert Remi)le mécanicien  de Labiche, deux acteurs comme il n'en existe plus.  En deuxième degré, le problème de la résistance française du mois d' Aout 1944 est honnêtement abordé, chacun peut s'en faire une opinion au travers de cette histoire des tableaux volés grâce aux propos de Christine qui collent totalement à la réalité. Le train est un film à voir et à aimer, mais il ne peut être glorifié à cause de ce mélange des genres propre au cinéma spectacle mais  trop caricatural face à l'histoire de France.\n        \n            ",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_12075388",
+            "author": "\n                            Loïc G\n            \n                    ",
+            "date": "2009-01-29",
+            "rating": 5.0,
+            "text_content": "\n                    Cet excellent film de guerre vise à nous montrer le sens du sacrifice qu'ont eu les cheminots français face aux nazis.",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_52492513",
+            "author": "\n                            Bernard M\n            \n                    ",
+            "date": "2016-08-15",
+            "rating": 4.0,
+            "text_content": "\n                    \"Le train\"(1964) de John Frankenheimer est un très bon film. Si le cinéma américain en fait toujours un peu trop notamment au niveau des scènes d'action, le fait d'être tourné en standard noir et blanc renforce la sobriété et la puissance dramatique de ce film. Et quelle belle brochette d'acteurs internationaux en tête desquels on trouvera Burt Lancaster ( qui tourna plusieurs films avec Frankenheimer) menant tambour battant ce film au rythme soutenu.Il est agréable de voir ou revoir Suzanne Flon, Jeanne Moreau , Michel Simon ou encore Paul Scoffield dans des seconds rôles taillés sur mesure.\n        \n            ",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_33261636",
+            "author": "\n                            cylon86\n            \n                    ",
+            "date": "2012-08-22",
+            "rating": 3.0,
+            "text_content": "\n                    Le colonel allemand Von Waldheim est chargé d'escorter des tableaux de grands maîtres français en Allemagne et le résistant et cheminot Labiche (un français joué par Burt Lancaster, attention !) est chargé quant à lui d'arrêter le train et de faire en sorte qu'il n'atteigne pas l'Allemagne avant l'arrivée des Alliés. La belle idée de ce film est de centrer toute l'action autour d'un train qui transporte des tableaux dont le héros se fiche éperdument tandis que le méchant sait apprécier ces œuvres d'art. Le conflit entre les personnages est réussi, l'un réussissant à oublier ce qu'il pense au profit de la victoire, aussi amère soit-elle. Car il y en a des morts pour des tableaux et c'est aussi la problématique que pose ce film savamment filmé par John Frakenheimer qui nous offre de très beaux plans et un noir et blanc collant parfaitement avec son histoire. Et malgré des débuts difficiles, une fois que Lancaster est dans le train, les rebondissements s'enchaînent et l'intérêt est là d'autant plus que Paul Scofield campe un méchant délectable et la séquence finale est très belle.\n        \n            ",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_54757662",
+            "author": "\n                            willycopresto\n            \n                    ",
+            "date": "2017-02-23",
+            "rating": 4.5,
+            "text_content": "\n                    \"Le train\" (1964) TCM le 12.02.2017",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_23873298",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2012-08-26",
+            "rating": 4.0,
+            "text_content": "\n                    Célèbre film de guerre qui vaut le coup. La réalisation de Frankenheimer est excellente et le noir et blanc joliment contrasté. Lancaster le choix idéal pour ce rôle et les seconds rôles intéressants (Jeanne Moreau, Michel Simon et Paul Scofield). Le scénario est rempli d'actes de bravoure et de rebondissements.\n        \n            ",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_8590248",
+            "author": "\n                            this is my movies\n            \n                            \n                    ",
+            "date": "2016-12-12",
+            "rating": 4.0,
+            "text_content": "\n                    Un film de guerre assez particulier puisqu'il s'attache à nous montrer la lutte menée par des cheminots afin de stopper un convoi qui transporte des toiles de maîtres. A la tête d'un tout petit groupe, Labiche (B. Lancaster, massif et convaincant) va aller au bout de lui-même pour avoir le dernier mot. Assez violent, le film ne cache rien des agissements des nazis avec son lot d'exécutions sommaires. Il y a de l'action bien sûr, assez impressionnante d'ailleurs pour l'époque (bombardements aérien, accidents de vrais train, sans maquette ni effets digitaux, fusillade), magistralement mise en scène par J. Frankenheimer. Les acteurs jouent juste et le scénario est d'une rare noirceur, avec un final terrible et un rythme qui décolle enfin un peu et qui prend aux tripes. Bon film qui mérite une reconnaissance un peu plus vaste. D'autres critiques sur\n        \n            ",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_33926231",
+            "author": "\n                            ASSRANCETOURIX\n            \n                    ",
+            "date": "2020-04-26",
+            "rating": 4.0,
+            "text_content": "\n                    très bon film de guerre, très classique et magnifiquement filmé, en particulier les scènes d'action ferroviaire. le rythme souffre un peu de la distribution internationale avec des dialogues rallongés pour les seconds rôles de luxe comme Suzanne Flon et Jeanne Moreau qui doivent justifier leur place à l'affiche. quelques plans séquences virtuoses avec les locomotives. Burt Lancaster incarne totalement le rôle du cheminot qui se bat jusqu'a la dernière goutte de sueur, ses opposants Allemands sont plus vrais que nature ! Les descriptions techniques sont très bien rendues, quelques séquences tiennent du miracle, comme la locomotive qui déraille sans montage juste devant les pieds de l'officier Allemand ! Du grand divertissement, auquel il manque la couleur,, mais pas trop !\n        \n            ",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_34582243",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2012-11-21",
+            "rating": 3.5,
+            "text_content": "\n                    Un très bon film de guerre au casting 4 étoiles !!!\n        \n            ",
+            "likes": 0,
+            "dislikes": 1
+        },
+        {
+            "id": "review_41941583",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2014-03-26",
+            "rating": 4.5,
+            "text_content": "\n                    Un témoignage bouleversant d'après des faits réelles sur les actes de la résistance durant l'occupation allemande pendant la seconde guerre mondiale ! Un thriller époustouflant ! Malgré que ce film soit en noir et blanc.\n        \n            ",
+            "likes": 0,
+            "dislikes": 1
+        },
+        {
+            "id": "review_34868204",
+            "author": "\n                            Acidus\n            \n                    ",
+            "date": "2012-12-14",
+            "rating": 2.5,
+            "text_content": "\n                    \"Le train\" est avant tout un hommage rendu à la résistance des cheminots français contre l'envahisseur allemand. Presque vingt ans avant ce film, René Clément proposais déjà ce thèem au cinéma avec \"La bataille des rails\" (1946) mais contrairement à ce dernier, le long métrage de John Frankenheimer se détache de toute propagande et manichéisme. Cela n'en fait toutefois pas une oeuvre réussi pour autant puisque \"Le train\" pâtit d'un manque de rythme et d'un scénario qui ne surprend guère. De plus, le film ne dégage absolument rien que ça soit du côté des acteurs ou encore de l'ambiance générale, ce qui devient un véritable handicap pour un long métrage de ce genre.\n        \n            ",
+            "likes": 0,
+            "dislikes": 3
+        },
+        {
+            "id": "review_249233",
+            "author": "\n                            AMCHI\n            \n                            \n                    ",
+            "date": "2013-06-5",
+            "rating": 3.0,
+            "text_content": "\n                    Le train est un bon film rempli de grands acteurs mais il manque un peu de rythme. Le meilleur du film reste la dernière demi-heure lorsque le résistant qu'interprète Burt Lanscater tente par tout les moyens de faire dérailler le train ; si durant tout le film il y eut eu la même tension nerveuse, cela aurait donné un grand film.\n        \n            ",
+            "likes": 0,
+            "dislikes": 2
+        },
+        {
+            "id": "review_34163011",
+            "author": "\n                            dai72\n            \n                    ",
+            "date": "2012-10-28",
+            "rating": 2.0,
+            "text_content": "\n                    Je n'ai pas plus été emballé que ça finalement par ce film qui n'est pas mauvais mais que je ne trouve pas aussi bon que j'avais pu le lire. Il y a certes beaucoup de belles scènes et pas mal de soin apporté à la réalisation, à l'écriture mais c'est un ensemble assez qui manque de vie, de passion, de plaisir. Mention spéciale à Suzanne Flon !!\n        \n            ",
+            "likes": 0,
+            "dislikes": 5
+        },
+        {
+            "id": "review_21788103",
+            "author": "\n                            wesleybodin\n            \n                    ",
+            "date": "2010-11-2",
+            "rating": 2.0,
+            "text_content": "\n                    Un film auquel volontiers une flopée de qualité comme sa mise en scène et ses acteurs charismatiques mais qui m'a profondément ennuyé. Peut-être n'est-ce tout simplement mon jour pour voir un tel métrage.\n        \n            ",
+            "likes": 0,
+            "dislikes": 4
+        },
+        {
+            "id": "review_61804953",
+            "author": "\n                            weihnachtsmann\n            \n                            \n                    ",
+            "date": "2019-02-3",
+            "rating": 4.0,
+            "text_content": "\n                    Excellent film palpitant et captivant par toute la chaîne humaine qui se crée autour des tableaux qui sont l’héritage d’un peuple. « L’art appartient à ceux qui y sont sensibles » dit l’allemand. Mais le travail du héros c’est celui du résistant. Il combat davantage par patriotisme que par amour de l’art.",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1014019158",
+            "author": "\n                            Hotinhere\n            \n                    ",
+            "date": "2021-03-29",
+            "rating": 4.0,
+            "text_content": "\n                    Une œuvre d’art vaut-elle une une vie humaine ? S’inspirant d’un fait réel historique, un film de guerre très réaliste qui rend hommage aux cheminots résistants à travers un récit minutieux et plein de bravoure, porté par une mise en scène époustouflante, et interprété par un casting prestigieux de Michel Simon (doublé en anglais) à Burt Lancaster.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1036001685",
+            "author": "\n                            Max Rss\n            \n                    ",
+            "date": "2025-06-17",
+            "rating": 4.0,
+            "text_content": "\n                    Des acteurs français, un américain, un anglais et un suisse, avec aux manettes, un jeune cinéaste anglais pour une grosse production de l'époque : à peu de choses près, on appelle ça le bonheur. Se basant sur des faits réels (même si romancés pour l'occasion) relatant la tentative de l'Occupant allemand en pleine déroute de voler des toiles de Maître faisant partie du patrimoine culturel français. A vrai dire, il n'est pas du meilleur aloi d'appréhender ce \"Train\" comme un simple film de guerre. Il comporte ses quelques séquences de conflits bien sûr, mais elles restent courtes. Il s'agit bien davantage d'un film où se mêlent l'action et le thriller. S'il privilégie d'abord le spectacle, il n'oublie pas d'aborder la question que cet épisode peu connu de l'Histoire de France pose : la vie Humaine vaut-elle alors moins que ce fameux patrimoine qui tantôt, fit la gloire culturelle du pays ? Tout comme il n'oublie pas non plus de rendre hommage aux héros de l'ombre. C'est un sport national chez nous que de médire des cheminots à cause des avantages dont ils ont hérité du Conseil National de la Résistance (et confortés par le Gouvernement Provisoire d'entre 1944 et 1946) mais l'on omet trop souvent que sans eux, bien des choses n'auraient pas été possibles. 2h10 toujours intéressantes car Frankenheimer, en plus de donner une mise en scène dynamique (les séquences de bombardements en jettent à mort) à son film, maîtrise tout ce dont il veut parler. Et comment ne pas revenir sur le casting ? Les apparitions remarquées de Suzanne Flon, Jeanne Moreau, Michel Simon et Christian Marin, le monstre sacré Burt Lancaster et Albert Remy, qui vivait là ses plus belles heures car côtoyer Lancaster d'aussi près n'avait rien d'ordinaire que ce soit en tant qu'acteur et en tant qu'homme.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1030192631",
+            "author": "\n                            Charlotte28\n            \n                    ",
+            "date": "2024-04-17",
+            "rating": 4.0,
+            "text_content": "\n                    Contre-la-montre pour sauver ou exploiter des marqueurs de la culture française, ce récit inspiré de faits réels (fort romancés) réussit à conserver une tension constante grâce à son mélange entre film d'action, de guerre et thriller. Servi par une habile mise en scène dynamique, un casting impliqué - mené par un charismatique Burt Lancaster - ainsi qu'une musique nerveuse ce drame de la résistance interroge la valeur de la vie humaine face à la valeur patrimoniale de l'art, seul élément qui nous distingue de nos congénères animaux au nom duquel pourtant la barbarie triomphe en une cynique absurdité. Désabusé, amer, grinçant.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1014025480",
+            "author": "\n                            mazou31\n            \n                    ",
+            "date": "2021-03-29",
+            "rating": 4.5,
+            "text_content": "\n                    Un des rares films qui met à l'honneur la résistance des cheminots lors de 39-45 avec le chef d'oeuvre de « La bataille du rail » de René Clément. Comme ce dernier, la force du film est son réalisme, sachant que les collisions sont réalisés sans trucage ou qu'encore que Burt Lancaster boite réellement après avoir été blessé sur la tournage. L'autre force du film est son casting évidemment avec des acteurs tels que Michel Simon et Jeanne Moreau. Le film repose essentiellement sur la star (et producteur) Burt Lancaster. Heureusement le scénario n'oublie pas l'enjeu, celui de sauver des chefs-d'oeuvre de la peinture et donc, par là-même, d'y placer la question « est-ce que mourir pour ces tableaux est nécessaire ? ». Un très grand film de guerre donc, qui se revoit avec toujours autant de plaisir.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1023579137",
+            "author": "\n                            Philippe C\n            \n                    ",
+            "date": "2023-01-24",
+            "rating": 2.5,
+            "text_content": "\n                    Un film en N&B qui a fait date, mais qui finit par dater; Le thème est intéressant : sauver quelques dizaines de tableaux de maître, vaut-il de sacrifier quelques dizaines de vie humaine ? la mise en scène est plutôt spectaculaire avec ses trains, ses viaducs, ses bombardements ses déraillements. les acteurs sympathiques et connus  (Lancaster, Simon, Moreau,...) et ne s'en sortent pas mal/ Là où, de mon point de vue le film pêche, c'est dans la gestion du temps et toute cette succession de jeu du chat et de la souris, entre les résistants qui font tout pour retarder ou détourner le train transportant les tableaux, et l'officier SS qui en fait une affaire d'honneur, de culture et une obsessions. Le même ressort utilisé trop souvent finit par lasser\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1036178712",
+            "author": "\n                            onsefaitunetoile\n            \n                    ",
+            "date": "2025-07-23",
+            "rating": 4.5,
+            "text_content": "\n                    Pour découvrir ma critique vidéo complète, et rétrospective classique rejoignez moi sur YouTube !",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1034311960",
+            "author": "\n                            Gregory S\n            \n                    ",
+            "date": "2025-02-28",
+            "rating": 3.5,
+            "text_content": "\n                    Film sur l'héroïsme des cheminots français avec en sous texte \"peut on sacrifier des vies humaines pour sauver des oeuvres d'art?\". Le film s'inspire d'une histoire vraie pour en faire un film à grand spectacle, où le train est un véritable personnage du film. Après le fait que tous les protagonistes parlent anglais nuit un peu au film, c'est dommage de voir des français et surtout des nazis parler anglais. A voir et à entendre pour la musique de Maurice Jarre.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1014021288",
+            "author": "\n                            Chevtchenko2\n            \n                    ",
+            "date": "2021-03-29",
+            "rating": 2.0,
+            "text_content": "\n                    Ce film de guerre est un au hommage à la résistance des cheminots français. Porté par Burt Lancaster, ce film n'a pas mal vieilli malgré ses presque 60 ans. Cependant, le film souffre énormément d'un manque d'émotion. Toutes les morts tragiques qui égrènent l'aventure de notre cheminot français laissent totalement indifférent. Est-ce le manque de profondeur des personnages (hormis peut être le Colonel von Waldheim) ou le faux rythme du film ? Toujours est il que Le Train est assez ennuyeux (un comble pour un film sensé diffuser une tension nerveuse) et n'aura pas la palme du meilleur film du genre\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1017435156",
+            "author": "\n                            Cineseba\n            \n                    ",
+            "date": "2021-10-28",
+            "rating": 4.5,
+            "text_content": "\n                    « Étonnant ! Inspiré d’une histoire vraie, le film « le train » est un extraordinaire hommage aux cheminots résistants français, prêts à se sacrifier pour honorer l’héritage français des œuvres artistiques, qui ont tout fait pour retarder et empêcher le train contenant des caisses avec des toiles de peinture célèbres à se diriger vers l’Allemagne. En effet, juste avant l’arrivée des Alliés à Paris, le colonel Von Waldheim, grand amateur d’art décide de réquisitionner toutes les grandes toiles peintes par les peintres célèbres tel que Renoir, Picasso, Degas etc, et de les envoyer en Allemagne par le train. La conservatrice du musée, jouée par l’actrice française Suzanne Flon alerte et parvient à convaincre les cheminots de s’organiser pour faire échouer le transfert des œuvres artistiques par les Allemands. Je n’en reviens pas face à une telle résistance bien organisée pour berner le colonel Von Waldheim ! La reconstitution est étonnamment réussie ! Whaou ! Les scènes de déraillement ou de collision des locomotives sont réalistes ! Pas d’effets spéciaux ! Quelle prise de risque pour avoir une telle scène réussie ! Très impressionnante ! Le choix du film en noir et blanc est certainement très bon par le sujet grave dont il s’agit de parler des sacrifices des cheminots et des habitants pour sauver des œuvres d’art ! Casting en or ! J’ai été agréablement surpris par le passage de Raimu dans ce magistral film ! Whaou, la sublime Jeanne Moreau qui a su maîtriser froidement ses jeux d’acteur ! Même si Brut Lancaster y joue très bien, j’aurais préféré que le héros soit joué par un acteur français tant il m’est parfois difficile de me défaire qu’il est un acteur américain, vu que ce film repose un peu trop sur lui à mon goût. Enfin, j’ai adoré la technique et la position de la caméra dans la séquence pour nous faire peser la tension, l’angoisse et même le malaise ! Les émotions y sont beaucoup plus palpables ! De belles photographies ! Magnifique ! Excellent film ! Je m’étonne encore que ça soit une histoire vraie, une belle découverte historique sur la 2e Guerre Mondiale pour moi ! »\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1014314566",
+            "author": "\n                            SB88\n            \n                    ",
+            "date": "2021-04-17",
+            "rating": 3.5,
+            "text_content": "\n                    Bon film sur les décisions des grands hommes et leurs choix entre les hommes et les œuvres.",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1014014854",
+            "author": "\n                            Touka Speed\n            \n                    ",
+            "date": "2025-12-6",
+            "rating": 5.0,
+            "text_content": "\n                    Je viens de revoir ce film et j ai rajouté une étoile.. :  Film sublime, des acteurs merveilleux. une mise en scène impeccable. une organisation et une solidarité pour sauver un train charger de tableaux de grands maitres à couper le souffle. Bref il s agit là d un chef-d'oeuvre !!\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_32696790",
+            "author": "\n                            Nicolas B\n            \n                    ",
+            "date": "2025-10-10",
+            "rating": 4.0,
+            "text_content": "\n                    J’ai revisionné ce film récemment et je dois dire qu’il garde une force incroyable, même soixante ans après sa sortie. \"Le Train\" est un film de guerre tendu, presque étouffant, porté par un rythme sans temps mort et une mise en scène d’une précision remarquable. John Frankenheimer signe un film à la fois spectaculaire et intelligent, où l’action ne prend jamais le pas sur la tension morale. Burt Lancaster est impressionnant de sobriété et d’intensité ; il incarne un homme ordinaire confronté à un dilemme plus grand que lui, et c’est toute l’humanité du film qui passe à travers lui. Les scènes de sabotage et de poursuite sont d’un réalisme bluffant, surtout quand on sait qu’elles ont été tournées sans effets numériques. Certes, le film peut sembler un peu long par moments, mais la tension reste constante. C’est un grand film de guerre, sec et puissant, qui mêle suspense, réflexion et héroïsme sans tomber dans le pathos. Un classique que je pourrais revoir sans hésiter.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1023690534",
+            "author": "\n                            Agnès L.\n            \n                    ",
+            "date": "2023-01-31",
+            "rating": 4.0,
+            "text_content": "\n                    Bon film d'action et de guerre qui montre le courage des cheminots résistants durant la Seconde Guerre Mondiale. ",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1022953659",
+            "author": "\n                            ManoCornuta\n            \n                            \n                    ",
+            "date": "2022-12-20",
+            "rating": 4.0,
+            "text_content": "\n                    Inspiré de faits réels, ce film de John Frankenheimer (à la réalisation remarquable dans sa gestion du mouvement et de l'espace ferroviaire) donne matière à illustrer l'absurdité des comportements en temps de guerre et la vanité des hommes à placer certains intérêts au-dessus de tout: éternelle question de savoir si le jeu en vaut la chandelle. Performance solide et habitée de Burt Lancaster qui impose son charisme sans forcer à travers son personnage bourré de questionnements, le reste du casting se montrant à la hauteur, bénéficiant également d'un scénario astucieux et équilibré.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1014187278",
+            "author": "\n                            CH1218\n            \n                    ",
+            "date": "2021-04-8",
+            "rating": 4.0,
+            "text_content": "\n                    On peut situer l’action du « Train » entre « la Bataille du Rail » pour l’hommage au courage des cheminots français et le décevant « Monument Men » pour la spoliation d’œuvres d’art par les nazis. Reprenant la direction des opérations au pied levé après l’éviction d’Arthur Penn, John Frankenheimer domine son sujet avec brio jusqu’aux arrières plans et nous offre quelques scènes vraiment spectaculaires (bombardements, déraillements, télescopage de locomotives). Un film d’une grande efficacité, auquel il faut rajouter un casting de premier ordre.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1004090785",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2020-03-19",
+            "rating": 3.5,
+            "text_content": "\n                    Un très bon film d'action des années 60, avec Burt Lancaster dans le role principal, et qui se déroule dans les derniers jours de la seconde guerre mondiale : une ultime mission de résistance s'impose pour empêcher les allemands de se replier en possession de nombreuses oeuvres d'art. The Train a assez bien vieilli, propose un suspense efficace, un contexte d'époque bien retranscrit, et une mise en scène souvent remarquable d'ampleur. Coté négatif, les personnages et leurs motivations auraient gagné à être davantage développés pour apporter plus de profondeur à l'intrigue, somme toute linéaire et basique malgré quelques surprises. Dans tous les cas, le film reste tout à fait plaisant, plus de 50 ans après sa sortie, d'autant qu'il se déroule sur le sol français. Il permet donc d'apprécier de belles images d'époque, notamment les trains et les gares, comme l'on peut s'en douter.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1023566855",
+            "author": "\n                            Fabios Om \n            \n                    ",
+            "date": "2023-01-29",
+            "rating": 4.0,
+            "text_content": "\n                    Dans la ligné de \"La Bataille du Rail\" de René Clément, \"Le Train\" est un très bel hommage aux cheminots français ayant combattu avec honneur et courage face à l'armée d'occupation pendant la seconde guerre mondiale, bien souvent au péril de leur vie. Les séquences de bravoures s'enchainent, la reconstitution est fort réussite et la galerie d'acteurs est impressionnante. Très bon film. Un film franco américain avec un seul acteur américain qui est autres que le grand  Burt Lancaster qui est juste impeccable dans sont rôle et qui est très convaincant un film qui mélange action,  guerre , et même quelque que scène drôle sont plutôt bon'e est agréable à regarder , ce film mais aussi en avant les travers de la société qui est de sacrifier les humains pour les oeuvre art ou pour la culture mais après la il ne faut pas oublier que la culture du pays est important aussi donc faut'pas le négliger.  Une bonne réalisation, une histoire très prenante et de la résistance pour que la France conserve ses chefs d'oeuvre de peinture Je regrette tout de même qu'il n'y ait pas quelques images d'archives ou un petit résumé historique .\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_61183614",
+            "author": "\n                            JR Les Iffs\n            \n                    ",
+            "date": "2018-12-10",
+            "rating": 4.0,
+            "text_content": "\n                    Très bon film de guerre et d'action. Acteurs français (sauf Burt Lancaster), capitaux américains, réalisateur américain de qualité : Frankenheimer, donc une belle réussite cinématographique dans le genre divertissement. C'est très bien réalisé, le scénario tient la rampe, les locomotives sont très photogéniques, l'histoire semble très crédible, et la réflexion est posée sur le sauvetage des oeuvres d'art. La photographie en Noir et Blanc, participe à la qualité de l'oeuvre.",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1022609334",
+            "author": "\n                            Peter Franckson\n            \n                    ",
+            "date": "2022-11-21",
+            "rating": 4.0,
+            "text_content": "\n                    Le 2 août 1944, le colonel allemand von Waldheim (Paul SCOFIELD, britannique), grand amateur d’art (même dégénéré selon le IIIe Reich), décide de faire transférer les tableaux (Renoir, Gauguin, Matisse, Braque, Seurat, Picasso) du musée du Jeu de Paume en Allemagne. Des cheminots résistants dont le chef est Paul Labiche (Burt LANCASTER et dont c‘est la 4e collaboration avec le réalisateur) décident de tout faire pour que le train affrété pour le transport des tableaux n’arrive pas en Allemagne. Le réalisateur a pris le parti du noir et blanc, probablement pour donner un aspect documentaire et historique et rendre hommage à « La bataille du rail » (1946) de René Clément, tourné principalement en Bretagne. Il montre l’ingéniosité des cheminots ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1014135121",
+            "author": "\n                            fabrice d.\n            \n                    ",
+            "date": "2021-04-5",
+            "rating": 3.0,
+            "text_content": "\n                    Ce film de guerre de Frankenheimer rappelle celui plus récent des Monument Men de G. Clooney.",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1004109450",
+            "author": "\n                            GéDéon\n            \n                    ",
+            "date": "2022-05-24",
+            "rating": 4.0,
+            "text_content": "\n                    Ce film signé en 1964 par le réalisateur américain John Frankenheimer constitue un hommage vibrant à la Résistance française durant la Seconde Guerre mondiale. En août 1944, des œuvres d’art d’une galerie parisienne sont envoyées en Allemagne à bord d’un train. Plusieurs hommes et femmes vont risquer leur vie pour empêcher l’acheminement de ce convoi. Ce long-métrage possède une forte tragédie en raison de son rythme soutenu. Les scènes d’action qui ont nécessité plusieurs semaines de préparation (bombardements, télescopage des trains, etc.) offrent un résultat saisissant. En outre, autour d’un Burt Lancaster omniprésent à l’écran, on retrouve de nombreux acteurs français dont Jeanne Moreau et Michel Simon. Bref, une œuvre intense qui livre une réflexion émouvante sur l’engagement des cheminots morts dans un combat héroïque pour sauver un patrimoine artistique.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_8417586",
+            "author": "\n                            rogertg2\n            \n                    ",
+            "date": "2008-05-18",
+            "rating": 4.0,
+            "text_content": "\n                    Un très bon film de guerre en noir et blanc avec d'excellents acteurs. Du rythme et de l'action tout-au-long du film. Je ne sais pas si c'est tiré d'une histoire vraie mais personnellement, je trouve complètement débile d'avoir sacrifié tant de résistants et d'otages innocents pour un simple train rempli de vieux tableaux. En contrepartie, il est vrai que les dizaines de soldats allemands occupés par celui-ci n'étaient pas sur le front du débarquement de Normandie.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1015445580",
+            "author": "\n                            Ykarpathakis157\n            \n                    ",
+            "date": "2021-06-12",
+            "rating": 4.5,
+            "text_content": "\n                    Burt Lancaster est en grande forme dans ce film d'ambiance en noir et blanc sur un colonel allemand (Paul Schofield) qui tente de voler un train de tableaux pour le Reich. Les personnages sont parfaitement caractérisés et l'aspect et l'atmosphère de la France occupée sont d'un grand réalisme. C'est l'un de ces films qui n'auraient pu être réalisés qu'en noir et blanc. Il convient également de mentionner Paul Schofield dans le rôle du nazi fanatique jouant le rôle du cheminot français cynique de Burt Lancaster LaBiche, Wolfgang Priess dans le rôle du bon ingénieur allemand et Jeanne Moreau dans celui de la propriétaire de l'hôtel qui tombe amoureuse de Labiche. Le train est un film long mais néanmoins captivant et surtout il y a Burt au meilleur de sa forme...\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1689634",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2007-02-10",
+            "rating": 5.0,
+            "text_content": "\n                    Un très bon tandem Frankenheimer-Lancaster. Des prises de vue sobres, et l'utilisation magistrale du noir et blanc dans un film de guerre qui nous tient en haleine de bout en bout.",
+            "likes": 2,
+            "dislikes": 0
+        },
+        {
+            "id": "review_37482606",
+            "author": "\n                            Shephard69\n            \n                            \n                    ",
+            "date": "2013-05-23",
+            "rating": 4.0,
+            "text_content": "\n                    Un bon film de guerre qui s'avère captivant malgré un léger manque de rythme. Burt Lancaster et Jeanne Moreau très bons. Une réflexion sur la guerre différente et assez bien vue dans l'ensemble. Pas forcément un grand film mais une œuvre solide.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_36783851",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2013-04-1",
+            "rating": 4.0,
+            "text_content": "\n                    Très bon film, même si l’on est dans la mythe de la France entièrement résistante. Le film arrive à mêler action et suspense avec une vrai réflexion : qu’est-ce qui justifie la mort d’êtres humains ?\n        \n            ",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1038209864",
+            "author": "\n                            Lilali_111\n            \n                    ",
+            "date": "2026-01-24",
+            "rating": 4.5,
+            "text_content": "\n                    Ce film, par son sujet, m’a immédiatement évoquée \"La Bataille du rail\" : tous deux rendent un vibrant hommage aux cheminots français pendant la Seconde Guerre mondiale et à leurs actes de sabotage contre l’occupant allemand. Mais là où le film français adopte une approche quasi documentaire, cette version américaine mise sur un scénario bien plus abouti, porté par un casting exceptionnel. Burt Lancaster y incarne Labiche, un cheminot déterminé à tout pour arrêter ce train maudit, tandis que Michel Simon campe un Papa Boule couvert de suie, aussi touchant que crédible, et Jeanne Moreau une tenancière d’hôtel dont la seule obsession est de survivre.",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1014030953",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2021-03-29",
+            "rating": 3.0,
+            "text_content": "\n                    Un bon film, solide : pas d'ennui, une superbe qualité de cadrage, des seconds rôles de luxe, un scénario plausible (tiré de faits réels)... et une belle qualité d'images, avec même de belles \"cascades ferroviaires\". Du bon cinéma.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1014070974",
+            "author": "\n                            dujean2\n            \n                    ",
+            "date": "2021-04-1",
+            "rating": 2.0,
+            "text_content": "\n                    J'ai revu le train avec regret car j'y ai vu trop de points invraisemblables. Comment imaginer pouvoir couper un train en pleine traction et, de plus, laisser les wagons rouler alors que cela est impossible et heureusement. Comment imaginer couler un coussinet de bielle et le placer directement sans usinage. Comment imaginer une locomotive à vapeur parcourir tant de km sans jamais s'arrêter pour prendre de l'eau et du charbon. Comment imaginer après les terribles déraillement repartir dans les heures qui suivent. Dans ce film tout devient facile comme par enchantement. Ce film a parait-il été fait sur des fait réels encore aurait-il été utile qu'un conseillé technique soit sur place pour éviter des erreurs aussi enfantines. Dommage car le sujet était intéressant.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1027829777",
+            "author": "\n                            Rocla\n            \n                    ",
+            "date": "2023-11-6",
+            "rating": 4.5,
+            "text_content": "\n                    Film parfaitement réalisé dans les moindres détails techniques, historiques et comportementaux. Le jeu des acteurs est à la hauteur d'un scénario qui ne ménage aucun temps mort, tandis que les images sont magnifiquement tournées. A bout portant ou sous des angles à la façon d'un Jean-Pierre Melville, elles servent un film qui se termine en apothéose à travers un quasi duel d'une portée symbolique émouvante. Le résultat est crédible sur tous les plans. Splendide et puissant\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1025257960",
+            "author": "\n                            Janus\n            \n                    ",
+            "date": "2023-05-8",
+            "rating": 5.0,
+            "text_content": "\n                    Même si je n'ai pas lu toutes les critiques du film, je suis assez surpris que peu de spectateurs n'aient pas vu ce film comme l'histoire d'un duel. Pas au sens de l'excellent film de Ridley Scott, même s'il existe certains parallèles, mais celui-ci y ressemble étrangement. Là, il s'agit d'un duel à mort  entre deux personnages que tout oppose : la culture, la morale, les scrupules et la vie. Le contexte de la seconde guerre mondiale et l'histoire de la résistance des cheminots pourrait ne servir que de toile de fond à l'histoire. La volonté et l'intelligence chez les 2 protagonistes est forte. Le dénouement de l'histoire en est si terrible qu'on finit par se demander si vraiment il y a un vainqueur. J. Frankenheimer réussit là une de ses plus belles réalisations (de mon point de vue). S'il n'avait réalisé le film \"Ronin\", j'aurais cru à l'accident. Un réalisateur aussi fin en étant américain ce n'est pas tous les jours...\n        \n            ",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1017497346",
+            "author": "\n                            bernard routier\n            \n                    ",
+            "date": "2021-11-1",
+            "rating": 0.5,
+            "text_content": "\n                    Je trouve ce film ennuyeux!!je n ai jamais pu le regarder jusqu a la fin!!!!je trintignant n à pas de présence et à l air de s ennuyer lui même!!\n        \n            ",
+            "likes": 0,
+            "dislikes": 5
+        }
+    ]
+}

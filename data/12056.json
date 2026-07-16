@@ -1,0 +1,508 @@
+{
+    "id": 12056,
+    "name": "Sanjuro",
+    "release_date": "1972-06-7",
+    "runtime_in_minutes": 96,
+    "genres": [
+        "Action",
+        "Drame"
+    ],
+    "synopsis": "\n                    Le samouraï rônin Sanjuro Tsubaki prend sous son aile une bande de jeunes guerriers inexpérimentés et les aide à déjouer un complot contre le chambellan. Jouant de ruse avec les conspirateurs, Sanjuro se révélera un tacticien hors pair, avant de se confronter avec le redoutable Muroto, bras droit du chef des comploteurs.\n        \n            ",
+    "reviews": [
+        {
+            "id": "review_37906145",
+            "author": "\n                            fandecaoch\n            \n                    ",
+            "date": "2013-06-30",
+            "rating": 5.0,
+            "text_content": "\n                    Sanjuro : Akira Kurosawa; artisan émérite et génie de l'image, celui-ci avait déjà une belle carrière derrière lui quand il s'attaqua à Sanjuro; (des films comme L'ange Ivre, Vivre, Les Sept Samouraïs, Château de l’araignée...). Mais avec Sanjuro, Kurosawa signe l'un de ses meilleurs, un sublime Chanbara, et l'un de ses derniers films avant qu'il ne parte à Hollywood et que sa carrière ne ralentisse.  ",
+            "likes": 5,
+            "dislikes": 7
+        },
+        {
+            "id": "review_51635363",
+            "author": "\n                             Kurosawa\n            \n                            \n                    ",
+            "date": "2016-05-13",
+            "rating": 4.5,
+            "text_content": "\n                    Dans la foulée de \"Yojimbo\", Akira Kurosawa reprend le personnage du samouraï vagabond (Toshirô Mifune impressionnant, une fois de plus) dans une époque plus récente. Cette fois, le solitaire aux méthodes peu orthodoxes va venir en aide à une bande de jeunes guerriers inexpérimentés qui veulent retrouver le chambellan de leur clan, kidnappé par des ennemis souhaitant le condamner. Le film s'appréhende comme une gigantesque partie d'échecs où les deux camps vont constamment faire évoluer leurs stratégies soit pour obtenir des aveux du prisonnier soit pour tenter de le libérer, et où Sanjuro doit user de nombreuses ruses pour se rapprocher du lieu de captivité. Maîtrisant parfaitement l'espace - en exploitant très bien l'idée que les libérateurs et les kidnappeurs sont voisins - tout en liant la question du regard à celle de l'ignorance (savoir où l'ennemi se trouve), Kurosawa instaure un suspense ludique dans le sens où le sérieux de l'enjeu est en permanence désamorcé par un humour qui passe à la fois par la drôlerie du rapport entre le protagoniste et ses compagnons et par la légèreté des personnages féminins, dont le calme contraste fortement avec la nervosité de Sanjuro. Incapable de garder son épée dans son fourreau, comme on le lui reproche, le samouraï développe sa propre ambiguïté en regrettant les nombreux meurtres qu'il commet, même si ceux-ci sont légitimés par la situation. La conclusion de ce tiraillement intérieur est finalement incarnée dans l'ultime combat contre Muroto, dont l'aspect spectaculaire est moins lié à l'action, très brève, qu'à l'attente et aux regards qui précèdent. Toujours en mouvement en faisant évoluer son rythme et ses personnages, \"Sanjuro\" finit par poser intelligemment la question de la responsabilité morale d'un héros certes sauveur mais qui remet lui-même en question son tempérament fougueux. En somme, un excellent divertissement qui n'oublie pas d'interroger les motifs qu'il met en scène.\n        \n            ",
+            "likes": 3,
+            "dislikes": 0
+        },
+        {
+            "id": "review_42636094",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2014-05-24",
+            "rating": 4.5,
+            "text_content": "\n                    Génialissime, comme tous les Kurosawa que j'ai vu jusqu'à maintenant, c'est rythmé, c'est fort, l'utilisation des lumières et des musiques est exceptionnel. Les acteurs sont tous très bons, des \"gueules\" du cinéma japonais : Mifune, Nakadai... Le scénario est du pain béni pour Kurosawa : de l'action, un brin d'humour, des scènes fortes. C'est extrêmement maîtrisé et très intelligent, à voir absolument pour les fans du genre chanbara\n        \n            ",
+            "likes": 2,
+            "dislikes": 0
+        },
+        {
+            "id": "review_50840269",
+            "author": "\n                            Grouchy\n            \n                    ",
+            "date": "2016-03-6",
+            "rating": 3.5,
+            "text_content": "\n                    On ne peut s'empêcher de comparer aussitôt le film de Kurosawa et les premiers westerns spaghetti de Leone.",
+            "likes": 0,
+            "dislikes": 1
+        },
+        {
+            "id": "review_29906185",
+            "author": "\n                            tomPSGcinema\n            \n                    ",
+            "date": "2012-04-4",
+            "rating": 3.5,
+            "text_content": "\n                    Avec « Sanjuro «, Akira Kurosawa nous offre un excellent film de samourai puisqu’il alterne avec intelligence les séquences dramatiques et d’autres qui sont plus ancrées dans la comédie, notamment par la présence de savoureux dialogues qui font bien souvent mouche ! La réalisation est, bien évidemment, un des points forts de cette œuvre humaniste et l’on retiendra aussi la superbe performance de Toshiro Mifune dans le rôle du garde du corps.\n        \n            ",
+            "likes": 0,
+            "dislikes": 1
+        },
+        {
+            "id": "review_22069702",
+            "author": "\n                            willyzacc\n            \n                    ",
+            "date": "2010-11-24",
+            "rating": 4.0,
+            "text_content": "\n                    Mon premier Kurosawa (au cinéma). Un samouraï assez différent de ce qu'on voit d'habitude , une réalisation très belle, un humour vraiment bien tombé. Un très bon film d'action du temps des samouraï et un final magnifique.\n        \n            ",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_10700449",
+            "author": "\n                            Yasujirô Rilke\n            \n                    ",
+            "date": "2008-10-24",
+            "rating": 1.0,
+            "text_content": "\n                    Suite de «Yôjimbô», «Tsubaki Sanjuro» (Japon, 1962) d'Akira Kurosawa ne comporte pas la trace du génie qui fait le succès international du cinéaste. Cette trace se compose, de façon grossière, d'une symbiose toute shintoïste entre l'individu humain et son environnement naturel, par le biais des pratiques cinématographiques les plus élémentaires. Kurosawa met à lui seul en pratique ce tout vers quoi l'âge d'or Hollywood tendra : une puissance du récit par le biais d'une économie des moyens (techniques plus qu'économiques). Sanjuro est un ronin solitaire, «un sabre sorti de son fourreau» comme le dit une femme, prêt à aider une bande de jeunes samouraïs, pris entre deux clans en guerre. «Tsubaki Sanjuro» schématise le génie du cinéma de Kurosawa, non seulement qu'il en affaiblit l'animisme, mais surtout qu'il en caricature la composante pirandellienne. Le changement des versions qui donnait à «Rashômon» une allure de puzzle est résumé par une dichotomie, heureusement non manichéenne. Sanjuro, dans cette lutte duale des avis, ramène continuellement les jeunes samouraïs à la vigilance pour trouver au mieux la liberté. En apparence, le ronin est un rustre qui roule des épaules et qui grogne ses ordres (personnage fétiche incarné par Mifune chez Kurosawa). Dans le fond, il est un philosophe socratique qui pratique l'art de la maïeutique en laissant voir deux optiques différentes du monde pour mieux en sourdre la Vérité. Ken-geki (film de sabre), «Tsubaki Sanjuro» se positionne comme le concurrent cinématographique de «Zatôichi», ils se combattront d'ailleurs en 1970 dans «Zatôichi to Yôjimbô» de Kihachi Okamoto. Adversaire de Zatoichi dans la mythologie du cinéma japonais, Sanjuro se range comme un personnage du cinéma commercial. N'en faisant pas pour autant un film nul d'intérêt, le paradigme commercial trouve davantage l'ambiance d'un ton convenu (sinon dans le fabuleux duel final), notamment par la musique, pourtant habituellement si vibrante, de Masaru Satô.\n        \n            ",
+            "likes": 0,
+            "dislikes": 2
+        },
+        {
+            "id": "review_1021515030",
+            "author": "\n                            weihnachtsmann\n            \n                            \n                    ",
+            "date": "2022-09-1",
+            "rating": 3.0,
+            "text_content": "\n                    Cet opus m'a moins plus. On a bien les deux clans et au milieu le héros qui cherchent à défendre les plus faibles. Mais on reste tout le temps les affrontements et les tactiques.",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1013144326",
+            "author": "\n                            Redzing\n            \n                            \n                    ",
+            "date": "2021-02-9",
+            "rating": 4.0,
+            "text_content": "\n                    A l’origine, « Sanjuro » devait être l’adaptation d’une nouvelle située dans le Japon féodal. Mais le succès de « Yojimbo », sorti l’année précédente, incita les producteurs et Kurosawa à y intégrer ce personnage de rônin joué par Toshiro Mifune, faisant de « Sanjuro » une suite de « Yojimbo » ! On s’intéresse ainsi à un groupe de jeunes samouraïs naïfs, qui cherchent à combattre la corruption dans leur clan, avant de se rendre compte qu’il se sont trompés de coupable. Ils vont alors déclencher un coup d’état, et être dépassés par les événements. Heureusement, ils pourront compter sur l’aide de Sanjuro, rônin de passage particulièrement habile. « Sanjuro » est riche en rebondissements, mais il est surtout notable de par son humour omniprésent. En particulier, le film fait régulièrement le contraste entre d’un côté, un anti-héros roublard et escrimeur expert, mais très impoli et vulgaire (Toshiro Mifune, comme toujours très à l’aise dans cette partition !). Et de l’autre, une bande de jeunes ahuris très fidèles à l’étiquette, et combattant pour une cause noble, mais qui commettent bévues sur bévues. Sans compter quelques personnages secondaires très amusants, tel que ce prisonnier qui en vient à rejoindre la cause de ses geôliers, ou ces deux femmes et leurs considérations esthétiques en décalage complet avec l’intrigue guerrière. Le film offre également une relation plus profonde qu’il n’y parait entre Sanjuro et son adversaire principal, le bras droit du comploteur. Celui-ci constitue miroir de Sanjuro, un guerrier intelligent et adroit, qui ne croit en rien, mais qui a trouvé un employeur qui lui permet de valoriser ses talents. Une confrontation pertinente, qui aboutira à un duel final court, mais particulièrement intense et technique. La fulgurance de cette scène tranche (littéralement !) particulièrement avec le reste du film, certes dynamique, mais un peu plus posé et léger. Et l’on appréciera bien sûr la mise en scène soignée, esthétique, et symétrique de Kurosawa. Le réalisateur joue adroitement avec des éléments basiques, tels que des mouvements de caméras simples, un ruisseau entre deux domaines séparés par des camélias, ou des groupes de personnages agissant comme un seul individu, pour livrer des compositions astucieuses et exprimer visuellement les divers sentiments de ses personnages.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_56119239",
+            "author": "\n                            this is my movies\n            \n                            \n                    ",
+            "date": "2017-07-9",
+            "rating": 4.0,
+            "text_content": "\n                    Suite de son classique \"Yojimbo\", Kurosawa reprend le même personnage et lui offre une nouvelle aventure avec encore deux factions qui se déchirent pour le pouvoir. Cette partie est un poil brouillonne puisqu'à la fin du film, j'ai toujours du mal à comprendre qui est qui, qui a fait quoi, qui veut quoi et qui était allié avec qui. Mais ce n'est pas bien grave au vu du spectacle. Des combats virtuoses, des acteurs au top, une mise en scène dingue bref, c'est un modèle du genre, qui confirme son statut de passerelle entre western et chambara. T. Mifune est encore une fois magistral, les autres acteurs sont bons, le scénario est bien écrit quand il s'éloigne des intrigues de couloirs, les costumes sont réussis bref, c'est une série B de qualité. ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1033545024",
+            "author": "\n                            Max Rss\n            \n                    ",
+            "date": "2025-01-4",
+            "rating": 4.0,
+            "text_content": "\n                    Était-ce réellement une suite donnée à \"Yojimbo\" ? Après tout, on retrouve le ronin Sanjuro (incarné par Toshiro Mifune, toujours aussi imposant et bien badass) à la fois nonchalant et rusé, les deux films portent autant sur la stratégie que sur l'action et sont flanqués d'un duel final et ils s'inscrivent dans cette même logique de divertissement. Et pourtant, ce n'est pas une suite. On pourrait donc penser qu'il s'agit de deux films parfaitement interchangeables. Non plus. Il existe une différence majeure entre les deux. En effet, \"Sanjuro\" opte pour un ton ouvertement léger. Qui flirte parfois avec la parodie. Jamais vous ne trouverez chez Kurosawa quelque chose d'aussi accessible. Pour le reste, on est en terrain connu, pour peu que l'on soit un minimum familier avec l'univers du Maître nippon. Il est quand même assez dingue de constater aujourd'hui encore que tous les films qu'il a réalisés et qui ont servi de Bible au Western d'Italie et au cinéma d'action moderne ont aujourd'hui plus de 60 ans (et même 70 pour \"Les 7 samouraïs) et n'ont jamais été égalés ou si rarement dans la maitrise de la mise en scène des séquences d'action et de combats.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1028296884",
+            "author": "\n                            Charlotte28\n            \n                    ",
+            "date": "2023-12-11",
+            "rating": 4.0,
+            "text_content": "\n                    Ce chanbara se rapproche de fait des productions de cape et d'épée par son humour régulier s'appuyant sur les réactions fougueuses (voire stupides) des jeunes conjurés, des comiques théâtraux (quitte à un surjeu majoritairement répandu) et des dialogues incisifs ainsi que des scènes d'action entre combats à l'épée et manipulations de part et d'autre, les deux camps étant suivis en parallèle dans une réalisation soignée. Souvent symbolique l'intrigue au dénouement classique se préoccupe de thématiques éthiques à l'arrière-fond politique. In fine la plus grande force de ce plaisant divertissement où fusent des éclats de rire demeure le charisme tonitruant de Toshiro Mifune incarnant ce sabre nu... Bouillonnant de pertinente drôlerie!\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1019347438",
+            "author": "\n                            Romain Z\n            \n                    ",
+            "date": "2022-03-15",
+            "rating": 3.5,
+            "text_content": "\n                    Autant le revisionnage récent des films Noirs des années 50 du Maitre m' a  finalement un peu laissé sur ma faim, autant cette réalisation du début des 60's que je ne connaissais pas m'a enthousiasmé . ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_35200536",
+            "author": "\n                            Akamaru\n            \n                    ",
+            "date": "2013-01-19",
+            "rating": 3.5,
+            "text_content": "\n                    Un film de chanbara(de sabre japonais)qui fit date pour sa représentation graphique de la violence,et pour justement la dénonciation de celle-ci.\"Sanjuro\"(1962)permit à Toshiro Mifune de reprendre le personnage du rônin solitaire et pouilleux,mais qui brille par sa malice et son ingénuosité.Celui qu'il tenait déjà dans \"Yojimbo\".Akira Kurosawa conserve le noir et blanc,pour que le regard se concentre plus particulièrement sur les intrigues de cour.Des jeunes samouraïs,qui ne savent plus s'ils doivent faire confiance à leur chambellan,ou à l'inspecteur,et que notre rônin va aiguiller tout en douceur.Le scénario est très abouti,puisque chaque idée nouvelle de tactique chamboulle totalement la narration et notre regard sur les évènements.Kurosawa insuffle aussi beaucoup d'humour à son film,avec les 9 samouraïs crédules et changeants,qui suivent le nouvel arrivant comme un messie.Les combats interviennent à espaces réguliers.Ils sont parfaitement chorégraphiés,notamment le célèbre combat final et son geyser de sang,suivi de la phrase révélatrice \"Laissez vos fourreaux là où ils sont\".Passionnant.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1015222321",
+            "author": "\n                            Yves G.\n            \n                            \n                    ",
+            "date": "2021-05-25",
+            "rating": 3.0,
+            "text_content": "\n                    Dans le Japon des Tokugawa, neuf jeunes samouraïs naïfs et idéalistes se sont unis pour dénoncer la corruption qui gangrène leur clan. Mais leur lettre échoue entre les mains de Kikui, le chef de la police, qui s'avère en fait être l'instigateur de ce réseau. Les neuf idéalistes sont sauvés par l'arrivée providentielle d'un mystérieux rōnin, cynique et terre-à-terre, mais maître indépassable dans l'art du sabre. Avec son aide, ils vont délivrer le grand chambellan, son épouse et sa fille, kidnappés par Kikui.",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_43141754",
+            "author": "\n                            Acidus\n            \n                    ",
+            "date": "2014-07-17",
+            "rating": 4.5,
+            "text_content": "\n                    Film étonnant puisque, en plus d'un scénario bien ficelé et d'une mise en scène soignée, Akira Kurosawa propose également une forte touche humoristique peu courante dans sa filmographie. Le résultat est encore une fois bluffant et l'on ne peut que passer un excellent moment devant ce \"Sanjuro\".\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_54585367",
+            "author": "\n                            JimBo Lebowski\n            \n                    ",
+            "date": "2017-02-10",
+            "rating": 3.5,
+            "text_content": "\n                    Quelle classe Mifune ! Un Kurosawa peut-être un poil trop verbeux et moins puissant et radical (globalement) que Yojimbo, mais Sanjuro excelle dans son espièglerie parsemée ici et là ainsi que dans son message profondément humaniste, sans compter ce final génialissime !\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_45864859",
+            "author": "\n                            landofshit0\n            \n                    ",
+            "date": "2015-02-9",
+            "rating": 3.5,
+            "text_content": "\n                    Mifune est excellent dans le rôle de ce samourai qui dresse sa voix et son sabre face à l'injustice. Si le film de Kurosawa à d’indéniables qualités graphiques et si la narration et ponctué de touches humoristiques. Il manque tout de même au film le petit truc en plus qu’insufflait un réalisateur comme Misumi dans ces longs métrages. C'est plaisant à suivre mais il reste une distance entre le spectateur et les personnages de ce film que Kurosawa n'arrive jamais à supprimer.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_61543420",
+            "author": "\n                            maxime ...\n            \n                            \n                    ",
+            "date": "2019-01-12",
+            "rating": 2.5,
+            "text_content": "\n                    \" Un bon sabre est celui qui reste dans son fourreau \". Akira Kurosawa poursuit son incursion dans le cinéma médiéval et renoue avec l'anti-héros de son précédent film Yojimbo mais se perd un poil entre divertissement comique et film plus politique. Sanjuro n'a jamais réussit a capter mon attention et m'a profondément ennuyé, pourtant ces ouailles habituels sont de mises, à revoir peut être un autre jour ...\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_44039027",
+            "author": "\n                            Uncertainregard\n            \n                    ",
+            "date": "2014-09-29",
+            "rating": 4.0,
+            "text_content": "\n                    Un des films références dans la filmographie de Kurosawa car bien que ce soit la suite de « Le garde du corps » où l’immense Toshiro Mifune reprend son rôle du samouraï errant, arrogant, irrévérencieux mais diaboliquement malin et invulnérable avec un sabre, qui va se mettre du côté des faibles, c’est une approche assez différente du cinéaste pour raconter cette histoire. Il a biensûr usé de son humour toujours aussi fin et percutant mais la mise en scène est particulièrement théâtrale, outrancière et avec l’appui de cette musique décalée, ça nous rappellerait presque un dessin animé de Tex Avery. Je ne reprocherai que la petitesse des décors qui n’est qu’un petit village où les opposants sont quasi voisins de palier. Et vu l’intensité des voix dans les dialogues, on a un peu de mal à croire qu’ils ne se soient pas repairés et/ou dénoncés plus tôt…\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_47566344",
+            "author": "\n                            keating\n            \n                    ",
+            "date": "2015-06-16",
+            "rating": 4.0,
+            "text_content": "\n                    Kurosawa réussit un excellent exercice de film de samourai pacifique ; un film non-violent chez les samourais! Il y a un gros travail de distanciation par la mise en scène et beaucoup d'humour, limite burlesque.",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_29473566",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2012-07-22",
+            "rating": 5.0,
+            "text_content": "\n                    Excellent film de samouraïs, un scénario avec de multiples rebondissements. Une mise en scène qui est un vrai régale et en plus un rythme d'enfer (parfois ce genre de film est un peu trop lent). Vraiment un bijou de plus à l'actif de Kurosawa.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1021722881",
+            "author": "\n                            Alolfer\n            \n                    ",
+            "date": "2025-06-20",
+            "rating": 3.5,
+            "text_content": "\n                    Akira Kurosawa sait maitrisé ses sujets et les thèmes qui l'aborde avec une maitrise si unique ! Que dire de Sanjuro qui est un film d'action/drame très prenant du début jusqu'à la fin ! Que dire de la performance de Toshiro Mifune ! Très bon !\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_29086462",
+            "author": "\n                            real-disciple\n            \n                    ",
+            "date": "2012-02-5",
+            "rating": 4.5,
+            "text_content": "\n                    Akira Kurosawa réalise là un film qui a inspiré la légende de l'homme sans nom qui vient protéger ses semblables dont on retrouvera les caractéristiques avec Léone. Le personngae de Sanjuro (génial Toshiro Mifune) campe un samourai qui use de l'intelligence avant de frapper, qui sait parfaitement user de ruse pour déjouer d'autres pièges. D'ailleurs le film, dont la mise en scène est exemplaire, n'est qu'une succession du jeu du chat et de la souris où chacun essaie de tendre un piège à l'autre mais ils échouent souvent. Il y a une légereté de ton dans ce film, il n'y a que peu de scènes de combats, l'objectif ici n'était pas de montrer la violence mais de comprendre comment la canaliser. Le samourai met d'ailleurs dans un plan final superbe fin au règne d'un samourai qui lui use de violence. Le Bien l'emporte c'est un film optimiste, intelligent et maîtrisé. Du grand Kurosawa.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_11524293",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2010-12-27",
+            "rating": 3.0,
+            "text_content": "\n                    Contrairement à d'autres films du maître Kurosawa, \"Sanjuro\" a la faculté d'offrir beaucoup d'action, un suspens assez présent et une thématique centrée sur l'espionnage et la tromperie. Mifune incarne avec brio et charisme un samouraï malin et puissant. Le rendu noir / blanc est superbe et la mise en scène de Kurosawa est, comme à son habitude, brillante. Le réalisateur réussit parfaitement à mélanger drame et humanisme, ce que les acteurs réussissent très bien à faire ressentir.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_23218768",
+            "author": "\n                            cylon86\n            \n                    ",
+            "date": "2011-02-21",
+            "rating": 4.0,
+            "text_content": "\n                    Kurosawa signe un pur film d'action pour cette nouvelle aventure du rônin mal élevé et cynique mais intelligent et doué au combat campé avec jubilation par le grand Toshirô Mifune. Comme toujours chez le cinéaste, la mise en scène est soignée et le duel final est vraiment bluffant.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_55691207",
+            "author": "\n                            Benjamin A\n            \n                            \n                    ",
+            "date": "2017-05-20",
+            "rating": 4.0,
+            "text_content": "\n                    Comme Yojimbo, Sanjuro est centré sur ce même personnage, à savoir un samouraï sans maître, ni foi, ni loi, préférant ruser plutôt que d'utiliser son sabre et il est ici question de corruption au sein d'un clan qui va recevoir son aide.",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_40152181",
+            "author": "\n                            batblues\n            \n                    ",
+            "date": "2013-12-9",
+            "rating": 5.0,
+            "text_content": "\n                    Un film à voir ou à revoir.",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_24141637",
+            "author": "\n                            Plume231\n            \n                    ",
+            "date": "2011-04-9",
+            "rating": 4.0,
+            "text_content": "\n                    Ce que l'on perd en délire dans la BO par rapport à \"Yojimbo\", on le regagne largement dans l'histoire. Akira Kurosawa se lâche totalement et cela lui va bien. Des scènes de combats excellentes (dont la dernière fait un véritable bond dans la modernité pour ce qui est de la représentation de la violence au cinéma!) et énormément d'humour, voilà deux ingrédients magiques que contient ce film. Ce deuxième volet des aventures du rōnin pouilleux mais vraiment trop fort et agent double à ses heures est aussi irrésistible que le premier. Le tout avec une phrase que pour faire trop mon malin je vais citer à tout va \"Les meilleurs sabres doivent rester dans leur fourreau!\" et le génial Toshiro Mifune dont on ne fera jamais suffisamment l'éloge. Que demander de plus ?\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_11312084",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2008-12-11",
+            "rating": 4.0,
+            "text_content": "\n                    Un bon film de kimono et katana avec une histoire bien construite qui bénéficie beaucoup de la présence de Toshiro Mifune. A noter une bagarre assez convaincante et le duel final saignant même si le propos du film est plutôt un appel à la non violence et la difficulté de vivre libre en société.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_37500645",
+            "author": "\n                            L'homme le plus classe du monde\n            \n                    ",
+            "date": "2013-05-25",
+            "rating": 3.5,
+            "text_content": "\n                    Un bon chamabra qui malgré son ancienneté et la culture japonaise relativement méconnue en france, se regarde très facilement. Des rebondissements multiples, des scènes de combat courtes mais intenses et le charisme de Toshiro Mifune qui campe grosso-modo le même personnage que dans yojimbo. Un ronin au grand coeur, vagabond, malin et mal rasé. Une sorte de Clint Eastwood période \"l'homme sans nom\", à la sauce samouraï.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_9607521",
+            "author": "\n                            Sergio-Leone\n            \n                    ",
+            "date": "2010-07-20",
+            "rating": 4.5,
+            "text_content": "\n                    Mais d'où vient ce talent et ce génie? Les films de Kurosawa sont de véritables dons de la nature. Une technique impeccable pour des histoires toujours originales avec le grand Toshiro Mifûne. Ces films sont précurseurs des personnages et histoires du cinéma de Leone, Mais Kurosawa avait sans doute une étude plus poussée sur la psychologie des personnages là où Leone jouait plus la carte du cynisme et de la critique de la bonne pensée puritaine. Quoiqu'il en soit je vénererai à jamais ces 2 grands génies ès magie du cinéma.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_50576456",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2016-02-17",
+            "rating": 4.0,
+            "text_content": "\n                    Suite de Yojimbo (mais il n'est pas nécessaire d'avoir vu ce dernier pour comprendre ce nouvel opus), Sanjuro laisse plus de côté le ton désespéré de son illustre prédécesseur pour faire bien plus place au second degré, notamment avec un humour décalé réussi. Si on perd en propos, on gagne en rires (mais rassurez-vous, le film sait être sérieux et grave par moments) et en rythme, et c'est le principal. Le personnage de Sanjuro suit une évolution intéressante, tout en restant le personnage grossier et moralement flou que l'on adore... Et puis bien sûr il y a la mise en scène très professionnelle de Kurosawa et des scènes d'action qui dépotent. Alors si j'ai un tout petit reproche à faire, c'est que je trouve que les personnages autres que Sanjuro et son rival manquent un peu de développement.",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_19187605",
+            "author": "\n                            teofoot29\n            \n                    ",
+            "date": "2010-07-13",
+            "rating": 5.0,
+            "text_content": "\n                    Comme beaucoup le disent, Sanjuro est certainement le film le plus grand publics du cinéaste, s'il l'a réalisé, c'est aussi grâce au premier volume Yojimbo où l'on découvre le samouraï mal élevé et cynique mais très intelligent et maître au combat, ce succès lui donna l'idée de cette suite toute aussi spectaculaire et surtout beaucoup plus dynamique. Pur film d'action qu'il est, Sanjuro ne présente pas moins qu'une maîtrise absolue de mise en scène, d'un excellent déploiement successif des situations de conflits, de scènes de batailles spectaculaires et magnifiques et pour finir par le duel final qui m'a laissé bouche bée, je n'ai qu'une chose à dire, encore bravo Monsieur Kurosawa pour cet excellent film de chambara.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_36786213",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2013-04-1",
+            "rating": 4.5,
+            "text_content": "\n                    Quel bon air frais! Hahaha, j'ai passé un excellent moment devant ce chef-d'oeuvre qui tourne en ridicule ses propres personnages. Avec un scénario très bon et bien élaboré (voir tour à tour ce que planifie les deux côtés), impossible de s'ennuyer. On peut rire, trouver ça intelligent, bien ficelé, être ému ou se moquer des protagonistes, ce qui est une excellente marque de fabrique! On arrête un moment les films sérieux, et on se lâche un coup. Bon certes la situation du guerrier principal qui se trouve face à deux vingt hommes est un peu kitsch mais bon. Le noir/blanc est très bien utilisé et les différents plans sont un exemple de modernité contrairement à ce vieux Ozu qui est la définition même de l'ennui (Il était un père, au secours!). J'avoue que c'est pas très objectif, mais je me suis tellement tripé devant",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1854139",
+            "author": "\n                            BabsyDriver\n            \n                    ",
+            "date": "2008-06-13",
+            "rating": 4.0,
+            "text_content": "\n                    Encore une fois, Akira Kurosawa réalise un très bon film de sabre avec duel final génial. Mais j'aime surtout l'humour du film, avec Toshiro Mifune dans le rôle d'un brillant samouraï stratège, qui donne des scènes très drôles quand il est avec les jeunes sabreurs inexpérimentés ; et leur prisonnier qui finit, un peu malgré lui, par être de leur côté. C'est donc l'humour et les génials combats au sabre qui font de ce film un grand classique du chambara.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_59110970",
+            "author": "\n                            Antoine D.\n            \n                    ",
+            "date": "2018-04-26",
+            "rating": 5.0,
+            "text_content": "\n                    Sanjuro, suite de Yojimbo (que je n’ai malheureusement pas encore vu), est inspiré du livre de Yamamoto. 9 jeunes nobles veulent démasquer le chambellan corrompu avec l’aide de 2 rônins pas très futé. Enlevez ces deux derniers par un invincible Sanjuro et c’est la trame du film de Kurosawa.",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1025864822",
+            "author": "\n                            Kymani Alger\n            \n                    ",
+            "date": "2023-06-23",
+            "rating": 5.0,
+            "text_content": "\n                    Sanjuro suite du célèbre Yojimbo : je le trouve beaucoup mieux que celui ci grâce à sa mise en scène et ses scènes d'actions.  Le film montre aussi une belle amitié entre Sanjuro qui va helpe 9 samouraïs, les rebondissements sont forts et puissants il y a un énorme suspense et on va toujours prendre plaisir à suivre toutes les ruses de Sanjuro.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1015223580",
+            "author": "\n                            Sidik\n            \n                    ",
+            "date": "2021-05-25",
+            "rating": 2.0,
+            "text_content": "\n                    Mmh... Meh. Ce n'est pas peu dire que j'étais excité à l'idée de voir ce \"Sanjuro\", suite de \"Yojimbo\" qui est un film que j'adore du plus profond de mon être. Mais pourtant, dès les 20 premières minutes ça partait mal. Mise en scène parfois grossière et pas très inspirée (alors que c'est Kurosawa quoi !), nouveaux personnages et enjeux pas très prenants, j'étais très loin de retrouver la même magie que devant \"Yojimbo\"... Et hélas, c'est comme ça pendant la quasi-totalité du film. ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_32017729",
+            "author": "\n                            Arthur Debussy\n            \n                            \n                    ",
+            "date": "2017-04-23",
+            "rating": 4.5,
+            "text_content": "\n                    J'ai longtemps hésité entre attribuer 3 ou 4 étoiles à ce film, la raison : «Sanjuro» est parfois trop caricatural et superficiel (au regard du reste de l'oeuvre de Kurosawa bien sûr), et surtout la musique de Masaru Satô, autrefois si fine et à propos, audacieuse et jubilatoire dans «Yojimbo», se fait ici conventionnelle et limite pompière. Ce serait oublier le geste parodique de Kurosawa avec ce diptyque, encore plus poussé dans le deuxième volume, tourné au départ pour surfer sur le succès commercial du premier. Ce n'est d'ailleurs pas Kurosawa qui devait filmer la suite des aventures de l'inoubliable rônin cynique incarné par Mifune, mais il a décidé de reprendre les choses en main et bien lui en a pris. Il a donc créé un film encore plus esthétisé, encore plus divertissant, encore plus léger que le précédent, encore plus abouti visuellement parlant. La maîtrise plastique de Kurosawa atteint en effet ici des sommets : sa gestion de l'espace, sa magistrale composition du plan, son sens du montage, sa mise en scène trouvent là un accomplissement qui relève d'une perfection pure et simple. Pas une seconde ne s'écoule sans qu'une idée géniale vienne traverser le plan. Il est certes dommage que cette perfection formelle ne soit pas mise au service d'une réflexion plus pertinente, mais Kurosawa a voulu ce long métrage (tout comme son prédécesseur) comme un pur divertissement : il a plus que rempli son objectif. Pas le meilleur Kurosawa, mais un film d'une maîtrise tellement époustouflante que je ne peux que m'incliner devant le résultat. Génial. [3/4] http://artetpoiesis.blogspot.fr/\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_36378118",
+            "author": "\n                            Dahrar\n            \n                    ",
+            "date": "2013-04-6",
+            "rating": 4.0,
+            "text_content": "\n                    Alors que \"Yojimbo\" dénotait par son manque de rythme, avec \"Sanjuro\", Kurosawa signe un film malicieux, au scénario abouti, soutenu par le duo toujours excellent: Mifune/Nakadai. Ce premier reprend son rôle d’antihéros grognard, mais au grand cœur, plein de ressources face aux multiples rebondissements que propose le film. C'est évidemment superbement bien filmé et fait avec beaucoup d'humour.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_20944880",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2010-09-2",
+            "rating": 3.0,
+            "text_content": "\n                    Avec « Sanjuro » Kurosawa, offre une tonalité plus légère à sa filmographie. Car c’est bien à un film à l’ironie assez prononcé que l’on a affaire. Jouant sans cesse sur les décalages aussi bien de comportements que de charisme, ce film à la croisée entre l’action et la comédie assure un divertissement de qualité. Dans lesquels les acteurs brillent, notamment l’interprète fétiche du cinéaste, Toshiro Mifune. Bouleversant la représentation habituel  du samouraï, le personnage de Mifune (Sanjuro) crée par sa nonchalances et sa marginalité  des contrastes réjouissant avec ses neufs disciples qui eux représentent le code traditionnel du bon samouraïs. Véritable parodie, ce regard ironique sur cette société culmine avec le décalage crée par le contraste entre le héros (le samouraïs sur de lui, le vrai male) et les deux personnages féminins (symbole de la politesse exacerbé des nippons). Pour autant on à le droit à quelques scènes de sabres à l’ancienne, ces toujours appréciable. La mise en scène parvient souvent à trouvé des angles intéressants exploitant aux mieux la dimension comique du film, le rythme est bien maitrisé. Oui« Sanjuro »  est un bon crue qui plus est facile d’accès pour tout novice en Kurosawamania.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1000336323",
+            "author": "\n                            Vincent D\n            \n                    ",
+            "date": "2019-08-14",
+            "rating": 4.0,
+            "text_content": "\n                    Assez mineur mais très bien fait, ce film nous montre Toshirô Mifune , samouraï rustre et solitaire mais à l'ingéniosité sans faille, sauvant la mise à des jeune blancs becs idéalistes mais naïfs qui plongent la tête baissée dans tous les pièges qu'on leur tend. Ce n'est pas le grand chef d'œuvre mais un film de pur divertissement qui démontre que même en s'adressant au grand public on peut faire du cinéma intelligent et sophistiqué et ce avec un minimum d'hémoglobine ( contrairement au cinéma d'action asiatique contemporain qui joue la surenchère).",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_26430359",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2011-08-5",
+            "rating": 4.0,
+            "text_content": "\n                    Excellent divertissement. Sanjuro est souvent drôle et tend vaguement vers une morale, en mettant en scène des personnages en léger décalage.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_16858122",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2010-03-14",
+            "rating": 5.0,
+            "text_content": "\n                    Excellent! Et drôle en prime. Une comédie qui à sa profondeur.",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_24218856",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2011-04-15",
+            "rating": 3.5,
+            "text_content": "\n                    Le film est basé sur une idée minimaliste: un ronin tourmenté décide d'aider 9 bras-cassés au coeur empli de vertu à déjouer un complot politique. Il affrontera alors tactiquement et physiquement le chef de la garde de l'intendant du clan, qui cherche à renverser le gouverneur de ce clan.",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_11528839",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2008-12-28",
+            "rating": 5.0,
+            "text_content": "\n                    Un samourai vagabond et mal embouché se trouve impliqué dans une lutte entre clans . Combats et humour au programme un vrai bijou qui vous tient en haleine 1h30.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_930065",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2006-11-18",
+            "rating": 5.0,
+            "text_content": "\n                    Sans doute le film de Kurosawa Akira le plus réussit.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_8118922",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2008-05-1",
+            "rating": 5.0,
+            "text_content": "\n                    Quelle vitalité ! On est directement pris dans ce film! Toshirô Mifune est vraiment incroyable dans ce rôle ! La réalisation est bonne, le rythme haletant, et le final : sanglant ! Vraiment j'ai été très agréablement surpris par ce film que j'ai emprunté un peu à la va vite ! Merci Kurosawa.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1006585791",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2020-05-1",
+            "rating": 4.0,
+            "text_content": "\n                    Un très bon film qui met l'accent sur la différence entre les hommes de pouvoir et les autres. Maîtrise de la lame et compréhension supérieure des événements étant les deux facteurs différenciants. Sanjuro, ronin tentant de tuer l'ennui, va venir en aide à une bande de jeunes manquant eux de ces deux compétences clés, et s'apprêtant du coup à se jeter dans la gueule du loup. Grâce à ses actes et ses conseils, ces derniers vont réussir à renverser la tentative de prise de pouvoir par des puissants corrompus dont ils sont les victimes. Le pauvre Sanjuro, en plus de faire face à une adversité conséquente, devra également composer avec la stupidité permanente des membres de son groupe, qui le pousse toujours plus dans ses retranchements. Heureusement pour lui, comme pour eux, il peut compter sur sa maîtrise sans égal du katana, couplée à des trésors d'ingéniosité pour s'en sortir. On s'ennui pas et on rigole bien.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_22987505",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2011-02-3",
+            "rating": 3.5,
+            "text_content": "\n                    Dans Sanjuro par sa mise en scène extrêmement ordonnée et fluide , associée à une superbe photographie en noir et blanc , Akira Kurosawa montre à quel point il est l'un des grands maîtres du Cinéma . L'intrigue du film , un ronin peu conventionnel (incarné par l'excellent Toshirô Mifune) aide un groupe de samourais à libérer leur chef de clan qu'un super-intendant corrompu a emprisonné pour prendre sa place , reste assez simple mais très efficace . Ce film , et particulièrement le duel final , est une influence certaine de nombreux western . Sanjuro est un film de samourai très accessible à regarder absolument pour tout cinéphile qui se respecte , ainsi que le reste de l'oeuvre de Kurosawa .",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_18223657",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2010-06-7",
+            "rating": 2.5,
+            "text_content": "\n                    Dans la filmographie quasi parfaite de Kurosawa, celui-ci est sans doute l'un des plus faibles. Il ne s'agit pas pour autant d'un ratage, loin s'en faut: le cinéaste prend un malin plaisir à dédramatiser savamment les situations et à baigner le mythe vieux comme Mathusalem du samouraï dans une délicieuse ironie. En certains aspects, Sanjuro possède cet esprit anti-théâtral qui va à l'encontre de bon nombre d'œuvres de Kurosawa. Mais les qualités du film se révèlent être aussi ses principales faiblesses: à force de jouer sur la nonchalance (calculée) de l'intrigue et la distanciation des personnages, on peine à s'en sentir concernés. À noter la remarquable performance de Toshirô Mifune qui préfigure le personnage de Clint Eastwood dans les westerns de Leone.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1015526925",
+            "author": "\n                            LOTH S\n            \n                    ",
+            "date": "2021-06-19",
+            "rating": 4.5,
+            "text_content": "\n                    Film totalement captivant et sans concession. Pour moi il n'y a que les japonais qui peuvent réussir ce genre de films, avec les silences, les actions, l'ambiance et les codes très japonais. ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_17196614",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2010-04-25",
+            "rating": 5.0,
+            "text_content": "\n                    Je ne suis pas vraiment un connaisseur de kurosawa, même si j'ai vu plusieurs de ses films (rashomon, kagemusha, les sept samurais), mais je trouve que celui-ci est le plus grand public. Court, avec de l'action et de l'humour, en font un bon film pour entrer dans l'univers du vieux cinéma asiatique, et celui de kurosawa. De plus je trouve que les acteurs ne force pas trop leur role comme parfois dans le cinéma asiatique comme certaine scene de rashomon ou musashi (pas du meme niveau je vous l'accorde) auquel nous ne sommes pas forcément habitué. En tout cas c'est, à mon sens, une bonne entrée en matiere pour ceux qui veulent s'initie à ce cinéma.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_175373",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2006-09-29",
+            "rating": 4.0,
+            "text_content": "\n                    Un très bon film de samuraï qui ravira tous les amateurs de la période. La touche d'humour est vraiment un plus.",
+            "likes": 0,
+            "dislikes": 0
+        }
+    ]
+}

@@ -1,0 +1,598 @@
+{
+    "id": 6434,
+    "name": "Yôjinbô",
+    "release_date": "2020-09-14",
+    "runtime_in_minutes": 110,
+    "genres": [
+        "Action",
+        "Drame"
+    ],
+    "synopsis": "\n                    À la fin de l’ère Edo, un samouraï, Sanjuro, arrive dans un village écartelé entre deux bandes rivales, menées d’un côté par le bouilleur de saké, de l’autre par le courtier en soie. Les deux bandes veulent s’adjoindre les services de Sanjuro…\n        \n            ",
+    "reviews": [
+        {
+            "id": "review_51624098",
+            "author": "\n                             Kurosawa\n            \n                            \n                    ",
+            "date": "2016-05-13",
+            "rating": 4.0,
+            "text_content": "\n                    L'intérêt majeur que procure \"Yojimbo\", outre la spécificité de sa structure (environ deux tiers d'observation pour un tiers d'action), réside dans l'évolution de son personnage principal, qui perd le contrôle de la situation au moment où l'on s'y attend le moins, précisément quand les deux camps qui sèment la terreur dans ce petit village sont sur le point de s'entretuer. Et l'erreur que commet le garde du corps est liée à ses motivations mêmes de rester dans cet endroit où il s'est établi par hasard, lesquelles dévoilent un humanisme profond et désintéressé. Il ne souhaite pas rétablir la paix en échange d'argent ou de reconnaissance morale mais parce qu'il est tout simplement animé par le bien. Pour parvenir à ses fins, il aura longtemps observé les comportements et les stratégies des mercenaires avant une dernière partie où le schéma dominant-dominé devient instable et instaure un suspense redoutablement efficace. Dynamisé par un humour percutant et caractérisé par une impressionnante gestion de l'espace - la mise en scène parvient aussi bien à créer un climat anxiogène dans les maisons qu'à faire ressentir la tension des combats et des négociations dans la rue principale -  \"Yojimbo\" est un excellent divertissement qui insère astucieusement sa critique d'un perpétuel enrichissement au détriment d'un maintien de relations humaines saines, une réflexion moderne et actuelle.\n        \n            ",
+            "likes": 7,
+            "dislikes": 1
+        },
+        {
+            "id": "review_1000810473",
+            "author": "\n                            gimliamideselfes\n            \n                            \n                    ",
+            "date": "2019-10-11",
+            "rating": 4.5,
+            "text_content": "\n                    Cela fait une éternité que je veux voir Yajimbo et c'est le genre de film où je ne comprends pas pourquoi j'ai attendu aussi longtemps. Si je ne suis pas nécessairement un grand admirateur de Kurosawa, enfin de la poignée de films que j'ai vu de lui, c'est peut-être l'une des premières fois (avec Rashomon) où je comprends l'engouement.",
+            "likes": 4,
+            "dislikes": 1
+        },
+        {
+            "id": "review_49000506",
+            "author": "\n                            Le Blog Du Cinéma\n            \n                            \n                    ",
+            "date": "2015-10-26",
+            "rating": 4.5,
+            "text_content": "\n                    YOJIMBO - LE GARDE DU CORPS (1961) et SANJURO (1962) sont deux films centrés autour du même personnage : un samouraï sans nom et sans maître (un rōnin). Un guerrier extrêmement doué dans son art du sabre, mais usant pourtant moins de ce talent que de ruse et d'intelligence.",
+            "likes": 4,
+            "dislikes": 1
+        },
+        {
+            "id": "review_23847080",
+            "author": "\n                            Moorhuhn\n            \n                    ",
+            "date": "2011-03-27",
+            "rating": 4.0,
+            "text_content": "\n                    Super film que ce Yojimbo, j'ai adoré! ",
+            "likes": 2,
+            "dislikes": 1
+        },
+        {
+            "id": "review_39644229",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2013-10-28",
+            "rating": 4.0,
+            "text_content": "\n                    Il fallait puiser l'originalité dans la banalité, trouver la lumière dans l'obscurité, la naissance dans la mort, chercher la vie là où l'on pensait l'avoir étouffée. C'est ce souffle étranger et précieux qui émane de cette oeuvre d'Akira Kurosawa, puisant dans sa parodie même l'espoir d'un vrai cinéma, au détour d'une ou deux minutes magiques, courtes, mais qui nous restent en bouche. La grandeur du film réside dans sa préciosité, cette même préciosité qui découle, presque imperceptiblement, de la simple parodie, de l'affrontement guerrier, des cris de colère et de pluie tombante. L'espoir d'une justice et d'une morale, thèmes récurrents chez Kurosawa, est incroyablement couplé d'une perpétuelle métaphore cinématographique, vers laquelle l'on converge sans cesse, sans presque refuser de l'avouer. L'idéal magique réside bien en ce point où le pouvoir de la caméra fait advenir le plein triomphe de la justice et de la bonté, non en se soumettant à lui, mais en tentant d'épouser son mouvement, au risque parfois de perdre le bien, ou de perdre le cinéma. Mais le résultat est bon, le vrai créateur est celui qui se bat sans arme, jouant le jeu de la vie en même temps que celui de la création; et c'est une belle démonstration du courage samouraï que nous livre ici Kurosawa, acceptant de tout sacrifier, pourvu que le résultat triomphe par sa seule générosité, par son seul courage, pour l'amour du risque, pour l'amour de la simple particularité, pour l'amour de l'art (15/20).\n        \n            ",
+            "likes": 1,
+            "dislikes": 1
+        },
+        {
+            "id": "review_24141587",
+            "author": "\n                            Plume231\n            \n                    ",
+            "date": "2011-04-9",
+            "rating": 4.0,
+            "text_content": "\n                    Il est consternant qu'Akira Kurosawa est plagié un film que Sergio Leone réalisera trois ans plus tard (oui, c'est très con ce que j'écris!). Non, sans déconner c'est du très bon Kurosawa (mais est-ce qu'il existe du mauvais Kurosawa de toute façon ?). Ici pas vraiment de réflexion profonde comme on peut en voir dans d'autres oeuvres du cinéaste, mais on a envie de dire \"Et alors ?\". Il y a de l'action (les scènes où le héros zigouille à lui seul plusieurs mecs sont superbement chorégraphiées!), un zeste d'humour, une BO délirante en total décalage et puis surtout l'IMMENSE Toshiro Mifune à jamais inégalable en rōnin pouilleux, cynique mais incroyablement rusé et fort. Un divertissement de très haute gamme.\n        \n            ",
+            "likes": 1,
+            "dislikes": 1
+        },
+        {
+            "id": "review_56184320",
+            "author": "\n                            weihnachtsmann\n            \n                            \n                    ",
+            "date": "2017-07-16",
+            "rating": 3.5,
+            "text_content": "\n                    Le film est en vérité une longue attente vers la violence des clans. La tension ne sert qu'à raviver la haine et l'homme, le catalyseur de cette violence sourde, mais aussi son l'objet, n'à qu'à attendre que ces deux groupes s'entretuent..... c'est une vision intéressante du réalisateur en plus de celle, désolée, de la cupidité humaine.\n        \n            ",
+            "likes": 0,
+            "dislikes": 1
+        },
+        {
+            "id": "review_51363583",
+            "author": "\n                            this is my movies\n            \n                            \n                    ",
+            "date": "2016-04-18",
+            "rating": 5.0,
+            "text_content": "\n                    S'inspirant ouvertement du western (on le voit à travers certains cadrages, certaines ambiances), Kurosawa signe un film de sabres absolument incroyable, bénéficiant d'une intrigue assez simple mais développer avec malice, le tout dominé par un T. Mifune imprévisible de bout en bout. Présent dans presque tous les plans, l'acteur fétiche de Kurosawa impose son charisme et son physique avec un naturel confondant tandis que la mise en scène de Kurosawa n'est économe ni en virtuosité ni en vitalité. Les combats sont bien chorégraphiés, assez violents d'un point de vue graphique et même si j'avais déjà vu les 2 remakes officiels du film \"Pour une poignée de dollars\" et \"Dernier recours\"), je dois dire que j'ai pris du plaisir à voir celui-là, bien meilleur sur bien des aspects. Une plongée étouffante au sein d'un village pourri par la luxure, le jeu et la violence, qui sera consummé par sa propre folie destructrice sous l'impulsion d'un homme qui actionne les bons leviers. C'est parfois drôle (un des manques majeurs des remakes évoqués plus haut), souvent brillant et on est happé de bout en bout par cette atmosphère, parcouru de scènes de violences d'une incroyable audace. Un chef d'oeuvre, un modèle du genre, qui tisse des liens entre différents genres et différents mondes. D'autres critiques sur\n        \n            ",
+            "likes": 0,
+            "dislikes": 1
+        },
+        {
+            "id": "review_54554149",
+            "author": "\n                            JimBo Lebowski\n            \n                    ",
+            "date": "2017-02-7",
+            "rating": 4.0,
+            "text_content": "\n                    En quelque sorte les prémices du western spaghetti, un film de sabre (et de flingue) où Kurosawa en extirpe une atmosphère assez particulière, autant par le décor avec cette ville fantôme gangrénée par la violence que par ce personnage principal énigmatique, anti-héros puissant et fin stratège inspirant constamment le chaud et le froid, comme l’impression de rester en retrait de tout, mais en même temps fasciné par les rouages de ce jeu d’échec humain. J’ai surtout aimé le caractère anti-manichéen de la première partie, se plonger dans la tête de Mifune qui ensuite retourne les enjeux pour nous prendre au dépourvu, comme lors de la délivrance de la femme et son enfant où il simule une scène de massacre, puis la seconde partie rééquilibrera la donne, avec notamment une dernière séquence époustouflante. Beaucoup aimé, même si le rythme n’est pas toujours très accueillant, enfin ça fait parti de l’exposition.\n        \n            ",
+            "likes": 0,
+            "dislikes": 1
+        },
+        {
+            "id": "review_1003935926",
+            "author": "\n                            Ricco92\n            \n                    ",
+            "date": "2020-03-14",
+            "rating": 3.5,
+            "text_content": "\n                    Avec Rashōmon, Kagemusha, l’ombre du guerrier ou Ran, Le Garde du corps (connu également sous son titre original : Yōjimbō) fait partie des films les plus célèbres d’Akira Kurosawa. En effet, cette adaptation dans le Japon moyenâgeux de La Moisson rouge et de La Clé de verre (tous deux signés Dashiell Hammett) sera remakée 3 ans plus tard en Italie par Sergio Leone avec Pour une poignée de dollars. Effectivement, cette première aventure du personnage de Sanjuro (l’année suivante, Kurosawa tournera un second film portant son nom pour titre) est brillamment réalisée : Kurosawa a une totale maîtrise de son cadre et cela se voit. Les comédiens sont excellents (on y trouve tout de même Toshirō Mifune et Tatsuya Nakadai) mais il faut accepter le style de jeu très prononcé caractéristique du cinéma japonais pour y goûter pleinement. Pour ce qui est du scénario, on peut juste regretter que les péripéties s’enchaînent trop rapidement et que l’on est parfois un peu perdu dans les personnages. Ainsi, si Le Garde du corps reste un très bon film de samouraïs classique, on peut lui préférer son remake italien qui révolutionnera un genre complet et lancera la mode du western spaghetti.\n        \n            ",
+            "likes": 0,
+            "dislikes": 1
+        },
+        {
+            "id": "review_33973729",
+            "author": "\n                            Akamaru\n            \n                    ",
+            "date": "2012-10-15",
+            "rating": 3.0,
+            "text_content": "\n                    Etrangement,\"Yojimbo\"(1961),présenté comme l'initiateur du western spaghetti a ainsi mal vieilli,et comporte de nombreux défauts.Le rythme est trop lent,l'interprétation très disparate(Toshiro Mifune est évidemment un cas à part)et il est difficile de reconnaître qui est qui.Akira Kurosawa a en tout cas été fortement attiré par cette histoire,où un ronin malicieux et opportuniste,profite de la haine que se vouent deux clans dans un village,pour tirer les marrons du feu.Tour à tour,il fait monter les enchères,avant de se faire doubler.Ce western nippon intègre la première arme à feu du XVIIème siècle,utilise les plans larges pour montrer les rues désertes balayées par le vent,et les ennemis en grappe.Sanjuro,le samouraï cynique,est un anti-héros foncièrement pragmatique,l'un des premiers,même s'il conserve quelques valeurs du bushido.Kurosawa est très appliqué dans la progression du récit et des masques qui tombent petit à petit.C'est donc d'autant plus regrettable que l'on ait tant l'impression de s'ennuyer,alors que le réalisateur s'y connaît dans l'épique et l'exotisme.\n        \n            ",
+            "likes": 0,
+            "dislikes": 1
+        },
+        {
+            "id": "review_50372597",
+            "author": "\n                            Redzing\n            \n                            \n                    ",
+            "date": "2016-02-4",
+            "rating": 4.0,
+            "text_content": "\n                    A la fin du 19ème siècle, au Japon, un rônin expérimenté arrive dans un village isolé. Il s'aperçoit que deux gangs rivaux s'affrontent en permanence, et va tenter de tirer profit de la situation. \"Yojimbo\" dispose d'un scénario original et riche, où les va-et-viens entre les camps, les manipulations, et les rebondissements sont légions, sans oublier une touche d'humour bienvenue. Le protagoniste est campé par un Toshiro Mifune bien plus sobre que d'habitude, mais très charismatique en samouraï énigmatique. On regrette que les scènes de combat soient rares, néanmoins elles sont bien chorégraphiées. Quant à la mise en scène, si l'ensemble n'atteint pas la richesse d'autres œuvres de Kurosawa en terme de montage, la photographie est soignée, on l'on compte de nombreux plans astucieux. Et notamment beaucoup de références au western, jusque dans certains plans panoramiques ou décors désertiques. Ironie de l'histoire, \"Yojimbo\" rencontra un gros succès, et fit l'objet d'un remake officieux de Sergio Leone quelques années plus tard (\"A Fistful of Dollars\"), qui lança le western spaghetti.\n        \n            ",
+            "likes": 0,
+            "dislikes": 1
+        },
+        {
+            "id": "review_49567506",
+            "author": "\n                            Acidus\n            \n                    ",
+            "date": "2016-01-12",
+            "rating": 4.0,
+            "text_content": "\n                    Faisant partie d'un dyptique avec \"Sanjuro\", \"Yojimbo\" développe une approche typée \"western\" du film de samouraïs. Non dénué d'un humour fin, ce long métrage d'Akira Kurosawa séduit par sa belle photographie et surtout un charismatique Toshiro Mifune, toujours à l'aise dans ce rôle de ronin solitaire. Du pur divertissement \"made in japan\" !!!!\n        \n            ",
+            "likes": 0,
+            "dislikes": 1
+        },
+        {
+            "id": "review_61297643",
+            "author": "\n                            maxime ...\n            \n                            \n                    ",
+            "date": "2018-12-23",
+            "rating": 3.5,
+            "text_content": "\n                    Yojimbo est le quatorzième long métrage du cinéaste Japonnais que je vois au cours de cette année 2018 et fait partie pour moi d'une des plus grandes découvertes de ces derniers mois ! J'entends par cela que la filmographie d'Akira Kurosawa m'a réellement époustouflé que se soit dans son contenu ou de part les formes radicales et moderne qu'il adopte. Tout les compliments précédemment fait autour des treize films de ce réalisateur ressortent immédiatement, intelligence évidente, acteurs aux diapasons et maîtrise technique remarquable. Ces œuvres ont marqué de manière significative le cinéma, la preuve en est avec le remake produit par Sergio Leone quelques années seulement après la sortit de ce même Yojimbo. Les comparaissons sont forcément multiples mais néanmoins les deux diverges sur certains points et permettent aux particularités de chacun de s’exprimé. Une rétro concernant Sergio Leone serait d'ailleurs une idée à prendre en considération pour 2019 ! Pour en revenir à Yojimbo, il est est très intéressant de découvrir les jeux de pouvoirs et autres ruses du film, la façon dont le Samourai nommé Sanjuro ( prochain long métrage en perspective ! ) détricote toute situation compromettante à ses plans pour parvenir à son objectif, La Paix ! Toshiro Mifune trouve encore une fois une composition lui permettant de mettre en avant ces talents de comédiens hors-pairs et signe avec une très grande habilité à rendre son personnage tout à la fois charismatique et ambigu à souhaits ! Un long métrage un peu longuet malgré tout, là est son seul défaut notable.\n        \n            ",
+            "likes": 0,
+            "dislikes": 1
+        },
+        {
+            "id": "review_44048409",
+            "author": "\n                            Uncertainregard\n            \n                    ",
+            "date": "2014-09-25",
+            "rating": 4.0,
+            "text_content": "\n                    Un des films références dans la filmographie de Kurosawa car bien que ce soit la suite de « Le garde du corps » où l’immense Toshiro Mifune reprend son rôle du samouraï errant, arrogant, irrévérencieux mais diaboliquement malin et invulnérable avec un sabre, qui va se mettre du côté des faibles, c’est une approche assez différente du cinéaste pour raconter cette histoire. Il a biensûr usé de son humour toujours aussi fin et percutant mais la mise en scène est particulièrement théâtrale, outrancière et avec l’appui de cette musique décalée, ça nous rappellerait presque un dessin animé de Tex Avery. Je ne reprocherai que la petitesse des décors qui n’est qu’un petit village où les opposants sont quasi voisins de palier. Et vu l’intensité des voix dans les dialogues, on a un peu de mal à croire qu’ils ne se soient pas repairés et/ou dénoncés plus tôt…\n        \n            ",
+            "likes": 0,
+            "dislikes": 1
+        },
+        {
+            "id": "review_1021364324",
+            "author": "\n                            soulman\n            \n                    ",
+            "date": "2022-08-21",
+            "rating": 5.0,
+            "text_content": "\n                    \"Yojimbo\" est l'un des plus extraordinaires films de samouraïs de son auteur. Bénéficiant d'une qualité chorégraphique inégalée dans la mise en scène des combats, l'oeuvre recèle également des séquences d'une grande truculence, où la bêtise et l'avidité de la plupart des personnages transparaît avec éclat, au grand amusement du héros, admirablement incarné par Mifune.\n        \n            ",
+            "likes": 0,
+            "dislikes": 1
+        },
+        {
+            "id": "review_56797096",
+            "author": "\n                            Le cinéphile\n            \n                    ",
+            "date": "2017-09-14",
+            "rating": 3.0,
+            "text_content": "\n                    Sergio Leone a tout pris a Yojimbo pour son Pour une poignée de dollars. L'histoire est identique. Kurosawa signe une œuvre divertissante, ou un homme seul va manipuler les groupes. Très inscrit dans une atmosphère de western, Yojimbo est une honnête histoire.",
+            "likes": 0,
+            "dislikes": 1
+        },
+        {
+            "id": "review_33362365",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2012-11-28",
+            "rating": 5.0,
+            "text_content": "\n                    J'ai beau savoir ce qu'il va se passé par coeur (j'ai vu des dizaines de fois Pour une Poignée de dollars qui est le remake), je suis sous le charme de ce long-métrage. Une histoire absolument géniale, une réalisation superbe et une ambiance envoûtante. Toshiro Mifune dans un des ses meilleurs rôles.\n        \n            ",
+            "likes": 0,
+            "dislikes": 1
+        },
+        {
+            "id": "review_34663190",
+            "author": "\n                            real-disciple\n            \n                    ",
+            "date": "2012-11-27",
+            "rating": 4.5,
+            "text_content": "\n                    Yojimbo contient tout ce que j'aime : le samourai solitaire cynique, des scènes de combat au sabre bien filmées, une grande mise en scène..un grand Toshiro Mifune. C'est un western mais on peut aussi y voir une intrigue qui ressemble aux films noirs. Ce qui est cynique dans le film c'est qu'il est sans morale au début mais une fois qu'il se montre humain cela lui cause sa \"perte\" puisqu'il sera démasqué. Mais il rusera plus que les autres en disparaissant pour revenir se venger dans une scène finale d'une grande force où il éliminera de façon expéditive ses opposants. Mais on joue aussi avec l'humour (des méchants pleutres, un colosse avec une arme démesurée, un autre qui vit avec son pistolet, le fait que Sanjuro joue avec les deux bandes etc). Une grande réussite qui influencera tout de même un certain Sergio Léone.\n        \n            ",
+            "likes": 0,
+            "dislikes": 1
+        },
+        {
+            "id": "review_24415343",
+            "author": "\n                            TCovert\n            \n                    ",
+            "date": "2011-04-20",
+            "rating": 4.0,
+            "text_content": "\n                    Pour moi Yojimbo a pendant longtemps été « le film dont Pour Une Poignée de Dollars et le remake », et ce n’est que mon intérêt nouveau pour Kurosawa qui me décida à le regarder. Force est de constater que l’original est nettement moins marquant et intense mais n’en est pas mauvais pour autant. Yojimbo est même un film assez agréable grâce au charisme de Toshirô Mifune et à la mise en scène de Kurosawa qui lorgne définitivement vers le western. Le scénario est identique à celui du remake donc pas de surprises là-dessus, chose assez rare au cinéma que 2 cinéastes majeurs s’expriment sur le même sujet… le Kurosawa est bon mais personnellement la version de Sergio Leone me paraît extrêmement plus efficace.\n        \n            ",
+            "likes": 0,
+            "dislikes": 1
+        },
+        {
+            "id": "review_22764994",
+            "author": "\n                            cylon86\n            \n                    ",
+            "date": "2016-04-2",
+            "rating": 5.0,
+            "text_content": "\n                    En réalisant \"Yojimbo\", Akira Kurosawa décide réaliser un film qui donnerait une sensation parfaite de divertissement. Pour cela, le cinéaste puise dans plusieurs influences. Il emprunte une bonne partie de l'intrigue aux romans noirs de Dashiell Hammett (\"Moisson Rouge\", \"La Clé de verre\"), notamment dans la façon dont un personnage solitaire affronte seul et avec intelligence deux bandes rivales dans une seule ville. Visuellement, c'est vers le western qu'il se tourne avec son village truffé de ''gueules'', son vent qui souffle sur une plaine aride, son héros solitaire et ses duels. Il est d'ailleurs amusant de constater que \"Yojimbo\", influencé par le western, influencera également ce genre à son tour puisque Sergio Leone en fera un remake avec \"Pour une poignée de dollars\", premier de ses westerns spaghettis iconoclastes et violents. Se déroulant à la fin de l'ère d'Edo (et donc au XIXème siècle), \"Yojimbo\" nous conte donc l'histoire de Sanjuro, un samouraï errant arrivant dans un village rongé par une rivalité entre deux clans. Le jeu et la violence règnent tandis que personne n'ose sortir dans les rues et que tout le monde a l'air résigné, excepté le croque-mort du coin qui ne peut que se réjouir de ces affrontements réguliers. Voyant dans ces luttes incessantes l'occasion de gagner de l'argent tout en débarrassant le village de ces brutes, Sanjuro entreprend donc de monnayer ses services auprès des deux clans, les montant l'un contre l'autre avec ruse. Pour ce qui est du divertissement, Kurosawa a réussi son rêve haut la main. Son film est un vrai régal, avec une véritable personnalité japonaise mais une sacrée influence due au western. Pratiquant l'ironie à tour de bras, le film se moque gentiment des clichés du genre mais les adopte néanmoins avec ferveur, ne manquant pas de nous offrir une bonne dose de violence (le sang gicle, un bras est coupé, un chien se promène avec une main tranchée dans sa gueule) et d'action avec des duels rapides mais à la chorégraphie efficace. Très bien écrit, \"Yojimbo\" dénonce la violence et l'appât du gain qui dominaient cette époque et doit beaucoup à Toshirô Mifune qui apporte énormément au personnage de Sanjuro. L'acteur se montre roublard, moqueur et calculateur et offre une composition mémorable, faisant de son samouraï solitaire un héros complexe qui dit aimer l'argent et mépriser un mari dont la femme lui a été arrachée mais qui l'aide sans hésitation en lui laissant l'argent qu'il a extorqué à un chef de clan. Face à lui, les trognes défilent et parmi elles, on trouve Tatsuya Nakadai, particulièrement diabolique dans son intelligence et particulièrement dangereux dans sa façon de manier l'arme à feu. Véritable western où les sabres remplacent les armes à feu, \"Yojimbo\" est un modèle de mise en scène à l'influence considérable. Un nouveau chef-d’œuvre signé Kurosawa en somme.\n        \n            ",
+            "likes": 0,
+            "dislikes": 1
+        },
+        {
+            "id": "review_55691197",
+            "author": "\n                            Benjamin A\n            \n                            \n                    ",
+            "date": "2017-05-20",
+            "rating": 4.0,
+            "text_content": "\n                    Akira Kurosawa est l'un des rares réalisateurs dont j'ai vu plus d'une quinzaine de films et qui ne m'a tout simplement jamais réellement déçu, à une exception de jeunesse près, et ce n'est pas avec Le Garde du Corps, sorti en 1961, juste après Les Salauds dorment en Paix, que cette série va s'arrêter.",
+            "likes": 0,
+            "dislikes": 1
+        },
+        {
+            "id": "review_41298152",
+            "author": "\n                            Xavi_de_Paris\n            \n                            \n                    ",
+            "date": "2015-06-24",
+            "rating": 5.0,
+            "text_content": "\n                    Cette version \"samourai\" de \"Pour une poignée de dollars\" de Sergio Leone vaut le coup d'œil. Le noir et blanc est magnifique, et donne une atmosphère particulière au film. L'action est bien présente du début à la fin, grâce à un scénario inventif et rondement mené. Un grand classique immanquable.\n        \n            ",
+            "likes": 0,
+            "dislikes": 1
+        },
+        {
+            "id": "review_32794557",
+            "author": "\n                            sword-man\n            \n                    ",
+            "date": "2012-07-21",
+            "rating": 4.5,
+            "text_content": "\n                    En regardant \"Yojimbo\" on se dit que finalement le western spaghetti n'est pas italien mais japonais tant les similitudes avec \"Pour une poignée de dollars\" sont nombreuses. Je savais que ce dernier était un remake d'un film de samouraï, mais pas à ce point. Même scénario, parfois même dialogues, même personnage principal solitaire, pauvrement vêtu mal rasé, sans foi ni loi qui ne vit que pour l'argent mais dôté d'une humanité qu'il cache. Si encore les ressemblances s'arrêtaient là c'est le style de Leone qui aurait fait la différence mais non. La réalisation de Leone est très inspiré par celle de Kurosawa, le moment le pus frappant étant le duel final. Plan large, gros plan, découpage et montage millimétré, musique collant à l'image, vent qui pousse la poussière, personnages se faisant face avançant lentement. Oui mais voilà Leone a eu un peu la même démarche que Tarantino. Il reprend un truc qu'il aime et y ajoute sa sauce, transcendant son modèle. Et quand on est un génie ça donne un chef d'oeuvre. Ouf le mythe est sauf, je peux enfin parler de \"Yojimbo\" mais je me rends compte qu'en fait j'ai déjà tout dit. Il a inspiré \"Pour une poignée de dollars\" et n'a pas grand chose à lui envier. Akira Kurosawa fait ( encore ) un film ultra divertissant à la mise en scène soignée, avec un bon scénario et son acteur fétiche Toshirô Mifune montre ( encore lui aussi ) qu'il a du talent, qu'il est très charismatique, on ne voit que lui à l'écran, et que c'est un excellent acteur.\n        \n            ",
+            "likes": 0,
+            "dislikes": 1
+        },
+        {
+            "id": "review_26151690",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2011-08-20",
+            "rating": 3.0,
+            "text_content": "\n                    Yojimbo a vieilli, mais il n'en reste pas moins l’ancêtre du Western Spaghetti, dont le scénario a été repris quasiment tel quel par Sergio Leone Pour une poignée de Dollars. ",
+            "likes": 0,
+            "dislikes": 1
+        },
+        {
+            "id": "review_11081482",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2008-11-23",
+            "rating": 1.0,
+            "text_content": "\n                    Comme Son confrère américain le film souffre d'une histoire qui ne tient pas, voilà des familles qui se battent depuis longtemps sans résultat et à la fin l'une attaque l'autre sans problème on ne voit pas trop ce qui la retenait avant ?! On préferera tout de même la copie à l'originale plus dynamique, plus crédible et mieux jouée.\n        \n            ",
+            "likes": 0,
+            "dislikes": 1
+        },
+        {
+            "id": "review_50969514",
+            "author": "\n                            MemoryCard64\n            \n                    ",
+            "date": "2016-03-16",
+            "rating": 4.0,
+            "text_content": "\n                    Il n'y a bien qu'Akira Kurosawa pour me surprendre dès la première minute de son film. Le plan d'ouverture, montrant Toshirō Mifune de dos, est accompagné d'une musique dramatique, qui après quelques notes se mue en une sorte de ronde, à la fois pataude et entraînante. Le ton est donné : Yojimbo sera sérieux, mais pas trop quand même. L'histoire de ce village divisé en deux clans distincts est donc traitée avec une certaine gravité (surtout dans la dernière partie du film) mais elle est également ponctuée par de petits moments légers vraiment bienvenus. Le film se moque ouvertement des personnages en accentuant leurs défauts (l'avarice, la lâcheté mais aussi la laideur), ce qui est particulièrement utile pour rendre des situations absurdes. Je prends comme exemple le moment où deux adversaires se disputent comme des gamins l'allégeance du samouraï, qui est complètement ahurissant. L'ensemble est vraiment décontracté, à l'image du personnage principal. En effet, le samouraï errant fait preuve de beaucoup de nonchalance, tout en s'autorisant quelques pointes de sarcasme de temps en temps. Il sait qu'il est en position de force et mène les dirigeants par le bout du nez à des fins personnelles, tout en aidant les personnes souffrant de la situation politique du village. Il s'agit vraiment d'un rôle à la gloire Toshirō Mifune (ce qui n'est pas pour me déplaire) et ce dernier se l'approprie brillamment, sans surprise. Tout comme Les Sept Samouraïs, Yojimbo se construit sur l’attente d'une confrontation qui arrivera fatalement. Mais là où le film de 1954 en faisait un drame poignant, celui de 1961 en fait un film d'action baignant dans un humour délicieux. Par ailleurs, le long-métrage évoque beaucoup le western, rien d'étonnant au fait que Sergio Leone en reprit les grandes lignes dans son fameux Pour une poignée de dollars.\n        \n            ",
+            "likes": 0,
+            "dislikes": 1
+        },
+        {
+            "id": "review_53559048",
+            "author": "\n                            Attigus R. Rosh\n            \n                    ",
+            "date": "2016-11-16",
+            "rating": 4.5,
+            "text_content": "\n                    Yojimbo est un excellent film signé Akira Kurosawa, au sommet de son art.",
+            "likes": 0,
+            "dislikes": 1
+        },
+        {
+            "id": "review_33875278",
+            "author": "\n                            djacno T.\n            \n                    ",
+            "date": "2012-10-7",
+            "rating": 5.0,
+            "text_content": "\n                    Drame et humour, bravoure et insolence pour ce film décalé qui est l'inspirateur directe des westerns néoréalistes  Un superbe film bien plus percutant et émouvant que ses nombreuses copies.",
+            "likes": 0,
+            "dislikes": 1
+        },
+        {
+            "id": "review_2619404",
+            "author": "\n                            Sergio-Leone\n            \n                    ",
+            "date": "2010-07-20",
+            "rating": 4.5,
+            "text_content": "\n                    Œuvre stylisée et moderne dans sa réalisation, Toshiru Mifûne est simplement un dieu de l'écran et entre au panthéon des légendes du cinéma. En tant que fan de Sergio Leone je dois admettre que ce film est bien meilleur que le non moins génial \"fistful of dollars\"! ",
+            "likes": 0,
+            "dislikes": 1
+        },
+        {
+            "id": "review_4210418",
+            "author": "\n                            benoitparis\n            \n                    ",
+            "date": "2007-09-4",
+            "rating": 4.0,
+            "text_content": "\n                    Pour les amateurs de western spaghetti c’est une révélation : avant d’avoir été mis en scène par les italiens dans un Far West reconstitué, les topiques du genre avaient été presque tous inventés par Kurosawa : on a la petite ville rongée par la cupidité et la terreur, les guerres de clans, le héros ambiguë, à la fois mercenaire et justicier, revenant régler ses comptes après avoir été laissé pour mort, les trognes incroyables des « méchants », les combats à suspens… Kurosawa invente des angles de vue étonnants, il donne à voir une violence sèche, précise et surprenante comme le coup de sabre final. Il a enfin un interprète exceptionnel, génial, en la personne de Toshiro Mifune.\n        \n            ",
+            "likes": 0,
+            "dislikes": 1
+        },
+        {
+            "id": "review_20656942",
+            "author": "\n                            ElAurens\n            \n                    ",
+            "date": "2010-10-31",
+            "rating": 3.0,
+            "text_content": "\n                    Un très bon film, original dans le sens ou on ne voit pas un samouraï classique. Le personnage principal est plus un mercenaire, parfaitement interprété par Toshiro Mifune. La première partie est à mon sens plus comique avant que l'action et le côté dramatique surgissent en seconde partie. La scène de bataille finale est excellente en tous points. A noter  que ce film d'Akira Kurosawa inspirera Sergio Leone, qui fera de son remake \" Pour une poignée de dollars \" le premier western spaghetti de l'histoire.\n        \n            ",
+            "likes": 0,
+            "dislikes": 1
+        },
+        {
+            "id": "review_31965510",
+            "author": "\n                            Arthur Debussy\n            \n                            \n                    ",
+            "date": "2017-04-23",
+            "rating": 4.5,
+            "text_content": "\n                    Encore une réussite pour Akira Kurosawa qui signe là un film à la fois hautement divertissant et profond, comparable pour la légereté de ton à «La Forteresse Cachée», mais en plus condensé, en plus subtil aussi. Nombreuses sont ses qualités, tout d'abord un scénario épuré : deux clans qui s'affrontent et un mercenaire qui fait monter les enchères au milieu pour se faire engager dans l'un des camps rivaux. Ensuite la mise en scène est toujours aussi moderne (Leone plagiera le style sans en retrouver le génie) : plans ciselés avec précision, montage nerveux, travellings divers et virtuosité de la caméra, gros plans sur les visages, noir et blanc magnifique... Si l'on ajoute à ce réjouissant tableau un Toshiro Mifune plus nonchalant et charismatique que jamais en ronin talentueux et terre-à-terre, cherchant davantage en usant de son sabre à gagner sa vie qu'à gagner les honneurs, on obtient une oeuvre totalement jubilatoire tant par l'attrait du récit que par l'inventivité de la mise en scène ou encore le jeu des acteurs. Rappelons par ailleurs que «Le Garde du Corps» introduit un héros moderne, mal rasé et non « idéal » (encore une fois repris par Leone), à la différence du héros classique « sans peurs et sans reproches » aussi fade que pourvu de qualités. Ici Mifune se bat uniquement pour de l'argent, sans se soucier d'une quelconque morale, même si son bon coeur finira par le faire agir avec humanité. On retrouve donc dans «Le Garde du Corps» une bonne dose de second degré, mais toujours la même pertinence et le même regard humaniste de Kurosawa. Un film génial, un de plus pour le maître japonais. [3/4] http://artetpoiesis.blogspot.fr/\n        \n            ",
+            "likes": 0,
+            "dislikes": 1
+        },
+        {
+            "id": "review_19055573",
+            "author": "\n                            fastsnake\n            \n                    ",
+            "date": "2010-07-9",
+            "rating": 4.0,
+            "text_content": "\n                    Ma foi un très bon moment pour moi.",
+            "likes": 0,
+            "dislikes": 1
+        },
+        {
+            "id": "review_1015223512",
+            "author": "\n                            Sidik\n            \n                    ",
+            "date": "2021-05-25",
+            "rating": 5.0,
+            "text_content": "\n                    Quand j'ai vu \"Pour une Poignée de Dollars\" de Sergio Leone, je ne savais pas qu'il s'agissait d'un remake de \"Yojimbo\" du grand Akira Kurosawa dont à l'époque sa filmographie m'était encore inconnue. Donc non seulement ce film aura été pour moi la porte d'entrée vers le cinéma de l'un des plus grands réalisateurs de l'histoire, mais ça aura surtout été une grosse claque qui est pour moi clairement au dessus de son remake ! ",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_16986189",
+            "author": "\n                            teofoot29\n            \n                    ",
+            "date": "2010-04-3",
+            "rating": 5.0,
+            "text_content": "\n                    Cet original de Kurosawa égale à son remake western de Sergio Leone : Pour une poignée de dollars. Bien qu'il se ressemblent en tout points, Yojimbo est extrèmement divertissant et les batailles au sabre sont excellentes. Porté par deux acteurs fétiches du réalisateur, Toshiro Mifune et Takashi Shimura, on passe un agréable moment.\n        \n            ",
+            "likes": 0,
+            "dislikes": 2
+        },
+        {
+            "id": "review_1033304344",
+            "author": "\n                            Max Rss\n            \n                    ",
+            "date": "2024-12-20",
+            "rating": 4.0,
+            "text_content": "\n                    Le fameux \"Yôjimbô\". Quoi dire de plus que ce qui a déjà été dit ? De ses propres qualités (utilisation de l'espace, personnalité du samouraï et la mise en scène du maître nippon) jusqu'à la source d'inspiration qu'il fut pour le Western spaghetti (il en est même l'instigateur) et le cinéma d'action dans son ensemble, tout a été dit. La seule chose que l'on peut rajouter, c'est que s'il existe encore des personnes qui n'ont encore jamais vu de films de Kurosawa et qu'ils ne savent pas par où commencer, celui-ci sera une porte d'entrée idéale. Pas le meilleur bien évidemment, mais l'un des plus accessibles.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1032501054",
+            "author": "\n                            Charlotte28\n            \n                    ",
+            "date": "2024-10-21",
+            "rating": 3.5,
+            "text_content": "\n                    Au milieu d'un surjeu généralisé trône un impérial Toshiro Mifune, charismatique, subtil, caustique (avec le personnage qu'il retrouvera dans Sanjuro). Satire d'une corruption urbaine où deux clans s'affrontent avec une maladresse qui, à l'instar de réactions ou décisions idiotes de certains antagonistes, renforce la dimension humoristique d'un drame qui assume une part importante de cynisme, d'absurdité, de raillerie - salvatrice - pour un registre à l'ambiguïté illustrant le caractère de ce ronin jouant avec amoralisme d'une situation dont il tire parti par ses talents indispensables tout en faisant preuve d'une humanité perdue en ces terres arides. A voir avec les précautions d'usage devant un certain cinéma japonais...\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1030576356",
+            "author": "\n                            Serpiko77\n            \n                    ",
+            "date": "2024-05-14",
+            "rating": 3.5,
+            "text_content": "\n                    Film qui devait être très troublant à l'époque, deux clans s'affrontent mais ils ne regorgent que de salauds. ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1031909625",
+            "author": "\n                            Pascal\n            \n                    ",
+            "date": "2024-09-3",
+            "rating": 4.0,
+            "text_content": "\n                    La ressortie en salles de six titres de Kurosawa fait suite à la réédition de \"Dersou Ouzaka\" et de \" les sept samouraïs\" du maître japonais. Parmi eux : \" Yojimbo\" (1961).",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1036081761",
+            "author": "\n                            Alolfer\n            \n                    ",
+            "date": "2025-06-25",
+            "rating": 4.0,
+            "text_content": "\n                    Pas étonnant que le grand Sergio Leone est littéralement fait un remake de ce film ! Il s'est inspiré du plus grand en la matière ! Tout comme \"Pour une poignée de dollars\", c'est un film avec une histoire mais avec une mise en scène extraordinaire ! Cette réalisation permet un développement de personnage parfait et livre de sens ! 1h50 de cadrage à tomber pat terre. On ne s'en rend pas compte, mais c'est un film pionnier dans le Cinéma, qui va inspiré le Western des années 60, changeant les codes et la réalisation de duels pour ne citer que cela.",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_730094",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2006-11-7",
+            "rating": 2.5,
+            "text_content": "\n                    Un samourai errant se trouve confronté à l'affrontement de deux familles et décide à force d'oservation et par sa grande maitrise du sabre de faire tomber les 2 clans pour redonner la paix au village. Avec le Garde du corps, Akira Kurosawa continue de nous faire découvrir le film de sabre qui a tant inspiré les réalisateurs que ce soit pour en faire des westerns ou des films d'action. Malheureusement, le film pèche par un manque de rythme malgré des acteurs plus que remarquables. L'humour puet décontenancer, les personnages secondaires étant assez proches du burlesque. A découvrir si l'on ne connait pas le cinéma japonais.\n        \n            ",
+            "likes": 0,
+            "dislikes": 1
+        },
+        {
+            "id": "review_7636002",
+            "author": "\n                            Gonnard\n            \n                    ",
+            "date": "2008-04-3",
+            "rating": 1.0,
+            "text_content": "\n                    Je vois enfin le film qui a inspiré \"Pour une poignée de dollars\". Je dois reconnaître que je me suis profondément ennuyé, alors que le scénario de base est bon. Les temps morts sont trop nombreux, il n'est pas toujours simple de comprendre qui est qui, la musique bof. Bref, vive la version de Sergio Leone !\n        \n            ",
+            "likes": 0,
+            "dislikes": 2
+        },
+        {
+            "id": "review_1022919593",
+            "author": "\n                            Patjob\n            \n                    ",
+            "date": "2022-12-18",
+            "rating": 3.5,
+            "text_content": "\n                    Dès la scène d’arrivée du Samouraï Sanjuro dans le village, on sent l’inspiration formelle du western… Américain bien sûr (on est en 1961), cinéma que Kurosawa admirait beaucoup.  Mais la relation est bien plus forte dans l’autre sens, celle de l’influence de ce film sur le western Italien ; pas simplement parce que le premier film de la trilogie du dollar de Sergio Leone en est une adaptation, mais surtout par un style volontairement mythifiant, avec une sorte de dilatation du temps précédent des scènes d’action brutales, et par l’état d’esprit général, empreint de cynisme et de cruauté, attitudes constatées aussi chez le « héros ». Mais c’est surtout un film noir (qui ne peut être réduit à un film de sabre ou de « divertissement »), tant la cupidité, la jalousie, la soif de pouvoir, la traîtrise, engendrent règlements de comptes, massacres, désolation et misère. Au sein de cette matière désolante naît toutefois un espoir, quand Sanjuro accomplit enfin un acte par charité ; acte qui sera lourd de conséquences pour lui, tant ce type de comportement est inadapté dans cette mare de violence et d’immoralité. Malheureusement le scénario est à la fois simpliste (par manque de nuances) et artificiellement emberlificoté (au sens où il empêche de rester sur l’essentiel), ce qui nuit à l’adhésion totale au spectacle. C’est par son esthétique que le film reste dans les mémoires : une superbe photographie en noir et blanc sublime des apparitions très théâtrales et des combats et mouvements de foules soigneusement chorégraphiés.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1022100901",
+            "author": "\n                            L'homme sans nom\n            \n                    ",
+            "date": "2022-10-16",
+            "rating": 3.0,
+            "text_content": "\n                    Yojimbo est réputé pour être le film qui lança le western spaghetti en même temps que de réhabiliter les films de samouraïs auprès du public japonais. Ce film est réussi mais je l'ai découvert après mes nombreux visionnages de Pour une poignée de dollar, l'adaptation de Yojimbo signée Leone. Le scénario, la musique et le personnage principal sont effectivement très similaires mais le ton est ici plus comique, sorte de parodie des films de samouraïs. Ainsi, les moments pouvant être plus tragiques sont pour moi moins impactant qu'ils sont dans le film de Leone. Le jeu très théâtral, paressant caricatural à nos yeux d'occidentaux, artificialise les scènes. Je trouve également que la mise en scène reste très classique. Si ma note est aussi basse, c'est qu'elle ne prend en compte que mon ressenti personnel actuel. Elle minimise toute considération de l'importance de ce film dans les westerns et le cinéma en général. Pour ça, Yojimbo est immanquable.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_50544629",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2016-02-15",
+            "rating": 4.0,
+            "text_content": "\n                    Quand on me disait que Pour une poignée de dollars était inspiré de ce film, je ne m'attendais pas à ce que ce soit à ce point. C'est carrément un remake ! Alors entre les deux j'ai ma petite préférence pour le Leone (parce que c'est un western, pour le plaisir de la découverte et pour la musique de Morricone). Yojimbo n'a toutefois pas à pâlir devant son remake. Le film de Kurosawa est déjà dans son ambiance énormément inspiré des westerns, il est captivant, de par son scénario bien ficelé, de par le constat très pessimiste qu'il dresse, d'une humanité lâche. Même le héros, joué par Mifune (excellent soit dit en passant, je le préfère quand il joue en retenue que quand il fait le pitre dans Les sept samouraïs, son charisme ressort bien plus) est moralement douteux. La mise en scène, très fixe, se permet des plans très classes, et la musique accompagne bien le film.",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_17052757",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2010-04-12",
+            "rating": 4.0,
+            "text_content": "\n                    yoyo\n        \n            ",
+            "likes": 0,
+            "dislikes": 1
+        },
+        {
+            "id": "review_1025862842",
+            "author": "\n                            Kymani Alger\n            \n                    ",
+            "date": "2023-08-15",
+            "rating": 5.0,
+            "text_content": "\n                    Le Garde du corps film  culte d'Akira Kurosawa . Étant fan de Pour une poignée de dollars de Sergio Leone j'étais bien évidemment obligé de voir l'original et bien je ne suis pas déçu ! Le personnage de Sanjuro est vraiment parfait il va faire preuve de toute sa ruse pour faire s'entretuer les deux clans ennemis qui contrôle la ville. [ Spoiler !] La façon dont Sanjuro perd le contrôle de son plan est très astucieux de là par de Kurosawa [ fin du Spoiler] Le film est très bien rythmé et la scène qui présente le combat final est très  bien réalisé. ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_4048041",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2007-08-23",
+            "rating": 5.0,
+            "text_content": "\n                    Encore un excellent film de Kurosawa qui cette fois-ci admet une vision positive sur les choix humains. C'est un film où l'action est ressérée, pas de plans contemplatifs, de la violence mais aussi beaucoup de tendresse notamment avec l'amitié du vieil hôte de Mifune. Le plan caché de Mifune étant finalement le triomphe de la vertu. Une belle épopée qui fait de Yojimbo un des films les plus accessible de Kurosawa. Un îlot d'optimisme dans l'oeuvre très pessimiste de Kurosawa. Beaucoup de savoir-faire dans chaque plans qui ont chacun une émotion particulière. C'est aussi la rencontre de deux géants du cinéma : Mifune et Nakadai. C'est finalement Mifune qui l'emporte dans une lutte physique et métaphysique pleine de grandeur. Kurosawa arrive très bien à confronter la splendeur prestigieuse de ces deux acteurs. Malgré une fin positive il faut tout de même noté que la ville est un véritable chaos, un état de guerre permanent où les factions se déchirent, même si au final l'honneur l'emporte sur l'intérêt, la vertu sur l'arrogance. Une sorte d'impuissance patente de l'Etat remplcé par des notables locaux qui imposent leurs lois, peut-être une critique sous-jacente de l'Etat libéral japonnais est décelable. Une oeuvre haut en couleur qui est parfaite pour entrer dans l'univers de Kurosawa parfois austère et terriblement fataliste.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1032276647",
+            "author": "\n                            Criticman17\n            \n                    ",
+            "date": "2024-10-4",
+            "rating": 4.0,
+            "text_content": "\n                    Film qui a inspiré beaucoup de réalisateurs ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_56802587",
+            "author": "\n                            Riddler Crow\n            \n                    ",
+            "date": "2017-09-15",
+            "rating": 5.0,
+            "text_content": "\n                    Un film de samouraï avec une ambiance western, nous assistons à l'arrivé d'un étranger qui met sans le montrer son grain de sel tout en servant ses propres intérêts dans les affaires d'un village prit dans une guerre entre 2 clans rivaux,une rivalité dont il tirera parti. Oui la mise en scène, l'ambiance fait penser aux western spaghetti,mais ce film est un précurseur,on en vient à se demander qui a inspiré l'autre. Akira Kurosawa aura influencé et inspiré beaucoup de réalisateurs. 2 remakes seront tirés plus tard de ce film l'un s'intitule: \"Pour Une Poignée De Dollars\" et l'autre \"Dernier Recours\".\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_21964907",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2010-11-14",
+            "rating": 5.0,
+            "text_content": "\n                    un chef d oeuvre de akira kurosawa .toshiro mifune est exelent .mais il est impossible de dire si l original est mieux que le remake de leone tant les deux films sont different mail il n en reste pas moin tout deux des chef d oeuvre\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_3284335",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2007-06-28",
+            "rating": 5.0,
+            "text_content": "\n                    Très beau film du maitre Kurosawa, comme d'habitude l'histoire est très travaillé et le génie de kurosawa se mesure à chaque plans.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_32251989",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2012-07-15",
+            "rating": 4.0,
+            "text_content": "\n                    J'ai assisté à un excellent film, tout se passe dans (presque) un seul endroit, et pourtant, quelle riche univers. Avec une idée de base pourtant simple, Kurosawa nous offre un film plus complexe, avec une ambiance très dense, embellie par une très belle musique. Au fur et à mesure que l'histoire avance, on passe de surprise en surprise, grâce à un scénario très bien construit et riche en rebondissements, et une pléthore de personnages complexes et retors, particulièrement ce fameux garde du corps, très bien joué par Toshirô Mifune.",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1006294191",
+            "author": "\n                            H2G\n            \n                    ",
+            "date": "2020-04-26",
+            "rating": 4.0,
+            "text_content": "\n                    Une belle fable sur le noble combat d'un ronin pour une cause supérieure. La psychologie et les choix imprévisibles de Sanjuro font de lui un vigilante amusant et attachant. Un très bon moment!\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_8404147",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2008-05-17",
+            "rating": 2.5,
+            "text_content": "\n                    \"Yojimbo\"( Le garde du corps )est un bon film de samouraï qui aurait pu être encore bien meilleur si et seulement si il n'y avait pas eu autant de temps morts et de faux rythmes dans sa collection. En effet, et bien que le scénario est inventive et bien ficelé, on regrette néanmoins l'apport massive de scènes ennuyeuses, longues et lentes, et qui plus est, ne font que dégrader le potentiel énorme de ce film culte qui aurait pu l'être encore davantage sans ces fautes de mauvais goûts. Certaines scènes sont tellement ennuyeuses que l'on a parfois l'impression que l'heure s'arrête de tourner, que le temps est comme figé par une force surnaturellement...ennuyeuse. Et lorsque l'on sent arriver un rythme plus actif, quelle n'est pas notre déception de constater que ce n'était qu'un leurre ! Non, l'idée de départ est pourtant très bonne, mais la construction du film a été un peu bâclée par Sa Majesté Kurosawa. Comme quoi, même les génies peuvent faire des erreurs.\n        \n            ",
+            "likes": 0,
+            "dislikes": 2
+        },
+        {
+            "id": "review_14682",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2006-09-29",
+            "rating": 5.0,
+            "text_content": "\n                    Un chef d'oeuvre d'Akira Kursosawa. Yojimbo est l'inspirateur des films de Leone et du genre \"Western Spaghetti\". Avec l'incomparable Mifune dans la peau du samouraï solitaire. Un profond cynisme et une touche d'humour émanent de ce film. Son aspect subsersif en fait également un petit bijou qui reste malgré tout humain et très diverstissant.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_39431922",
+            "author": "\n                            -Yojimbo-\n            \n                    ",
+            "date": "2013-10-11",
+            "rating": 5.0,
+            "text_content": "\n                    Que dire....",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_3823083",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2007-08-7",
+            "rating": 5.0,
+            "text_content": "\n                    Encore une fois voici un très grand film que nous livre Kurosawa.",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_19479330",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2010-07-21",
+            "rating": 4.0,
+            "text_content": "\n                    du grand kurosawa, du grand mifune. Finalement bien mieux que le remake de leone grace notament a mifune qui a presque plus de charisme qu'eastwood (j'ai dis presque !), et qui est plus dans son role.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_57507352",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2017-12-1",
+            "rating": 4.0,
+            "text_content": "\n                    Yojimbo ou \"Le garde du corps\" pour la version française est l'histoire d'un samouraï se baladant au gré du vent sans aucun but autre que celui de se faire de l'argent. C'est dans cette optique que ses pas le mènent dans un petit village où deux clans s'affrontent. Démontrant rapidement son habileté au combat, il se rend indispensable pour les clans. Si bien que il se fait courtiser par ces derniers qui ne s'arrêtent pas de surenchérir sur sa personne pour qu'il combatte dans un côté plutôt que dans l'autre. Se jouant de cela pendant une bonne partie du film, son avarice laissera place à une certaine bonté qui lui causera bien des ennuis. L'ambiance du film est singulière au genre et on peut ressentir parfois la même émotion que dégage les westerns de Sergio Leone. La musique est assez oubliable et c'est bien dommage. C'est ce qui semble pêcher dans le genre. Néanmoins, la performance de Tetsuya Nakadai et Toshirô Mifune se fait encore une fois ressentir. Pour tout ceux qui sont curieux, qui aiment les vieux films, les chanbara ou encore ces deux acteurs, je ne peux que vous recommander de le voir.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_39425466",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2013-10-10",
+            "rating": 5.0,
+            "text_content": "\n                    Un immense chef d'oeuvre. Kurosawa est définitivement l'un des réalisateurs qui maniaient le mieux le noir et blanc. Chaque plan, même le plus anodin, est un sorte de poème. ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_21062814",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2010-09-9",
+            "rating": 4.5,
+            "text_content": "\n                    Vous trouviez la copie réussie? C'est normal, l'original est un chef d'œuvre !",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1029742047",
+            "author": "\n                            Staclo\n            \n                    ",
+            "date": "2024-03-13",
+            "rating": 0.5,
+            "text_content": "\n                    Franchement, je tiens à dire que ce film est extrêmement ennuyant et nul. Il n’est même pas disponible en VF et est vraiment pas intéressant. Je suis allé le voir dans des conditions scolaires et franchement, je regrette d’y être allé. J’ai payé plus de 1€50 pour un film ou un mec est vraiment dark. Je cite « J’ai encore trop de gens à tuer avant de mourir. » Enfin bref, à éviter.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1039648516",
+            "author": "\n                            Einleiger\n            \n                    ",
+            "date": "2026-06-26",
+            "rating": 4.5,
+            "text_content": "\n                    Les jeux de hasard : c’est le thème du film. Pour choisir sa destination, le héros fait appel au hasard. Il possède une ligne de conduite, il prend son temps pour jauger la situation, quitte à agacer les parties prenantes. Et surtout, il a déjà perdu car il est un samouraï sans maître, un rônin, dans ce Japon qui s’apprête à entrer dans la période Meiji. Il tente de se refaire avec ce qu’il sait faire de mieux : manier le sabre. Il évalue ses adversaires. Tant pis s’il perd, il a fait son temps. ",
+            "likes": 0,
+            "dislikes": 0
+        }
+    ]
+}

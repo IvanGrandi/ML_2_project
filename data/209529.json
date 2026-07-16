@@ -1,0 +1,421 @@
+{
+    "id": 209529,
+    "name": "Les Nouveaux Héros",
+    "release_date": "2015-02-11",
+    "runtime_in_minutes": 102,
+    "genres": [
+        "Action",
+        "Animation",
+        "Aventure",
+        "Comédie",
+        "Famille"
+    ],
+    "synopsis": "\n                    Un petit génie de la robotique nommé Hiro Hamada découvre qu’un complot criminel menace de détruire la ville de San Fransokyo. Avec l’aide de son plus proche ami, Baymax le robot infirmier, et de ses compagnons qu’il va transformer en une bande de superhéros high-tech, Hiro va tout faire pour sauver la ville et sa population de l’infâme Yokai…\n        \n            ",
+    "reviews": [
+        {
+            "id": "review_1016987683",
+            "author": "\n                            moket\n            \n                    ",
+            "date": "2021-09-26",
+            "rating": 4.5,
+            "text_content": "\n                    Action, aventure, humour, émotion et technologie futuriste... Tous les ingrédients d'un excellent divertissement. Disney a pris des risques en produisant ce film plus sombre que d'ordinaire et c'est plutôt payant.\n        \n            ",
+            "likes": 3,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1019951879",
+            "author": "\n                            Roub E.\n            \n                            \n                    ",
+            "date": "2022-04-27",
+            "rating": 3.0,
+            "text_content": "\n                    Un film à deux parties vraiment inégales. La mise en place de l’histoire est vraiment réussie, les personnages sont sympas, cet environnement de scientifiques, de robots est emballant, Hiro et son frère son quasi immédiatement touchants et Baymax remplit rapidement sa mission de doudou. La deuxième partie du film qui n’est ni plus ni moins qu’un ersatz d’Iron Man est quand à elle beaucoup plus poussive, tombe dans la facilité. Les personnages secondaires deviennent vraiment accessoire et le scénario devient paresseux. Clairement on a la sensation d’être passé à côté de quelque chose.\n        \n            ",
+            "likes": 3,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1021995369",
+            "author": "\n                            Fabien S.\n            \n                    ",
+            "date": "2022-10-9",
+            "rating": 4.0,
+            "text_content": "\n                    Un très bon film Disney hilarant et attachant  avec Kyan Khojandi , l'acteur de la série Bref  qui fait la voix de Baymax .\n        \n            ",
+            "likes": 2,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1019754763",
+            "author": "\n                            Fabios Om \n            \n                    ",
+            "date": "2022-04-12",
+            "rating": 4.5,
+            "text_content": "\n                    Un excellent film d'animation des studio Disney,  qui nous donne une claque  niveau graphisme , personnage,  décors er même en terme d'histoire c'est assez éloigner de ce qu'a l'habitude de faire les studio de Disney animation je dirait que celui ci est plutôt pour adultes ou jeune adultes contrairement à tous leur précédent ",
+            "likes": 2,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1028085899",
+            "author": "\n                            Alolfer\n            \n                    ",
+            "date": "2025-02-17",
+            "rating": 3.0,
+            "text_content": "\n                    Certes, l'histoire est assez basique mais le reste du film survole littéralement le film ! Que cela soit les personnages, l'univers autour, ou même l'animation, Les Nouveaux Héros s'inscrit dans les Disney assez sous coté ! On regrettera le manque d'idée sur son histoire et sa prévisibilité sur son scénario mais appart ça, le film est réussi\n        \n            ",
+            "likes": 2,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1016071602",
+            "author": "\n                            Arthur Guezou\n            \n                    ",
+            "date": "2021-07-26",
+            "rating": 5.0,
+            "text_content": "\n                    Un des meilleurs Disney, beaucoup trop sous-estimé. Avec une collaboration Marvel hors du commun. L'animation est magnifique et le scénario bien que classique est terriblement efficace.\n        \n            ",
+            "likes": 2,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1016738722",
+            "author": "\n                            L. Lawliet\n            \n                    ",
+            "date": "2021-09-9",
+            "rating": 3.5,
+            "text_content": "\n                    Full Action Palpitante !",
+            "likes": 2,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1018080885",
+            "author": "\n                            Charlotte28\n            \n                    ",
+            "date": "2021-12-17",
+            "rating": 3.5,
+            "text_content": "\n                    Doté d'un scénario classique sans simplisme, de personnages types amusants (mention spéciale aux ingénieurs geeks), d'une bande-son rythmée et d'un graphisme éblouissant, ce dessin animé marque par son originalité contextuelle ainsi que la voix de l'excellent Kyan Khojandi qui mêle humanité et mécanisme chez le singulier Baymax. Cependant l'émotion absente du film s'efface devant une volonté de scènes d'action parfois un peu longuettes. Un cru réussi néanmoins!\n        \n            ",
+            "likes": 0,
+            "dislikes": 1
+        },
+        {
+            "id": "review_1018067402",
+            "author": "\n                            Alix\n            \n                    ",
+            "date": "2021-12-15",
+            "rating": 5.0,
+            "text_content": "\n                    De superbes graphismes, une belle histoire, personnages attachants, j'ai adoré le concept de faire équipe avec un groupe d'amis inventeur.\n        \n            ",
+            "likes": 1,
+            "dislikes": 1
+        },
+        {
+            "id": "review_1031931092",
+            "author": "\n                            Albert\n            \n                    ",
+            "date": "2024-09-4",
+            "rating": 3.5,
+            "text_content": "\n                    Le côté onomatopée des mœurs américains est un peu dur à supporter mais le film est vraiment super visuellement parlant.\n        \n            ",
+            "likes": 0,
+            "dislikes": 1
+        },
+        {
+            "id": "review_1036626847",
+            "author": "\n                            Kouto\n            \n                    ",
+            "date": "2025-08-16",
+            "rating": 4.0,
+            "text_content": "\n                    Ce film d’animation du studio Disney qui puise son inspiration en partie dans l’animation nipponne pour délivrer un réjouissant cocktail d’action débridé et d’une bonne dose d’humour. Entre invention technologique loufoque, graphisme de haute volée et rythme trépident, le spectateur n’a pas le temps de s’ennuyer et pourra même pardonner un certain manque d’émotion et une histoire un poil trop classique.\n        \n            ",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1022362096",
+            "author": "\n                            tisma\n            \n                    ",
+            "date": "2022-11-5",
+            "rating": 4.0,
+            "text_content": "\n                    Un Disney qui est trop souvent mit de côté alors que c'est une jolie pépite qui arrive en peu de temps à faire rire et pleurer. Les personnages sont attachants et le scénario est intelligent\n        \n            ",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1020843885",
+            "author": "\n                            Vinz1\n            \n                            \n                    ",
+            "date": "2022-07-14",
+            "rating": 3.5,
+            "text_content": "\n                    Certes, le lieu principal où se concentre l’action, c’est-à-dire la ville de San Fransokyo, mélange de bourgade américaine aux décors et infrastructures asiatiques, ne nous est jamais expliqué, tout comme le personnage principal Hiro se fait des amis hyper rapidement sans qu’il y ait de background clairement défini, mais franchement, qui s’en soucie ? « Les nouveaux héros » regorge en effet d’autres qualités qui en font un divertissement tout à fait honorable. Au rang de celles-ci, on pourrait évoquer l’univers futuriste dans lequel évolue les protagonistes, mais ce ne serait rien à côté des multiples inventions montrées à l’écran qui redoublent d’ingéniosité et plairont aux petits comme aux grands. Bon, après c’est un film estampillé Disney, donc il est forcément empli de bons sentiments et d’une morale sauve, mais le fait qu’il soit couplé avec un univers de super-héros (rappelons que Disney détient la licence Marvel) apporte autre chose au niveau des combats, des motivations du méchant et des costumes des héros se retrouvant avec des pouvoirs liés à leurs inventions, très bien vu ! Quant au sympathique Baymax, il finira d’apporter sa pierre à l’édifice de ce long-métrage animé afin d’en constituer une œuvre originale à voir en famille pour passer un agréable moment.\n        \n            ",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1024109670",
+            "author": "\n                            RealPrime\n            \n                            \n                    ",
+            "date": "2023-02-23",
+            "rating": 3.5,
+            "text_content": "\n                    Premier film Disney symbolisant ou devrais-je dire, célébrant le rachat des studios Marvel, une pépite visuelle, musicale et sonore avec évidement voir étonnement, ",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1030450078",
+            "author": "\n                            Theo\n            \n                    ",
+            "date": "2024-05-6",
+            "rating": 3.5,
+            "text_content": "\n                    À travers l'animation fluide et des décors numériquement luxuriants, \"Les Nouveaux Héros\" fusionne avec aisance les univers technologiques de San Francisco et de Tokyo en un métissage visuel audacieux appelé San Fransokyo. Ce décor innovant sert de toile de fond à une histoire captivante de deuil, d'innovation et de vengeance, pilotée par Hiro Hamada et son compagnon robotique, Baymax.",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1027827682",
+            "author": "\n                            floramon\n            \n                    ",
+            "date": "2023-11-6",
+            "rating": 1.5,
+            "text_content": "\n                    J'ai tout simplement détesté ce film, il se passe rien, on s'ennuie tout au long, je le déconseille fortement.\n        \n            ",
+            "likes": 0,
+            "dislikes": 2
+        },
+        {
+            "id": "review_1025845434",
+            "author": "\n                            Kalie\n            \n                    ",
+            "date": "2023-06-21",
+            "rating": 2.0,
+            "text_content": "\n                    Oui, c'est visuellement réussi et trépidant. Mais avec ce genre de japoniaiserie où tout peut arriver sans la moindre crédibilité, Disney perd un peu de son âme. Et ce n'est pas le zeste d'émotion 3.0 qui change la donne. Je préfère de loin quand Disney s'inspire des contes de Grimm plutôt que des Transformers.\n        \n            ",
+            "likes": 0,
+            "dislikes": 2
+        },
+        {
+            "id": "review_1019342654",
+            "author": "\n                            Fêtons le cinéma\n            \n                            \n                    ",
+            "date": "2022-03-12",
+            "rating": 2.0,
+            "text_content": "\n                    Il semblerait que, dans Big Hero 6, l’âme se confonde avec la carte-mémoire sur laquelle sont sauvegardées les propriétés du robot Baymax, doudou géant qui se soucie de soigner les bobos et qui servira au protagoniste principal pour faire son deuil. Peu importe le corps, seul compte un ensemble de données censées le rappeler, voire le réincarner ad vitam aeternam ; la clausule, en ce sens, assume le caractère interchangeable de son bibendum qu’il suffit de reconstruire « à l’identique ». C’est manquer là la complexité profonde et de l’enfant et de l’être humain pour qui le paraître ne se substituera jamais à l’être, surtout quand ce dernier est perdu pour toujours. ",
+            "likes": 0,
+            "dislikes": 4
+        },
+        {
+            "id": "review_1036553289",
+            "author": "\n                            Eddy P\n            \n                    ",
+            "date": "2025-08-8",
+            "rating": 5.0,
+            "text_content": "\n                    Un animé pour enfant qui parle ouvertement du deuil est-ce possible ? Et tout en restant divertissant, et même drôle ?  Après le décès de ses parents et de son frère, Hiro découvre que ce dernier avait créé un robot infirmier, particulièrement doux et attentionné. La première phase de sa guérison l'amènera à avoir envie de se venger après avoir découvert le coupable. Mais le coupable s'avère également victime. Entouré des amis de son grand-frère Hiro va découvrir le courage, l'esprit de groupe, l'amitié, le sacrifice du soi et même le pardon. Visuellement proche d'un Marvel, émotionnellement c'est un Pixar. On rit, on pleure, on est ébloui. Un très beau film inattendu et profond.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1029927920",
+            "author": "\n                            Anakin Skywalker\n            \n                    ",
+            "date": "2024-03-27",
+            "rating": 1.0,
+            "text_content": "\n                    Ce film est mauvais, les personnage sont peu touchant, moi qui a bien aimer Wall-E qui je trouve se rapproche de baymax, ici c'est beaucoup moins touchant, l'histoire est très fade et l'univers ne me plait pas. Il y a quelques scènes bien mais sans plus, je pense pas que j'aurais pu aimé ce film même si il était mieux travaillé, cet univers et ces personnages ne me plaisent pas et je préfère basculer vers un autre univers qu'une potentiel suite.. Je met 1/5 pour les beaux visuels mais j'en reste ici, pas a mon goût !\n        \n            ",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1036580094",
+            "author": "\n                            Mathieu CARTRON\n            \n                    ",
+            "date": "2025-08-11",
+            "rating": 4.5,
+            "text_content": "\n                    Magnifique, humour, tristesse, action, rebondissement font un tout pour les grands et les enfants. La technologie est incroyable d’ainsi ce long métrage, Marvel devrait le regarder encore et encore. Une belle réussite.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1027227672",
+            "author": "\n                            Kirob\n            \n                    ",
+            "date": "2024-02-2",
+            "rating": 4.0,
+            "text_content": "\n                    Un excellent film d'animation de Super-héros. Les personnages sont tous très intéressants et ont leur charme, leurs pouvoirs sont vraiment géniaux et originaux, ce qui change des super-héros habituels ! Les blagues sont très bien réussies, tout comme les parties émotionnelles. Le scénario accompagnant le film est formidable, et le côté sombre des \"Nouveaux Héros\" nous envoie des ondes différentes des films d'animation pour enfant qui sont généralement destinés à un public peu mature.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1014944104",
+            "author": "\n                            kieran_h3ld \n            \n                    ",
+            "date": "2021-05-13",
+            "rating": 2.5,
+            "text_content": "\n                    Énorme prise de risque de la part des studios Disney. Pour moi les idées sont vraiment super mais c'est très bien réussit pour être honnête. On n'arrive pas à distinguer une atmosphère dominante dans le film. A première vue cela paraissait être un film plus sombre que d'habitude. Mais le problème c'est qu'on enchaîne mini gags d'ailleurs souvent de mauvais goût après on passe à quelque chose d'émotionnelle et puis on switch encore. Bref rien ne se dégage. Ensuite rythme trop saccadée et trop rapide. Oui c'est rare de dire cela mais j'ai vraiment trouvée le film rapide. Pas court. Je veux dire il n'y a presque aucune aventures dans la partie où les personnages sont en héros. On passe trop vite au combat final. Ensuite il y a bien trop de facilités. Dès le tout début du film on savait déjà qui allait être le méchant sérieusement. Il essayent de nous brouiller les pistes mais cela ne fonctionnent pas du tout tellement cela saute aux yeux. Et dernière mauvaise chose, les personnages. A part B-max et à la limite Hiro les autres ne servent presque à rien et sont ultra clichés. C'est dommage.",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1022993663",
+            "author": "\n                            21 Studio\n            \n                    ",
+            "date": "2022-12-23",
+            "rating": 3.5,
+            "text_content": "\n                    Agréablement surpris !!! Bon film en globalité, surtout gros bon point sur les personnages et sur l'animation\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1022961080",
+            "author": "\n                            Al-Fr\n            \n                    ",
+            "date": "2022-12-21",
+            "rating": 4.0,
+            "text_content": "\n                    critique écrite dans un souci de ne pas spoiler ; cependant, un des enjeux thématiques du film est révélé à travers la description hors contexte et très vague d'une scène ; pas de danger donc, mais au moins vous êtes prévenus)",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1015723779",
+            "author": "\n                            Shiba Otoko \n            \n                    ",
+            "date": "2021-07-5",
+            "rating": 4.0,
+            "text_content": "\n                    S'adressant avant tout au jeune public, un film d'aventure et de légère science-fiction réussi, developpant le thème de l'amitié entre un robot, fort sympathique, et son maître.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1027764953",
+            "author": "\n                            Darkniamor\n            \n                    ",
+            "date": "2023-11-2",
+            "rating": 4.5,
+            "text_content": "\n                    Une pépite, pourtant sous côté. Oui aucune chanson d'où certainement le manque de référence dans une conversation Disney, mais un scénario incroyable, de l'action et de l'humour parfaitement dosé.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1031944056",
+            "author": "\n                            Bichel Le Reuftax\n            \n                    ",
+            "date": "2024-09-6",
+            "rating": 3.5,
+            "text_content": "\n                    En vrai c'est une bonne histoire touchante avec des personnages attachants. Baymax est incroyable. Le scénario par contre ne vole pas très haut c'est du vu et revu. Y avait moyen de faire d'autres films après celui là pourquoi ils se sont arrêtés là ?\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1033095227",
+            "author": "\n                            LNKRDRN\n            \n                    ",
+            "date": "2024-12-6",
+            "rating": 3.5,
+            "text_content": "\n                    Un film super sympa!",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1036455485",
+            "author": "\n                            Lucas Bachelier\n            \n                    ",
+            "date": "2025-07-30",
+            "rating": 4.0,
+            "text_content": "\n                    Un film d’animation réussi, mêlant humour, émotion et action dans un univers original. Baymax est un personnage attachant, et l’histoire, bien que classique, reste très efficace.\n        \n            ",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1037985141",
+            "author": "\n                            Mamzelle Aurore\n            \n                    ",
+            "date": "2026-01-3",
+            "rating": 4.0,
+            "text_content": "\n                    « On avait pas prévu de devenir des super-héros ,mais la vie réserve parfois des surprises. »",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1023906999",
+            "author": "\n                            Stranger Fly\n            \n                    ",
+            "date": "2023-02-10",
+            "rating": 5.0,
+            "text_content": "\n                    Mais quel beau disney.... il sort du contexte dinsye de base un peu gnangnan pour certains nouveaux disney sortis que je n'ose même plus regarder !",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1027091645",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2023-09-11",
+            "rating": 4.5,
+            "text_content": "\n                    J'ai BEAUCOUP apprécié les Nouveaux héros, j'ai trouvé que c'est absolument génial d'aborder des thématiques futuristes dans les films. J'ai eu la chance de pouvoir voir ce film à sa sortie au cinéma à l'époque, et même après un revisionnage des années plus tard, je dois dire que ça fonctionne toujours aussi bien, le film est extrêmement qualitatif et sait réellement ammener des élements de scénario et d'humour en symbiose, tout en proposant une histoire assez prenante et qui donne clairement envie de continuer. J'aime beaucoup cette licence, et je regrette qu'elle n'ait pas été plus exploitée !\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1029172387",
+            "author": "\n                            Matheo Alves\n            \n                    ",
+            "date": "2024-10-19",
+            "rating": 4.0,
+            "text_content": "\n                    Big Hero 6 est un film captivant qui mélange habilement l'univers des super-héros avec une animation soignée et une narration touchante. L'histoire, centrée sur l'amitié et la perte, parvient à toucher le cœur des spectateurs tout en offrant des moments d'action palpitants. Le film mérite certainement une suite, car il a encore tant de potentiel à explorer dans cet univers déjà riche. Avec ses personnages attachants et ses thèmes émouvants, Big Hero 6 reste une œuvre mémorable et plaisante à découvrir ou redécouvrir.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1034294005",
+            "author": "\n                            Thomas M\n            \n                    ",
+            "date": "2025-02-27",
+            "rating": 3.0,
+            "text_content": "\n                    À travers l'animation fluide et des décors numériquement luxuriants, il arrive à fusionné avec aisance les univers technologiques de San Francisco et de Tokyo en un métissage visuel audacieux. Musicalement, Henry Jackman offre une bande sonore qui, tout en étant efficace et par moments émotionnellement engageante, ne parvient pas toujours à se distinguer comme un élément mémorable du film. L'humour à quelque exception près n'a pas marché sur moi sans pour autant être mauvais. ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1038042817",
+            "author": "\n                            Guillaume Gillon\n            \n                    ",
+            "date": "2026-01-8",
+            "rating": 4.0,
+            "text_content": "\n                    Sur un canevas classique digne du genre super-héroïque, Disney nous sert un des meilleurs films d’animation des années 2000. Visuels soignés, origin story intelligente, personnages attachants (B-Max !!!) et scènes d’action virevoltantes : Marvel & DC devraient en prendre exemple pour leurs propres adaptations en prises de vue réelles.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1014999215",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2021-05-14",
+            "rating": 5.0,
+            "text_content": "\n                    Film incroyable mêlant émotions fortes et décors colorés mélangeant culture japonaise et américaine. Un des Disney les plus touchants selon moi :’)\n        \n            ",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1023468836",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2023-01-17",
+            "rating": 5.0,
+            "text_content": "\n                    Un des meilleurs Disney en ce qui me concerne. ",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1035689438",
+            "author": "\n                            Noah CALABRO\n            \n                    ",
+            "date": "2025-05-20",
+            "rating": 4.5,
+            "text_content": "\n                    Les graphismes sont très beau avec un scénario plien de rebondissements. Excellent pour un film a regarder en famille.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1036193675",
+            "author": "\n                            emma\n            \n                    ",
+            "date": "2025-07-20",
+            "rating": 5.0,
+            "text_content": "\n                    Touchant, imprévisible que dire de plus…",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1025552563",
+            "author": "\n                            Stef\n            \n                    ",
+            "date": "2023-05-30",
+            "rating": 5.0,
+            "text_content": "\n                    Le premier \"film\" de supers héros avant l'arrivée du MCU...",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1031526246",
+            "author": "\n                            Laureen Rondot\n            \n                    ",
+            "date": "2024-07-31",
+            "rating": 4.5,
+            "text_content": "\n                    Avis avec spoilers rédigé avec mes ressentis tout au long du film !           Le concept des combats de robots j'adore. Ça montre directement l'univers dans lequel on est ! ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1036933425",
+            "author": "\n                            Victor Grandau\n            \n                    ",
+            "date": "2025-09-17",
+            "rating": 2.5,
+            "text_content": "\n                    Bon début, mais très vite on tombe dans la facilité et un scénario peu intéressant.",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1030898852",
+            "author": "\n                            GaudRa2 GaudRa2\n            \n                    ",
+            "date": "2024-06-11",
+            "rating": 4.0,
+            "text_content": "\n                    j'adore ce film une merveille superbe. ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1039048148",
+            "author": "\n                            Bryan _\n            \n                    ",
+            "date": "2026-04-20",
+            "rating": 3.5,
+            "text_content": "\n                    Une classique Disney intelligent et futurist. On a là une vraie et bonne petite science-fiction ! ",
+            "likes": 0,
+            "dislikes": 0
+        }
+    ]
+}

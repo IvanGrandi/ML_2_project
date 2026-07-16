@@ -1,0 +1,941 @@
+{
+    "id": 217959,
+    "name": "One Piece Film Z",
+    "release_date": "2013-05-15",
+    "runtime_in_minutes": 107,
+    "genres": [
+        "Action",
+        "Animation",
+        "Aventure"
+    ],
+    "synopsis": "\n                    Z, un ancien amiral de la Marine, débarque avec son équipage sur une île du Nouveau Monde. Le but de leur voyage : dérober un minerai renfermant une énergie phénoménale capable de rivaliser avec la puissance des armes antiques. Mais Z et ses acolytes ont un autre objectif : l’extermination totale des pirates de toutes les mers du monde. Alors qu’il navigue dans les eaux du Nouveau Monde, l’équipage au chapeau de paille va croiser la route du terrible Z. Mais ce n’est pas le seul danger que vont devoir affronter Luffy et ses compagnons : leur vieil ennemi Aokiji et la Marine sont également sur leurs traces. Le sort du Nouveau Monde est désormais entre leurs mains et une bataille d’une ampleur sans précédent est sur le point d’éclater !\n        \n            ",
+    "reviews": [
+        {
+            "id": "review_37460029",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2013-05-22",
+            "rating": 5.0,
+            "text_content": "\n                    L'esprit de One Piece et de son créateur imprègnent cette œuvre du début jusqu'à la fin, cela ne fait aucun doute. Ce film est tout simplement épatant et mérite amplement le succès qu'il rencontre actuellement au cinéma.",
+            "likes": 12,
+            "dislikes": 2
+        },
+        {
+            "id": "review_37412744",
+            "author": "\n                            Fabien D\n            \n                    ",
+            "date": "2013-05-19",
+            "rating": 3.0,
+            "text_content": "\n                    Connaissant peu le manga et la série animée, j'ai quand même décidé de tenter ce One Piece Z pour le plaisir assez rare de voir un manga animé au ciné. Et le résultat, il faut dire que je n'ai pas vu les onze films précédents, est pour le moins surprenants. Le film s'ouvre sur une série d'explosions en tout genre puis la présentations des héros, tous plus hystériques et loufoques les uns que les autres, désarçonnent un peu. Puis passer une introduction plutôt incompréhensible si l'on n'est pas un connaisseur de la série, le film lance son intrigue, en se moquant d'une quelconque cohérence. Le résultat est survitaminé, foutraque et loufoque. D'une grande drôlerie, avec des scènes totalement délirantes (les batailles principalement), le film se regarde avec plaisir. On a l'impression de regarder un épisode d'une heure quarante cinq, parfois un peu longuet, qui se permet toutes sortes d'audaces créatives. L'animation est d'un dynamisme impressionnant et il se dégage une certaine beauté de cet animé de série qui s'apparente à un trip sous LSD. C'est rafraichissant et amusant, déjà pas si mal...\n        \n            ",
+            "likes": 12,
+            "dislikes": 8
+        },
+        {
+            "id": "review_37249050",
+            "author": "\n                            Alex*56*\n            \n                    ",
+            "date": "2013-05-13",
+            "rating": 3.5,
+            "text_content": "\n                    Je suis toujours aussi fan de ce manga inter-planétaire mais là il manquait quelque chose . C'est dommage que Eichiro et le réalisateur n'aient pas ajouté de nouvelles techniques . Le \" méchant \" ( en l’occurrence Z )  n'est pas assez charismatique je trouve , donc on ne le déteste pas et on ne l'aime pas non plus , pour faire cours il est inutile . Malgré tout on retrouve l'univers One piece et un \"demi-allié\" plutôt surprenant en la personne d'Aokiji toujours aussi puissant . One piece Z n'est donc pas à la hauteur de son prédécesseur \" One piece : Strong World \" . Mais pour un fan de One piece c'est toujours un plaisir de contempler l’œuvre d'Eichiro Oda . A voir mais sans plus .\n        \n            ",
+            "likes": 4,
+            "dislikes": 3
+        },
+        {
+            "id": "review_37495351",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2013-05-24",
+            "rating": 5.0,
+            "text_content": "\n                    On passe du rire aux larmes tellement l'émotion déborde. Des personnages authentiques et crédibles Un scénario digne d'Agatha Christie mais en mieux avec la fouge de Victor Hugo. Même les méchants sont complexes et attachants. ",
+            "likes": 4,
+            "dislikes": 1
+        },
+        {
+            "id": "review_37041922",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2013-04-21",
+            "rating": 5.0,
+            "text_content": "\n                    Eiichiro Oda nous avez offert il y a déjà 2 ans one piece strong world qui était sans aucun doute le meilleur film one piece de la saga, il remet donc le couvert avec one piece film z qui a réussi a surpasser strong world, du pur one piece comme on l'aime j'ai hâte d'un prochain one piece encore mieux car oui il y en aura un c'est obligé !\n        \n            ",
+            "likes": 4,
+            "dislikes": 5
+        },
+        {
+            "id": "review_38908711",
+            "author": "\n                            titiro\n            \n                    ",
+            "date": "2013-08-30",
+            "rating": 4.0,
+            "text_content": "\n                    Au départ, je ne connaissais rien de \"One Piece\". J'avais vu la publicité pour la série sur Game One, je savais donc qu'il s'agit en gros d'une histoire de pirate. Mais c'était tout.",
+            "likes": 3,
+            "dislikes": 0
+        },
+        {
+            "id": "review_37564142",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2013-05-30",
+            "rating": 2.0,
+            "text_content": "\n                    Commerciale pur et dur, un film one piece pour faire du one piece .... Z est sympathique mais le scénario s'essouffle rapidement ... entre les scènes que vous voyez venir à l'avance et les débilités vous serrez gâtes.",
+            "likes": 3,
+            "dislikes": 1
+        },
+        {
+            "id": "review_39400545",
+            "author": "\n                            John_Trololo\n            \n                    ",
+            "date": "2013-10-8",
+            "rating": 4.5,
+            "text_content": "\n                    ça me fait marrer les critiques type-Le Monde ou Télérama qui mettent une étoile ou deux. C'est un peu logique de ne pas tout comprendre si on a pas lu le manga/vu l'animé.",
+            "likes": 2,
+            "dislikes": 1
+        },
+        {
+            "id": "review_37379639",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2013-05-21",
+            "rating": 3.5,
+            "text_content": "\n                    Comme l'indique le titre, ce film est plus centré sur le bad guy que sur l'équipage de Luffy.",
+            "likes": 4,
+            "dislikes": 4
+        },
+        {
+            "id": "review_37671347",
+            "author": "\n                            Berserk Gatsu\n            \n                    ",
+            "date": "2013-06-7",
+            "rating": 0.5,
+            "text_content": "\n                    c'est quoi ce truc, perso ridicule dessiner par un stagiaire en dessin et scénario digne de dora..faut vraiment être fan..\n        \n            ",
+            "likes": 4,
+            "dislikes": 8
+        },
+        {
+            "id": "review_37393130",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2013-05-17",
+            "rating": 2.5,
+            "text_content": "\n                    Une histoire qui dans le fond est bien construite, on aurait meme pu en faire un Arc (saison de one piece) Mais on s'attarde beaucoup sur l'histoire de Z et pas assez sur la bataille finale qui est à mon sens baclé. ",
+            "likes": 3,
+            "dislikes": 3
+        },
+        {
+            "id": "review_37374498",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2013-05-15",
+            "rating": 4.5,
+            "text_content": "\n                    Un très bon film qui rivalise largement avec son prédécesseur Strong World. L'action y est , les rebondissements et cette humour fidèle à One Piece. Mais j'ai quand même l'impression qui manque un petit quelque chose pour qu'il soit parfait.. M'enfin , un film excellent que je conseil à tous ! Fan ou non de One Piece. ( Mention spécial : Avril Lavigne dans l'ending <3 )\n        \n            ",
+            "likes": 2,
+            "dislikes": 1
+        },
+        {
+            "id": "review_38851311",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2013-08-28",
+            "rating": 0.5,
+            "text_content": "\n                    Que dire ?",
+            "likes": 3,
+            "dislikes": 3
+        },
+        {
+            "id": "review_37208614",
+            "author": "\n                            Thomas D\n            \n                    ",
+            "date": "2013-05-3",
+            "rating": 5.0,
+            "text_content": "\n                    terrible !!!!!!!!!!!!!! super film ,super histoire !!!!! que de rebondissements ,pas le temps de s ennuyer  dans ce nouveaux one piece ,et pour les fans ,ça se passe exactement dans l'histoire du dernier arc\n        \n            ",
+            "likes": 2,
+            "dislikes": 5
+        },
+        {
+            "id": "review_37371472",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2013-05-19",
+            "rating": 5.0,
+            "text_content": "\n                    un vrai chef-d'oeuvre de tres haute qualité,",
+            "likes": 3,
+            "dislikes": 2
+        },
+        {
+            "id": "review_37692104",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2013-10-17",
+            "rating": 0.5,
+            "text_content": "\n                    Ca en devient lassant et je n'aime toujours pas la façon de \"dessiner\". On dirait des personnages gribouillés que ferait mon petit frère ..\n        \n            ",
+            "likes": 2,
+            "dislikes": 4
+        },
+        {
+            "id": "review_37459142",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2013-05-22",
+            "rating": 5.0,
+            "text_content": "\n                    Excellent film étant donné que One piece est mon manga préféré .\n        \n            ",
+            "likes": 2,
+            "dislikes": 3
+        },
+        {
+            "id": "review_1029653030",
+            "author": "\n                            Objectivons\n            \n                            \n                    ",
+            "date": "2024-03-7",
+            "rating": 4.0,
+            "text_content": "\n                    Du haut niveau encore pour le chapeau de paille et ses amis aventuriers - plus que pirates ! Très bons combats pour une intrigue qui aurait pu avoir son propre arc.\n        \n            ",
+            "likes": 0,
+            "dislikes": 1
+        },
+        {
+            "id": "review_37440225",
+            "author": "\n                            malaw\n            \n                    ",
+            "date": "2013-05-20",
+            "rating": 2.0,
+            "text_content": "\n                    Un film moyen, sans grande originalité. Moi qui suis fan de one piece, j'ai aimé y retrouver l'univers mais honnêtement le scénario est très basique, surement dû au fait que Eiichirō Oda n'a pas voulu perturber l'histoire originale.",
+            "likes": 1,
+            "dislikes": 1
+        },
+        {
+            "id": "review_37376371",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2013-05-15",
+            "rating": 3.0,
+            "text_content": "\n                    One Piece Z est le douzième film basé sur la série d’Eiichiro Oda, One Piece. En plus de nous honorer par une sortie en salle, ce qui n’est que rarement le cas, le dessin animé nous est parvenu seulement cinq mois après la sortie nationale au Japon. Produit par Eiichiro Oda, le film est réalisé par Tatsuya Nagamine en collaboration avec les studios Toei Animation, également producteurs de la série animée. Je ne ferai pas un résumé de l’esprit One Piece, 69 volumes sont déjà en vente, l’auteur estimant que plus de la moitié de l’histoire reste à écrire. Il faut seulement savoir que One Piece est un manga de type nekketsu, mettant en scène un jeune garçon, Luffy, voulant devenir le seigneur des pirates. Si la série vous est totalement inconnue, inutile de vous déplacer pour voir le film. En effet, pour bien l’apprécier il faut être familiarisé avec les personnages, les lieux et l’histoire. Au Japon le film a rencontré un véritable succès, lors de ses deux premiers jours d’exploitation il a totalisé le nombre record de 1 140 081 entrées.",
+            "likes": 0,
+            "dislikes": 1
+        },
+        {
+            "id": "review_37410161",
+            "author": "\n                            Lechamoniard\n            \n                    ",
+            "date": "2013-05-18",
+            "rating": 3.5,
+            "text_content": "\n                    Je connais assez mal One Piece. Je n’avais vu que le précédent film Strong World que j’avais bien aimé. Même si je n’ai jamais vu la série, je me souvenais quand même des personnages et j’ai réussi à rentrer dans l’histoire. J’avais préféré Strong World mais j’ai trouvé ce dessin animé assez bon. Il y a beaucoup d’action et on ne s’ennuie pas. Un des points positifs du dessin animé, ce sont les personnages. Chacun a une personnalité très différente et ils sont tous assez drôle et en même temps émouvant (j’ai beaucoup aimé en particulier les personnages du squelette et Chopper). Les dessins sont assez bons et l’animation est assez fluide. Ne connaissant pas la série, je ne sais pas si le film est fidèle à l’esprit mais les gens présents dans la salle avaient l’air assez satisfaits. Pour ma part, même si je trouve que cela ne vaut pas un bon Miyazaki, j’ai bien aimé ce dessin animé.\n        \n            ",
+            "likes": 2,
+            "dislikes": 0
+        },
+        {
+            "id": "review_37437140",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2013-05-20",
+            "rating": 5.0,
+            "text_content": "\n                    c'est un chef d'oeuvre comme le precedent. L'histoire est superbe .Bravo..............................\n        \n            ",
+            "likes": 1,
+            "dislikes": 2
+        },
+        {
+            "id": "review_37445052",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2013-05-20",
+            "rating": 5.0,
+            "text_content": "\n                    jai vraiment hate de le prendre en bluray je sort du ciné et jai frissonné de plaisir ! ",
+            "likes": 0,
+            "dislikes": 1
+        },
+        {
+            "id": "review_50947371",
+            "author": "\n                            DarkAkuma02\n            \n                    ",
+            "date": "2016-03-14",
+            "rating": 5.0,
+            "text_content": "\n                    Luffy et son équipage font face à Z, un ancien amiral qui a fondé la Néo-Marine dans le but d'exterminer les pirates. ",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_37166648",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2013-04-30",
+            "rating": 4.0,
+            "text_content": "\n                    Je reviens du film Z en avant première, franchement très beau, drôle, très bon, juste un poil déçus de la fin (du combat avec Luffy) et quelques incohérences /SPOIL\\ Pourquoi Z dit-il qu'il est trop vieux et fatigué alors qu'il a avec lui une fille qui peut le rajeunir et lui donner sa force d’antan et accessoirement lui faire retrouver son bras ? /SPOIL FIN. M'enfin j'en ressort content !\n        \n            ",
+            "likes": 0,
+            "dislikes": 1
+        },
+        {
+            "id": "review_37447928",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2013-05-21",
+            "rating": 4.5,
+            "text_content": "\n                    Le premier flim de grosse série mainstream genre Narutal ou One Piece qui ne donne pas envie de s'enfiler direct un 100 000 Guerriers de Métal à la suite pour se laver des multiples déceptions que ce genre de média génère souvent.",
+            "likes": 0,
+            "dislikes": 1
+        },
+        {
+            "id": "review_41169005",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2014-02-27",
+            "rating": 4.5,
+            "text_content": "\n                    moins bien que \"strong world\" mais sinon ça reste un formidable divertissement pour les fan de manga\n        \n            ",
+            "likes": 0,
+            "dislikes": 1
+        },
+        {
+            "id": "review_39296598",
+            "author": "\n                            Akamaru\n            \n                    ",
+            "date": "2013-09-27",
+            "rating": 2.5,
+            "text_content": "\n                    One Piece est le manga vedette des années 2010,le plus vendu devant Naruto. Après la série animée,les fan books et 12(!!)films,voici donc \"One Piece Z\" qui eut les honneurs des salles françaises. Son premier atout étant d'être suffisamment simplifié pour ne pas perdre les néophytes,tout en présentant un bel aperçu de l'univers de ce shonen manga aux confins des récits d'aventures flibustiers et de la castagne nippone. Les personnages de ce navire mené par un gamin aux membres élastiques sont tous plus excentriques les uns que les autres: un squelette à la coupe afro-rose,un renne miniature ou encore un corsaire au triple sabre. Même si ici,on set que la vedette est Z,un général dissident de la Marine qui rêve tout haut l'extinction de la piraterie. Visuellement,cela ressemble à un gros trip sous acide aux couleurs criardes et aux combats virevoltants. Comme souvent chez la Toei Animation,l'humour absurde règne en maître,parfois au détriment du récit,très \"bâteau\" justement. On déplore aussi un montage hasardeux et une résolution un brin décevante.\n        \n            ",
+            "likes": 0,
+            "dislikes": 2
+        },
+        {
+            "id": "review_37500898",
+            "author": "\n                            fx fx cine\n            \n                    ",
+            "date": "2013-05-25",
+            "rating": 5.0,
+            "text_content": "\n                    j'ai passé un tres bon moment de ciné, je ne suis pas fan de one piece, je met 5/5\n        \n            ",
+            "likes": 0,
+            "dislikes": 1
+        },
+        {
+            "id": "review_41066188",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2014-02-19",
+            "rating": 2.0,
+            "text_content": "\n                    On ne retrouve pas ce qui plait dans le manga. L histoire est prévisible a en devznir ennuyante.... L intrigue est d une banalité affligeante. bref nul\n        \n            ",
+            "likes": 0,
+            "dislikes": 1
+        },
+        {
+            "id": "review_35517253",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2013-04-30",
+            "rating": 5.0,
+            "text_content": "\n                    Vu en avant-première, film GÉNIAL !!! Mieux que Strong World ! Les voix sont assez bien, comparé aux autres films... Le scénario est super ! La qualité aussi, sans parler de la bande son ! Par contre un peu déçu car il y a une grosse incohérence ! ",
+            "likes": 2,
+            "dislikes": 0
+        },
+        {
+            "id": "review_53444290",
+            "author": "\n                            ned123\n            \n                            \n                    ",
+            "date": "2016-11-6",
+            "rating": 3.0,
+            "text_content": "\n                    J'ai vu un film... d'un univers entièrement nouveau pour moi. Il m'a fallu du temps pour rentrer dans l'histoire et comprendre que derrière la caricature apparente, il y a des personnages intéressants et parfois plus profond qu'il n'y paraît. Les scènes d'action sont spectaculaires et le style impeccable. Le méchant est vraiment pas mal... En fait, ce qui fait du bien par rapport aux dessins animés calibrés, c'est que celui-ci surprend et étonne. Donc on passe un excellent moment...\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_39679423",
+            "author": "\n                            Zoumir\n            \n                    ",
+            "date": "2013-10-30",
+            "rating": 2.5,
+            "text_content": "\n                    Grand fan de l'intrigue, des personnages et du monde créé par Eiichiro Oda depuis plus d'une décennie, j'attendais ce nouveau film de One Piece avec impatience. Le précédent, Strong World m'avait particulièrement plu car il s'inscrivait véritablement dans l'esprit potache, inventif, délirant et combattif de la franchise, ce qui pouvait permettre à un non initié d'apprécier et un fan de véritablement s'y retrouver. Pourtant cette fois ci, L'ambition de Z n'atteint pas le niveau de l'ensemble toujours très maîtrisé de One Piece et le film manque considérablement de profondeur. Son scénario relativement mince nous entraîne entre des confrontations ou l'animation est quand même de très bonne qualité et, des phases de discussions sans grand intérêt doublées de flashback sur la vie de Z, ce nouveau personnage qui manque, comme son équipage, de charisme. Ainsi, le film nous entraîne dans un récit annexe très linéaire et sans aucunes surprises. Le seul intérêt de ce nouvel opus en format long est peut être le contexte dans lequel il se situe puisqu'il permet de retrouver quelques personnages influents et apprécié de la trame principale qu'on avait jusqu'à maintenant perdu de vue. Bref, pas le meilleur moyen de découvrir ce formidable manga qu'est One Piece. Les amateurs comme moi y trouveront presque leur compte, les autres ne comprendront pas le succès de Luffy et ses camarades.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_37370759",
+            "author": "\n                            Abarai\n            \n                            \n                    ",
+            "date": "2013-05-29",
+            "rating": 4.0,
+            "text_content": "\n                    Douzième film One Piece à voir le jour, et deuxième seulement à apparaître dans nos salles obscures, \"One Piece Z\" est une petite tuerie, mêlant habilement combats ébouriffants et humour décalé. ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_48649019",
+            "author": "\n                            morn\n            \n                    ",
+            "date": "2015-09-21",
+            "rating": 3.0,
+            "text_content": "\n                    L'élipse de deux ans de One Piece me déçoit en général, les personnages en perdent en profondeur. Cependant, l'animation est incroyable. Certaines scènes de combats ( mention spécial sanji et Zoro) sont magnifiques. Le scénario reste assez correcte. One Piece restera un manga qui n'a pas fini de faire parler de lui \" ça sent l'aventure, qu'est ce qui peut bien encore nous arriver\". note :6,4/10\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_41493679",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2014-03-15",
+            "rating": 3.5,
+            "text_content": "\n                    Je partais déjà conquis vu que je suis un fan absolu de l’œuvre d'Eichiiro Oda. Même si l'animé m'attire moins que le manga papier, la qualité de ce film \"semi-canon\" à l’œuvre de l'auteur (l'esprit est respecté ainsi que la mythologie et le style narratif, mais impossible ou presque de placer les évènements relatés dans la temporalité du manga) est remarquable. Prendre un plaisir fou est déjà génial dans l'exercice délicat d'un film animé d'un manga (jurisprudence Dragon Ball). Mais en plus, quand c'est réussi aussi dans le fond, c'est du bonheur en barre. Certes on n'atteint pas la puissance d'une œuvre originale, mais les fans et les non fans seront ravis malgré tout, car l'histoire reste suffisamment forte pour tenir l'heure et demie. Bref, c'est bon sans être exceptionnel, ce qui est déjà exceptionnel pour un OAV d'un animé. Wonderful.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_38195808",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2013-07-22",
+            "rating": 0.5,
+            "text_content": "\n                    Que dire: j'ai pas accrocher tous simplement. Strong world était pour moi bien meilleur.\n        \n            ",
+            "likes": 1,
+            "dislikes": 2
+        },
+        {
+            "id": "review_36619305",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2013-05-20",
+            "rating": 4.5,
+            "text_content": "\n                    Un très bon  fait de pouvoir le voir au cinéma ajoute du bon a ce film  chara-design et un univers très bien dessiner,les attaques des differents personnages etaient très fluides .Chaque personnage etait fidèle au  seule chose qui fait que ce n'est pas complètement parfait c'est surement la fin avec ",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_37428578",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2013-05-19",
+            "rating": 3.5,
+            "text_content": "\n                    Bon film notamment à travers quelques notes d'humour. Un vrai divertissement même pour ceux qui ne connaissent pas spécialement le manga ou la série tirée du manga.\n        \n            ",
+            "likes": 2,
+            "dislikes": 0
+        },
+        {
+            "id": "review_39800895",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2013-11-7",
+            "rating": 4.0,
+            "text_content": "\n                    Bien qu'étant un grand fan de One Piece depuis ma tendre jeunesse, je dois avouer que j'ai toujours eu du mal avec ses long-métrages, que ce soit de ce manga ou d'un autre d'ailleurs. Je me suis bien souvent arrêté à la lecture des scans et des shônens mais pour le coup, je suis heureux d'avoir donné la chance à ce dernier opus dont la critique spectateur fait l'éloge. Une des premières forces du film est son rythme : jamais trop lent, jamais trop violent, le tout emballé dans une bonne dose d'humour et de simplicité. Ensuite, je pense sincèrement que tout fan d'anime peut y trouver son compte parce que c'est beau, ça bouge, c'est attachant et la 3D est excellemment maitrisée, notamment lors de la bagarre d'ouverture. J'ai cependant beaucoup de mal à être objectif tellement je suis fan de chaque mimique de chaque héros dans chaque scène, principalement Chopper et son doublage aussi mignon que sa bouille. Dans l'ensemble, rien de neuf sous le soleil bien sûr car ce film ne fait aucunement avancer la trame principale du manga One Piece mais c'est cependant un très bon moment pour les fans et j'espère une bonne découverte pour les nouveaux.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1029014268",
+            "author": "\n                            Fabien Sorrant\n            \n                    ",
+            "date": "2024-01-26",
+            "rating": 4.0,
+            "text_content": "\n                    Un très bon film d'animation japonais  où l'équipage d'One Piece affronte un redoutable ennemi nommé Z.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_39271041",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2013-09-26",
+            "rating": 4.5,
+            "text_content": "\n                    N'ayant jamais vu les précédents et ayant vu et lu quelques mangas, ce tome 12 est énorme! Conseillé au fan de mangas et je pense prendre les précédents tomes pour comprendre un peu plus certaines choses.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_37458881",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2013-05-22",
+            "rating": 4.0,
+            "text_content": "\n                    Pas mal, bonne histoire, un peu simpliste comme d'hab mais on vois tout les persos et on en apprends plus sur l'histoire de One Piece comparer a strong world ou nada niet c'est un filler alors que la pas du tout.",
+            "likes": 1,
+            "dislikes": 1
+        },
+        {
+            "id": "review_36777478",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2013-05-31",
+            "rating": 5.0,
+            "text_content": "\n                    Tout simplement magnifique ! Il reste dans l'esprit du manga et est largement à la hauteur de mes espérances ! Que ça continue comme ça.\n        \n            ",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_41310893",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2014-03-9",
+            "rating": 3.5,
+            "text_content": "\n                    L'esprit de One Piece et de son créateur imprègnent cette œuvre du début jusqu'à la fin, cela ne fait aucun doute. Ce film est tout simplement épatant et mérite amplement le succès qu'il rencontre actuellement au cinéma. Sur grand écran, la qualité graphique 2D n'est pas fantastique, pour une excellente raison toutefois : les effets spéciaux 3D sont de la partie et n'hésitent pas à le faire savoir. La première scène du film annonce la couleur, donc préparez le popcorn, vous allez en avoir plein la vue (et plein les oreilles). La bande son se fait trop discrète à mon goût, mais elle n'en reste pas moins puissante durant les grosses scènes. Cependant, ce qui m'a le plus bluffé dans ce film, c'est l'originalité du scénario et la profondeur de son personnage antagoniste : Z. L'histoire nous offre, en parallèle du point de vue habituel de Luffy et son équipage, une focalisation sur le \"méchant\" de l'histoire. La rythmique du film s'en trouve bouleversée, comparé à ses 11 prédécesseurs, et ce n'est pas pour déplaire. On en viendrait presque à se demander si le vrai héros du film n'est pas Z (cf. la toute dernière scène). Si vous êtes fan de One Piece ou de manga, allez le voir les yeux fermés, mais pour les non aficionados, si vous désirez avoir un point de vue différent sur les manga et dessins animés japonais en général, je vous conseille ce magnifique film, réalisé avec intelligence et sagacité.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_48010822",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2015-07-27",
+            "rating": 4.0,
+            "text_content": "\n                    Ce films est très très bien réussi et assez émouvant j'ai bien aimé\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_37470461",
+            "author": "\n                            Ryuka92\n            \n                    ",
+            "date": "2013-06-3",
+            "rating": 4.0,
+            "text_content": "\n                    Voici le 11ème film One Piece et seulement le second à sortir chez nous d'abord dans les salles obscures. Surtout qu'il a eu un succès colossal au Japon dès sa sortie. Après que Strong World aie montré la voie, ce nouveau One Piece Z sort dans plus de salles que son prédécesseur. Une très bonne nouvelle pour les fans car c'est encore l'auteur du manga, Eiichiro Oda qui est aux commandes pour superviser et cela se ressent très vite dans l'intégration de l'histoire et des différents personnages dans ce nouveau film. Zephyr, un ancien amiral de la marine a formé sa propre armée, la Neomarine, dans le but d'anéantir tous les pirates du nouveau monde. Et pour ça il est près à tout pour y arriver, il va dérober à la marine un minerai qui libère une explosion des plus puissante dès qu'il entre en contact avec l'oxygène pour servir un plan des plus fous. Evidemment Luffy et ses nakamas vont croiser la route de cet homme et vont devoir croiser le fer plus d'une fois pour l'empêcher d'exécuter ses plans. Ainsi l'histoire prend place dans le nouveau monde, le plus récent passage du manga. Et il commence sans perdre de temps par de l'action non stop, le mot d'ordre de cette nouvelle aventure cinématographique. Ce Z est une magnifique trouvaille à ranger dans les rangs de ces méchants charismatiques épris de justice mais qui sont trop extrémistes et vont trop loin dans leurs idées. Un personnage marquant et un film marqué par l'apparition de nombreux personnages importants du manga comme les différents amiraux et hauts gradés de la marine. Il s'imbrique aussi parfaitement dans la mythologie de l'œuvre de Oda. L'histoire de Z et son passé est d'ailleurs bien développé et on le suit vraiment très souvent à tel point que l'on peut presque se demander si ce n'est pas lui le personnage central à la place de Luffy. Pour résumé Z est bourré de scènes d'action et de combat, je reprochais à Strong World d'en manqué un tant soit peu mais là c'est peut-être un tantinet trop. Et ce que l'on gagne en action on le perd énormément en humour même si il reste toujours le bariolé et l'univers totalement décalé du maitre. Juste pour dire que ce Z inverse la recette du précédent film avec toujours un grand succès mais les fans rigoleront bien moins que précédemment. Les dessins s'avèrent très propre même si on perd beaucoup en détails sur les plans larges, l'utilisation très fine de la 3D donne un plaisir non négligeable sur certaines scènes. Pour finir on peut dire que l'on prend vraiment du bon temps à le regarder mais pour les non initié le choc risque d'être dur car cette fois-ci ce nouveau film One Piece fait beaucoup appel aux connaissances de la saga. Ceux-ci risquent donc d'être un tant soit peu perdu dans ce nouveau monde. Enfin je conseille de rester assis pendant le générique de fin, la musique est une magnifique reprise de la chanson de Nickel Back : This is how you remind me par Avril Lavigne. Mais surtout ce générique réserve une petite surprise qui en fera sourire plus d'un.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_42655632",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2014-05-26",
+            "rating": 3.0,
+            "text_content": "\n                    Malgré une superbe animation et le respect de l'ambiance du manga, cet énième opus reste un cran en-dessous de Strong World, notamment à cause d'un manque d'humour et de dérision, et à cause d'un scénario semblant sous-exploité. Bref, sympathique mais pas inoubliable.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_56105340",
+            "author": "\n                            mx13\n            \n                    ",
+            "date": "2018-03-17",
+            "rating": 3.0,
+            "text_content": "\n                    bon film tiré de la série épique un bon graphisme un bon scénario et de bons dialogues pas mal. Je le déconseille aux moins de 7 ans. 3/5\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_37411232",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2013-05-19",
+            "rating": 4.5,
+            "text_content": "\n                    Incroyable film. Rien à ajouté juste pour les fans de one piece allez le voir au cinéma.\n        \n            ",
+            "likes": 1,
+            "dislikes": 2
+        },
+        {
+            "id": "review_37746491",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2013-06-14",
+            "rating": 3.5,
+            "text_content": "\n                    Très bonne adaptation de la série en film. L'ensemble est cohérent avec le manga.",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_44166531",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2014-10-6",
+            "rating": 5.0,
+            "text_content": "\n                    J'adore One piece, le film a un petit plus qui fait qu'il soit meilleur que les autres, même si le combat final face à Z n'est pas énorme\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1031706604",
+            "author": "\n                            Ren_\n            \n                    ",
+            "date": "2024-08-17",
+            "rating": 4.0,
+            "text_content": "\n                    One Piece Film Z est un très bon film.  Zéphyr alias Z est un ancien amiral de la Marine qui a vu sa vision de la justice être complètement chamboulée après plusieurs tragédies et injustices qu'il a vécu au cours de sa carrière. Son histoire, malgré qu'il soit devenu un terroriste, est touchante et rend compréhensible ses futures actions. Je trouve le film d'une grande mélancolie lorsque Z est confrontés à ses anciens élèves de la Marine. L' équipage du chapeaux de paille n'a pas une place trop importante dans dans le film, ce qui permet de très bien développé l'antagoniste principal.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_37040916",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2013-05-15",
+            "rating": 5.0,
+            "text_content": "\n                    Super film qui nous en apprend encore plus sur l'histoire de One piece. Avec de super combat, une super histoire et des ancienne connaissance que l'ont avait pas revu depuis longtemps. je le conseille a tout les fan, Super Film .\n        \n            ",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_37608715",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2013-06-2",
+            "rating": 5.0,
+            "text_content": "\n                    trop classe, bien fun, bien déliré, du one piece comme on connaît\n        \n            ",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_37052462",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2013-04-22",
+            "rating": 5.0,
+            "text_content": "\n                    Pour moi le meilleur film one piece!!!! Combat dynamique, histoire génial et toujours autant d'humour.",
+            "likes": 1,
+            "dislikes": 2
+        },
+        {
+            "id": "review_39039688",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2013-09-19",
+            "rating": 4.5,
+            "text_content": "\n                    Tout simplement merveilleux! Ce nouveau film de One Piece surpasse tous ses prédécesseurs et de loin. Pourquoi? Grâce à l'apparition de Z, un adversaire aussi puissant que charismatique et qui (à la fin) force l'admiration et le respect malgré son projet apocalyptique. Les fans de One Piece se doivent de connaître ce personnage, car même si nous ne le verrons que dans un film (et non dans la saga) il a joué un rôle extrêmement important qui a eu un impact dans la totalité de l'histoire du monde de One Piece.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_37838241",
+            "author": "\n                            Kévin V\n            \n                    ",
+            "date": "2013-07-27",
+            "rating": 4.5,
+            "text_content": "\n                    un film one pièce qui est une franche réussite.",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_37514717",
+            "author": "\n                            Cuttyflam\n            \n                    ",
+            "date": "2013-05-26",
+            "rating": 4.5,
+            "text_content": "\n                    Un des meilleurs films One Piece. A voir en vostfr bien sur.\n        \n            ",
+            "likes": 0,
+            "dislikes": 1
+        },
+        {
+            "id": "review_38734435",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2013-08-21",
+            "rating": 5.0,
+            "text_content": "\n                    jaim lé manga cé stylé 5/5 mdr tro vré é zoro il é tro darkdanléténebre tmtc\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_37738742",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2013-06-13",
+            "rating": 5.0,
+            "text_content": "\n                    super anime ,avec les apparitions de touts les boss marine depuis le grande bataille! :)\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_37448503",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2013-05-21",
+            "rating": 5.0,
+            "text_content": "\n                    good good good good good good good good good good good good good good good good good good good good good good good good good\n        \n            ",
+            "likes": 0,
+            "dislikes": 2
+        },
+        {
+            "id": "review_37467520",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2013-05-22",
+            "rating": 5.0,
+            "text_content": "\n                    même si le scénarios n'est pas super super , il reste en gros un film très bien fait avec de beaux combat mais je ne pense pas que sa soit les plus gros ennemis que les mugiwaras ont rencontré.\n        \n            ",
+            "likes": 0,
+            "dislikes": 1
+        },
+        {
+            "id": "review_35938461",
+            "author": "\n                            Shirosenshi\n            \n                    ",
+            "date": "2013-05-20",
+            "rating": 4.0,
+            "text_content": "\n                    One Piece Z sera un plaisir pour les fans, et les non-initiés pourrons se joindre à la fête sans trop se perdre. Au final l'histoire ne se rattache à la série que par quelques accroches et détails (néanmoins intéressants pour les fans). En parlant de l'histoire, elle n'est pas extra-ordinaire mais les fans apprendrons tout de même des choses sur l'univers de One Piece (le film étant supervisé par Oda, on devrait pouvoir le considérer comme \"canon\").",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_37838753",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2013-06-22",
+            "rating": 5.0,
+            "text_content": "\n                    Superbe Film.",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_37888867",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2013-06-26",
+            "rating": 2.0,
+            "text_content": "\n                    Comme prévu, on s'attend au début, à la fin, aux rebondissements (qui n'en sont pas du coup), etc. C'est juste pour la plaisir de suivre un manga comme à la TV. Mais aucune différences entre les deux.\n        \n            ",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1029325794",
+            "author": "\n                            Thomas M\n            \n                    ",
+            "date": "2025-01-28",
+            "rating": 4.0,
+            "text_content": "\n                    Un très bon film One Piece qui est facilement dans le Top 3 de la saga mais qui m'agrès tout n'arrive toujours pas à passé dans une catégorie supérieur du à des gros défauts. ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_37372258",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2013-05-15",
+            "rating": 5.0,
+            "text_content": "\n                    Très bon film avec des personnages toujours aussi drôle , super scénario. A aller voir .\n        \n            ",
+            "likes": 0,
+            "dislikes": 2
+        },
+        {
+            "id": "review_37277241",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2013-06-11",
+            "rating": 4.5,
+            "text_content": "\n                    Avant tout chose précisons que ce film est réservé avant tout au fan de One Piece et à ceux qui connaissent cet univers tant le film s'appuie sur le manga. One Piece Z est un très bon film qui a le gros avantage d'être en lien avec le support d'origine. Tout d'abord le film est agréable à l'oeil, l'animation est fluide et plutôt jolie. Ensuite parlons de l'histoire. Si elle peut paraitre un peu classique tant dans son synopsis de départ que dans son déroulement elle reste quand même efficace et relativement intéressante et ce principalement pour une chose, les personnages! En effet c'est ce qui, pour moi constitue LE point fort, c'est un véritable régal pour les aficionados de One Piece. Tout d'abord parlons du méchant, Z. Ce personnage est vraiment très intéressant et s'intègre parfaitement dans l'univers One Piece. Le film met bien en avant, son passé, ses motivations, ses regrets, sa fin, bref toute sa psychologie. On voit que le personnage de Z a vraiment été travaillé. L'autre personnage qui tire la couverture est un \"revenant\" en quelque sorte, à savoir ",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_37371613",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2013-05-15",
+            "rating": 5.0,
+            "text_content": "\n                    Ce film est tout simplement excellent pour ya rien d'autre à dir !\n        \n            ",
+            "likes": 0,
+            "dislikes": 2
+        },
+        {
+            "id": "review_39262107",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2013-09-23",
+            "rating": 5.0,
+            "text_content": "\n                    Un film génial à la hauteur du manga! L'histoire est certes très classique, mais les scènes de combat sont exceptionnelles, on retrouve parfaitement l'humour avec le froid Zoro et Sanji le Pervers. Et même si perso je trouve la fin du combat Luffy vs Z un peu décevante, le combat en lui-même est tellement génial, comme les techniques de Zoro et Sanji qui ont juste la classe intégrale, que je peux passer dessus et quand même mettre la note max. J'ai vraiment pris mon pied.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1021222356",
+            "author": "\n                            Jubiluk\n            \n                    ",
+            "date": "2022-08-12",
+            "rating": 4.5,
+            "text_content": "\n                    Ce film était vraiment incroyable, les animations, les combats, l'antagoniste en lui même, franchement un très bon film\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_37402508",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2013-05-18",
+            "rating": 2.5,
+            "text_content": "\n                    je m'attendais a mieux en voyant la bande annonce,ça sent le film purement commerciale et c'est bien  combats sont un peu trop vite expédier,et l'histoire pas beaucoup recherché ce qui est regrettable,mais ce n'es que mon  suis fan de one piece mais sur ce coup la un peu dessus,j’ai préféré le précédent film qui était plus recherché\n        \n            ",
+            "likes": 0,
+            "dislikes": 1
+        },
+        {
+            "id": "review_37670491",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2013-06-7",
+            "rating": 5.0,
+            "text_content": "\n                    j'adore les erfait specios son bien mais il faut connaitre one piece pour conprendre le film\n        \n            ",
+            "likes": 0,
+            "dislikes": 1
+        },
+        {
+            "id": "review_37831204",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2013-06-22",
+            "rating": 5.0,
+            "text_content": "\n                    Et oui encore un film sur One piece et c'est bel et bien une nouvelle réussite, comme d'habitude le charme opère une nouvelle fois si bien qu'on en redemande.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_37520711",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2013-05-26",
+            "rating": 5.0,
+            "text_content": "\n                    Je l'ai vu, il est complètement Hors-Série mais il est super se film! Pour tous les fan's de manga, celui-ci fait partis des meilleurs!\n        \n            ",
+            "likes": 0,
+            "dislikes": 2
+        },
+        {
+            "id": "review_37533080",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2013-05-27",
+            "rating": 5.0,
+            "text_content": "\n                    Pour ceux qui ne connaissent pas One Piece ? Qu'est ce donc ? C'est tout simplement le manga le plus suivi dans l'histoire du Japon :)  En quelques chiffre : 67 tomes pour le moment, 260 millions d'exemplaires vendus au Japon, une Série animée de 596 épisodes pour le moment (toujours en diffusion au japon). 11 films dont voici le 12eme intitulé sobrement \"Z\". ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_37290619",
+            "author": "\n                            Wall-69\n            \n                    ",
+            "date": "2013-06-27",
+            "rating": 5.0,
+            "text_content": "\n                    Excellent, Sauf que les combat pour ma part était trop rapide..\n        \n            ",
+            "likes": 0,
+            "dislikes": 2
+        },
+        {
+            "id": "review_36734905",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2013-05-20",
+            "rating": 3.0,
+            "text_content": "\n                    je reste sur ma fin. j'adorée le film mais y certain passage qui passe trop vite. je suis un grand fan de one piece. mais ce film me donne un gout d'innachevé.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_37685020",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2013-06-9",
+            "rating": 5.0,
+            "text_content": "\n                    Comme toujours les films de One Piece sont souvent de très bon film mais celui-là sort du lot , il est excellent ( je dis sa pas parce que je suis un très grand fan de one piece ) bref je le conseille à tout fan de one piece\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_38703488",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2013-08-19",
+            "rating": 3.0,
+            "text_content": "\n                    One piece!",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_40246729",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2013-12-16",
+            "rating": 4.5,
+            "text_content": "\n                    Un excellent film One Piece sans une seule goutte d'ennuie.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_37518328",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2013-05-26",
+            "rating": 4.0,
+            "text_content": "\n                    dommage, pour un film de cette ampleur la 3D aurait été excellent\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_37449952",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2013-05-21",
+            "rating": 3.5,
+            "text_content": "\n                    Bonjour est bienvenue pour cette nouvelle semaine en critique cette semaine deux films vont être traitez  tout d'abord One Piece Z puis part la suite Mamà alors embarquons tous ensemble pour une nouvelle aventure dans la salle obscure .Après avoir reçu un immense succès lors de sa sortie en salles japonaises en décembre dernier, le onzième film One Piece intitulé sobrement «Z» débarque au cinéma en France le 15 mai. Après le succès critique du film 10,Strong World, on pouvait légitimement s’inquiéter d’un retour au niveau qualitatif des adaptations habituelles, niveau en demi-teinte bien connu des amateurs .",
+            "likes": 0,
+            "dislikes": 4
+        },
+        {
+            "id": "review_37714797",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2013-06-11",
+            "rating": 5.0,
+            "text_content": "\n                    jador cette serie bonne histoire et asser comique :)\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_62115896",
+            "author": "\n                            sevel\n            \n                    ",
+            "date": "2019-03-3",
+            "rating": 0.5,
+            "text_content": "\n                    One piece, ca n'a rien de bizarre d'etre aussi nul, les personnages sont nul et clichés de tout ce qu'on peut trouver dans l'animation\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_37685042",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2013-06-12",
+            "rating": 5.0,
+            "text_content": "\n                    trop bien c'etait trop cool j'ai été avec mes pote on c'est bien marré. Surtout  les attaque de Z elle était trop bien.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_37371145",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2013-05-15",
+            "rating": 5.0,
+            "text_content": "\n                    Excellent film One Piece, bien meilleur que tous les autres. Excellent non seulement par son animation, son ambiance, mais aussi par le plus qu'il rajoute à l'histoire principale ! Le seul point noir est le scénario qui aurait mérité d’être un peu plus développé, même si celui ci veut plutôt nous focaliser sur l'histoire des personnages et pas forcément sur leurs actions.",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_37315694",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2013-05-11",
+            "rating": 4.5,
+            "text_content": "\n                    C’est avec une grande impatience que j’attendais de voir ce onzième film de la saga One Piece. En effet, lors de sa sortie japonaise le film a battu des records d’entrée impressionnants, je me demandais donc qu’est-ce qui avait bien pu faire son succès. Après l’avoir vu ce soir, j’ai eu ma réponse.",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_37689801",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2013-06-9",
+            "rating": 4.5,
+            "text_content": "\n                    Fan de One Piece j'ai adoré One Piece Z malgré un combat final décevant et un scénario inférieur à Strong World.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_55616884",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2017-05-13",
+            "rating": 4.0,
+            "text_content": "\n                    très bon film... au même niveau que Strong World... cohérent avec la trame de la série... franchement un film à voir et à revoir..\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_37519920",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2013-05-26",
+            "rating": 4.5,
+            "text_content": "\n                    Je ne met pas 5 etoiles par principe et parce qu'il y aurait pu avoir quelques ameliorations. Mais honnetement si vous etes fan de One piece, fan de manga ou juste neophite vous aller adorer. Le scenario est bien, l'univers du manga y est et c'est simplement génial. L'animation est reussie, il y a meme des \"revelations\" par rapport au manga... Que demander de plus. Allez-y je vous le conseil\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_40714293",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2014-01-22",
+            "rating": 5.0,
+            "text_content": "\n                    de la bombe se film en tant que fan pur et dur de one piece je peux vous dire que se film reflet bien l esprit du manga ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_37451882",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2013-05-21",
+            "rating": 5.0,
+            "text_content": "\n                    ",
+            "likes": 0,
+            "dislikes": 2
+        },
+        {
+            "id": "review_35351187",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2013-02-5",
+            "rating": 5.0,
+            "text_content": "\n                    Super films j'ai hâte de le voir , pas vous je suis sûre que serra le meilleure fims ONE PIECE!!!!!!\n        \n            ",
+            "likes": 0,
+            "dislikes": 2
+        },
+        {
+            "id": "review_39992901",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2013-11-24",
+            "rating": 5.0,
+            "text_content": "\n                    le film est sublime comme on n'en attendait pas moins de one piece mais j'aurais aimé que leffy ,les effets 3D surtout jais aimé ,le plus qui m'a marquer c'est éternelle Class des amiraux de la marine ,les nouvelle techniques était bien mais on aurait voulu voire aussi ce de la série ,l'ensemble magnifique\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_36837571",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2013-05-24",
+            "rating": 3.5,
+            "text_content": "\n                    Pour faire court, histoire interessante n'apportant pas grand chose au manga de base. Un peu long a demarrer.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_36869578",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2013-04-8",
+            "rating": 4.5,
+            "text_content": "\n                    j'aurais tant aimé le voir en salle!!!!!! dommage qu'il ne sera pas diffusé à Nice... ouaaaaaaaaaarrghh Grrr!!!\n        \n            ",
+            "likes": 0,
+            "dislikes": 4
+        },
+        {
+            "id": "review_35905168",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2013-03-8",
+            "rating": 4.0,
+            "text_content": "\n                    Le film animation One Piece Film Z est le plus grand succès historique de la Toei pour une simple raison : La réalisation est maîtrisée sur le bout des doigts !",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_37782697",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2013-06-17",
+            "rating": 5.0,
+            "text_content": "\n                    je l'ai adorer il était génial et luffy est trop cool, j'ai vu tous les films et celui la était genial\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_38179910",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2013-07-21",
+            "rating": 5.0,
+            "text_content": "\n                    Tout simplement magnifique ! Il reste dans l'esprit du manga et est largement à la hauteur de mes espérances ! Que ça continue comme ça.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_53634278",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2016-11-22",
+            "rating": 5.0,
+            "text_content": "\n                    Juste extraordinaire , ce film s'adresse particulièrement aux fans de One Piece , je le conseil à tout les fans de cet univers car c'est à mon sens le meilleur OAV tout manga confondu ; ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_58847152",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2018-03-29",
+            "rating": 5.0,
+            "text_content": "\n                    Le meilleur film tout animé confondu Les développements surtout de z mais aussi de kuzan sont super bien réalisé\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        }
+    ]
+}

@@ -1,0 +1,741 @@
+{
+    "id": 170650,
+    "name": "Crows Zero II",
+    "release_date": "2020-02-1",
+    "runtime_in_minutes": 133,
+    "genres": [
+        "Action"
+    ],
+    "synopsis": "\n                    Huit mois après les derniers événements, alors que Genji est sur le point d'être diplômé du lycée Suzuran, il se voit contraint de régler une dernière affaire avec une école rivale.\n        \n            ",
+    "reviews": [
+        {
+            "id": "review_32466283",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2012-06-26",
+            "rating": 3.5,
+            "text_content": "\n                    Crows Zero II est un très bonne suite.\n        \n            ",
+            "likes": 4,
+            "dislikes": 1
+        },
+        {
+            "id": "review_23293207",
+            "author": "\n                            wesleybodin\n            \n                    ",
+            "date": "2011-02-27",
+            "rating": 4.0,
+            "text_content": "\n                    Dans l'exacte lignée de son prédécesseur. Rien à dire de plus, ni de moins.\n        \n            ",
+            "likes": 4,
+            "dislikes": 2
+        },
+        {
+            "id": "review_26743172",
+            "author": "\n                            Captain_Tsubasa\n            \n                    ",
+            "date": "2011-08-21",
+            "rating": 5.0,
+            "text_content": "\n                    Un très très bon film , superbe histoire , des personnages qui jouent très bien leur rôles ,des combats à coupé le souffle , je m'en lasse pas de le revoir , vivement crow zero 3 !\n        \n            ",
+            "likes": 4,
+            "dislikes": 2
+        },
+        {
+            "id": "review_39012024",
+            "author": "\n                            NeoLain\n            \n                            \n                    ",
+            "date": "2013-12-9",
+            "rating": 5.0,
+            "text_content": "\n                    Suite du lycée des corbeaux qui se déroule six mois après. Maintenant, Suzuran est en rivalité avec le lycée Hosen. Alors que le premier volet fut une petite tuerie, Miike s'acharne lui aussi avec ses poings et réalise encore un meilleur que son précédent volet. Nous retrouvons les anciens personnages et de plus, il y en à aussi des nouveaux, forcément. Parmi tant d'autre, un que j'ai kiffé mais qui reste ultra discret, est le personnage Tatsuya Bîto qui préfère attendre que son lycée soit imbattable, et il pense que pour le moment ce n'est pas le cas, alors il reste là, simplement à regarder. Il à un visage d'ange, et bien que l'on remarque pas ici, mais il n'est pas si calme qu'on le pense, agile et capable de porté un coup vif et rapide et il à pas l'air né de la dernière pluie. Bref, le final est sacrément costaud ou plus d'une centaine d'élèves s'en mettent plein la tronche jusqu'à plus soif.\n        \n            ",
+            "likes": 3,
+            "dislikes": 2
+        },
+        {
+            "id": "review_19331615",
+            "author": "\n                            romano31\n            \n                    ",
+            "date": "2010-07-18",
+            "rating": 5.0,
+            "text_content": "\n                    Le premier était monstrueux mais ce deuxiéme opus va encore plus loin. Cette fois-ci, ce n'est plus les bandes de Suzuran qui s'affrontent entre elles pour le contrôle du lycée, c'est bel et bien lycée contre lycée. Suzuran contre Hôsen. Et autant dire que la haine qui lie ces deux lycées est grande. Crows Zero 2 enchaine les combats de plus en plus violents pour nous livrer un final de 45 minutes de baston non-stop. On retrouve la même maestria dans la réalisation, la même conviction chez les acteurs et la même bande son toujours aussi géniale. Ce dyptique Crows Zero est vraiment super. Les amateurs de films d'action et de baston seront aux anges. En espérant voir un jour le troisiéme opus même si je n'y crois pas trop.\n        \n            ",
+            "likes": 2,
+            "dislikes": 1
+        },
+        {
+            "id": "review_1001930901",
+            "author": "\n                            tomPSGcinema\n            \n                    ",
+            "date": "2020-01-22",
+            "rating": 3.5,
+            "text_content": "\n                    Clairement supérieur au premier opus, cette suite qui est évidemment toujours réalisé par Takashi Miike possède une histoire bien plus agréable à suivre que le précédent. De plus, le casting est toujours aussi impliqué et les scènes d'actions sont brillamment filmées, comme en témoigne les séquences de bagarre assez impressionnante concernant les deux bandes rivales qui ont lieu vers la fin du film. Une oeuvre globalement très reussi et que je conseille fortement aux amateurs du genre.\n        \n            ",
+            "likes": 1,
+            "dislikes": 1
+        },
+        {
+            "id": "review_37239132",
+            "author": "\n                            DirtEagle\n            \n                    ",
+            "date": "2013-05-5",
+            "rating": 5.0,
+            "text_content": "\n                    Une suite à la hauteur du premier opus, même un peu au dessus au niveau des combats, mais ce film est aussi bien que le premier! On a une histoire toujours aussi prenante, les mêmes personnages, on en rajoute même, et cette histoire de combats entre lycées est juste une idée de génie! J'ai adoré ce film tout autant que le premier et pour les mêmes raisons, les combats sont beaux, nets, l'histoire se déroule parfaitement bien, les personnages sont tout aussi attachants et les mêmes émotions sont retranscrites. Une suite monumentale!\n        \n            ",
+            "likes": 2,
+            "dislikes": 0
+        },
+        {
+            "id": "review_34854296",
+            "author": "\n                            caro18\n            \n                            \n                    ",
+            "date": "2012-12-13",
+            "rating": 1.0,
+            "text_content": "\n                    Deux clans de lycéens ennemis se bastonnent pendant deux heures et c'est pas terrible.\n        \n            ",
+            "likes": 1,
+            "dislikes": 3
+        },
+        {
+            "id": "review_18790572",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2010-06-28",
+            "rating": 5.0,
+            "text_content": "\n                    Se film est la suite du meilleur film d'action japonais plus de sang plus d'action ses un chédeuvre\n        \n            ",
+            "likes": 1,
+            "dislikes": 1
+        },
+        {
+            "id": "review_33060888",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2012-08-9",
+            "rating": 5.0,
+            "text_content": "\n                    Magnifique sérieusement, mieux que le premier. Je suis sans mots devant ce Chef d'oeuvre\n        \n            ",
+            "likes": 1,
+            "dislikes": 1
+        },
+        {
+            "id": "review_1006677271",
+            "author": "\n                            Roub E.\n            \n                            \n                    ",
+            "date": "2020-05-3",
+            "rating": 3.5,
+            "text_content": "\n                    Pour moi un cas de suite meilleure que l’originale. J’ai trouvé Crows Zéro 2 plus frontale avec moins de fioritures et en même temps plus fou que le premier. Les scènes de baston sont mieux maîtrisées et ont un côté manga encore plus poussées. Les temps morts aussi sont mieux gérés et paraissent moins artificiels. Enfin il y a une morale puisque au final ils ont leurs diplômes.\n        \n            ",
+            "likes": 0,
+            "dislikes": 1
+        },
+        {
+            "id": "review_58224839",
+            "author": "\n                            coperhead\n            \n                    ",
+            "date": "2018-01-31",
+            "rating": 2.5,
+            "text_content": "\n                    Au nombre de coups de poing et de coups de pieds ce film est presque un chef d’œuvre mais pour le scénario et les dialogues ,on en est bien loin . La note moyenne de 4.1 est vraiment exagérée à croire qu'il a été vu que par des",
+            "likes": 0,
+            "dislikes": 1
+        },
+        {
+            "id": "review_26497226",
+            "author": "\n                            basbi\n            \n                    ",
+            "date": "2011-08-7",
+            "rating": 3.0,
+            "text_content": "\n                    Ce second film nous plonge dans ce même monde de violence, mais en plus large. Il n'offre par conséquent rien de bien intéressant ni de novateur.\n        \n            ",
+            "likes": 0,
+            "dislikes": 1
+        },
+        {
+            "id": "review_16824961",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2010-09-23",
+            "rating": 5.0,
+            "text_content": "\n                    Trés bon suis bien le manga acteur stylé à regarder avec le 1\n        \n            ",
+            "likes": 1,
+            "dislikes": 1
+        },
+        {
+            "id": "review_20619016",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2014-09-1",
+            "rating": 4.0,
+            "text_content": "\n                    A mon sens, bien supérieur au premier volet dont il gomme les faiblesses et s'offre des moments de pure bravoure. Les combats sont mieux filmés, et c'est un plaisir de voir les charismatiques héros de Suzuran affronter de non moins impressionnants adversaires. Belle réussite de la part du déjanté Takeshi Miike !\n        \n            ",
+            "likes": 0,
+            "dislikes": 1
+        },
+        {
+            "id": "review_46534266",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2015-09-14",
+            "rating": 2.5,
+            "text_content": "\n                    Une déception ! Après un premier épisode réussi, nous avons affaire à une suite qui se prend trop au sérieux, avec moins de fight, des personnages moins bien mis en avant, des histoires plus ou moins annexes qui remplissent le manque de combats et de moments classes que nous avions dans le 1er épisode. ",
+            "likes": 1,
+            "dislikes": 2
+        },
+        {
+            "id": "review_26874858",
+            "author": "\n                            lorenzo fly\n            \n                    ",
+            "date": "2011-08-28",
+            "rating": 4.0,
+            "text_content": "\n                    Un ton en dessous que le premier opus. Toujours du très bon néanmoins dans un style toujours très soigné. Y a pas à dire ça déménage fort, un vrai plaisir!!\n        \n            ",
+            "likes": 0,
+            "dislikes": 1
+        },
+        {
+            "id": "review_44431042",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2015-11-5",
+            "rating": 4.5,
+            "text_content": "\n                    Les ingrédients du premier sont toujours là, avec des nouveaux personnages issus d'un lycée rival. L'histoire est bien construite, alors on adhère vite. Une suite logique.\n        \n            ",
+            "likes": 0,
+            "dislikes": 1
+        },
+        {
+            "id": "review_49191554",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2015-11-10",
+            "rating": 4.0,
+            "text_content": "\n                    Allons à l'essentielle, cette suite est d'une classe !, elle est logique, avec des combats excellents, et l'école rivale est vraiment intéressante ( Sérieux, ils auraient dû garder Bito, dans la trame principal, ce mec à clairement trop de style).",
+            "likes": 2,
+            "dislikes": 0
+        },
+        {
+            "id": "review_32082816",
+            "author": "\n                            Acidus\n            \n                    ",
+            "date": "2012-05-23",
+            "rating": 1.5,
+            "text_content": "\n                    Et hop !!! On reprend les mêmes et on refait la même chose !!!! C'est le cas de le dire tant ce second opus ressemble au premier. De la baston, encore de la baston, toujours de la baston. Le film n'est composé que de ça. Dans tous les cas, les fans du premier aimeront surement ce second Crows Zero.\n        \n            ",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_51969009",
+            "author": "\n                            Hammerstorm\n            \n                    ",
+            "date": "2016-06-14",
+            "rating": 5.0,
+            "text_content": "\n                    J'ai très peu de choses à dire sur le coup. C'est beaucoup plus facile de commenter un film moyen qu'un film qui frole la perfection. Certains me diront que la perfection n'existe pas et bien ces personnes n'ont pas vu Crows Zero 1 et 2. Absolument tout est génialissime. Je n'ai pas de mots pour dire à quel point je me suis éclater devant ce film. Les combats sont excellents, l'ambiance est énorme, la bande-son est magistrale et les personnages sont tous cultissimes ! Takashi Miike est un génie.\n        \n            ",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_19104038",
+            "author": "\n                            venom59\n            \n                    ",
+            "date": "2010-07-10",
+            "rating": 1.0,
+            "text_content": "\n                    Ce film posséde les mêmes défauts que le 1er en fin de compte: des personnages trop nombreux et on se retrouve vite perdu dans cette multitude. En plus, on tente d'y apposer une histoire alors que le film repose juste sur des combats assez violents dans l'impact des coups (l'explication de mon étoile). Sinon aprés, pas grand chose à sauver: un jeu outrancier (dans l'esprit d'un film asiatique), histoire inintéressante et pas de moments clés ou marquants.... Pour les amateurs de ce genre de film mais insuffisant pour moi!!!!!\n        \n            ",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_17157089",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2010-04-21",
+            "rating": 5.0,
+            "text_content": "\n                    Un film de malade aussi bien que le 1 avec cette fois ci tous le lycée réuni donc sa frappe dur, toujours aussi drole et des scéne de combats de follies donc rien n'a dire. Pour les fans du 1 à voir absolument\n        \n            ",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_21443596",
+            "author": "\n                            Mickael A.\n            \n                    ",
+            "date": "2010-10-8",
+            "rating": 5.0,
+            "text_content": "\n                    Genji encore et toujours une suite tres appréciable\n        \n            ",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_18453282",
+            "author": "\n                            DarkgothBTZ\n            \n                    ",
+            "date": "2010-06-14",
+            "rating": 4.0,
+            "text_content": "\n                    Ouah aussi bon que le 1er voir mieux !! De la baston en veux-tu en voilà, à la fin du film il doit y avoir plus de 30mn de baston non stop !! Le 1 et le 2 sont vraiment bien, à quand le 3 ? PS: Serisawa (Takayuki Yamada) a un charisme impressionnant.\n        \n            ",
+            "likes": 0,
+            "dislikes": 2
+        },
+        {
+            "id": "review_18668619",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2010-06-24",
+            "rating": 5.0,
+            "text_content": "\n                    Très bon film de combat sans aucun temps mort, avec une petite ambiance à la Dbz qui ravira tous les fans de manga\n        \n            ",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1036918820",
+            "author": "\n                            Kouto\n            \n                    ",
+            "date": "2025-09-15",
+            "rating": 3.5,
+            "text_content": "\n                    La formule est identique mais fonctionne toujours aussi bien dans cette suite mieux structurée et bénéficiant d’un meilleur sens du rythme sans oublier l’efficacité de la réalisation de Takashi Miike. Les personnages gagnent légèrement en épaisseur et l’histoire se suit sans déplaisir même si c’est bien évidemment les scènes de combats qui valent le détour, notamment la spectaculaire bataille finale.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_40300930",
+            "author": "\n                            zafkiel\n            \n                    ",
+            "date": "2013-12-23",
+            "rating": 3.5,
+            "text_content": "\n                    Suite de qualité du premier volet, ici l'ampleur des événements est bien plus grande et les acteurs sont tjrs aussi excellents. La baston est très bien rendue. L'ambiance Japon d'aujourd'hui montre un visage autre que celui qu'on a l'habitude de voir habituellement. L'esrpit et le code d'honneur que l'on voit dans la plupart des Shonens est bien là, le rendu final est de toute beauté et le film est jouissif du début à la fin malgré quelques petites longueurs. Du très bon cinéma d'action sauce japonaise !\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_19033060",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2010-12-27",
+            "rating": 4.0,
+            "text_content": "\n                    \"Crows Zero II\" c'est le film jubilatoire par exellence. Grâce à sa réalisation somptueuse où chaque plan est minutieusement préparé et à ses scènes de bastons hyper-défoulantes, ce bijou japonais est un régal sans temps mort. Après un premier opus déjà très convaincant, Genji et tous ces amis reviennent pour défier un nouveau gang symbolisé par des tenues blanches. Au-delà de tous ces codes immoraux illustrés dans ce film (bastons, guerre de gangs, collèges anéantis, etc.), on retiendra surtout la volonté des scénaristes à privilégier l'amitié avant tout, thème majeur du film. Tout simplement une référence et une valeur sûre en tant que \"manga-live\".\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_45135207",
+            "author": "\n                            eldarkstone\n            \n                    ",
+            "date": "2014-12-25",
+            "rating": 3.0,
+            "text_content": "\n                    Plus mature, plus violent que le premier mais moins fun ... Pas mal !\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_40027601",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2013-11-26",
+            "rating": 3.0,
+            "text_content": "\n                    Je suis surpris que devant une tonne de testostérone juvénile agrémentée d'une foulade de bagarres de poivrots, et bien je me régale! CZ2 reprends exactement les mêmes ingrédients que le premier film, et pour un sujet aussi fade, cette suite ne pouvait pas insérer de meilleurs éléments. Le fonctionnement du film est fort efficace et l'on finit par bien connaitre et s'attacher aux différents personnages. Un bon exemple comme quoi l'on peut prendre un peu de plaisir sur certains films aux antipodes de ce qui est censé nous intéresser. Je n'arrive pas à mettre une meilleur note que ça mais je vais y repenser.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_17458671",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2010-05-28",
+            "rating": 2.0,
+            "text_content": "\n                    Bizarrement, j'ai eu plus de mal avec cette suite... vraiment moins fun même si les bastons sont toujours présentent, il n'y a plus le petit truc qui m'a fait aimé le premier opus. Une réalisation bien plus fade que Crows Zero premier du nom, mais cela fait tout de même plaisir de retrouver tous les personnages dans une nouvelle aventure! Si il y a un troisième opus espérons qu'il emprunte plus au premier qu'au second.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_36626654",
+            "author": "\n                            maxime ...\n            \n                            \n                    ",
+            "date": "2013-03-25",
+            "rating": 2.5,
+            "text_content": "\n                    encore mieux que le premier, violent et intense des personnages hyper charismatiques serizawa et genji en tête se dernier il me troue le cul. sombre, superbement réalisé et des scènes de combat incroyable.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_25207977",
+            "author": "\n                            Scorcm83\n            \n                    ",
+            "date": "2014-11-16",
+            "rating": 4.0,
+            "text_content": "\n                    Un très bonne suite dans la lignée du premier, des scènes d'action époustouflantes, cependant la baston de fin devient un peu lourde au bout d'un moment, mais le charisme des acteurs, la BO et la mise en scène \"dynamique\" rattrappent cette petite erreur. Un grand film d'arts martiaux, et par la même asiatique.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_23266160",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2011-02-25",
+            "rating": 3.0,
+            "text_content": "\n                    Mouhais Sans plus. Entre \"Audition\" et \"Gozu\", Takashi Miike nous avait habitué a tellement mieux. \"Crows zero ii\" est un film très moyen. Tout d'abord le premier était nettement meilleur. Mais celui-ci reprend un peu les mêmes ingrédients et l'idée est d'un intérêt limité et le scénario est pathétique. Les qualités de l'oeuvre se jouent plutôt dans les scènes de combats ce qui n'en fait pas un film transcendant et d'une technique immense.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_20007639",
+            "author": "\n                            Dodeo\n            \n                    ",
+            "date": "2010-08-4",
+            "rating": 3.5,
+            "text_content": "\n                    L'effet de surprise passé du premier opus, il fallait maintenant confirmer sur Crows Zero 2. Mission relativement bien accomplie par Takashi Miike. Ce second opus s'avère bien plus rythmé que le premier, les enjeux beaucoup plus grand et les batailles encore plus nombreuses. Du coté des acteurs pas grand chose de nouveau, cette suite reprend donc beaucoup de personnages présents sur Crows Zero, les quelques nouveaux venus au casting assurent bien leur rôle. Mais le plus important c'est que Crows Zero 2 garde une âme assez proche de ce qui a été fait sur le premier avec toujours ce coté manga très bien exploité et une bande originale très dynamique qui illustre toujours parfaitement les scènes. On félicitera une nouvelle fois Takeshi Miike pour sa mise en scène très lisible des scènes de combat tout en gardant un certain dynamisme. On regrettera cependant un petit manque de charme qui avait donné ce coté sympathique au premier et le coté un peu lourd de certaines situations. Crows Zero 2 reste tout de même un film plaisant et prenant par son ambiance et ses personnages charismatiques, ce second film atteint donc le niveau de Crows Zero. Rendez-vous pour Crows Zero 3 !\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_21611675",
+            "author": "\n                            Benoit G\n            \n                    ",
+            "date": "2020-02-9",
+            "rating": 4.0,
+            "text_content": "\n                    Un bonne suite à un film qui m'avait laissé un très bon souvenir avec des bastons mémorables et une ambiance déjantée, à conseiller à ceux qui ont aimé le premier du nom, rien de bien nouveau mais c'est toujours aussi efficace.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1015080429",
+            "author": "\n                            Ykarpathakis157\n            \n                    ",
+            "date": "2021-05-17",
+            "rating": 0.5,
+            "text_content": "\n                    Takshi Miike est sans aucun doute l'un des réalisateurs les plus productifs au monde mais aussi l'un des plus mauvais au monde. Mais si vous produisez beaucoup de films le risque est assez élevé que certains d'entre eux soient du matériel de remplissage et c'est également le cas pour Crows Zero II. Je pense que ce film n'est intéressant que pour ceux qui ont vraiment apprécié le premier volet que moi j'ai détesté. Comme toujours la musique de ce film est trop présente et nous introduit une fois de plus dans la scène rock alternative japonaise. Deux groupes se produisent même en direct dans ce film dans un bar underground. Si vous êtes un fan de ce genre de musique vous devriez mettre la main sur la bande originale plutôt que sur le film lui-même. Un autre aspect négatif sont les décors et les décorations banales. Les lieux de tournage dans des gratte-ciels abandonnés ou d'écoles dans les banlieues désespérées des grandes villes ont la particularité de nous montrer le visage hideux du Japon. Les rues sombres et sales les bars clandestins et autres lieux obscurs sont également très bien choisis pour ne pas nous donner envie d'y aller...\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_45060176",
+            "author": "\n                            Sid Nitrik\n            \n                    ",
+            "date": "2014-12-16",
+            "rating": 2.0,
+            "text_content": "\n                    Retour au lycée Suzuran, où les élèves passent l'intégralité de leur temps à se bastonner et fumer clopes sur clopes en se les tournant, pour de nouvelles aventures encore plus musclées et décérébrées. Les alliances fragiles, les vieilles rancoeurs, la rivalité avec un établissement voisin et les questions existentielles à deux balles des protagonistes ne sont qu'un prétexte à Takashi Miike pour préparer une méga chicane finale avec coups de tête/balayettes, hectolitres de sang sur les chemises, répliques fleuries et tout le toutim. Un brin plus bourrin que le volet précédent, la formule de cette suite directe n'évolue guère d'un iota et s'adresse, une nouvelle fois, à un public d'ados en période de rébellion. On salue toujours des combats bien remuants mais difficile de relever une once d'intelligence dans ce pugilat stylisé à l'extrême. Mais ne vous inquiétez pas, certainement aidés par une intervention du Saint-Esprit, nos chères petites canailles finiront par obtenir leurs diplômes sans assister à une seule minute de cours. La magie du système éducatif nippon.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_17454121",
+            "author": "\n                            manoj94\n            \n                    ",
+            "date": "2010-05-21",
+            "rating": 3.0,
+            "text_content": "\n                    L'effet de surprise s'est un peu estompé. Un ton en dessous du premier volet, \"Crows Zero II\" reste néanmoins un bon divertissement. On reprend les ingrédients du succès : des rivalités, de la baston, de l'humour et des personnages loufoques. On saupoudre le tout à la sauce nippone et cela nous donne ce long-métrage déjanté. Un sympathique moment de détente.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_18935454",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2010-07-21",
+            "rating": 2.5,
+            "text_content": "\n                    Bouzi Bouzouf aime moyennement « Crows Zero II » de Takashi Miike (le remake français est sorti le 17 juin dernier et s'appelait : « France Zero II Mexique »). Le premier épisode (dont la critique de Bouzi Bouzouf apparaîtra si tu fais défiler l'écran avec ton index, lecteur), malgré une ligne scénaristique famélique (en gros : une jeune tête brûlée voulait devenir le chef d'un lycée en cassant la figure à toute la bande d'une autre tête brûlée – tiens, c'est drôle : cette phrase pourrait presque résumer le séjour que l'équipe de France vient de passer en Afrique du Sud), le premier « Crows Zero », donc, possédait malgré tout un peu d'épaisseur intellectuelle en montrant, par le biais de clans yakuzas auxquels le film s'intéressait, que les adultes étaient directement responsables de la violence de la jeunesse dans la mesure où celle-ci ne faisait que les imiter. Des constats sociologiques de ce type, le deuxième « Crows Zero » en est dépourvu, la priorité étant donné à la baston et rien qu'à la baston, que Miike filme en plus avec bien moins de virtuosité que dans le premier épisode. Nous retrouvons en tout cas les deux bandes qui se sont fritées dans l'opus précédent, deux bandes qui vont fusionner pour vaincre un lycée voisin commandé par des petites frappes aux looks capillaires encore plus extravagants que les leurs. Toute l'essence du film se trouve dans les mots que gueule soudainement le chef du lycée rival pendant l'affrontement, les yeux vers le ciel : « Nous sommes des bêtes ! » La violence est présentée en effet comme libératrice, épanouissante, émancipatrice ; en se livrant sans retenue à cette immense bagarre, les jeunes gens renouent avec une animalité primaire à travers laquelle ils s'affirment pleinement en tant qu'êtres humains (on est pas loin de « Fight Club », là). La manière dont la femme est traitée dans le film va dans ce sens. À un moment, une fille dit au héros : « Je suis ta copine. » Celui-ci répond : « Ah oui ? Ben je vais te baiser. »\n        \n            ",
+            "likes": 0,
+            "dislikes": 2
+        },
+        {
+            "id": "review_35729548",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2013-03-25",
+            "rating": 3.0,
+            "text_content": "\n                    Le premier était tellement débile qu'il en devenait fun à voir et il était donc pas si mal que ça. Et cette suite double la mise, donc c'est forcément mieux, (même si c'est aussi parfois grotesque) donc forcément bien. Un plaisir coupable.\n        \n            ",
+            "likes": 0,
+            "dislikes": 3
+        },
+        {
+            "id": "review_19021683",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2010-07-8",
+            "rating": 4.0,
+            "text_content": "\n                    Encore plus de bastons entre lycéens et de tronches commotionnées dans ce second volet des Crows Zero. Cette suite est toujours aussi jouissive malgré quelques problèmes de rythmes.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_26991884",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2011-09-3",
+            "rating": 3.0,
+            "text_content": "\n                    Ce second film se trouve être le digne successeur du premier \"Crows Zero\" et donne lieu à des combats haletants, que ce soient les mêlées ou les duels. On peut avoir l'impression de regarder un véritable western de bahut ! On n'ira évidemment pas critiquer les dialogues parfois stupides et les touches d'humour souvent débiles, car le concept assume bien ces aspects...",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_48802200",
+            "author": "\n                            David M.\n            \n                    ",
+            "date": "2015-10-9",
+            "rating": 3.5,
+            "text_content": "\n                    Meilleur que le premier rien n'a trop changeais dans le déroulement du film est des personnage je veux bien sur dire que sa reste la même chose Baston grossière mais bien rythmé pour ce film ect.. mais une préférence pour celui ci tout de même\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_54437673",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2017-01-28",
+            "rating": 3.0,
+            "text_content": "\n                    Dans la suite des aventures de nos lycéens qui aiment trop se mettre sur la gueule, un lycée rival monte sur le ring ! non il n'y a pas de ring, les bahuts sont là pour ça : pour se bastonner la tronche tranquille. Les études, les cours ? comme dans le premier Crows, on ne les voit jamais. L'école est une ruine déserte mais chaque matin, tout ce petit monde met son uniforme débraillé, se coiffe avec un pétard et une bombe de laque, allume une clope et se pointe comme une fleur les mains dans les fouilles.",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_49749452",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2016-01-29",
+            "rating": 2.0,
+            "text_content": "\n                    Après la bonne surprise qu'était le premier Crows Zero, je me suis empressé d'aller voir sa suite et je dois que pour le coup, c'est une déception. Pourtant ce ne sont pas les bonnes idées qui manquent ( le film en a beaucoup) mais la manière dont elles sont traitées. Tout d'abord, le fait d'incorporer une seconde école était une très bonne idée mais même si pour le coup le traitement est pas si mal, j'ai l'impression qu'ils auraient pu mieux faire à ce niveau-là ( peut-être en rendant moins long la bataille finale mais j'y reviendrai.) Ensuite, mon plus gros problème avec le film est le développement de Genji et de ses relations: le fait de lui faire questionner sur ses motivations était, encore une fois, une bonne idée mais le problème, c'est que les changements ne sont pas flagrants. Ce que je veux dire par là, c'est que même si il fait plus preuve d'humilité vers la fin, je n'ai pas vu de réel changement dans sa manière de combattre ( alors que c'était un peu le but de cette idée.) De plus, j'ai trouvé que l'idée du ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_33642544",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2012-09-18",
+            "rating": 4.5,
+            "text_content": "\n                    Encore mieux que le premier, les scènes de combat y sont beaucoup plus présents et intenses, le casting est encore au rendez vous avec quelque nouveau qui s'intègre bien, le scénario est réussi comme le premier, on aimerai vraiment la sortie du troisièmes opus mais bon . . .\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_28417700",
+            "author": "\n                            kroston\n            \n                    ",
+            "date": "2011-12-22",
+            "rating": 3.5,
+            "text_content": "\n                    La suite de Crows Zero est trés réussis visuelement ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_18772894",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2010-06-28",
+            "rating": 5.0,
+            "text_content": "\n                    Encore mieu que le 1 ,ce qui est tres difficile jattend d'impatience crows zero 3 ..\n        \n            ",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_17293969",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2013-02-26",
+            "rating": 3.5,
+            "text_content": "\n                    Dans le meme esprit que le premier !",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_28535500",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2015-05-27",
+            "rating": 3.5,
+            "text_content": "\n                    Suite (et fin ?) des aventures des lycéens de Suzuran. Prenant place vraiment juste après le premier, on est donc pas dépaysé, les même personnages, dans l'état dans lequel ils sont laissés après le premier opus, un nouvel adversaire, qui n'arrive pas de nulle part non plus. Car la force des Crows zero pour moi réside dans le background de chacun, qui a été bien travaillé pour un résultat excellent. Les histoires d'égo qui naissent, qui continuent ou au contraire qui meurent, les problèmes de chacun, en gros ce lycée est très vivant, on est pas paumés avec des personnages sans charisme (à part deux ou trois) qui ne savent même pas pourquoi ils sont là. Le truc bien c'est que le réalisateur se sert de tout cela, les vieilles rengaines qui peuvent ressurgir à n'importe quel moment etc... Et puis surtout, j'adore l'esprit dans lequel chacun est, car ce sont des jeunes qui savent qu'ils se battent pour quelque chose d'au final assez puéril, ils se battent par plaisir, ou parce qu'ils veulent se prouver quelque chose etc... Du coup, ce n'est pas rare de voir deux adversaires du moment plaisanter entre eux, ou garder de grosses rancunes, ici ce n'est pas l'histoire de deux pays qui entrent dans une guerre meurtrière, c'est l'histoire d'ados qui se tabassent dans une sorte de tradition ancestrale. Et c'est bien ça qui différencie ces films de tous les autres. Ce n'est pas un esprit de \"vivre ou mourir\" mais de \"montrer qui est le plus fort\", j'insiste là dessus mais ça change tout. On se balance des vannes, même entre deux personnes du même camp, on s'impose des défis, on a peur pour de vraies raisons (les problèmes de santé de Tokyo entre autres, ou la raison pour laquelle Suzuran et le lycée d'Hosen entrent à nouveau en guerre), un certain respect se dégage, même s'il s'agit d'humilier son adversaire en le battant, il n'y a pas un seul mort dans ces bastons là, c'est pas exagéré comme dans les productions américaines. C'est ce qui m'a énormément plu dans le premier, dans le deuxième encore plus, le scénario tient davantage de place qu'il n'y parait. Je le conseille donc aux fans de films d'action bourrins, mais aussi un minimum réfléchis.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_46757985",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2015-04-6",
+            "rating": 3.0,
+            "text_content": "\n                    Dans l'esprit du premier mais un ton en dessous. Beaucoup de nouveaux personnages, des scènes de combat plus longues mais du coup très chaotiques et assez invraisemblables sur la fin. On aurait aimé que l'intrigue autour de Kawaishimi soit plus exploitée car vraiment intéressante, mais sinon on prend toujours autant plaisir à voir ces teenagers badass s'en mettre plein la tronche.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_35358134",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2013-06-2",
+            "rating": 2.5,
+            "text_content": "\n                    Ce n'est vraiment pas du grand cinéma mais ça reste intéressant à regarder. L'histoire n'est pas génial, tout ce qu'on y voit c'est de la bagarre et tout ce qu'on espère c'est une belle victoire. Un peu d'amour l'aurait peut être rendu un peu plus intéressant. Ça reste un film que j'apprécie.\n        \n            ",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_23468704",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2011-03-10",
+            "rating": 0.5,
+            "text_content": "\n                    toujours nul comme le premier ce deuxième épisode réunit tous les ingrédients pour être vraiment nul et lassant à regarder.\n        \n            ",
+            "likes": 1,
+            "dislikes": 4
+        },
+        {
+            "id": "review_19847937",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2012-10-7",
+            "rating": 4.0,
+            "text_content": "\n                    Une suite très réussie , toujours dans la même ambiance que le premier opus, une scène final très spectaculaire, même si on a pas la magie du 1, le 2 est une vrai bombe dans le genre ! a voir et revoir evidement!!! :)\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_39387148",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2013-10-6",
+            "rating": 4.5,
+            "text_content": "\n                    je met 4,5/5 car ce film est tout simplement énorme , j'ai beau le voir et le revoir je m'en lasserai jamais (je l'ai vu 8 ou 9 fois m'en r'appelle plus ) avec une histoire qui déchire et des combat encore meilleure que le 1 .\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_35812924",
+            "author": "\n                            Léo M.\n            \n                    ",
+            "date": "2013-03-7",
+            "rating": 4.5,
+            "text_content": "\n                    Je rappelle quand même au gens que c'est une fiction !!! Certaine personne prenne ce film trop au sérieux ... Bon on reprend l'histoire la ou on la laissé (Genji vs Ryndaman) mais avec cette fois pas la prise de pouvoir de suzuran dans la tête (un petit quand même), mais plutot la guerre qui reprend entre 2 lycée rivale : Suzuran vs Oscen (ou \"Ossen\" je sais pas). Alors oui c'est vrai tout les personnages ont des coupes de cheveux a la DBZ et les acteurs ne sont pas toujours tres bon ... Mais on est quand meme aspiré dans le film !! Apres un bon Crows Zéro (4/5) on retrouve un excellent Crows Zéro 2 (4.5/5). cest un excellent défouloir avec toujours les identités des personnages très travaillés (",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_21607217",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2010-10-20",
+            "rating": 4.0,
+            "text_content": "\n                    Film très bien ! Comme le premier, mais la \"romance\" entre genji et rouka devrait être mise un peu plus en valeur.. Vivement le trois sil y en a un..\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_39323444",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2013-09-30",
+            "rating": 3.5,
+            "text_content": "\n                    Bonne adaptation du manga mais il faut être fan de manga pour en comprendre l humour........",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_33458359",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2012-09-3",
+            "rating": 4.0,
+            "text_content": "\n                    Mieux que le premier pour moi, les scènes de combat s'enchaînent, on a pas le temps de s'ennuyer..\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_54697892",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2017-02-19",
+            "rating": 2.0,
+            "text_content": "\n                    Et c'est reparti pour un tour avec les lycéens bagarreurs de Suzuran. Cette fois ci, ils changent de dimension et partent se castagner avec ceux du lycée rival. En gros, on a un copié collé du premier film (même la fin est similaire à celle du 1er) mais avec des enjeux bien plus importants (master of ironie) puisqu'il s'agit d'aller \"exploser\" ceux d'en face. A grands cris, surtout pour les effrayer, les gars encaissent plus que le grand Mike ou Georges Foreman c'est dire la puissance. Bref, un second volet qui a du mal à se renouveler et c'est bien dommage.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_37745662",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2013-06-14",
+            "rating": 4.5,
+            "text_content": "\n                    Un très bon film de combat qui contrairement a de nombreuses saga ou le second épisode ne vaut pas le premier, Crows Zero II égale le premier opus et le surpasse même au niveau des combats. Si vous avez vu Crows Zero I ne ratez pas ce second opus.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_17649572",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2010-05-30",
+            "rating": 5.0,
+            "text_content": "\n                    Les Street Beats, je vous adore encore et toujours (surtout en format 2:35) ! Bon, après avoir déclaré mon amour au groupe qui s'occupait du générique d'ouverture et final (comme dans le premier opus), je déclare mon amour à ce film (comme pour le premier opus) ! C'est un bon divertissement même si le scénario est assez simple et quelques fois prévisible (comme le premier opus mais en beaucoup mieux probablement du à un budget plus conséquent). Les acteurs sont encore et toujours très charismatiques (une pensée à Serizawa que je préfère encore et toujours face à Genji). On a envie de faire partie d'une bande, nous aussi, et de faire comme eux. De se battre, de conquérir le titre suprême et de se régaler.",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_22624939",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2011-01-8",
+            "rating": 4.0,
+            "text_content": "\n                    Suite vraiment bien où je préfère tout de même au premier volet, en effet, le cadre et déjà posté, nous connaissons les personnages alors c'est d'autant plus délectable. vivelent le troisième volet\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1011386420",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2020-11-11",
+            "rating": 5.0,
+            "text_content": "\n                    Un film rempli d'action et de scènes d'arts martiaux très réussi.",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_21857042",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2010-11-7",
+            "rating": 4.5,
+            "text_content": "\n                    Tout comme le premier opus, pour moi, ce film manque d'un scénario. Les acteurs sont très bien et ils ont repris leur rôle avec, il me semble, beaucoup de facilité.",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_53016142",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2016-09-28",
+            "rating": 4.5,
+            "text_content": "\n                    Tout à fait dans l'esprit du premier opus... Mais en encore plus coup de poing !! Un pur régal, tellement énorme que ça en devient jouissif !! ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_23018977",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2011-02-6",
+            "rating": 4.0,
+            "text_content": "\n                    Une bonne adaptation de Worst et de Crows, très esthétique, le film fonctionne bien grâce à la remarquable prestation des acteurs.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_20237264",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2010-08-10",
+            "rating": 2.5,
+            "text_content": "\n                    Il faut savoir se faire apprécier de son propre pays. ",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_34707654",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2012-12-1",
+            "rating": 3.5,
+            "text_content": "\n                    Si le scénario peut paraitre un peu copieux sur le premier opus, cette suite reste tout aussi jubilatoire !\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_39871439",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2013-11-13",
+            "rating": 4.5,
+            "text_content": "\n                    J'ai d'abord adoré le premier et avec ce deuxième je trouve que la fin es parfaite même si quelque événement nous font allusion a un troisième j’espère que cela arrivera. Un chef d'oeuvre pour moi :)\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_19229736",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2010-12-9",
+            "rating": 3.5,
+            "text_content": "\n                    Ceux ayant aimé le premier ne risquent pas d'etre dépaysés car celui reprend pour ainsi dire la ou s'est terminé le 1er...Avec exactement les memes acteurs.",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_18862349",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2010-07-1",
+            "rating": 4.0,
+            "text_content": "\n                    Un deuxième opus au rythme moins rock'n'roll que son prédécesseur ( je ne parle pas ici de la bande son qui garde tout son \"punch\") mais la mayo prend quand même ^^ .\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_21636565",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2010-10-23",
+            "rating": 5.0,
+            "text_content": "\n                    le 2 est encore meilleure que le premier et les acteurs super!\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_20235386",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2010-08-10",
+            "rating": 5.0,
+            "text_content": "\n                    C'est un film vraiment très bien réalisé. Les acteurs sont formidables, le scénario est en béton, les combats sont dynamiques, et les dialogues mytiques.",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_43119169",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2014-07-15",
+            "rating": 2.0,
+            "text_content": "\n                    Le film est pas terrible car comparé au 1er , il n'a pas changé. Il n'a pas de vrai chorégraphie de combat comme \"The raid \" ou \"Hong back\" ou \" le maître du Taichi\". Il s'identifie juste par son atmosphère de GTO , de bad boys et par ses personnages très charismatiques. Son coté humoristique rattrape un peu mais sans plus. Il n'a apporte pas d’élément qui puisse surprendre les spectateurs que se soit style de combat ou autre. Que se soit le 1 et le 2 , rien d'étonnant a changé. A part des bagarres de rues vraiment pas stylé et des gars qui se relève et qui souffre par des coups de poings. Ben je dis vraiment mauvais pour moi. Tous les intéressés qui veulent voir des bon combats d'art martiaux et des scènes de ouf , je vous déconseille. Tous les passionné de GTO et ceux qui aime l' atmosphère manga ou autre , je vous conseille ( scénario, personnages, bande de son, humour et baston).\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_42886652",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2014-06-16",
+            "rating": 5.0,
+            "text_content": "\n                    en vérité j'ai attendus la deuxième saison avec patience et vraiment il était plus que géniale j'étais toujours attiré  par les film et série japonaises et j'ai regardais des dizaines mais celui la ma surpris vraiment j'en trouverais pas comme lui et pas seulement beaucoup de personnes en le même avis et le même sentiment et attendes tous la troisième partie avec succès, normal pour le film qui a connus le plus grand nombres de spectateurs au Japon et qui a était classé parmi les film les plus connut du siècle ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_16858867",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2010-03-14",
+            "rating": 5.0,
+            "text_content": "\n                    Quand je pete je pu fort très bien du cul et que la merde dégouline\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1039053111",
+            "author": "\n                            David Miranda\n            \n                    ",
+            "date": "2026-04-20",
+            "rating": 3.5,
+            "text_content": "\n                    J'en suis complètement fan. Presque aussi bon que le premier. Je mets un très bon 15/20.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1039070183",
+            "author": "\n                            Sakiji Lord\n            \n                    ",
+            "date": "2026-04-22",
+            "rating": 5.0,
+            "text_content": "\n                    Crows Zero 2 est une suite réussie qui dépasse même le premier sur certains points. Les scènes de combat sont encore plus impressionnantes, plus intenses et mieux chorégraphiées. Le film garde la même ambiance sombre et stylée tout en développant davantage les personnages et les rivalités. La confrontation entre les différents lycées apporte une tension constante qui rend le film captivant jusqu’à la fin. On ressent vraiment la puissance, l’honneur et la détermination de chaque personnage. C’est une suite solide que je recommande à tous ceux qui ont aimé le premier.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        }
+    ]
+}

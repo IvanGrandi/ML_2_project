@@ -1,0 +1,654 @@
+{
+    "id": 189340,
+    "name": "Troupe d'élite : l'ennemi intérieur",
+    "release_date": "2012-02-10",
+    "runtime_in_minutes": 115,
+    "genres": [
+        "Action",
+        "Drame",
+        "Policier",
+        "Thriller"
+    ],
+    "synopsis": "\n                    Au Brésil, corruption, trafic et règlements de compte sont le lot quotidien de la police. Depuis l'arrivée à la tête des forces d'intervention du colonel Nascimento, réputé pour sa droiture, l'ordre semble en passe de revenir. Alors que lui et ses hommes doivent intervenir dans une prison en proie à de violentes émeutes, la situation leur échappe et cause la mort de nombreux détenus. Dès lors, Nascimento est affecté à  un nouveau poste, loin de toutes violences dans un bureau au calme : s'agit-il d'une punition où d'une nouvelle manière de combattre le crime ?\n        \n            ",
+    "reviews": [
+        {
+            "id": "review_37738662",
+            "author": "\n                            Smalpox\n            \n                    ",
+            "date": "2013-06-13",
+            "rating": 4.5,
+            "text_content": "\n                    Une pure merveille dans la suite du 1 ! Plus politique cette fois, on se rend compte de la corruption au plus haut point. Les allié d'avant sont les ennemis d'aujourd'hui, le trafic de drogues n'est plus la grosse source de revenu. Les relations humaines/familiales sont plus travaillée ce qui rend le film plus acceptable que le premier (qui était beaucoup plus trash).",
+            "likes": 4,
+            "dislikes": 0
+        },
+        {
+            "id": "review_37772100",
+            "author": "\n                            dinosaur jr\n            \n                    ",
+            "date": "2013-06-16",
+            "rating": 4.0,
+            "text_content": "\n                    Le deuxieme volet est aussi bon que le premier. Celui ci  s'attaque a la corruption politique et donne un eclairage  a la soi disante tranquillité actuelle des favelas suite à leur pacificafion par la police militaire.",
+            "likes": 5,
+            "dislikes": 0
+        },
+        {
+            "id": "review_38328994",
+            "author": "\n                            kevinsolstice\n            \n                    ",
+            "date": "2013-07-31",
+            "rating": 4.0,
+            "text_content": "\n                    aussi bon que le premier, on est vraiment pris par cette histoire de corruption et de meurtres\n        \n            ",
+            "likes": 3,
+            "dislikes": 0
+        },
+        {
+            "id": "review_37947257",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2013-07-2",
+            "rating": 4.0,
+            "text_content": "\n                    ",
+            "likes": 2,
+            "dislikes": 1
+        },
+        {
+            "id": "review_50290018",
+            "author": "\n                            Stephenballade\n            \n                            \n                    ",
+            "date": "2016-01-29",
+            "rating": 4.5,
+            "text_content": "\n                    Je suis resté longtemps sans savoir qu’une suite avait été donnée à l’excellent \"Troupe d’élite\". Je craignais d’être déçu, mais j’ai été vite rassuré. Le sujet reste le même, mais le combat est lancé d’un autre endroit : depuis un bureau à la décoration anonyme, à la différence près que la lutte prend une tournure un peu plus… personnelle. Autant le premier épisode fut une véritable bombe tellement la narration en voix off (entre autres) avait su nous immerger dans cet éternel combat, autant ici \"Troupe d’élite : l'ennemi intérieur\" est un peu moins immersif. Pourtant, cette production dénonce encore une fois la corruption, cette fois dans les plus hautes instances politiques qui, finalement (et on s’en doutait), trouvent leur compte dans les divers trafics. Nous gardons le même casting, de la réalisation à la distribution, ce qui permet de nous remettre rapidement dans le bain, même après un délai assez long entre les 2 numéros du diptyque. Je félicite le courageux José Padilha de s’être retroussé les manches pour nous offrir une suite à la hauteur d’un premier épisode, lequel était plus choc, plus trash. Il est presque arrivé au même niveau, mais on peut dire qu’il a su relever le défi. Chapeau bas, ce n’était pas facile, surtout sur un sujet aussi sensible. Mention spéciale à Sandro Rocha qui a donné une excellente réplique à Wagner Moura. Au final, en plus de l’histoire contée par le scénario, on retiendra aussi la performance de ces deux acteurs, promus véritables monstres sacrés de cet épisode.\n        \n            ",
+            "likes": 2,
+            "dislikes": 0
+        },
+        {
+            "id": "review_38968707",
+            "author": "\n                            Lemmy K\n            \n                    ",
+            "date": "2013-09-1",
+            "rating": 4.5,
+            "text_content": "\n                    Vraiment excellent ! Du réalisme avec un scenario tellement riche, complexe et bien ficelé qu'il ne peut qu'être réel ! Je n'ai pas vu le premier, mais je vais combler cette lacune !\n        \n            ",
+            "likes": 2,
+            "dislikes": 0
+        },
+        {
+            "id": "review_58966711",
+            "author": "\n                            pierrre s.\n            \n                            \n                    ",
+            "date": "2018-06-10",
+            "rating": 2.5,
+            "text_content": "\n                    Quand un film est très bon (ce qui est le cas de Troupe d’Élite), la tentation de faire une suite est souvent grande. Seulement voila, on est souvent déçu. C'est le cas ici, où la suite est assez largement inférieur à l'original. La faute à une histoire peut-être trop politisée et à des personnages fades et inhumains.\n        \n            ",
+            "likes": 1,
+            "dislikes": 2
+        },
+        {
+            "id": "review_29263769",
+            "author": "\n                            wesleybodin\n            \n                    ",
+            "date": "2012-02-17",
+            "rating": 4.5,
+            "text_content": "\n                    (...) une réponse remarquable à la Cité De Dieu nous prouvant que le cinéma brésilien a une place à se faire à l’international.",
+            "likes": 0,
+            "dislikes": 1
+        },
+        {
+            "id": "review_34330343",
+            "author": "\n                            Napoléon\n            \n                            \n                    ",
+            "date": "2014-12-19",
+            "rating": 3.5,
+            "text_content": "\n                    Changement total de direction disant adieux à la violence des favelas, pour s'attaquer avec profondeur à la politique base de tout le problème, mais l'action peut manquer.\n        \n            ",
+            "likes": 0,
+            "dislikes": 1
+        },
+        {
+            "id": "review_1034738809",
+            "author": "\n                            Charlotte28\n            \n                    ",
+            "date": "2025-04-5",
+            "rating": 4.0,
+            "text_content": "\n                    Sans concession, cette plongée dans les favelas brésiliennes dresse un constat désabusé, pessimiste, amer, sur la réalité du trafic de drogue qui satisfait les jeunes privilégiés, arme les déclassés, corrompt les policiers. Montrer la violence instituée, quotidienne, banalisée ne l'excuse ni ne la sublime mais l'assume puisque le déni ou l'indifférence nuisent. Porté par une distribution intense, ce récit en parallèle de l'initiation de jeunes recrues confrontées aux malversations, à l'isolement, à la brutalité et du dégoût du commandant dont la voix permet de contextualiser tout en offrant une focalisation cynique sur un système en roue libre offre une cadence très dynamique. Saisissant!\n        \n            ",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_46387300",
+            "author": "\n                            Redzing\n            \n                            \n                    ",
+            "date": "2015-03-9",
+            "rating": 3.5,
+            "text_content": "\n                    Après une prise d'otages dans un pénitencier de Rio qui tourne au vinaigre, le chef du BOPE (équivalent brésilien du GIGN) est muté dans l'administration. Il va alors tenter de lutter contre le crime depuis son nouveau poste, sans se rendre compte que les trafiquants qu'il expulse sont remplacés par une mafia policière. Ce deuxième \"Tropa de Elite\" monte d'un cran en terme de dénonciation. Le premier film se centrait sur les dealers et les rackets locaux de policiers ripoux. Cette suite pointe du doigt les politiciens électoralistes corrompus à haut niveau, et les rackets organisés par une armée d'officiers violents. Un fond politique assez fort, contenu dans un film qui évite le piège du pamphlet fasciste (il aurait été facile de tourner en ridicule les activistes de gauche et de glorifier les membres du BOPE), et montre la difficulté à combattre la corruption. José Padilha maîtrise donc son sujet, nous livre un film tourné en caméra à l'épaule, aux quelques séquences d'action efficaces, et à l'intrigue intéressante (et tristement proche de réalité). Les interprètes sont par ailleurs solides, notamment Wagner Moura, poignant dans le rôle principal. Un drame musclé.\n        \n            ",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_39585371",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2014-03-23",
+            "rating": 4.0,
+            "text_content": "\n                    Dans un style visuel similaire, le réalisateur José Padilha revient avec une suite directe de son grand succès, et élargit le champ de vision du spectateur sur le sujet des favelas en s'attaquant à la corruption institutionnelle : si l'absence ambiguë de morale des policiers dans le premier épisode pouvaient laisser un doute sur l'interprétation générale à en tirer, Tropa de Elita 2 remet les pendules à l'heures en remontant à l'origine d'un système gangrené, à l'image de son redoutable final. Les politiciens en prennent pour leur grade, et bien que la narration soit parfois un peu poussive, la caractère réaliste du récit renforce la puissance de la charge. Le film n'a pas à rougir face à son prédécesseur, bien au contraire !\n        \n            ",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_41740382",
+            "author": "\n                            Jiminou76\n            \n                    ",
+            "date": "2014-03-21",
+            "rating": 5.0,
+            "text_content": "\n                    Après une vue au sol dans le premier film, notre héros n'a plus qu'à rentrer dans les hautes sphères du pouvoir pour comprendre pourquoi il n'est pas si facile d'endiguer la corruption. Encore une fois, un film réussi, bien que moins porter sur l'action dans les favelas même. Mais toujours aussi efficace.\n        \n            ",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_33651733",
+            "author": "\n                            Gabriel B\n            \n                    ",
+            "date": "2012-09-22",
+            "rating": 3.0,
+            "text_content": "\n                    Ce second volet est moins bon que le premier, mais toujours aussi réaliste...\n        \n            ",
+            "likes": 0,
+            "dislikes": 1
+        },
+        {
+            "id": "review_39120668",
+            "author": "\n                            FaRem\n            \n                            \n                    ",
+            "date": "2013-09-10",
+            "rating": 2.5,
+            "text_content": "\n                    J'avais pas du tout aimé le 1er d'ailleurs faudra que je le regarde à nouveau car celui là est vraiment pas mal, l'histoire est plus intéressante que la banlieue et un peu moins déjà vu. Le coté réaliste est toujours présent et les acteurs sont très bons.\n        \n            ",
+            "likes": 0,
+            "dislikes": 4
+        },
+        {
+            "id": "review_29204780",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2012-02-12",
+            "rating": 4.0,
+            "text_content": "\n                    Excellent film qui, malheureusement, passe quasi inaperçu dans nos contrées ... Ne le prenez surtout pas pour un vulgaire film d'action de 3e zone, c'est vraiment à voir !\n        \n            ",
+            "likes": 0,
+            "dislikes": 1
+        },
+        {
+            "id": "review_30863977",
+            "author": "\n                            🎬 RENGER 📼 Cinéphile Nostal𝙂𝙚𝙚𝙠\n            \n                            \n                    ",
+            "date": "2012-04-15",
+            "rating": 3.0,
+            "text_content": "\n                    Ces dernières années, le cinéma Brésilien (surtout lorsqu’il aborde le thème des favelas : La Cité de Dieu - 2003 & La Cité des hommes - 2008) a tendance à bien s’exporter hors de ses frontières. C’est ainsi que José Padilha s’est rapidement imposé avec Troupe d'élite - Dans l'enfer des favelas (2007), grand lauréat de l’Ours d’Or 2008 au Festival de Berlin. Autant dire que ça force le respect. Trois ans plus tard il revient avec la suite de son précédent film où cette fois-ci, il dénonce très clairement les agissements de son gouvernement dont il dénonce la corruption qui a gangrené tout le pays. Il y dévoile aussi la façon dont les milices et les militaires tentent de faire le ménage (à leur manière) dans les favelas de Rio afin d’éradiquer les problèmes d’insécurité et de drogue. Mais ce que le réalisateur souhaite avant tout mettre en avant, c’est bel et bien la corruption de son gouvernement et des forces de police. José Padilha nous plonge au cœur des favelas où les échanges de tirs et les coups bas sont devenus légion. Les scènes d’affrontement entre les forces spéciales de l’armée et la troupe d’élite du BOPE (Bataillon d’opérations spéciales) sont criant de réalisme, tout comme pouvaient l’être celles du précédent opus. José Padilha ne change pas la recette de son succès, mais continu a dénoncer toujours plus et ce, sans aucune retenue. Pour la petite anecdote, Troupe d'élite 2 - L'Ennemi intérieur (2010) n’est pas passé inaperçu dans son pays d’origine puisqu’il est devenu (très rapidement !) le film le plus vu de l’histoire du cinéma !\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_55311414",
+            "author": "\n                            Eselce\n            \n                    ",
+            "date": "2017-04-11",
+            "rating": 5.0,
+            "text_content": "\n                    La digne suite de \"Troupe d'élite\". Cette fois-ci, la Bopé monte en puissance et s'attaque au système tout entier : Favelas, police corrompue et politiciens. Une très bonne mise en scène, des scènes d'action réalistes, beaucoup de décors et de personnages chacun avec une histoire et des explications qui ne laissent pas d'incompréhension sur ce qu'il se passe. Dommage que la caméra tremble pendant les scènes d'action. Mais à aucun moment, je ne me suis ennuyé.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1006197819",
+            "author": "\n                            ConFucAmuS\n            \n                            \n                    ",
+            "date": "2020-04-30",
+            "rating": 4.0,
+            "text_content": "\n                    À l'inverse du premier opus, Tropa de Elite 2 fut accueilli avec plus de bienveillance par la critique internationale. La réponse tient sûrement à son sous-titre, L'Ennemi de l'intérieur, qui dissipait le malentendu ayant entouré le prédécesseur (que certains n'avaient pas hésité à taxer de fasciste).",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_59264646",
+            "author": "\n                            Incertitudes\n            \n                    ",
+            "date": "2018-05-12",
+            "rating": 4.5,
+            "text_content": "\n                    Le moins qu'on puisse dire, c'est que ce n'est pas un Brésil de carte postale que nous propose José Padilha. Oubliez les images d’Épinal : le football, les plages de sable fin, les filles en bikini, le soleil, les cocktails. Rien de tout ça dans L'ennemi intérieur qui se veut encore plus politique que son grand frère. Le vrai problème, ce ne sont même pas les dealers. Eux, ne sont présentés que comme des gamins perdus. Ils s'ennuient. Comme personne ne leur laisse s'occuper de rien, on assiste à ces dérives. S'occuper du trafic de drogue. La véritable vermine est en costard-cravate. Elle travaille dans des bureaux situés dans des immeubles de grand standing dans les beaux quartiers. Ce sont les politiciens, ceux qui ont le pouvoir de décider, et qui ne sont uniquement préoccupés que par leur réélection. Une opération à mener ? Surtout pas. C'est le temps de la campagne électorale qui prime au détriment du bien-être des citoyens. Pour autant, ceux qui ne sont pas fans de joutes verbales, pas de panique. Les scènes d'action ultra-réalistes dans les favelas filmées caméra à l'épaule sont bien de la partie. Mais le constat reste accablant. Comme une hydre à plusieurs têtes, il suffit qu'on en coupe une pour que trois autres repoussent. Pessimiste, incontestablement, le film l'est. Il s'en dégage un fatalisme, une désespérance, une impuissance. Les politiciens, comme les trafiquants, ont cet instinct de survie. Même en prison, d'autres prendront le relais. Et rien ne changera véritablement. Constat implacable et le pauvre colonel Nascimento avec sa tête de chien battu n'a l'air que d'un pauvre phare au milieu de la mer.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_53048670",
+            "author": "\n                            EricDebarnot\n            \n                    ",
+            "date": "2016-10-2",
+            "rating": 4.5,
+            "text_content": "\n                    Si le premier \"Troupe d'élite\" avait été une claque cinématographique indiscutable, l'un de ses grands intérêts était la mise en pleine lumière de l’ambiguïté fondamentale de la lutte armée contre le crime, selon la vieille équation que utiliser les armes du Mal contre le Mal revient à se pervertir (débat que la lutte contre le terrorisme réactualise d'ailleurs...). \"Troupe d'élite : l'ennemi intérieur\" est certainement beaucoup plus consensuel, et ne saurait être accusé de complicité avec la violence fasciste de la police, dans la mesure où l'ennemi est cette fois le système politique lui-même. Qui vit ou a vécu au Brésil sait que Padilha et ses scénaristes touchent l'une des grands vérités du \"système\" brésilien, et le film - indiscutablement plus \"moral\", donc moins perturbant aux yeux des spectateurs européens - doit être vigoureusement applaudi pour son audace (... même si, bien entendu, un film ne changera rien !). Bien entendu, cette vigueur de la politique-fiction, de la dénonciation lucide de la corruption mafieuse typique de Rio de Janeiro (mais pas limitée à Rio, les derniers plans surplombant Brasilia sont clairs à ce propos...), ne fonctionnerait pas aussi bien sans la vigueur de la mise en scène, à la fois sèche et explosive, et sans la complexité impressionnante du jeu de Wagner Moura, un grand acteur brésilien qui mérite une reconnaissance internationale. \"Tropa de Elite 2\" est un beau film politique, ainsi qu'un superbe thriller réaliste, qui réconciliera tout le monde, fans ou détracteurs du premier \"Tropa de Elite\".\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_29867775",
+            "author": "\n                            boscopax\n            \n                    ",
+            "date": "2012-04-1",
+            "rating": 4.0,
+            "text_content": "\n                    Une suite très intelligente et qui ne tombe pas dans la facilité de la surenchère. Ici, l'action est basée non plus particulièrement sur les interventions de ce BOPE qui nous avaient époustouflé dans le premier volet, mais plus sur les relations des hommes de loi avec la corruption, la politique et les conséquences notamment familiales de l'amour de son métier. De l'action sentie mais pas à outrance, des enjeux politiques percutants et un final qui nous ramène au FIST avec Stallone. Le BOPE fait rêver les flics du monde entier, Tropa de Elite lui rend encore hommage.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_59417273",
+            "author": "\n                            benitoberlon\n            \n                    ",
+            "date": "2018-05-30",
+            "rating": 4.0,
+            "text_content": "\n                    Un chouia en dessous du 1er, mais quand même excellent!La scène d'intro dans la prison est nerveuse à souhait, pleine d'action. La suite l'est un peu moins, mais la réalisation est au top, et on suit tout ça avec beaucoup d’intérêt! Une réussite!\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1030530019",
+            "author": "\n                            Viintage_dreams T.\n            \n                    ",
+            "date": "2024-05-11",
+            "rating": 5.0,
+            "text_content": "\n                    Tropa de Elite 2 me confirme que le réalisateur est excellent. Le premier nous donne une mise en bouche, une introduction à la situation des favelas, cette guerre entre les trafiquants et les policiers. Or, ce deuxième, DENONCE FORTEMENT tout le SYSTEME POLITIQUE. On comprend que la faute de tous ces morts en favelas n’est pas seulement dû aux policiers corrompus mais surtout à cause des députés politiques. Tropa de Elite 2 comporte moins d’accions mais beaucoup plus de messages. Avec à la fin, le fait que changer le système prendra du temps. Ce film est prenant, violent, poignant. Je conseille fortement.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_54651205",
+            "author": "\n                            Dead-for-Someone\n            \n                    ",
+            "date": "2017-02-16",
+            "rating": 1.5,
+            "text_content": "\n                    \"Vous reprendrez bien un peu de fascisme ?\"  \"D'accord, mais juste par gourmandise !\" Après un film immonde, retour au Brésil avec les flics les plus psychopathes de la planète avec une suite meilleure techniquement mais toujours aussi écœurante.",
+            "likes": 0,
+            "dislikes": 3
+        },
+        {
+            "id": "review_1028591727",
+            "author": "\n                            Jonathan M.\n            \n                    ",
+            "date": "2024-01-1",
+            "rating": 3.5,
+            "text_content": "\n                    Troupe d'élite: l'ennemi intérieur malgré son nom est plutôt un bon film ! N'ayant pas vu le 1er je me suis lancé au vu des critiques et bien m'en a pris. José Padilha travaille ici principalement sur la thématique des favelas qu'il lie à la corruption étatique, aux médias et aux dysfonctionnements policiers. Tout cela dans un thriller entraînant et en poussant la réflexion c'est déjà très louable. La narration par la voix off est discrète, ça filme à l'américaine style end nineties, début 2000s à la Mann. Le cast est bon, mention spéciale à André Mattos qui campe Fortunato. A regarder en VO, la VF est cannée.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_29461315",
+            "author": "\n                            Flowcoast\n            \n                    ",
+            "date": "2012-02-29",
+            "rating": 3.0,
+            "text_content": "\n                    Ce 2eme volet à pas du sortir sur les ecrans francais en tout cas , le film reste d'un point de vue scénique assez bon , réaliste. Ca manque de suspense , et l'histoire devient très vite inssaisissable. Ca rend le public assez perplexe dans cette histoire.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_61532681",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2019-01-12",
+            "rating": 5.0,
+            "text_content": "\n                    Le retour de la troupe d’élite, des policiers militaires brésiliens arborant un logo qui fait réfléchir plus d’un, y compris les caïds des faubourgs défavorisés. Le crâne mort est une méthode de persuasion dictatoriale tant décriés par les associations et organisations des droits de l’homme. Le raid prend d’assaut des zones difficiles où règne l’anarchie et la tyrannie, le désordre a besoin d’ordre de nettoyage effectué par cette force de police. Un épisode qui s’incline plus vers l’intrigue politique, la main mise du sytème étatique, une corruption pesante règne au sein de sa police, à proximité des favelas. Le début du milieu carcéral de la réalisation libère son scénario, tout le monde brésilien est malhonnête et ne fait plus qu’il en redemande aux américains. Quelques intègres sont fidèles à leurs principes indélébiles et implacables, malgré que l’unité ne soit pas épargnée par la pourriture gangrenée de l’intérieur, le colonel Nascimento reste droit dans ses bottes avec quelque différent de contrariété politique. Autant de violence dans ce pays populeux, la disparité des richesses est très importante, que l’on essaie de distinguer la fiction dans tout ça, réalisé avant « Robocop 2014 », l’ambiance de la mise en scène est reconnaissable et est de la science-fiction en comparaison. Les drames sont des formes de coup de poing et les meurtres commis par le même uniforme représente de la fragilité réelle. Une histoire écrite par d’ancien fonctionnaire de Police brésilienne ne peut laisser qu’une forte impression au sentiment d’injustice impunie dans cette société, la définition en scène de la guerre des polices dans le déroulement percutant sous couvert d’une action menée contre les trafiquants de drogue. Passionnante explication politique qui perdure toujours, la fracture sociale entre riche et pauvre continue a existé, la machine infernale fonctionne à merveille. Elle fait sortir des petits politiciens improvisés et tirent bien à profit la situation économique qui n’a de cesse de pourchasser sinistrement le Brésil, la tête du pouvoir de système démocratique lui laisse le champ libre.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_34887461",
+            "author": "\n                            Aurélien T\n            \n                    ",
+            "date": "2013-03-10",
+            "rating": 4.0,
+            "text_content": "\n                    Un excellent film qui montre une corruption qui règne en maitre dans ce Pays , a tout les échelons possible. Je trouve juste dommage que le film ne soit pas sorti au cinéma.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1000498484",
+            "author": "\n                            FlecheDeFer ..\n            \n                    ",
+            "date": "2019-09-1",
+            "rating": 4.0,
+            "text_content": "\n                    Surfer sur la vague du succès surprise d'un premier film (Tropa de Elite fut numéro 1 du box-office brésilien à sa sortie) est toujours un pari risqué, surtout quand le premier film se suffit à lui-même, la scène de fin des aventures du BOPE ayant clôt la démonstration que voulait faire le réalisateur de façon particulièrement claire. Le pari est toutefois tout à fait réussi ici parce que les scénaristes ont eu l'intelligence de prendre un point de vue totalement différent pour éviter de se répéter: fini la vision du terrain, place à la vision politique. Et le film est brillant, Moura parvenant une fois de plus à être parfait dans son nouveau costume, et le propos restant particulièrement pertinent, troquant l'action et la réflexion sur le recours à la force pour les dérives politiciennes et la corruption qui minent le régime. La forme suit l'évolution du fond, le style documentaire étant remplacé par un format plus long-métrage plus consensuel qui, s'il est moins original et haletant, souligne bien mieux le propos que malgré la violence des Cartels, le sort des Favelas se décide avant tout dans les salons feutrés.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_29545632",
+            "author": "\n                            gregbutton\n            \n                    ",
+            "date": "2025-02-20",
+            "rating": 4.5,
+            "text_content": "\n                    Ce film prouve qu'il est possible de faire des films d'action intelligent. Celui-ci est un petit bijou. Le premier était pas mal sans plus, mais celui là progresse très largement et dans le scénario et dans les personnages.",
+            "likes": 0,
+            "dislikes": 2
+        },
+        {
+            "id": "review_23284043",
+            "author": "\n                            Alex\n            \n                    ",
+            "date": "2011-03-2",
+            "rating": 5.0,
+            "text_content": "\n                    Après une première partie très réussie on retrouve les mêmes personnages quelques années plus tard dans un registre différent et plus mature : si on retrouve certains ingrédients qui faisaient le succès du premier, l'intrigue est cette fois centrée sur les coulisses du pouvoir de la Police Militaire, du Secrétariat de la Sécurité et de la justice de l'Etat de Rìo. Une forme de violence différente donc, encore plus meurtrière... J'ai du mal à croire que je sois le premier à noter et poster une critique pour ce film oO\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_35073955",
+            "author": "\n                            SuperMadara\n            \n                    ",
+            "date": "2013-01-5",
+            "rating": 4.0,
+            "text_content": "\n                    Une suite encore plus puissante que le premier volet, José Padilha élargit son propos social tout en gardant la même énergie et le même réalisme. Chronique d'un Brésil pourri de l'intérieur, le scénario raconte la suite du commandant de la BOPE 13 ans après le premier film, ou les narcotrafiquants sont tombés pour laissé place aux flics ripoux et aux milices armées, une chronique qui s'étend désormais sur le terrain politique, un regard dur et travaillé sur un milieu politique et policier gangréné par la corruption et l'appat du gain, et le combat d'un homme face a cette pieuvre qui semble invincible, passionnant et vraiment réaliste ! Commandant de la BOPE dans le premier volet, Wagner Moura change de registre mais a toujours cette rage, cette conviction dans ses croyances qui se lit dans ses yeux, aidé de seconds rôles caricaturaux mais réussis. Avant de découvrir son remake hollywoodien de Robocop, José Padilha prouve qu'il est le fer de lance d'un cinéma brésilien énergique et vraiment bon, avec une mise en scène puissante, choc et qui sait utiliser la force des images pour faire passer son message. ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_49726764",
+            "author": "\n                            MC feely\n            \n                    ",
+            "date": "2016-01-17",
+            "rating": 3.5,
+            "text_content": "\n                    Plus politisé que le premier,on rentre dans les problèmes intérieur de corruption et magouille au Brésil.C'est intéressant et courageux de la part du réalisateur! 3,5/5\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_37870073",
+            "author": "\n                            Xavi_de_Paris\n            \n                            \n                    ",
+            "date": "2013-06-24",
+            "rating": 3.5,
+            "text_content": "\n                    Une suite qui en dit long sur l'état de corruption qui gangrène la police brésilienne, ainsi que le domaine politique. Ici, la terreur et la violence viennent bien plus du côté de l'ordre que de celui des gangs des favelas. La mise en scène assez dynamique permet de maintenir un intérêt certain à l'ensemble.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_32118218",
+            "author": "\n                            boul2\n            \n                    ",
+            "date": "2012-05-27",
+            "rating": 4.0,
+            "text_content": "\n                    On retrouve dans ce deuxième opus le lieutenant Nascimento, boss de la BOPE dans le premier volet. Contrairement au premier qui traite principalement de l'unité d'élite brésilienne, la BOPE, l'escouade policière à la tête de mort qui combat les trafics dans les favelas, dans celui ci l'histoire parle de la corruption qui règne dans ce pays, des petits trafiquants en passant par les forces de l'ordre et jusqu'au sommet de l'Etat. Encore un film très réussi, aussi bien que le premier même si le sujet n'est pas identique, j'adore.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_32241976",
+            "author": "\n                            Kloden\n            \n                    ",
+            "date": "2012-06-7",
+            "rating": 4.0,
+            "text_content": "\n                    Je suis, à l'image des critiques unanimes de mes confrères allocinéens, très satisfait par ce Tropa de Elite 2. A l'aide d'une réalisation très intelligente, José Padilha structure à merveille un film qui en devient meilleur que son prédécesseur. S'attaquant non plus uniquement à la corruption et à la violence policières, le réalisateur se permet une dénonciation sans ambages du système polycéphale et si difficile à abattre d'une société brésilienne pourrie. J'ai beau n'avoir une vision que très étriquée du cinéma sud-américain, le peu que j'ai pu en avoir entre les mains ressemble à du pain béni. A voir, vous l'aurez compris.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_29871699",
+            "author": "\n                            Don Keyser\n            \n                    ",
+            "date": "2012-04-1",
+            "rating": 4.0,
+            "text_content": "\n                    Aussi bon voire meilleur que le premier opus, \"Tropa de Elite 2\" est plus centré sur l'action, le rythme est accentué par une très bonne réalisation. Le scénario est parfait et rend le long-métrage très réaliste grâce au jeu convainquant des acteurs. On passe donc un pur moment d'action, nous divertissant et nous touchant donc c'est un film très réussi.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_29218237",
+            "author": "\n                            Pleymo210\n            \n                    ",
+            "date": "2012-02-13",
+            "rating": 3.5,
+            "text_content": "\n                    Malgré que très peu connu en France, \"Tropa de Elite 2\" a été un franc succès au Brésil. Une véritable plongée dans les troupes du Bope mais d'avantage axé sur la corruption politique plus que sur le véritable trafic de drogue dans les favelas. La narration pessimiste de l'acteur principal est efficace. On aurait néanmoins apprécier un rythme un peu moins lunatique. Tantôt le film est une véritable bombe, tantôt certains passages sont d'un ennuie à mourir. Malgré ce petit détail le film est passionnant de A à Z si on est un minimum intéressé par le scénario, les séquences filmées dans les favelas sont extrêmement réalistes d'autant plus que les acteurs sont convaincants dans l'ensemble sans pour autant briller. Un réalisateur brésilien et pourtant certaines scènes semblent être tout droit tirer d'un film hollywoodien. Une agréable surprise dans l'ensemble où nous pouvons faire abstraction des petits défauts que le film comporte pour le simple fait que ce n'est pas tous les jours que l'on regarde un film brésilien aussi captivant et qui donne l'impression de maîtriser le sujet de A à Z.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_29837329",
+            "author": "\n                            Julien Vasquez\n            \n                    ",
+            "date": "2012-03-30",
+            "rating": 3.5,
+            "text_content": "\n                    Bien que l'on ait une phrase au début qui nous rappelle que ceci est de la fiction, on a tendance à confondre avec la réalité. Un film qui se passe au Brésil mais qui pourrait se dérouler dans de nombreux pays tant le sujet est universel. José Padilha cherche à dénoncer la corruption qui règne dans la ville de Rio mais il oublie un peu le scénario qui aurait pu être plus développé.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1031796796",
+            "author": "\n                            Oni\n            \n                    ",
+            "date": "2024-08-24",
+            "rating": 4.5,
+            "text_content": "\n                    \"Troupe d’élite : L'ennemi Intérieur\" – Quand Nascimento troque la rue pour l'open space",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_25027673",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2011-05-22",
+            "rating": 5.0,
+            "text_content": "\n                    Suite tout aussi bonne que son original! Moins porté sur l'action mais plus sur la corruption des policiers et la politique, le film en garde tout au moins toute sa violence et toute sa portée dénonciatrice! Tout aussi coup de poing et prenant que la premier, le film se doit d'être diffusé en France!\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_29263446",
+            "author": "\n                            loeil38\n            \n                    ",
+            "date": "2012-02-17",
+            "rating": 1.5,
+            "text_content": "\n                    rien d'original dans le scénario c'est du déja vue plus le film avance et plus ont l'impression de regarder un tv film sur les favelas la voix off en devient soulante à la longue et casse l'intensité du film et le doublage des voix sont une catastrophe ça donne envie d'arrété le film\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_39021029",
+            "author": "\n                            Jeanne-Axelle\n            \n                    ",
+            "date": "2013-09-5",
+            "rating": 3.5,
+            "text_content": "\n                    Un bon film même si j'ai eu un peu de mal a identifier les personnages au début. Très réaliste au point de se demander si il ne s'inspire pas fortement de faits réels.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_29291819",
+            "author": "\n                            Kubrock68\n            \n                    ",
+            "date": "2012-02-19",
+            "rating": 5.0,
+            "text_content": "\n                    Les rapports entre les politiques, la police et la vie dans les favelas à Rio. Ce film est un immense coup de point dans la gueule. Il décrit comme je crois aucun autre film que j'ai vu, les rapports qui unissent les personnes qui dirigent un pays. Ici on est au Brésil, mais dans une moindre mesure il est évidemment que cela s'applique à d'autres pays. aux Etats-Unis il faudrait y ajouter le pouvoir militaire et financier, en France la momenklatura de la fonction publique et syndicale. Il est rare d'associer aussi finement histoire personnelle et histoire du pays. Le film aidé en cela par des acteurs prodigieux, a un côté documentaire par moment. On rêve de voir un film aussi radical en France. Le plus incroyable est qu'il n'utilise pas l'analyse paresseuse de droite ou de gauche, mais celle du non partisan, qui utilise encore son cerveau sans idées préconçues. Le plus grand film politique jamais tourné.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_33350201",
+            "author": "\n                            Michael R\n            \n                    ",
+            "date": "2012-08-27",
+            "rating": 4.0,
+            "text_content": "\n                    Une claque ! (encore) Le 1er décrivait avec réalisme la traque des narco dans les Favélas de Rio par les brigades d'intervention ; le curseur se déplace ici et devient plus politique (mais tout aussi captivant)",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_29334796",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2012-02-21",
+            "rating": 5.0,
+            "text_content": "\n                    Un film d'une rare justesse, d'une honnêteté intellectuelle, sans concession. Porteur d'un message international. Un film faisant clairement partit, comme le premier, de mon Top 10.",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_52348233",
+            "author": "\n                            Insp. Harry Callahan\n            \n                    ",
+            "date": "2016-08-6",
+            "rating": 5.0,
+            "text_content": "\n                    Je me méfie des sequels. On y revient car on était impressionné par le premier et qu'on a peur qu'on ne soit déçu. Et souvent les suites sont faits car les studios veulent profiter du succès du premier, et sans raison crédible.",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_29278540",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2012-02-18",
+            "rating": 4.0,
+            "text_content": "\n                    Très bon film qui réflète quasi totalement la réalité des états de situations de favelas et engrenages politiques brésiliennes. En tout cas ce film m'a bien captivé tant par l'histoire se révélant comme fictive mais basé sur la réalité, que dans la mise en scène des acteurs; comme quoi le cinéma Brésilien peut faire partie de la cour des grands. D'ailleurs comme le disait le com. d'avant il s'agit vraiment d'une bonne réponse à La Cité De Dieu que je considère comme le meilleur film Brésilien traitant le sujet de favelas ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_34948472",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2013-04-21",
+            "rating": 5.0,
+            "text_content": "\n                    Le premier volet était axé sur l'action et la violence brute. Cette suite y ajoute un axe politique qui forme la majorité de sa substance. Et si ce n'est pas manichéen et que le tout est équilibré, cela un donne un petit chef-d'oeuvre!\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_28275435",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2011-12-11",
+            "rating": 4.0,
+            "text_content": "\n                    Moins cinglant que le précédent, Tropa de elite 2 reste un très bon film.",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_44763562",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2014-11-22",
+            "rating": 4.5,
+            "text_content": "\n                    Au vu du titre, je m'attendais a un film d'action 'classique', voir une série B, mais au lieu de ca, j'ai pris une véritable claque, ce film est vraiment une excellente surprise. Il serait vraiment réducteur de le classer dans les films d'action:",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_33534688",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2012-09-9",
+            "rating": 4.0,
+            "text_content": "\n                    Pour parler de \"Topa de elite 2\", il faut voir le premier. Dans le premier beaucoup de spectateur on vu une vision plus fasciste du personnage principale, dans le 2, il équilibre. Le réalisateur n’hésite pas à faire une critique de la politique qui est assez courageuse, et sa rend le film plus interressant. Moins de violence, mais une grosse critique de la société brésilienne. Est-ce que la société décrite pourrait se faire dans notre propre pays? Possible on vit pas dans un monde de bisounours\n        \n            ",
+            "likes": 0,
+            "dislikes": 1
+        },
+        {
+            "id": "review_29251142",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2012-02-16",
+            "rating": 1.0,
+            "text_content": "\n                    Contrairement au précédent, le Tropa de Elite 2 est une grosse déception : trop brouillon, une voix off omniprésente qui en devient presque insupportable, reléguant les acteurs au rang d'illustrateurs de seconde zone, aucune profondeur, aucune évocation, et une économie de moyens pour un maximum de rentabilité. Nous ne sommes pas loin de l'arnaque pure et simple ! A moins que ce ne soit de la suffisance !\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_29189445",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2012-02-12",
+            "rating": 4.0,
+            "text_content": "\n                    Moins percutant que le premier, ce second opus n'en reste pas moins efficace et très critique envers la société brésilienne et ses favelas. Plus de recul dans la narration et peu moins d'action pour un scénario plus tourné vers la gangrène du monde politique et la police. Excellent film de José Padilha!\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_29250262",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2012-04-14",
+            "rating": 4.0,
+            "text_content": "\n                    Très bon film sur le sujet plutôt épineux qu'est la corruption du système et plus précisément sans le système censé protéger la population.",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_33903097",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2012-10-10",
+            "rating": 4.0,
+            "text_content": "\n                    Moins d'action mais plus de politique et de social, voilà ce qui vous attends dans ce deuxième opus où la qualité est toujours présente.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_23461314",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2011-03-9",
+            "rating": 4.5,
+            "text_content": "\n                    Avec Tropa de Elite 2 José Padilha frappe encore plus fort que dans le premier volet , avec un film plus ambitieux , toujours aussi pessimiste et encore plus violent . Ce deuxième opus est moins centré sur l'action que son prédecesseur et se révèle bien plus complet avec l'inclusion du monde politique dans le système de corruption brésilien et une dimension humaine plus profonde en raison des difficiles relations entre le capitaine Nascimento et sa famille . Les personnages se montrent également plus complet et intéressants et on retrouve avec plaisir les acteurs du premier Tropa de Elite . Même si le film est par moments un peu caricatural il n'en reste pas moins excellent dans son déroulement , son univers et son rythme soutenu . Un vrai coup de poing !\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_43015560",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2014-07-3",
+            "rating": 4.0,
+            "text_content": "\n                    la digne suite du un.............................................\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_38722104",
+            "author": "\n                            Mehdi\n            \n                    ",
+            "date": "2013-08-21",
+            "rating": 3.5,
+            "text_content": "\n                    Un bon film traitant de la corruption à Rio de Janeiro. 15 / 20.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_37726392",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2013-07-2",
+            "rating": 5.0,
+            "text_content": "\n                    Gros film!!! À voir absolument, le meilleur film Brésilien jamais réalisé. Âmes sensible s'abstenir...\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_56523114",
+            "author": "\n                            Davynch Lid\n            \n                    ",
+            "date": "2017-08-17",
+            "rating": 3.0,
+            "text_content": "\n                    Le premier Tropa de elite (ours d'or lors de la berlinale 2008) avait divisé la critique lors de sa sortie dans les salles françaises. Pour des journaux comme le Monde et Positif, Tropa de elite était un film d'une rare crétinerie doublé d'un fond nauséeux que n'aurait pas renié le Charles Bronson de la grande époque. Selon Brazil et L'humanité, le film de Padilha n'était pas aussi manichéen que l'on pouvait le croire. La critique de Brazil allant  même jusqu'à qualifier le film de magistral. Pour ma part, Tropa de elite 1 était la vraie adaptation live de Call Of Duty, un blockbuster tape à l'oeil qui misait sur la surenchère. J'avais quand même apprécié le film en dépit de l'hymne du \"tout sécuritaire\" proposé par le cinéaste. Véritable carton dans son pays natal, Tropa de elite voit sa suite débarquer deux ans plus tard. C'est la même équipe qui rempile pour foncer tête baissée dans les arcanes des magouilles gouvernementales. Beaucoup moins violent que le premier, Tropa de elite 2 oscille entre la trilogie des Jason Bourne et les films contestataires de Sidney Lumet. L'action est intégralement basée à Rio de Janeiro. Le héros du film et chef de la BOPE (une sorte de GIGN brésilien), découvre que la corruption gangrène toutes les administrations de la mégapole. Armé de sa vaillance et de son incorruptible esprit il va donner un coup de pied dans la fourmillière étatique. Beaucoup plus apaisé que dans le numéro un, José Padilha décrit admirablement le cancer qui ronge sa ville. La police agit comme une mafia, le gouverneur est complice d'une vingtaine de meurtres, les campagnes éléctorales sont sclérosées par la corruption, bref, c'est la bérézina dans l'administration. Heureusement, le héros du film ne peut gérer ces problèmes à lui tout seul (Charles Bronson pouvait le faire lui!). Le metteur en scène met en lumière l'autre côté de la carte postale. Réalisé avant les éléctions présidentielles, le film ne se contente pas d'aligner les scènes d'actions mais essaye de mettre le doigt sur un phénomène qui ronge les grandes villes brésiliennes depuis des décennies. Honnêtement, on est quand même très loin des films à dossiers de Lumet. Tropa de elite 2 n'arrive jamais à la cheville du Prince de New York. Le cinéaste parvient quand même à captiver le spectateur par une mise en scène fluide et nerveuse. Tropa de elite 2 tente de nous la faire à l'américaine tout en gardant sa spécificité. Les thèmes abordés sont propres au Brésil et c'est en cela que le film est intéressant. Pour tous les fans de Seu Jorge (ils sont des millions!), son rôle de gangsta ne dépasse pas les 5 minutes dans le film. Il vaut mieux voir La vie aquatique pour profiter du charisme du chanteur.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_26217368",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2011-07-21",
+            "rating": 4.5,
+            "text_content": "\n                    J'attendais beaucoup de ce second 'Tropa de Elite' ... et je n'ai vraiment pas été déçu ! Une intrigue qui vous prend aux tripes, des scénès d'actions qui vous mettent le sourire aux lèvres ... Sans aucun doute le meilleur film que j'ai visionné depuis quelques mois ! J'espere une grande diffusion, très mérité, de ce film en France, quoi que le visionner en version originale est très agréable pour les oreilles ! La voix grave portugueuse de la narration (la voix de Nascimento) souligne une chouette bande son. A voir sans hésiter, mis à part les âmes sensibles !\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_29206481",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2012-02-13",
+            "rating": 4.5,
+            "text_content": "\n                    Un second volet un peu moins speed que le premier mais tout aussi excellent ! Le colonel Nascimento affronte le système corrompu qui est le sien: la police et les hauts dirigeants ! ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1025571874",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2023-05-31",
+            "rating": 4.0,
+            "text_content": "\n                    Après les gangs, voici venues les milices, qui occupent effectivement de nombreuses zones urbaines brésiliennes. Bon jeu d'acteur, scénario toujours réaliste. Un bon film, dans la continuité du premier.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1010775075",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2020-10-15",
+            "rating": 4.5,
+            "text_content": "\n                    Dans la même lignée de la série \"Bom dia Veronica\" avec, encore une fois, l'excellente actrice Tania Muller, dans la même veine, des polards politicards mafieux, comme chez nous, en France, 4.5/ pour moi, car, légèrement moins bien que la série, que je cite plus haut, dans ce commentaire, que j'ai vue, en entier et dont j'attends, vivement, la 2 ième saison, avec la même actrice ...\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_38608473",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2013-08-14",
+            "rating": 5.0,
+            "text_content": "\n                    Très bon film. Un peu long peut être à accrocher mais très profond. On se demande vraiment à la fin si ce n'est pas la réalité et qu'il est prétendu être une fiction pour ce couvrir. Ce film fait vraiment réfléchir et on aimerai en voir d'autres sur la relation pouvoir et politique pour d'autres pays, qui soit aussi bien réalisé\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_29264371",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2012-02-17",
+            "rating": 4.5,
+            "text_content": "\n                    un numéro 2 est toujours moins bon,mais l'histoire est bonne sans oublier l'actions bref se filme est de la bombe sa change des filme ricains Bref se film raconte bien la corruption est la pauvreté qui mine le Bresil ,un police violente BOPE est un éscadrons de la mort sans oublier les armes de guerre contre une population pauvre qui vie ds les favelas ,tant que le problème de Drogue ne sera pas géré par l'état il y auras du narco trafic!!!!\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_29851508",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2012-03-31",
+            "rating": 4.5,
+            "text_content": "\n                    Le 2ème volet prend de la hauteur et nous montre l'ampleur de la corruption qui est présente à tout les échelons.",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_28626605",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2012-01-4",
+            "rating": 5.0,
+            "text_content": "\n                    Après avoir lu le livre (qui vient tout juste de sortir en français), j'avais peur de découvrir le film, mais en fait il est tout aussi génial ! C'est quand même le film le plus vu de l'histoire du cinéma au Brésil, certainement parce que 90% des faits racontés sont une réalité dans les favelas... A voir\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1003632508",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2020-03-7",
+            "rating": 5.0,
+            "text_content": "\n                    J'aime beaucoup le film je peux regarder 100 fois c'est mon série préférée j'adore énormément la bope\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        }
+    ]
+}

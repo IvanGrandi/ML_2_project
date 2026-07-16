@@ -1,0 +1,2327 @@
+{
+    "id": 378,
+    "name": "L'Evadé d'Alcatraz",
+    "release_date": "1979-10-31",
+    "runtime_in_minutes": 112,
+    "genres": [
+        "Action",
+        "Drame",
+        "Policier"
+    ],
+    "synopsis": "\n                    Frank Morris s'est évadé de plusieurs prisons. En 1960, il est écroué et transféré au célèbre pénitencier d'Alcatraz construit sur un piton rocheux face à la côte. Il réussira, une nouvelle fois avec deux complices, à s'évader de la prison la plus surveillée des Etats-Unis.\n        \n            ",
+    "reviews": [
+        {
+            "id": "review_33728008",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2012-09-24",
+            "rating": 5.0,
+            "text_content": "\n                    Sans doute l'un des meilleurs films de Clint Eastwood en tant qu'acteur. Mais quel est le meilleur ? Qu'il soit acteur, ou réalisateur, je ne connais pas de navets le concernant. En tout cas, cette superbe réalisation signée Don Siegel, un spécialiste du polar, reste un film mythique qui retrace bien l'ambiance des prisons américaines de l'époque. Clint Eastwood donne à son personnage une authenticité impressionnante. La tension est palpable à chaque instant et les relations entre les différents prisonniers sont bien rendues : friction, méfiance, complicité, violence, amitié... Bref, un grand moment de cinéma.\n        \n            ",
+            "likes": 14,
+            "dislikes": 2
+        },
+        {
+            "id": "review_1035398080",
+            "author": "\n                            GyzmoCA\n            \n                            \n                    ",
+            "date": "2025-04-25",
+            "rating": 4.0,
+            "text_content": "\n                    Avec L’Évadé d’Alcatraz, Don Siegel signe l’un de ses meilleurs films, un thriller carcéral tendu et captivant, porté par un Clint Eastwood en grande forme. Le réalisateur retrouve ici son acteur fétiche, avec qui il a déjà tourné plusieurs classiques (L’Inspecteur Harry, Les Proies, Un shérif à New York…). Pourtant, derrière la caméra, le tournage fut tendu : des tensions liées à la production — partagée entre Siegel et la société de production Malpaso d’Eastwood — ont bien failli entacher leur collaboration. Finalement, un équilibre 50/50 aura permis à ce duo légendaire de livrer un grand film.",
+            "likes": 10,
+            "dislikes": 0
+        },
+        {
+            "id": "review_39110426",
+            "author": "\n                            The Cinephile World \n            \n                    ",
+            "date": "2013-09-9",
+            "rating": 5.0,
+            "text_content": "\n                    ''L'Evadé d'Alcatraz'' était un film que j'avais drôlement envie de voir, car vu que j'aime beaucoup les films d'évasion, et que j'adore Clint Eastwood, j'ai décidé de me mater ce film pour voir ce que cela donne, et ja'i passé un très bon moment. Je trouve ce film très captivant et très intéressant, car dès le début du film, le scénario est très intéressant. Quand au réalisateur, c'est sur que l'on ne s'attend pas à un mauvais film, car il s'agit de Don Siegel (à qui l'on doit L'Invasion des Profanateurs de Sépultures, A Bout Portant, Les Proies et L'Inspecteur Harry). La réalisation est très bonne, car le film est très bien filmé, même si selon moi, je trouve qu'il a un peu vieillit (au début du film, on voit qu'il y a une fausse pluie). Le film est très prenant dès le début, car on se dit si notre personnage va réussir à s'échapper ou pas de la prison d'Alcatraz. Quand aux acteurs, ils sont tous très convaincants, y a rien à dire, surtout Clint Eastwodd est comme d'habitude parfait dans ses rôles, voir magistral, dans la plupart de ses films, Patrick McGoohan (qui avait joué dans ''Destination Danger'', ''Le Prisonnier'', ''Columbo'', ''Scanners'' et ''Braveheart''). Quand à la musique, elle colle vraiment bien avec l'ambiance du film. ",
+            "likes": 7,
+            "dislikes": 2
+        },
+        {
+            "id": "review_50235511",
+            "author": "\n                            ER  9395\n            \n                    ",
+            "date": "2016-01-30",
+            "rating": 3.5,
+            "text_content": "\n                    Une vraie réussite que ce film tirée d'une histoire vraie avec un Clint Eastwood en grande forme et ",
+            "likes": 6,
+            "dislikes": 1
+        },
+        {
+            "id": "review_21950941",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2010-11-13",
+            "rating": 5.0,
+            "text_content": "\n                    Un classique du cinema réalisé par un Don Siegel très inspiré et interprété par un Clint Eastwood et un \"Prisonnier\" au sommet de leur forme.\n        \n            ",
+            "likes": 6,
+            "dislikes": 1
+        },
+        {
+            "id": "review_1010673272",
+            "author": "\n                            Alexarod\n            \n                            \n                    ",
+            "date": "2020-10-10",
+            "rating": 3.0,
+            "text_content": "\n                    Vanté comme un des meilleurs films d'Eastwood, enfin surtout depuis qu'il a connu le succès en tant que réalisateur bizarrement, car au moment de sa sortie... Bref, passées les apparences on découvre un film, ben somme toute moyen.",
+            "likes": 4,
+            "dislikes": 1
+        },
+        {
+            "id": "review_1612945",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2013-11-15",
+            "rating": 5.0,
+            "text_content": "\n                    très grand film sur la plus célèbre des évasion d'alcatraz entièrement tourné à alcatraz ou les studios de production investire plus de 500 000 dollars pour sa rénovation. beaucoup de détails furent apportés pour le film comme le bateau qui amènent les détenus qui est authentique. l'histoire est grandiosement interpréte par le très grand Clint Eastwood et peter mc gowann dans le rôle du directeur de prison tout aussi bon. une histoire vrai à découvrir!!\n        \n            ",
+            "likes": 5,
+            "dislikes": 0
+        },
+        {
+            "id": "review_28996885",
+            "author": "\n                            fandecaoch\n            \n                    ",
+            "date": "2012-01-29",
+            "rating": 5.0,
+            "text_content": "\n                    L'Evadé d'Alcatraz est vraiment un des meilleurs film d'évasion, très palpitant et très captivant avec une tension palpable et un stress du début jusqu'à la fin. Vraiment ce film est une réussit. De part sa réalisation signé Don Siegel qui fait encore des merveille: les plans de caméra sont magnifique: simple, posé et redoutablement efficace, réalise a l'ancien, excellent boulot et en plus le film a été tourné sur le lieux réel et sa c'est absolument génial et donne un certains caché au film. L'histoire est donc très prenant car c'est basé sur des fait réel et c'est aussi très captivant car on a envie de savoir si il va réussit a s'échappe de la mythique prison d'Alcatraz. Les acteurs sont tous parfait et très convaincant, surtout Clint Eastwood qui est encore une fois excellent, très inspiré et parfait dans son rôle. Bravo. Les musique ajoute a l'ambiance et au stress du film et sa c'est excellent. Voila un classique du cinéma. Un coup de coeur mais aussi un pur chef oeuvre.\n        \n            ",
+            "likes": 7,
+            "dislikes": 7
+        },
+        {
+            "id": "review_54647430",
+            "author": "\n                            Yannickcinéphile\n            \n                            \n                    ",
+            "date": "2017-02-15",
+            "rating": 4.0,
+            "text_content": "\n                    Don Siegel signe avec L’Evadé d’Alcatraz un film carré, efficace, pas forcément très imaginatif en terme de réalisation ou sur le plan scénaristique, mais qui appartient à ces films indémodables parce que simplement réussis.",
+            "likes": 3,
+            "dislikes": 1
+        },
+        {
+            "id": "review_2882451",
+            "author": "\n                            selenie\n            \n                            \n                    ",
+            "date": "2010-01-8",
+            "rating": 5.0,
+            "text_content": "\n                    Vu et revu comme on dit, mais un film méconnu de Eastwood qui est pourtant plus réussi. Eastwood égal à lui-même dans un scénario classique mais ou on ne s'ennuie pas 1 seconde. Mc Goohan est un méchant qu'on aurait aimé voir plus souvent.\n        \n            ",
+            "likes": 4,
+            "dislikes": 0
+        },
+        {
+            "id": "review_40578360",
+            "author": "\n                            Chuck Carrey\n            \n                    ",
+            "date": "2014-01-15",
+            "rating": 3.5,
+            "text_content": "\n                    Inspiré de faits réels, \"L'évadé d'Alcatraz\" raconte la tentative de fuite de Frank Morris (joué par un très bon et encore jeune Clint Eastwood) détenu à Alcatraz réputée pour sa théorique impossibilité de s'enfuir. Aidé par quelques amis, Frank Morris va élaborer un plan pour essayer de déjouer la surveillance de cette prison. Le scénario est donc assez simple mais efficace bien que recelant peu de surprise. Il est regrettable que l'univers carcérale n'ai pas été représenté plus sombre car la vie à Alcatraz était extrêmement dure. Néanmoins, il n'y a aucun temps mort et il nous arrive de nous inquiéter pour Frank Morris, ce qui rend le film prenant.\n        \n            ",
+            "likes": 4,
+            "dislikes": 0
+        },
+        {
+            "id": "review_5788942",
+            "author": "\n                            NeoLain\n            \n                            \n                    ",
+            "date": "2008-02-15",
+            "rating": 5.0,
+            "text_content": "\n                    Ce qui surprend dans ce film c’est le traitement des personnages. Contrairement à celui de Frank Darabont, Les Evadés, le récit ne participe jamais réellement à développer la psychologie des détenus. On ne sait d’ailleurs pas les raisons pour lesquelles Morris a été incarcéré ni l’étendue de sa peine. L’incarcération est alors synonyme de dépossession de soi, les détenus devenant de simples numéros. Comme le dit Warden à Morris dès son arrivée au rocher : « Ceux qui ne se conforment pas aux règles de la société sont envoyés en prison, et ceux qui n’arrivent pas à se conformer aux règles de la prison sont envoyés ici. » Alcatraz est un gouffre, un lieu dont on ne revient pas, dont on ne s’échappe pas. Une sorte de quartier D, de mitard permanent. Il est intéressant de voir comment le scénario développe la relation conflictuelle entre Morris et Warden. Autre point fort du film, son atmosphère oppressante, étouffante. Le quotidien carcéral assomme par sa monotonie, par son absence de couleur. Tout y est terne, délavé, sans la moindre once d’espoir. Tout est fait pour briser le moral du détenu, notamment les cellules individuelles, qui plus est minuscules. Cette absence de chaleur se retrouve dans les dialogues, secs, amers et empreints d’un humour noir, d’un cynisme à toute épreuve. Un petit exemple, Charley Butts à Morris : « Merde, comment elle a été ton enfance ? » et l’autre de répondre sans sourciller : « Courte ». Au passage on peut noter que le scénario est signé Richard Tuggle, qui dirigera Eastwood cinq ans plus tard dans La corde raide, polar aussi dérangé que dérangeant. Au final, un excellent film de prison, avec une première partie qui pose les lieux et les personnages d’une manière classique et efficace et une seconde partie consacrée à l’évasion réellement captivante.\n        \n            ",
+            "likes": 3,
+            "dislikes": 0
+        },
+        {
+            "id": "review_53154372",
+            "author": "\n                            Attigus R. Rosh\n            \n                    ",
+            "date": "2016-10-13",
+            "rating": 4.0,
+            "text_content": "\n                    L'évadé d'Alcatraz est un excellent film signé Don Siegel.",
+            "likes": 3,
+            "dislikes": 0
+        },
+        {
+            "id": "review_18081566",
+            "author": "\n                            pfloyd1\n            \n                    ",
+            "date": "2010-06-4",
+            "rating": 4.0,
+            "text_content": "\n                    C'est un vieux film et ça se voit mais les plans sont bon , la realisation aussi.L'histoire est haletante sans reel rebondissements mais Mr Eastwood à ses debuts (...) joue deja merveillesement bien.\n        \n            ",
+            "likes": 2,
+            "dislikes": 2
+        },
+        {
+            "id": "review_10531321",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2008-10-8",
+            "rating": 4.0,
+            "text_content": "\n                    Bonnes interprétations de Clint Eastwood et de Patrick MacGoohan. Excellent suspense. Bon scénario plein de rebondissements.\n        \n            ",
+            "likes": 1,
+            "dislikes": 1
+        },
+        {
+            "id": "review_26655280",
+            "author": "\n                            gimliamideselfes\n            \n                            \n                    ",
+            "date": "2011-08-16",
+            "rating": 4.0,
+            "text_content": "\n                    Je pense que c'est mon film préféré de Siegel (pas que j'en ai vu des tonnes), il a su pleinement conquérir mon coeur sur ce coup ci. Eastwood est vraiment un acteur charismatique, et Siegel un bon metteur en scène les deux ensemble ça fait mouche. On se souvient tous de l'inspecteur Harry.",
+            "likes": 2,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1013810534",
+            "author": "\n                            Uchroniqueur\n            \n                    ",
+            "date": "2021-03-17",
+            "rating": 4.0,
+            "text_content": "\n                    \"L’Évadé d’Alcatraz\" (Escape from Alcatraz), un classique américain écrit par Richard Tuggle et réalisé par Don Siegel, sorti en 1979. Adaptation du livre de éponyme de J. Campbell Bruce qui raconte l'histoire vraie de l'évasion de Franck Morrs de l'île-prison en 1962. L'évasion de Franck Morris, qui ne fût jamais retrouvé, entraînera  la fermeture d'Alcatraz en 1963. ",
+            "likes": 2,
+            "dislikes": 0
+        },
+        {
+            "id": "review_61971916",
+            "author": "\n                            Nicolas S.\n            \n                    ",
+            "date": "2019-02-18",
+            "rating": 3.5,
+            "text_content": "\n                    \"L'évadé d'Alcatraz\" (titre français d'ailleurs en partie faux ; \"S'évader d'Alcatraz\" aurait été la traduction du titre original et aurait respecté l'histoire) est un des films clés du genre pénitentiaire. Il inspirera ensuite de grands films et notamment ceux de Franck Darabond (\"Les évadés\" et \"La Ligne Verte\").",
+            "likes": 2,
+            "dislikes": 0
+        },
+        {
+            "id": "review_61291688",
+            "author": "\n                            CH1218\n            \n                    ",
+            "date": "2018-12-23",
+            "rating": 3.5,
+            "text_content": "\n                    Bien qu’ils étaient trois à fausser compagnie aux gardiens du pénitencier d’Alcatraz dans la nuit du 11 juin 1962, la singularisation de son titre français met en avant la présence du grand Clint à son générique. Fidèle à lui-même, on retiendra en priorité la solide mise en scène de cette divertissante reconstitution orchestrée par Don Siegel.\n        \n            ",
+            "likes": 2,
+            "dislikes": 0
+        },
+        {
+            "id": "review_35116169",
+            "author": "\n                            MC4815162342\n            \n                    ",
+            "date": "2014-03-24",
+            "rating": 4.5,
+            "text_content": "\n                    la catégorie Best Film of the world présente: L’évadé d'Alcatraz.",
+            "likes": 1,
+            "dislikes": 1
+        },
+        {
+            "id": "review_1015541557",
+            "author": "\n                            OMTR\n            \n                    ",
+            "date": "2023-10-28",
+            "rating": 4.5,
+            "text_content": "\n                    « ",
+            "likes": 2,
+            "dislikes": 0
+        },
+        {
+            "id": "review_39487698",
+            "author": "\n                            Benjub\n            \n                    ",
+            "date": "2014-01-7",
+            "rating": 5.0,
+            "text_content": "\n                    Clint Eastwood, comme d'habitude excellent, joue le rôle d'un prisonnier qui va s'enfuir de la prison d'alcatraz, la prison la plus surveillée des USA, avec 2 complices dans un film d'évasion haletant et passionnant!\n        \n            ",
+            "likes": 1,
+            "dislikes": 1
+        },
+        {
+            "id": "review_1008754024",
+            "author": "\n                            Objectivons\n            \n                            \n                    ",
+            "date": "2020-07-14",
+            "rating": 3.0,
+            "text_content": "\n                    Le principal intérêt de ce film est son suspens, et cela même lorsqu'on sait ce qui se passe au final en ayant regardé le synopsis de Wikipédia, car c'est surtout le \"comment\" et la tension qui finit par s'installer qui pimentent une histoire d'évasion comme on a déjà pu en voir dans d'autres réalisations.\n        \n            ",
+            "likes": 0,
+            "dislikes": 1
+        },
+        {
+            "id": "review_62545564",
+            "author": "\n                            Charlotte28\n            \n                    ",
+            "date": "2019-04-15",
+            "rating": 3.0,
+            "text_content": "\n                    Clint Eastwood, au-delà de son élégant charisme et de son jeu sobrement singulier incarne une icône américaine, donnant une saveur particulière à ses films. Face à lui s'impose un excellent Patrick Mc Goohan. Pour le reste, la restitution minutieuse de la préparation d'évasion laisse pourtant certains aspects de côté et ne transmet pas de réelle tension, l'issue étant certaine. Une réalisation classique, très ancrée dans son époque, et malheureusement un peu surannée.\n        \n            ",
+            "likes": 0,
+            "dislikes": 1
+        },
+        {
+            "id": "review_61248528",
+            "author": "\n                            Philippe C\n            \n                    ",
+            "date": "2018-12-19",
+            "rating": 2.5,
+            "text_content": "\n                    Un film qui se tient, mais n'est pas, à mes yeux, ni le meilleur Clint Eastwood, ni le meilleur des films d'évasion. J'ai largement préféré sur le même thème Le Trou de Jacques Becker ou les Evadés de Darabont. Les personnages y ont davantage d'épaisseur, l'atmosphère carcérale y est plus pesante. Quant à Clint Eastwood en prisonnier ténébreux, même s'il tient bien le rôle qui lui est assigné, il est bien moins touchant que dans LETTRES d'IWO JIMA par ex.\n        \n            ",
+            "likes": 0,
+            "dislikes": 2
+        },
+        {
+            "id": "review_39018194",
+            "author": "\n                            Hotinhere\n            \n                    ",
+            "date": "2013-10-16",
+            "rating": 4.0,
+            "text_content": "\n                    Un polar carcéral captivant à la reconstitution minutieuse, tiré d’une histoire vraie. Clint Eastwood est monumental.\n        \n            ",
+            "likes": 0,
+            "dislikes": 1
+        },
+        {
+            "id": "review_42200225",
+            "author": "\n                            landofshit0\n            \n                    ",
+            "date": "2014-04-18",
+            "rating": 3.0,
+            "text_content": "\n                    Certes ce film de prison est efficace,mais Seigel à des personnages trop clichés et des situations trop sommairement développées pour être une pleine réussite. Ce manque de travail d’écriture sur les personnages et de finesse dans les enchainements est le gros point faible du film.\n        \n            ",
+            "likes": 0,
+            "dislikes": 1
+        },
+        {
+            "id": "review_1018610326",
+            "author": "\n                            MatPunisherX \n            \n                    ",
+            "date": "2022-01-17",
+            "rating": 5.0,
+            "text_content": "\n                    Un des meilleurs film que j'ai vu ! incroyable Clint Eastwood ! ce film est une pépite ! j'adore les films en prison mais celui ci est le meilleur je recommande fortement\n        \n            ",
+            "likes": 0,
+            "dislikes": 1
+        },
+        {
+            "id": "review_8029984",
+            "author": "\n                            dougray\n            \n                    ",
+            "date": "2015-12-8",
+            "rating": 3.0,
+            "text_content": "\n                    Production typique des années 70, \"L’évadé d’Alcatraz\" est davantage resté dans les mémoires pour l’histoire qu’il raconte que pour ses qualités intrasèques. En effet, on a droit à, à peu près, tous les poncifs des films US de l’époque, avec son héros hard-boiled, ses seconds rôles folkloriques (voire caricaturaux), son méchant très très méchant, sans oublier un rythme souvent incertain. \"L’évadé d’Alcatraz\" ne brille, donc, pas par sa subtilité ou son originalité mais peut compter sur le pouvoir évocateur de son récit. Car, un peu comme \"Rock\" des années plus tard, le film promet de réaliser un double fantasme avec, d’une part, une promenade dans la prison mythique d’Alcatraz (le tournage s’est vraiment déroulé sur place) et, d’autre part, une évasion inspirée d’une histoire vraie qui égratigne la légende selon laquelle personne ne se serait jamais échappé des lieux. Et, dans un premier temps, on se prend à espérer un grand film jouissif, ce que la première partie du film (qui marque l’arrivée du héros et pose d’intéressantes amorces scénaristiques) semble promettre. Malheureusement, dès que les aspirants évadés commencent à mettre leur plan à exécution en creusant leur trou, l’intrigue se perd en longueur. Et il faudra attendre la fin du film pour mettre un terme à cette lancinante partition, ce qui vient considérablement alourdir le récit. Sans doute aurait-il fallu davantage s’appuyer sur la musique (très peu exploitée ici) ou alors densifier certaines sous-intrigues en s’éloignant, au besoin, de la prison. A moins que ce ne soit tout simplement le scénario qui manque de substance. Le réalisateur Don Siegel a préféré livrer une copie classique… à défaut d’être excitante. On assiste, donc, aux différentes étapes de l’évasion, vaguement gonflée d’imprévus au final assez peu oppressants, ce qui n’est pas désagréable mais qui manque franchement d’énergie… qui plus est près de 40 ans plus tard, à une époque où le public a tremblé devant \"Prison Break\" ! \"L’évadé d’Alcatraz\" peut, cependant, compter sur une belle galerie de personnages, d’où ressort, sans surprise, un Patrick McGoohan merveilleusement détestable en directeur de prison intransigeant (un rôle qui aurait cependant gagné à être plus ambigu) et un Clint Eastwood charismatique en diable en taulard roublard. ",
+            "likes": 0,
+            "dislikes": 1
+        },
+        {
+            "id": "review_47846806",
+            "author": "\n                            heathledgerdu62\n            \n                    ",
+            "date": "2015-07-10",
+            "rating": 5.0,
+            "text_content": "\n                    Don Siegel réalise un chef d’œuvre grâce au talent du légendaire Clint Eastwood. Un grand film qui reste dans les anales du cinéma. Une œuvre contemporaine sur la liberté. Une fiction qui garde de tout son ampleur à travers les années qui passent.\n        \n            ",
+            "likes": 0,
+            "dislikes": 1
+        },
+        {
+            "id": "review_34617582",
+            "author": "\n                            Starwealther\n            \n                    ",
+            "date": "2012-11-24",
+            "rating": 3.5,
+            "text_content": "\n                    Un très bon film de prison avec Clint Eastwood, le supsense est constamment présent, le film en devient très prenant, on se demande bien comment les prisonniers vont réussir à s'évader.\n        \n            ",
+            "likes": 0,
+            "dislikes": 1
+        },
+        {
+            "id": "review_58134375",
+            "author": "\n                            Fabios Om \n            \n                    ",
+            "date": "2018-01-23",
+            "rating": 2.5,
+            "text_content": "\n                    bof quand même je trouve que le film mais beaucoup de temps a démarré pour arrriver au but avec quelque passage inutile. Mais l histoire est pas mal\n        \n            ",
+            "likes": 0,
+            "dislikes": 3
+        },
+        {
+            "id": "review_36624830",
+            "author": "\n                            hamasiblan\n            \n                    ",
+            "date": "2013-03-25",
+            "rating": 3.0,
+            "text_content": "\n                    Un bon film, qui tient la route, bien mis en scène, et porté par Eastwood au top ! Sinon, rien d'exceptionnel.\n        \n            ",
+            "likes": 0,
+            "dislikes": 1
+        },
+        {
+            "id": "review_8211952",
+            "author": "\n                            Jérôme H\n            \n                    ",
+            "date": "2008-05-6",
+            "rating": 4.0,
+            "text_content": "\n                    AMbiance carcériale très réaliste et un homme ultra motivé dans son désir d'évasion pour ce sublime récit.",
+            "likes": 0,
+            "dislikes": 1
+        },
+        {
+            "id": "review_49063982",
+            "author": "\n                            Estonius\n            \n                    ",
+            "date": "2015-10-31",
+            "rating": 4.0,
+            "text_content": "\n                    Un film passionnant et très bien réalisé avec une bonne ambiance de l'univers carcéral bien reconstitué, Un bon suspense et une interprétation sobre mais efficace d'Eastwood. On regrettera néanmoins la petite touche d'homophobie ainsi que certains passages techniques peu explicites (le vol de la cuillère, la soudure)\n        \n            ",
+            "likes": 0,
+            "dislikes": 1
+        },
+        {
+            "id": "review_20710050",
+            "author": "\n                            Sildenafil\n            \n                    ",
+            "date": "2010-08-24",
+            "rating": 3.0,
+            "text_content": "\n                    C'est très plaisant à regarder, mais ça ne vaut pas Les Évadés, la faute au temps sans doute.\n        \n            ",
+            "likes": 0,
+            "dislikes": 1
+        },
+        {
+            "id": "review_34697965",
+            "author": "\n                            Franck V\n            \n                    ",
+            "date": "2012-11-30",
+            "rating": 4.0,
+            "text_content": "\n                    Superbe réalisation de Don Siegel. L'affrontement Clint Eastwood, Patrick McGoohan est à la hauteur.",
+            "likes": 0,
+            "dislikes": 1
+        },
+        {
+            "id": "review_5697551",
+            "author": "\n                            carbone144\n            \n                    ",
+            "date": "2007-12-29",
+            "rating": 4.0,
+            "text_content": "\n                    Clint Eastwood dans un de ses grands rôle. Excellent film sur le genre prison/évasion. Ancètre du film \"les évadés\"! Réussite.\n        \n            ",
+            "likes": 0,
+            "dislikes": 1
+        },
+        {
+            "id": "review_7154056",
+            "author": "\n                            Peichan2\n            \n                    ",
+            "date": "2008-03-9",
+            "rating": 4.0,
+            "text_content": "\n                    Bon film d'avasion, un des meilleurs d'ailleurs avec les évadés. Clint eastwood y est pour quelque chose... A voir absolument !\n        \n            ",
+            "likes": 0,
+            "dislikes": 1
+        },
+        {
+            "id": "review_2880586",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2007-05-30",
+            "rating": 4.0,
+            "text_content": "\n                    Une réalisation pas toujours à la hauteur du scenario. Prison Break a encore piqué pas mal de trucs à ce classique de l'évasion !\n        \n            ",
+            "likes": 0,
+            "dislikes": 1
+        },
+        {
+            "id": "review_9296442",
+            "author": "\n                            girondins59\n            \n                    ",
+            "date": "2008-07-16",
+            "rating": 2.5,
+            "text_content": "\n                    Dernière collaboration entre Clint Eastwood et Don Siegel, \"L'Evadé d'Alcatraz\" marque aussi un tournant radical dans la filmo du réalisateur si on se réfère au précédent film du duo magique, \"L'Inspecteur Harry\". Ce dernier nous montrait un monde chaotique où la vermine courrait les rues et où seul la violence pouvait répondre à la violence alors qu'ici, la prison d'Alcatraz est un lieu propice à une série de clichés assez mal venus de la part de Siegel. Dans le désordre, on retrouve les matons aggressifs, le directeur de prison tyrannique (cependant très bien interprété par Patrick McGoohan, le héros de la série \"Le Prisonnier\" qui trouve ici un rôle totalement à contre-emploi avec celui qu'il incarnait dans la série culte), le black victime de méprise, le copain un peu instable, le méchant prisonnier qui se sent obliger de prendre pour cible le héros, etc, etc... Rien de bien révolutionnaire du début à la fin et, pour ne rien arranger, la critique du milieu carcéral est un peu trop facile et gratuite. La seule chose qui peut alors sauver les meubles, c'est un déroulement de l'histoire qui évite toute notion d'ennui chez le spectateur et sur ce point, on peut dire que Siegel a réussi son pari. Eastwood éclipse la plupart des seconds rôles et seul ses face-à-faces avec McGoohan atteignent des sommets que l'on peine, dans l'ensemble, à atteindre. Tourné dans la véritable prison d'Alcatraz, le film prend des allures de visite touristique non dénué d'intêret dans la plus célèbre prison du monde qui a habrité, entre autres, Al Capone. \"L'Evadé d'Alcatraz\" ne peut décemment pas viser plus haut que le statut de divertissement carcéral. Pas assez violent dans sa critique des conditions de vie des prisonniers, le film de Siegel se révèle parfois passionant, parfois paresseux mais réussit tout de même à nous offrir une scène d'évasion nerveuse et tendue jusqu'au bout. Trop peu pour rivaliser avec le coup de poing que fut \"L'Inspecteur Harry\".\n        \n            ",
+            "likes": 0,
+            "dislikes": 1
+        },
+        {
+            "id": "review_7939080",
+            "author": "\n                            Akamaru\n            \n                    ",
+            "date": "2013-03-20",
+            "rating": 3.5,
+            "text_content": "\n                    Un thriller carcéral de belle facture,bien qu'un peu trop classique sur les bords.Et l'ancètre avoué de Prison Break.\"L'évadé d'Alcatraz\",tiré d'une histoire vraie,n'aurait pas la mème puissance s'il n'y avait pas le grand Clint à l'affiche.2 parties bien distinctes.D'abord,les conditions de vie dans la prison.On s'imagine à la place de ces prisonniers aux journées interminables et monotones.Puis la préparation de l'évasion,et sa réussite apparente(le symbole du chrysanthème).Des couleurs sombres et une musique stridente créent le stress nécessaire à la réussite d'un des films les plus connus et populaires d'Eastwood.\n        \n            ",
+            "likes": 1,
+            "dislikes": 1
+        },
+        {
+            "id": "review_2923697",
+            "author": "\n                            Laurent H\n            \n                    ",
+            "date": "2011-01-6",
+            "rating": 4.0,
+            "text_content": "\n                    J'ai adoré ce film, on a envis des'évader avec eux . a voir absolument.\n        \n            ",
+            "likes": 0,
+            "dislikes": 1
+        },
+        {
+            "id": "review_15641112",
+            "author": "\n                            Travis.B33\n            \n                    ",
+            "date": "2009-09-24",
+            "rating": 4.0,
+            "text_content": "\n                    Très divertissant et grandement plaisant. Un charisme fou de la part de Clint Eastwood. La fin est un peu simple mais quand même pas mal du tout.\n        \n            ",
+            "likes": 0,
+            "dislikes": 1
+        },
+        {
+            "id": "review_40540115",
+            "author": "\n                            Pamela B\n            \n                    ",
+            "date": "2014-01-7",
+            "rating": 3.5,
+            "text_content": "\n                    On se croirait dans prison break ou les évadés mais en plus vieux et avec moins de suspense. Le final est décevant il n'y a pas de continuité.\n        \n            ",
+            "likes": 0,
+            "dislikes": 1
+        },
+        {
+            "id": "review_20878531",
+            "author": "\n                            clément d.\n            \n                    ",
+            "date": "2010-08-30",
+            "rating": 4.0,
+            "text_content": "\n                    A la fois d'un réalisme à toute épreuve et d'une sensibilité extrême , \" L'Evadé d'Alcatraz \" nous fait revivre un grand moment historique accomplis par trois grands hommes .",
+            "likes": 0,
+            "dislikes": 1
+        },
+        {
+            "id": "review_21645110",
+            "author": "\n                            kray\n            \n                    ",
+            "date": "2010-10-24",
+            "rating": 4.0,
+            "text_content": "\n                    Un grand classique . Une référence du \"film de prison\" , véritable sous- genre cinématographique , ou ce film tient une place de choix.\n        \n            ",
+            "likes": 0,
+            "dislikes": 1
+        },
+        {
+            "id": "review_17493750",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2010-05-25",
+            "rating": 5.0,
+            "text_content": "\n                    Super film. Stressant sur la fin. Grande performance (encore) de Clint EastwooD.\n        \n            ",
+            "likes": 0,
+            "dislikes": 1
+        },
+        {
+            "id": "review_34718475",
+            "author": "\n                            Louis Morel\n            \n                    ",
+            "date": "2012-12-2",
+            "rating": 4.0,
+            "text_content": "\n                    Un film de prison totalement réussi de la part de Don Siegel avec un Clint Eastwood en grande forme. On pourrait regretter cependant que le film soit si peu long par rapport aux références du genre, ce qui ne permet pas d'explorer pleinement certains aspects du film...\n        \n            ",
+            "likes": 0,
+            "dislikes": 1
+        },
+        {
+            "id": "review_2977628",
+            "author": "\n                            rogertg2\n            \n                    ",
+            "date": "2007-06-5",
+            "rating": 2.5,
+            "text_content": "\n                    Un film d évasion pas mal réussi mais un peu trop long et parfois ennuyeux. De plus, beaucoup de clichés : on y voit que les prisonniers sont en général de braves types (que font-ils là alors ?) et que le directeur et les gardiens en général des salauds, c'est de la retape pour faire plaisir au spectateur moyen. Puis la fin nous laisse sur notre faim (sans jeu de mots) : d'après le film, ils s évadent à plusieurs et d après la réalité, seul Morris s en sort paraît-il : que sont devenus les autres ? Comment les autorités ont-elles su qu ils sont morts et qu est devenu Morris ? A-t-il été un jour repris ?\n        \n            ",
+            "likes": 0,
+            "dislikes": 2
+        },
+        {
+            "id": "review_89843",
+            "author": "\n                            Caine78\n            \n                            \n                    ",
+            "date": "2006-09-29",
+            "rating": 2.5,
+            "text_content": "\n                    Un bon film. La mise en scène est efficace et les acteurs sont bons. Le sujet est intéréssant et le suspense est bien présent. Toutefois, Siegel a fait beaucoup mieux, a l'image de son chef d'oeuvre, les proies.\n        \n            ",
+            "likes": 0,
+            "dislikes": 2
+        },
+        {
+            "id": "review_16807048",
+            "author": "\n                            Typi35\n            \n                    ",
+            "date": "2010-06-10",
+            "rating": 4.5,
+            "text_content": "\n                    Un film culte qui a inspiré plus d'un réalisateur. Clint Eastwood y est encore parfait et l'ambiance générale du film, aussi bien sonore que visuelle est très réussi.",
+            "likes": 0,
+            "dislikes": 1
+        },
+        {
+            "id": "review_1031588431",
+            "author": "\n                            Thibaud Il Capitano\n            \n                    ",
+            "date": "2024-08-7",
+            "rating": 3.0,
+            "text_content": "\n                    Je ne m'y connais pas assez pour dire si tout ce qu'on voit dans le genre \"film/série de prison\" vient d'ici ou si une autre oeuvre a précédé tout ça... mais tous les poncifs convenus du genre sont là : la scène de douche, la grosse brute bully, le méchant directeur, le petit vieux gentil, les peines rarement évoquées ou injustes, etc",
+            "likes": 0,
+            "dislikes": 1
+        },
+        {
+            "id": "review_54956593",
+            "author": "\n                            Carlos Stins\n            \n                    ",
+            "date": "2017-03-9",
+            "rating": 2.5,
+            "text_content": "\n                    Ce film porté par Clint Eastwood retraçant l'évasion du premier homme à s'être enfui d’Alcatraz est une petite déception. En effet si certaines séquences sont bien menés, le scénario souffre de plusieurs incohérences et le film manque cruellement de tension. Dans un film où la fin est connu d'avance, il faut que le scénario soit parfaitement écrit pour apporter de l'intérêt de l'histoire. De plus l'intérêt de ce genre de film se trouve souvent dans l'utilisation des personnages secondaires or ici plusieurs intrigues sont abordés mais aucune n'est suffisamment développé pour intéresser le spectateur, et au contraire ces intrigues parasitent même le récit. Le film se laisse regarder mais se révèle au final peu distrayant et déçoit plus qu'il ne réjouit.\n        \n            ",
+            "likes": 0,
+            "dislikes": 1
+        },
+        {
+            "id": "review_29002908",
+            "author": "\n                            Dadou\n            \n                    ",
+            "date": "2014-01-7",
+            "rating": 3.5,
+            "text_content": "\n                    Un classique du film d'évasion, plutôt bien romancé et détaillé, avec en prime M. Eastwood.\n        \n            ",
+            "likes": 0,
+            "dislikes": 1
+        },
+        {
+            "id": "review_50205378",
+            "author": "\n                            Karim A.\n            \n                    ",
+            "date": "2016-01-27",
+            "rating": 4.0,
+            "text_content": "\n                    M6 diffuse souvent ce film en boucle.",
+            "likes": 0,
+            "dislikes": 1
+        },
+        {
+            "id": "review_17005881",
+            "author": "\n                            darthbebel\n            \n                    ",
+            "date": "2010-04-5",
+            "rating": 4.0,
+            "text_content": "\n                    Bon film.\n        \n            ",
+            "likes": 0,
+            "dislikes": 1
+        },
+        {
+            "id": "review_37660271",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2013-06-7",
+            "rating": 5.0,
+            "text_content": "\n                    Super film Clint est toujours magnifique",
+            "likes": 2,
+            "dislikes": 0
+        },
+        {
+            "id": "review_18467631",
+            "author": "\n                            schumiforever\n            \n                    ",
+            "date": "2010-06-14",
+            "rating": 2.0,
+            "text_content": "\n                    Une assez bonne réalisation tirée d'un assez bon scénario avec un assez bon casting, mais tout ceci est-il assez pour un bon film? Car l'ensemble manque cruellement de nervosité, d'implication, et même d'intérêt, Don Siegel se contente de montrer les préparatifs de l'évasion en déroulant tranquillement les évènements vécus par Clint Eastwood, aussi réactif à la vie carcérale qu'à une piqûre de moustique. Malgré beaucoup de lourdeur, il se dégage tout de même une certaine qualité d'ensemble d'un long métrage trop classique mais bien maîtrisé.\n        \n            ",
+            "likes": 0,
+            "dislikes": 1
+        },
+        {
+            "id": "review_8889602",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2008-06-17",
+            "rating": 5.0,
+            "text_content": "\n                    Toujours autant de plaisir à le revoir.\n        \n            ",
+            "likes": 0,
+            "dislikes": 1
+        },
+        {
+            "id": "review_15274489",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2009-08-29",
+            "rating": 5.0,
+            "text_content": "\n                    Un très bon film dans l'univers carcéral. Quelques clichés, mais c'est un film à ne pas manquer.\n        \n            ",
+            "likes": 0,
+            "dislikes": 1
+        },
+        {
+            "id": "review_1025885036",
+            "author": "\n                            novemberromeo\n            \n                    ",
+            "date": "2023-06-25",
+            "rating": 4.5,
+            "text_content": "\n                    Un grand film d'évasion avec Clint Eastwood en tête d'affiche. La tension y est permanente et le style épuré ajoute à ce dur univers carcéral. Une réussite.\n        \n            ",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1036711342",
+            "author": "\n                            Kouto\n            \n                    ",
+            "date": "2025-08-24",
+            "rating": 3.5,
+            "text_content": "\n                    Comme son nom l’indique le film raconte l’évasion de plusieurs détenus de la célèbre prison d’Alcatraz. Sans fioriture, la mise en scène de Don Siegel est réglée comme du papier à musique et puis il y a évidemment la présence de Clint Eastwood qui apporte tout son charisme au long-métrage.\n        \n            ",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_10218334",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2010-03-18",
+            "rating": 2.5,
+            "text_content": "\n                    Un film culte ! un peu trop court pour l'histoire qu'il raconte mais tres divertissant.\n        \n            ",
+            "likes": 1,
+            "dislikes": 1
+        },
+        {
+            "id": "review_45060296",
+            "author": "\n                            Benito G\n            \n                            \n                    ",
+            "date": "2014-12-16",
+            "rating": 4.0,
+            "text_content": "\n                    Film unique pour son époque dans son genre, mais depuis devenu culte. Clint E. y joue un rôle à la perfection. Tout comme ses coéquipiers^^. Une histoire dont on connait l'issu et vaguement ce qui l'entour, mais ou l'on ait stupéfait de la chose. Le film n'est peut être pas assez \"profond\" sur cette évasion, sa préparation... Et quelques incoéhrences avec la vie en prison (surtout, si là il s'agissait d'Alcatraz), ou l'évasion nous parait un peu facile si on réfléchit un peu. Mais même si le film n'entre pas complètement en profondeur, il n'en a pas besoin pour se parfaire et nous tenir en jus ,, du début à la fin. A voir, si ce n'est pas deja fait.\n        \n            ",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_28730957",
+            "author": "\n                            bobmorane63\n            \n                    ",
+            "date": "2012-01-11",
+            "rating": 5.0,
+            "text_content": "\n                    Un long métrage palpitant signé Don Siegel !!! Selon la légende, la prison d'Alcatraz n'a jamais connu une évasion réussite, situé sur un rocher ultra sécurisé au milieu de l'océan, le titre m'intriguait beaucoup et le film l'est tout autant. Une histoire trés bien écrite qui fait ménager le suspense dans des quatre murs qui fait difficile à vivre, des détenus sont généralement dangereux ou tenté d'évasion raté transférer ici et un directeur pas facile et trés stricte. J'avais un peu peur au début que ça tombe dans des clichés du genre mais le scénario et les déroulements des situations nous font captiver, on est avec les personnages et de tout coeur avec eux. Une réussite de la part du cinéaste Don Siegel qui signe là l'un de ses meilleurs films. Clint Eastwood est comme à son habitude excellent, de mème que les acteurs qui le cotoyent et saluons aussi la bonne performance de Patrick Mc Goohan un peu detestable dans le peau du chef de prison. J'ai adoré.\n        \n            ",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1011075354",
+            "author": "\n                            onsefaitunetoile\n            \n                    ",
+            "date": "2021-12-11",
+            "rating": 4.0,
+            "text_content": "\n                    Une prison mythique: Alcatraz. ",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_31071323",
+            "author": "\n                            this is my movies\n            \n                            \n                    ",
+            "date": "2016-07-9",
+            "rating": 4.0,
+            "text_content": "\n                    Dernière collaboration entre C. Eastwood et l'un de ses mentors, D. Siegel. Cet artisan talentueux nous offre un polar carcéral qui, s'il s'avère peu subtil dans sa description psychologique, est par contre d'une redoutable efficacité dans l'action. Le scénario est très linéaire certes mais peu avare en péripétie. La description de cet enfer carcéral est aussi très documenté et le film transpire ce réalisme et retranscrit parfaitement ce cloisonnement en limitant les plans larges. C. Eastwood joue de tout son charisme et donne corps à ce personnage hors du commun. Très bien rythmé, parfaitement monté, reconstitution minutieuse et script précis, un film référence qui mérite sa réputation. D'autres critiques sur\n        \n            ",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1010008206",
+            "author": "\n                            videoman29\n            \n                            \n                    ",
+            "date": "2020-09-6",
+            "rating": 3.5,
+            "text_content": "\n                    En 1979, le réalisateur Don Siegel (« Sierra torride », « L'inspecteur Harry ») tourne ce qui est aujourd'hui considéré comme son meilleur film avec « L'évadé d'Alcatraz ». Sa reconstitution de la célèbre prison est quasi parfaite et on est tout de suite immergé au cœur de l'enfer carcéral du claustrophobique  « rocher ». Comme il se doit, les surveillants sont sadiques à souhait mais c'est bien le directeur (qu'on aime tellement détester) qui remporte le « pompon », dans un rôle d'une rare cruauté. Côté scénario, l'histoire est « tendue comme un string » et le suspense ne cesse de monter au fur et à mesure que le plan d'évasion se met en place. A ce titre les dernières minutes mettent réellement les nerfs à rude épreuve et on tremble littéralement pour Clint Eastwood et ses partenaires de jeu... tant la réussite de leur entreprise paraît aléatoire. Pour connaître la fin, il faudra visionner le film mais je peux d'ores et déjà vous dire que le contrat est totalement rempli et que le résultat à l'écran n'a pas pris une ride... je conseille vivement !\n        \n            ",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_50061534",
+            "author": "\n                            Moorhuhn\n            \n                    ",
+            "date": "2016-01-15",
+            "rating": 4.0,
+            "text_content": "\n                    L’efficacité à l’état pur. L’Evadé d’Alcatraz c’est un peu le représentant modèle du divertissement de haut vol qui n’oublie jamais de faire du cinéma. Le film ne s’écartera d’ailleurs jamais de ses enjeux et nous plonge directement dans le bain avec l’arrivée de ce prisonnier adepte de la poudre d’escampette qui se retrouve dans cette prison mythique dont aucun évadé n’est jamais sorti vivant. Et je dois dire que le postulat de départ me bottait déjà pas mal car j’aime l’idée du type qui va repousser les limites de son ingéniosité pour tenter l’impossible. Ça fait d’ailleurs écho à ma propre vie quand j’essaie de me lever tous les matins. Et ici on ne sait presque rien du passé de ce personnage principal incarné par Clint Eastwood, ce qui renforce davantage son aura et le rapport spectateur-protagoniste devient finalement très ambigu. On a tendance à vouloir le voir s’en sortir car son fond ne semble pas mauvais bien qu’il s’agisse très certainement d’une crapule de haut niveau. Et le film explicite très peu ces aspects-là, ce qui en fait une vraie force.",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_50292332",
+            "author": "\n                            conrad7893\n            \n                    ",
+            "date": "2016-01-30",
+            "rating": 4.0,
+            "text_content": "\n                    un bon film retraçant l'histoire vraie de l'évasion réussie de 3 prisonniers de la célèbre prison ",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_50202037",
+            "author": "\n                            Florian Malnoe\n            \n                    ",
+            "date": "2016-01-27",
+            "rating": 4.5,
+            "text_content": "\n                    J'ai beaucoup apprécié ce film que je n'attendais pas à un tel niveau. Dans l'ensemble j'ai trouvé cette évasion assez réaliste et tout à fait prenante. On constate au premier visionnage que ce film a influencé pas mal d'autres œuvres portants sur le même sujet. Ici, le récit est ici épuré jusque dans le passé suggéré de Morris pour vraiment garder le meilleure. La tension se fait admirablement ressentir, notamment grâce à une BO très bien dans le ton, et même si on connaît l'issue de la dite opération on arrive à stresser pour nos protagonistes tellement la mise en scène est efficace et précise. L'interprétation de Clint Eastwood est toujours autant un réel plaisir et est légitimement encensée.  La fin ambiguë est très bien amenée et renforce l'aura de cette fameuse histoire vraie.\n        \n            ",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_23780547",
+            "author": "\n                            cris11\n            \n                    ",
+            "date": "2011-03-24",
+            "rating": 5.0,
+            "text_content": "\n                    L'un de mes films préférés avec Clint Eastwood. J'adore le scénario, et la performance de Eastwood, le tout dans un lieu mythique: Alcatraz.\n        \n            ",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_56496543",
+            "author": "\n                            Le Loubar\n            \n                    ",
+            "date": "2017-08-14",
+            "rating": 4.0,
+            "text_content": "\n                    Dernière collaboration entre le talentueux Don Siegel et la star Clint Eastwood, \"L'évadé d'Alcatraz\" est un film de prison captivant et une surprenante histoire d'évasion tirée d'une histoire vraie. La prison d'Alcatraz est la prison la mieux surveillée des Etats-Unis et regorge de criminels dangereux ou qui ont réussi à s'échapper d'autres établissements (mais qui n'ont pas été assez talentueux pour ne pas se faire pincer). Cette prison semble être un lieu où tous les hommes sont condamnés à y vivre presque sans droits ni privilèges jusqu'à leur mort. Un jour, un homme nommé Frank Morris connu pour son intellect remarquable va y être transféré, mais n'aura pas l'intention d'y rester. La mise en scène de Siegel est on ne peut plus concrète : chaque plan a un sens, on filme ce qui apportera quelque chose à l'histoire et rien n'est laissé au hasard. En cela, le choix de Clint Eastwood pour incarner le personnage principal est vraiment brillant car l'acteur a ici le jeu le plus sobre du monde, ce qui est cohérent avec son personnage ",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_50223776",
+            "author": "\n                            gregbutton\n            \n                    ",
+            "date": "2016-01-27",
+            "rating": 3.5,
+            "text_content": "\n                    Quasi documentaire tant le film est fidèle à tous les éléments de l'évasion. Un rythme irrégulier, des petites longueurs, pas abbérant pour l'époque. Un excellent Clint et une ambiance plus que crédible.\n        \n            ",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_55840106",
+            "author": "\n                            Benjamin A\n            \n                            \n                    ",
+            "date": "2017-06-5",
+            "rating": 4.0,
+            "text_content": "\n                    Pour sa dernière collaboration en 1979 avec Clint Eastwood, Don Siegel adapte avec L'Évadé d'Alcatraz l'histoire vraie d'un groupe de quatre personnes qui ont tenté de s'échapper de la fameuse prison de la baie de San Francisco.",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_61246292",
+            "author": "\n                            Fabien S.\n            \n                    ",
+            "date": "2018-12-17",
+            "rating": 5.0,
+            "text_content": "\n                    Un chef d'oeuvre d'un film d'évasion de prison avec le légendaire Clint Eastwood. D'après l'histoire vraie de l'évasion de Frank Lee Mooris en 1962.\n        \n            ",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_50230351",
+            "author": "\n                            willycopresto\n            \n                    ",
+            "date": "2016-01-25",
+            "rating": 4.0,
+            "text_content": "\n                    L'évadé d'Alcatraz (1979) Arte le 24.01..2016",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_49148806",
+            "author": "\n                            pietro bucca\n            \n                    ",
+            "date": "2015-11-7",
+            "rating": 3.5,
+            "text_content": "\n                    Petit voyage dans l'univers carcéral d'Alcatraz, avec un Clint Eastwood très en forme. Un bien bon film d'action.\n        \n            ",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_49948732",
+            "author": "\n                            Anonymous :)\n            \n                    ",
+            "date": "2016-01-22",
+            "rating": 3.5,
+            "text_content": "\n                    Huit ans après \"L'inspecteur Harry\", Don Siegel dirige à nouveau l'ami Clint dans un film carcéral très académique mais sympathique, et ayant admirablement bien vieilli. Délinquant récidiviste s'étant échappé de nombreuses prisons, Frank Morris est transféré au célèbre pénitencier d'Alcatraz. Avec l'aide de trois complices, il élabore un plan d'évasion audacieux.  Basé sur des faits réels incroyables qui se sont déroulés dans les années 60, \"L'évadé d'Alcatraz\" réussit son pari, que de nous faire revivre cette histoire, à l'origine de la fermeture de l'établissement. Et pourtant, il est toujours difficile d'adapter une intrigue dont tout le monde connaît la fin car le twist apparaît comme impossible. Ayant bien cerné le problème, le cinéaste Don Siegel surprend et trouve donc un autre moyen pour capter et emmener le spectateur. Captivant, intelligent et jamais ennuyant, le long-métrage nous offre quelques belles séquences de tension et de stress lors de l'évasion, tournée de nuit et sans cascadeur, qui se révèle être une réussite totale. Mais au-delà de cette banale évasion, le grand plaisir du spectateur réside surtout dans le fait de se trouver dans la légendaire prison d'Alcatraz. Tourné intégralement sur place, la film transpire de réalisme et retranscrit parfaitement ce cloisonnement en limitant les plans larges. On regrettera toutefois que la vie là bas n'ai pas été représenté plus sombre et violente avec des conflits entre les prisonniers et les guerres de gangs. De même que la description psychologique des personnages qui s'avère peu subtile. Bien évidemment, on se délectera de la prestation des acteurs, entre un Clint Eastwood charismatique dont la présence à l'écran est toujours aussi insolente, et un Patric McGoohan méprisable en tant que chef pénitencier. Ainsi, \"L'évadé d'Alcatraz\" est un film carcéral bien mené qui malgré un académisme frappant dans son intrigue et sa réalisation, offre un beau moment de cinéma, bonifié avec le temps.\n        \n            ",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1003017981",
+            "author": "\n                            Dois-Je Le voir ?\n            \n                    ",
+            "date": "2020-03-29",
+            "rating": 4.0,
+            "text_content": "\n                    J’ai trouvé ce film vraiment génial. Normalement, cela m’ennuie un peu les histoires d’évasions car je trouve les rythmes beaucoup trop lents. Mais ici, le plan pour s’évader est passionnant. Les créateurs de la série PRISON BREAK se sont d’ailleurs inspiré de ce film. Tout est montré de façon méticuleuse mais avec un dynamisme qui permet de ne pas s’ennuyer. On pourra observer l’ingéniosité du personnage joué par Clint Eastwood. L’acteur américain, qui comme à son habitude est fantastique. Ce qui rend la chose pimentée, est qu’il a repris d’une histoire réelle. Alors qu’elle est restée ouverte 29 ans, beaucoup de prisonnier ont tenté de s’évader mais nombreux sont ceux qui y ont trouvé la mort. Cela ajoute une touche de tension à cette histoire déjà bien menée. J’ai trouvé cependant que la fin était un peu facile au vu de ce qui nous avait été réservé avant. Il faut dire que c’est une interprétation bien personnelle de Clint Eastwood sur ce qui a pu arriver, ou non, à Frank Morris. Concernant les conditions d’incarcération, je pense qu’elles ont été mises de manière assez soft afin que l’on ne se détourne pas de la construction et de l’exécution du plan. Les gardiens sont gentils, les prisonniers ne sont pas violents. Avec la réputation de cette prison, on a du mal à le croire. L'EVADÉ D'ALCATRAZ reste tout de même un classique indémodable.\n        \n            ",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1016375537",
+            "author": "\n                            Y Leca\n            \n                    ",
+            "date": "2021-08-16",
+            "rating": 4.0,
+            "text_content": "\n                    Un des grands films d'évasion. L'ambiance carcérale est très  bien rendue. Le suspense et la tension sont maintenus jusqu'au bout. Le scénario et les acteurs sont au top, avec Eastwood toujours aussi minéral et un Mc Gohan sadique comme il faut. Un film qu'on revoit avec plaisir.\n        \n            ",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_50225419",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2016-01-27",
+            "rating": 4.0,
+            "text_content": "\n                    Don Siegel, Clint Eastwood, Patrick McCogaan : attention ! De quoi faire péter l'écran et l'écran pète. Tout le film est fantastique, l'ambiance, l'histoire, les acteurs et la construction. Pas une minute de suspens ne manque et rien ne cloche, ni dans la mise en scène ni dans le jeu des monstres sacrés. Une idée ou deux sont d'ailleurs passées de \"l'évadé d'Alcatraz\" à \"La ligne verte\" qui est aussi un très bon film.\n        \n            ",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_34577436",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2012-11-21",
+            "rating": 5.0,
+            "text_content": "\n                    Un film au grand suspens, à l'action lente, où tout se goupille de manière magistral jusqu'au grand final où nos trois héros prennent le large. Tiré d'une histoire vrai où encore aujourd'hui on se demande si ils ont finis noyer ou si ils ont vraiment réussis la plus grande évasion de l'histoire.",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_11384121",
+            "author": "\n                            Replica\n            \n                    ",
+            "date": "2019-10-1",
+            "rating": 4.0,
+            "text_content": "\n                    Il n'y a pas à dire, Don Siegel est vraiment un bon réalisateur. L'évadé d'Alcatraz est un très bon film de prison. A voir et à revoir.\n        \n            ",
+            "likes": 0,
+            "dislikes": 1
+        },
+        {
+            "id": "review_39045267",
+            "author": "\n                            blacktide\n            \n                            \n                    ",
+            "date": "2013-09-7",
+            "rating": 4.5,
+            "text_content": "\n                    Alcatraz alias le rocher, la prison où aucune évasion est possible tout d'abord avec les gardiens qui font des tours toutes les minutes et qui surveillent scrupuleusement toutes les cellules et après il y a la mer très très froide et les pas mal de kilomètres qui sépare le rocher de San Francisco ce qui rend pratiquement impossible une évasion mais pourtant Clint Eastwood va s'y risquer dans \"l'évadé d'Alcatraz\", la petite pépite de Don Siegel. Et oui c'est la 5eme ou 6eme collaboration de Clint Eastwood avec le réalisateur de l'inspecteur Harry et le résultat est plus que satisfaisant. En effet, le film bénéficie d'un très bon scénario, de très bons acteurs, d'une bonne réalisation ainsi que d'une bonne mise en scène ce qui fait du film, un très bon film. On ne s'ennuie pas une seconde, c'est palpitant du début jusqu'à la fin, c'est très intéressant de savoir comment ils s'évadent avec tout les petits détails de l'évasion un peu comme \"la grande évasion\" par exemple. Ce film est vraiment à ne pas rater, il est sans doute dans mon top 5 des films d'évasions, si vous êtes fan de Clint Eastwood, si vous aimez les films de prison et si vous aimez tout simplement vous divertir, je vous conseille fortement de regarder \"l'évadé d'Alcatraz\" et je pense que vous ne serez pas déçu!!!!!!!!!!!!!!!!!!\n        \n            ",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_47680785",
+            "author": "\n                            ManoCornuta\n            \n                            \n                    ",
+            "date": "2018-12-17",
+            "rating": 3.5,
+            "text_content": "\n                    Film à la réalisation clinique et sobre, l’Évadé d'Alcatraz impressionne justement par cette économie de dialogues et de fioritures qui lui confère une réelle efficacité dans le déroulé du récit. On s'attache aux détails, aux petites combines, aux personnages, sans focaliser sur des effets dramatiques qui auraient été trop appuyés et sont ici très justement éludés. Clint Eastwood est, comme souvent, impressionnant de prestance et de distinction face au cynisme froid de Patrick McGoohan. Évidemment, quelques ficelles du scénario sont un peu grosses, mais l'ensemble est efficace, captivant sans en faire trop.\n        \n            ",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_40785463",
+            "author": "\n                            kal-el 02\n            \n                    ",
+            "date": "2014-01-27",
+            "rating": 4.0,
+            "text_content": "\n                    Clint Eastwood est un très très bon réalisateur et aussi acteur et il nous le prouve encore dans ce film de don siègel . Excellent  film de prison, l'ambiance carcérale est très bien rendue, les personnages interessants, et le déroulement de l'évasion est captivant à suivre, surtout quand on regarde le film pour la premiere  voit bien un exemple de prison ou tout est fait pour la sécurité et ou on ne se soucie aucunement des détenus.\n        \n            ",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_39345371",
+            "author": "\n                            Shephard69\n            \n                            \n                    ",
+            "date": "2013-10-2",
+            "rating": 3.5,
+            "text_content": "\n                    Avec sa trame des plus classiques, un bon film qui possède tout le charme des films des années 70. Quelques très bonnes scènes, Clint Eastwood dans son registre habituel. Ca a franchement vieilli mais ça reste tout à fait présentable.\n        \n            ",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_46068287",
+            "author": "\n                            Bertie Quincampoix\n            \n                    ",
+            "date": "2015-02-21",
+            "rating": 4.0,
+            "text_content": "\n                    Si sa vision du monde carcéral est parfois un peu trop angélique, Don Siegel nous régale dans un film aussi rythmé qu'efficace. Tiré d'une histoire vraie, le récit de cette spectaculaire évasion de la prison mythique d'Alcatraz – théoriquement impossible – nous offre deux heures d'un divertissement de grande qualité.\n        \n            ",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_25829658",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2011-06-26",
+            "rating": 5.0,
+            "text_content": "\n                    Un des plus grand film d'évasion du cinéma et qui plus est, tourné sur les lieux mêmes. De la description de la vie à Alcatraz, en passant par la désormais mythique évasion, le film est marqué par l'empreinte indélébile de l'association Eastwood-Siegel. Superbe!\n        \n            ",
+            "likes": 0,
+            "dislikes": 1
+        },
+        {
+            "id": "review_41129539",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2014-02-24",
+            "rating": 4.5,
+            "text_content": "\n                    Quand on est Clint Eastwood , rien ne nous arrête !    Même cette prison , d' ou personne , officiellement , n' a réussi a s' évader , malgré 36 tentatives . Clint interprete Frank Lee Morris , redoutable cambrioleur de banque , qui cherche a s' evader avec quatre autres détenus.... Patrick McGoohan interprete le directeur du pénitencier , lui qui fut le célèbre numero 6 dans la série \" Le prisonnier\" ! Cinquième et dernière collaboration entre Eastwood et Siegel , ce film est un véritable suspense !\n        \n            ",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_4644982",
+            "author": "\n                            chrischambers86\n            \n                    ",
+            "date": "2010-07-24",
+            "rating": 3.5,
+            "text_content": "\n                    Rèalisè efficacement par le solide Don Siegel, l'histoire vraie des prèparatifs et de l'èvasion de Frank Morris et de ses deux complices, enfuis en 1962 de la prison \"d'où-on-ne-s'èvade-pas\", Alcatraz, fermèe un an plus tard! Curieusement \"L'èvadè d'Alcatraz\" prèsente plus d'un point commun avec \"Dirty Harry\"! Comme lui, Clint Eastwood mesure ses paroles, misant davantage sur l'efficacitè du geste! Comme lui, c'est un homme sans passè ni destin (on ignore jusqu'au motif de sa condamnation). Et comme lui, il rèussit l'impossible...On ne se refait pas! D'importants travaux furent entrepris pour garantir une authenticitè maximale des dècors de la prison avec de la rigueur et de la prècision! Mise en scène froide et sèche de Siegel, avec un montage incisif et brutal qui accentue le jeu de Clint, admirable de simplicitè et de force retenue...\n        \n            ",
+            "likes": 2,
+            "dislikes": 0
+        },
+        {
+            "id": "review_25136967",
+            "author": "\n                            bsalvert\n            \n                            \n                    ",
+            "date": "2011-05-26",
+            "rating": 2.0,
+            "text_content": "\n                    Malgré les efforts de Clint Eastwood, le film manque de rythme et d'originalité.\n        \n            ",
+            "likes": 0,
+            "dislikes": 3
+        },
+        {
+            "id": "review_1033331367",
+            "author": "\n                            Titanneeb \n            \n                    ",
+            "date": "2024-12-23",
+            "rating": 3.0,
+            "text_content": "\n                    J'ai trouver le film un peu trop long à se mettre en place. C'est intéressant à suivre évidemment mais j'ai pas non plus été plus dedans que ça. Les personnages sont sympa mais pas forcément marquants. Il y a des scènes très bonnes et d'autres trop longues. Le film passe quand même vite surtout vers la fin ou tout s'enchaîne rapidement. C'est sympa à regarder mais de la à le regarder plusieurs fois je sais pas.\n        \n            ",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_32065906",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2012-05-22",
+            "rating": 2.5,
+            "text_content": "\n                    Un film culte, sur une évasion non moins culte, d'autant que l'on ne saura jamais si les évadés s'en s'ont sortis ou s'ils se sont noyés. Le film vaut surtout pour le face à face Eastwood- Mac Goohan, qui n'a plus joué que des ordures finies depuis le fameux prisonnier. Les personnages sont très stéréotypés, on dirait que mise à part l' un des détenus, il n'y a que des braves types enfermés là, les matons étant pour leur part des salauds à l'image du directeur La préparation de l'évasion, pour être réaliste et fignolée, n'en est pas moins un brin longuette, d'autant que le plus souvent tournée dans l'obscurité. En ce qui concerne les films carcéraux et les évasions, j'ai nettement préféré \"les évadés\", qui, pour être fictif, est tourné avec plus de rythme et d'émotion.\n        \n            ",
+            "likes": 0,
+            "dislikes": 1
+        },
+        {
+            "id": "review_32249687",
+            "author": "\n                            caro18\n            \n                            \n                    ",
+            "date": "2012-06-7",
+            "rating": 3.0,
+            "text_content": "\n                    Un peu long à démarrer mais un récit interessant sur cette célèbre évasion.\n        \n            ",
+            "likes": 0,
+            "dislikes": 3
+        },
+        {
+            "id": "review_249239",
+            "author": "\n                            AMCHI\n            \n                            \n                    ",
+            "date": "2015-07-17",
+            "rating": 3.5,
+            "text_content": "\n                    C'est la 5ème et dernière fois que Don Siegel va diriger Clint Easwood, c'est aussi le film le moins réussi qui les réunit. Inspirée d'une histoire vraie, la seule évasion réussie d'Alcatraz (dans la réalité on ne sut jamais ce qu'il advint des évadés) ce film bien que prenant par son suspense manque tout de même de rytme.\n        \n            ",
+            "likes": 0,
+            "dislikes": 2
+        },
+        {
+            "id": "review_38694195",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2013-08-19",
+            "rating": 4.5,
+            "text_content": "\n                    Excellent thriller porté par une très belle prestation de Clint Eastwood où il nous ressert son personnage placide, ténébreux, qui dissimule une grande assurance mais une profonde tristesse.",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1033590516",
+            "author": "\n                            weihnachtsmann\n            \n                            \n                    ",
+            "date": "2025-01-6",
+            "rating": 4.0,
+            "text_content": "\n                    Un film haletant qui nous retient tout le long du stratagème. Excellent CE évidemment. Sobre et efficace.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1027445960",
+            "author": "\n                            Nicothrash\n            \n                            \n                    ",
+            "date": "2023-10-10",
+            "rating": 4.0,
+            "text_content": "\n                    Très bon film de Don Siegel sur la dernière évasion de Frank Morris avec d'excellentes interprétations, Clint Eastwood en tête, et un scénario béton. Ce dernier est tiré de la véritable histoire de Morris qui ne semble pas avoir été beaucoup romancée ici. On suit son parcours carcéral avec grand intérêt et Siegel nous réserve son lot de scènes à suspens. C'est haletant, notamment sur la dernière partie et le final assez ouvert respecte finalement très bien les faits véritables. Un très bon moment.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1024681716",
+            "author": "\n                            stallonefan62\n            \n                            \n                    ",
+            "date": "2024-07-12",
+            "rating": 3.5,
+            "text_content": "\n                    Un bon film avec avec pas mal de suspenses et une excellente interprétation !! Clint Eastwood à énormément de charisme !!\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1019386080",
+            "author": "\n                            cinono1\n            \n                    ",
+            "date": "2022-03-18",
+            "rating": 4.0,
+            "text_content": "\n                    Certes, le scénario ne révolutionne pas le genre dit du \"film de prison\" mais voici un film bien charpenté qu'on doit à Don Siegel. Le réalisateur a pris un soin tout particulier à filmer la prison d'Alcatraz, ses murs poreux, ses couloirs, ses cellules, ses refectoires. Tourné sur les lieux mêmes, cette seule évasion, ajouté à son sens du montage, du cadre concourt à un suspense sans faille d'autant que le final laisse une part de mystère et que son héros Franck Mauris est porté par Clint Eastwood dont le charisme et le jeu simple et efficace s'accorde au récit de son réalisateur et ami, Don Siegel\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_62925160",
+            "author": "\n                            orlandolove\n            \n                            \n                    ",
+            "date": "2019-05-23",
+            "rating": 3.5,
+            "text_content": "\n                    Une mise en scène ciselé, un script dégraissé et d'excellents acteurs sont les principaux atouts du film.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1026602008",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2023-08-8",
+            "rating": 3.5,
+            "text_content": "\n                    Dernière collaboration Siegel - Eastwood, collaboration réussie.",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1035958864",
+            "author": "\n                            Michael78420\n            \n                    ",
+            "date": "2025-06-13",
+            "rating": 4.0,
+            "text_content": "\n                    Oppressant, on se prend à vouloir la réussite de ce projet d'évasion... de repris de justice. C'est tout le miracle de ces films qui transforment des malfrats en gens sympathiques dont on veut le bonheur. La taille des cellules, les conditions d'hébergement, la surveillance permanente, les luttes entre détenus, sont autant d'arguments dissuasifs quant à l'idée de faire un séjour à Alcatraz. Clint Eastwood est efficace, encore en grande forme pour assumer certains passages nécessitant une excellente condition physique. Patrick McGoohan est détestable dans son incarnation de ce directeur de prison névrosé. Un modèle du genre.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_39000410",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2013-09-3",
+            "rating": 2.5,
+            "text_content": "\n                    \" L'Evadé d'Alcatraz \" est un film solidement réalisé, doté par moment d'une tension palpable mais aussi de traits d'humour bienvenus. Clint Eastwood continue dans son registre \" Inspecteur Harry \" tandis que pratiquement tous les acteurs s'effacent. Malheureusement, le film souffre d'un manque flagrant de dimension émotionnelle et peut paraître un peu vide, trop brut, pas réellement cinématographiquement (pourquoi pas semi-documentaire ?). Un modèle classique de film d'évasion mais dénué d'émotions qui éloigne le spectateur du sort du héros. Un peu dommage...\n        \n            ",
+            "likes": 0,
+            "dislikes": 2
+        },
+        {
+            "id": "review_47208345",
+            "author": "\n                            cylon86\n            \n                    ",
+            "date": "2015-05-12",
+            "rating": 3.5,
+            "text_content": "\n                    Quand Don Siegel fait tourner Clint Eastwood une fois de plus sous sa direction pour adapter un fait divers célèbre, c'est à dire l'évasion par trois détenus de la prison d'Alcatraz, cela donne un film bourré de suspense. On a beau connaître l'histoire en avance (et rester fasciné par le fait que le destin des évadés restent à ce jour inconnus), le fait est que la minutie du scénario et l'efficacité de la mise en scène de Siegel rendent le film totalement fascinant. Sans fioritures, Siegel filme étape par étape le plan échafaudé par Frank Morris pour s'évader et c'est prenant de bout en bout. Si le suspense est tout à fait ménagé, il faut dire que le charisme de Clint Eastwood aide beaucoup à se plonger dans le film, l'acteur étant passé maître dans les personnages de durs à cuire taiseux qui n'aiment parler que pour sortir une bonne réplique.\n        \n            ",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_49355980",
+            "author": "\n                            Eselce\n            \n                    ",
+            "date": "2015-11-26",
+            "rating": 3.5,
+            "text_content": "\n                    Le titre est déjà un spoil. Ce qui est intéressant dans ce film, ce sont les astuces des prisonniers à planifier leur évasion. Avec quoi, comment, quand et surtout à qui se fier ? Un bon divertissement et de bonnes astuces. Certaines semblent simplistes, mais j'ai bien aimé.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_47678909",
+            "author": "\n                            soniadidierkmurgia\n            \n                            \n                    ",
+            "date": "2015-07-11",
+            "rating": 4.0,
+            "text_content": "\n                    \"L'évadé d'Alcatraz\" est le dernier des cinq films que Don Siegel tourna avec Clint Eastwood. En 1979, cela fait huit ans que les deux hommes un temps brouillés n'ont plus travaillé ensemble. C'est l'histoire de la seule et unique  évasion supposée réussie de la prison d'Alcatraz par Frank Morris le 11 juin 1962 qu'ils ont choisi d'adapter pour ces retrouvailles . Richard Tuggle qui mettra en scène plus tard \"La corde raide\" (1984) pour Clint Eastwood écrit le scénario à partir d'un livre d'enquête sur le sujet de J. Campbell Bruce. Les conditions de tournage sont rendues difficiles par la nouvelle vocation touristique d'Alcatraz envahie le jour par les visiteurs, obligeant à de nombreuses prises nocturnes. Si le film n'omet rien des canons du genre (directeur sadique, tentative de viol, hobbies bizarres de certains détenus, scènes de réfectoires,...) il n'en fait pas son crédo, Siegel toujours sobre, se concentrant davantage sur l'organisation minutieuse de la tentative d'évasion de la fameuse prison où séjourna Al Capone, qui avait bâti durant ses trente ans d'existence sa réputation sur son inviolabilité et qui d'ailleurs fermera un an après à cause de cet échec présumé mais aussi en raison de ses coûts de fonctionnement  prohibitifs. Cette rigueur narrative amène sans doute Siegel à ne pas trop s'appesantir sur   des intrigues secondaires fort bien dessinées mais juste esquissées. Dans le même esprit il   élude le  background des détenus, toile de fond habituelle de portraits psychologiques taillés à la serpe dans la tradition du genre . L'allure marmoréenne d'Eastwood renforce encore la rigueur recherchée par Siegel qui disait: \"avoir voulu faire un film en noir et blanc en couleur\". Cette sobriété commune aux deux hommes permet au film de conserver toute sa force plus de trente ans après sa sortie et d'occuper une place de choix dans leurs filmographies respectives.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_62923411",
+            "author": "\n                            Roub E.\n            \n                            \n                    ",
+            "date": "2019-05-23",
+            "rating": 3.5,
+            "text_content": "\n                    Un film de prison avec Clint Eastwood devant la caméra et Don Siegel derrière. L’évadé d’Alcatraz n’est pas ceux que les deux ont fait de mieux ensemble, mais cela reste de très bonne facture. Suffisamment soigné et marquant pour qu’il inspire fortement (pour ne pas dire plus) les évadés de Frank Darabont des années plus tard.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_50381340",
+            "author": "\n                            Agnes L.\n            \n                    ",
+            "date": "2022-03-17",
+            "rating": 4.0,
+            "text_content": "\n                    Formidable préparation d'une évasion avec une tension à chaque instant. Le spectateur voit tous les défis à surmonter pour arriver à quitter cette prison et l'ingéniosité qu'il faut pour tout anticiper. Les hommes savent combien les risques sont élevés mais leur désir de liberté est plus fort que tout. Les dialogues sont réduits au minimum parce que justement, il s'agit d'être discret pour ne pas attirer l'attention des gardes. Clint Eastwood est magnifique dans ce rôle de prisonnier.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_52544780",
+            "author": "\n                            Thomas P\n            \n                    ",
+            "date": "2017-01-21",
+            "rating": 3.5,
+            "text_content": "\n                    Une légende du cinéma sur une île mythique. Le film est efficace et il s'apprécie du début à la fin.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1027059548",
+            "author": "\n                            fabrice d.\n            \n                    ",
+            "date": "2023-09-9",
+            "rating": 3.5,
+            "text_content": "\n                    Ce film, un classique, nous fait toujours un peu rêver, bien qu'il ait un peu vieilli.",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_44373960",
+            "author": "\n                            Vixare\n            \n                    ",
+            "date": "2014-10-22",
+            "rating": 4.0,
+            "text_content": "\n                    Habitué aux films noirs, le duo Don Siegel - Clint Eastwood ne déroge pas à la règle dans ce thriller très sombre, cloisonné aux murs de la prison d'Alcatraz. Siegel fait preuve de beaucoup de maestria pour reconstituer ce qui pouvait être l'ambiance intérieur de celle qui était considérée comme la pire prison des Etats-Unis, là même où menaces, privations, humiliations et violences étaient monnaie courante. Clint Eastwood y développe un jeu puissante tout en sobriété et en nuances là où les attitudes sont plus parlantes qu'une rafale de tirades, face à l'inflexible Patrick McGoohan, éternel pensionnaire des geôles. Le suspens est garanti grâce à une tension de tous les instants, renforcée par l'inquiétant environnement tant humain que naturel, et une fin particulièrement réussie : un très bon film !\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_40552322",
+            "author": "\n                            necrid\n            \n                    ",
+            "date": "2014-01-8",
+            "rating": 3.5,
+            "text_content": "\n                    Un excellent film qui a très bien vieilli. C Eastwood tout en sobriété interprète un prisonnier dont le seul but est de s’échapper de la prison dont personne ne s'échappe. On suit avec plaisir toutes les étapes et les préparatifs de l’évasion. Les personnages sont attachants et les méchants sont détestables.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_44339924",
+            "author": "\n                            Alasky\n            \n                    ",
+            "date": "2018-02-26",
+            "rating": 4.5,
+            "text_content": "\n                    Excellent film, avec le grand Clint Eastwood ! Trame simple, mise en scène sobre mais efficace,  et gros suspense du début à la fin.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1030231873",
+            "author": "\n                            Pascal\n            \n                    ",
+            "date": "2024-04-20",
+            "rating": 4.0,
+            "text_content": "\n                    Cinquième et dernier opus de Don Siegel avec Eastwood en vedette, ce film d'évasion tiré d'un fait réel ( seule évasion - peut-être - réussie, de la prison située dans la baie de San Francisco - Alcatraz).",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_27174490",
+            "author": "\n                            DarioFulci\n            \n                    ",
+            "date": "2011-09-18",
+            "rating": 4.0,
+            "text_content": "\n                    Don Siegel / Eastwood à Alcatraz pour une histoire authentique. Du sur mesure pour l'acteur, parfait, tout en regards évocateurs et attitude taciturne. Du cinéma à l'ancienne qu'on apprécie pour le savoir-faire du réalisateur: prendre son temps, minimum de spectaculaire tout en étant divertissant, et personnage/acteur charismatique. Un indémodable classique du film d'évasion.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_34575980",
+            "author": "\n                            brqui-gonjinn\n            \n                    ",
+            "date": "2013-01-5",
+            "rating": 3.5,
+            "text_content": "\n                    Quelques années après \"L’Inspecteur Harry\", Don Siegel et Clint Eastwood collaborent de nouveau grâce à la libre adaptation de ce fait divers. Frank Morris est un détenu multirécidiviste qui se retrouve transférer à la prison d’Alcatraz après une autre évasion, dès son arrivée sur le rocher il va néanmoins mettre au point un plan pour en sortir mais la configuration géographique de cette prison présente des défis qui lui sont inédits. Au final il arrivera à s’évader de la prison avec ses complices, la version officielle les considère comme présumés morts mais la réalité est-elle aussi simple ? Bien avant la série à succès \"Prison Break\", Clint Eastwood jouait déjà les ingénieux détenus dans ce thriller carcéral et le rendu est très satisfaisant. En effet en filmant cette histoire vraie directement à Alcatraz le film de Don Siegel obtient une authenticité qu’il n’aurait jamais eu avec des décors traditionnels. Pour une fois et contrairement aux autres films du genre \"L’Evadé d’Alcatraz\" ne présente des détenus se trouvant là par hasard mais bel et bien des criminels dont la seule envie est la liberté même si la plupart ont gardés une certaine humanité. Charismatique et amusant, Clint Eastwood est un nouvelle fois en grande forme pour ce divertissement très plaisant.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_19490510",
+            "author": "\n                            g0urAngA\n            \n                    ",
+            "date": "2010-07-22",
+            "rating": 3.0,
+            "text_content": "\n                    Bluffant sur le jeu des acteurs, L'Evadé d'Alcatraz surprend par l'efficacité de sa réalisation pourtant datée. Comme quoi, quand on es talentueux, peu importe l'époque. Efficace et prenant, une valeur sur d'Eastwood...\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_35122001",
+            "author": "\n                            zafkiel\n            \n                    ",
+            "date": "2013-01-9",
+            "rating": 3.0,
+            "text_content": "\n                    Le film avait un très bon impact dans mes vieux souvenirs, après l'avoir revu aujourd'hui, je me rends compte que bcp de choses ont mal vieilli. Le film est lent, il n'y a quasiment aucune ambiance musicale, la plupart des situations qui permettent d'arriver à la conclusion sont assez incroyables, on a vraiment du mal à croire à cette histoire cousue de fil blanc, tout parait quasi improbable.",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_34785511",
+            "author": "\n                            CrackO DingO\n            \n                    ",
+            "date": "2015-02-1",
+            "rating": 4.0,
+            "text_content": "\n                    Un film qui nous tient en haleine du début à la fin. Une histoire souvent imitée, c'est un classique.    ------Décembre 2012-----",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_30918576",
+            "author": "\n                            Dynastar21\n            \n                    ",
+            "date": "2012-04-16",
+            "rating": 4.0,
+            "text_content": "\n                    C'est un très bon film. Très classique mais efficace. Réalisé par un grand Monsieur du cinéma, Don Siegel qui a prit la direction d'un des plus grands acteurs, Clint Eastwood, ça ne peut donner qu'un très bon divertissement. L'univers carcéral et les évasions représentent un genre très présent au cinéma et qui donne souvent naissance à des grands films, \"L’Évadé d'Alcatraz\" ne déroge pas à la règle. La réalisation est minutieuse et le fait d'avoir tourné réellement sur l'île d'Alcatraz rend le tout très réaliste surtout quand on sait que l'histoire du film est tirée d'une histoire vraie, c'est à dire que Frank Morris, le personnage joué par C.Eastwood, a vraiment existé et s'est échappé d'Alcatraz, il n'a jamais été retrouvé et la police a déclaré officiellement qu'il était porté disparu avec les deux autres détenus (avec qui il s'était fait la malle) et présumés noyés : il y a donc un aspect historique captivant et un réel intérêt. Le film qui s'étend sur 1h35 n'est pas très dynamique en terme d'action mais réussit à nous tenir en haleine et à mettre en place une certaine tension jusqu'au dénouement final. Les seconds rôles et les histoires de détenus apportent un peu d'humanité au tout, un petit clin d'oeil sur la prison et la liberté. Bref, un bon moment de cinéma et un classique que personnellement j'apprécie beaucoup même s'il n'atteint pas la perfection du genre qui reste pour moi La Grande Evasion avec Steve McQueen.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_60871726",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2018-11-7",
+            "rating": 4.0,
+            "text_content": "\n                    Très bonne réalisation, acteurs impeccables aux rôles singuliers, un lieu carcéral comme intrigue dramatique, le moteur du scénario n'est autre que de s'évader, des astuces d’instinct de survie, la réaction d’auto-défense et une attaque surprise contré par une idée ingénieuse, la mise en scène est prévoyante.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_9478224",
+            "author": "\n                            Antony\n            \n                    ",
+            "date": "2009-08-12",
+            "rating": 4.0,
+            "text_content": "\n                    Et bien que dire sinon que l'evadé d'Alcatraz est un indispensable. On retrouve certes Eastwood, mais on trouve également un excellent scénario aux dialogues précis, un montage tout en finesse, et une réalisation limpide et clairvoyante. Seul Patrick McGoohan, dans le cliché, déçoit non pas par son jeu, mais par le rôle trop caricatural. Bref une valeur sûr.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_63237292",
+            "author": "\n                            Rudy66\n            \n                    ",
+            "date": "2019-06-29",
+            "rating": 4.0,
+            "text_content": "\n                    Une évasion exagérée, loufoque et beaucoup trop facile.",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_34575428",
+            "author": "\n                            Le cinéphile\n            \n                    ",
+            "date": "2016-01-23",
+            "rating": 2.5,
+            "text_content": "\n                    L'évadé d'Alcatraz, porté par  Clint Eastwood dans son éternel rôle de personnage taciturne et altruiste, mélange les genres : présentation du milieu carcéral, critique de l'horrible prison d'Alcatraz, critique du traitement des détenus, film d'évasion, personnage héroïque. Sans être le meilleur film de Siegel, \"L'évadé d'Alcatraz\" reste une source d'inspiration pour bon nombre de réalisateurs contemporains. ",
+            "likes": 0,
+            "dislikes": 3
+        },
+        {
+            "id": "review_45673408",
+            "author": "\n                            7eme critique\n            \n                            \n                    ",
+            "date": "2015-01-29",
+            "rating": 4.0,
+            "text_content": "\n                    Un classique de l'évasion ! Les films en milieu carcéral sont, pour la plupart, très entraînants, et \"L'évadé d'Alcatraz\" se positionne auprès des plus attractifs dans ce domaine. Le grand Clint Eastwood nous fait part de sa méthode pour s'évader de la prison la plus fortifiée des États-Unis. D'un bout à l'autre, notre attention sera captée.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1002468208",
+            "author": "\n                            GéDéon\n            \n                    ",
+            "date": "2023-02-7",
+            "rating": 3.5,
+            "text_content": "\n                    Quelques années après leur dernière collaboration dans « L'inspecteur Harry », le réalisateur Don Siegel retrouve Clint Eastwood pour un film très efficace. Sorti en 1979, ce long-métrage retrace l’évasion de trois détenus de la prison de haute sécurité de l'île d'Alcatraz dans la baie de San Francisco. Réputée impossible, cette échappée fait l’objet d’une minutieuse préparation dont le récit ne manque pas de détailler le contenu. Certes, ce huis clos présente un faux rythme mais le caractère indécis de l’entreprise maintient une véritable tension. La description du milieu carcéral renforce également l’intérêt du scénario. Bref, une œuvre palpitante rondement menée.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_40555598",
+            "author": "\n                            Manu711\n            \n                    ",
+            "date": "2014-01-9",
+            "rating": 3.5,
+            "text_content": "\n                    J'ai beau connaître Don Siegel de nom, je pense que l’Évadé d'Alcatraz est le premier film que je voie de lui. Et j'ai plutôt bien aimé. Pour un film qui a 35 ans, ma première réaction est que ça a bien vieilli. Je me positionne toujours plus ou moins de cette manière face à un mammouth de la sorte, bien que je vous l'accorde, ce ne soit pas non plus hyper vieux. Mais quand même. Bref, passons. Donc on a un film dont le titre nous raconte la fin. C'est pas si bête car au moins on connait l'enjeu et comme en plus c'est une histoire vraie, ben il n'y a aucune raison de nous faire pédaler dans la semoule. La mise en scène est vraiment propre, j'ai pris pas mal de plaisir à regarder ce film. Clint Eastwood qui me fait parfois (trop souvent je pense) ni chaud ni froid m'a ici bien convaincu. J'ai aimé cette espèce de force tranquille qu'on suit avec de l'empathie alors que le mec est quand même un multirécidiviste. Sinon, les plans de l'évasion et son entreprise sont assez bien réussis, et surtout plutôt réalistes et cohérents avec ce qui s'est véritablement passé. La fin suit d'ailleurs cette logique et ça m'a bien plu, ça renforce la qualité de l’œuvre. Un bon film qui me donne envie de voir d'autres Siegel et d'autres Eastwood.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_20538066",
+            "author": "\n                            SYNEPHIL\n            \n                    ",
+            "date": "2016-09-17",
+            "rating": 5.0,
+            "text_content": "\n                    Classique parmi les classiques du genre \"carceral\",voila un film qui malgré le poids des ans reste un incontournable et ce grace a l'incroyable tension qui s'en degage du debut a la fin ,on a beau en connaitre l'issue heureuse ,impossible de ne pas vibrer et ressentir le suspense ,la peur ou le frisson qui rythme ce long metrage.La realisation de Siegel s'avere remarquable : chacun de ses plans nous transporte au coeur de cette celebrissime prison et nous en fait decouvrir le moindre recoin ,bien aidé par une superbe bande son ,il joue avec nos nerfs et fait monter la pression jusqu'a l'evasion proprement dites.Malgré son aspect parfois cliché ,la galerie de personnages secondaires se montre attachante et beneficie d'une solide interpretation ,Mac Goohan est parfait en directeur sadique tandis qu'Eastwood se revele tout simplement \"monstrueux\" dans la peau de Frank Morris ,veritable cerveau de cette histoire.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_40549698",
+            "author": "\n                            Nangeuh\n            \n                    ",
+            "date": "2014-01-8",
+            "rating": 3.5,
+            "text_content": "\n                    Très belle reconstitution de la part de sieur Clint. Un film efficace et simple qui se suit du début a la fin\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_29929278",
+            "author": "\n                            Plume231\n            \n                    ",
+            "date": "2012-04-6",
+            "rating": 3.0,
+            "text_content": "\n                    Un film devant lequel on s'ennuie pas la plus petite parcelle de seconde. On peut même dire que l'ensemble est très captivant mais plus grâce à son sujet passionnant que par le film lui-même qui est loin d'être exempt de défauts. Techniquement, le film est irréprochable. Don Siegel était un vieux de la vieille dans le domaine donc rien à dire sur ce plan. Mais pour le scénario c'est autre chose sur deux points. Un, on croit bon de nous sortir des petites séquences de suspense alors que tiré d'une histoire vraie on sait très bien comment ça va se finir, deux, on nous sort le stéréotype du directeur de prison forcément froid et sadique alors que ça ne sert à rien ici surtout que ce personnage n'apparaît en plus que par intermittence. Mais bon avec un tel sujet, il était couru d'avance que le film ne pouvait être qu'au minimum très intéressant et puis le charisme monumental de Clint Eastwood fait le reste...\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_6115914",
+            "author": "\n                            jeremie747\n            \n                    ",
+            "date": "2010-05-5",
+            "rating": 4.0,
+            "text_content": "\n                    L'ambiance carcérale, l'enfermement inéluctable, désespérant et le sadisme tout-puissant des directeurs de prison sont dans ce film très bien rendus. \"L'évadé d'Alcatraz\" vaut surtout pour le duel à distance, duel d'honneur, que se livrent Clint Eastwood, remarquable de force tranquille, et le directeur de la prison. Enfin, à voir aujourd'hui, le film revêt un intérêt annexe : il a très clairement inspiré la série \"Prison Break\". Que ce soit dans les rapports psychologiques entre personnages, les conditions d'évasion, la description des conditions carcérales, les analogies entre le film et la série sont parfois ahurissantes. Le film est très largement supérieur, plus elliptique et donc plus puissant...\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1026610025",
+            "author": "\n                            TUTUR29\n            \n                    ",
+            "date": "2023-08-9",
+            "rating": 3.0,
+            "text_content": "\n                    J'avais beaucoup entendu parler de l'évadé d'Alcatraz comme un énorme classique mais j'avoue être assez déçu car je m'attendais à largement mieux. Le film est loin d'être mauvais, le scénario est intéressant à suivre, mais tout le reste, à commencer par la mise en scène est assez quelconque. J'ai ressenti tres peu de stress et de tension, les scènes se déroulent dans un silence assez perturbant et même la scène finale d'évasion est loin d'être spectaculaire. Bref, ça m'a vraiment déçu et je m'attendais à clairement mieux, même si encore une fois ça reste un sympathique film divertissant.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_28985612",
+            "author": "\n                            Alejandro Almodoclint\n            \n                    ",
+            "date": "2012-01-29",
+            "rating": 3.5,
+            "text_content": "\n                    On retrouve une nouvelle fois le duo Siegel/Eastwood. Le film n'a pas pris une ride. Il est simple, lent mais tres puissant et prenant. On se dit au départ que la résolution du film est compris dans le titre mais il y a Clint Eastwood et ça passe tout seul. Quelle performance d'acteur!\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_2888470",
+            "author": "\n                            🎬 RENGER 📼 Cinéphile Nostal𝙂𝙚𝙚𝙠\n            \n                            \n                    ",
+            "date": "2011-03-13",
+            "rating": 3.0,
+            "text_content": "\n                    Quel est le secret de L'Evadé d'Alcatraz (1979) pour quil puisse nous passionner autant, au fil des années ? Comment se fait-il aussi quil nait pas pris un coup de vieux à force dêtre vu et revu ? Comment une simple histoire peut-elle réussir à nous captiver autant ? Tant de questions pour lun des meilleurs films de Clint Eastwood. De toute sa carrière, on retiendra bon nombre de films, mais celui-ci est sur dy figurer !",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_16373462",
+            "author": "\n                            Xyrons\n            \n                    ",
+            "date": "2010-01-9",
+            "rating": 4.0,
+            "text_content": "\n                    L’évadé d’alcatraz est un excellent thriller de Don Siegel. La mise en scène du réalisateur est irréprochable, le scénario est travaillé et l’intrigue fonctionne parfaitement. Dès le début du film on est pris dans l’histoire et on n’en décroche pas jusqu’à la fin. Bref c’est un excellent film mené par de brillants acteurs comme Clint Eastwood, Patrick McGoohan ou encore Roberts Blossom. 13 / 20.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_16178677",
+            "author": "\n                            Davidhem\n            \n                    ",
+            "date": "2009-12-8",
+            "rating": 5.0,
+            "text_content": "\n                    Cinquième association entre Clint Eastwood et Donald Siegel. Le duo du premier volet des aventures de \"l'inspecteur Harry\" avait définitivement propulsé l'acteur principal de Sergio Leone dans le coeur des Américains. Certaines critiques traitaient le réalisateur et l'acteur de jouer les policiers fascistes et réactionnaires, leur dernière collaboration devait ôter cet état d'esprit erroné déjà en partie effacé par Clint Eastwood dans ses deux dernières réalisations aux abords humanistes et marginales que sont \"Josey Wales hors-la-loi\" et \"L'épreuve de force\". Voir Clint Eastwood dans la peau d'un taulard à Alcatraz, cela ne pouvait que susciter l'intérêt du spectateur de voir l'acteur jouer à contre-emploi. Le film relate l'histoire véridique d'un homme qui vit dans une prison avec des gardiens violents et sournois, des détenus parfois sympathiques, d'autres violents et hostiles. Ce qui est étrange dans cette histoire dont le contexte est placé en 1960, c'est que bien évidemment le directeur de la prison la plus sûre de l'Amérique affiche un caractère antipathique mais il faut quand même souligner que les détenus malgré leur détention sont plutôt solidaires les uns envers les autres et c'est cette humanité et cet esprit collectif qui frappe dans ce long-métrage au scénario particulièrement solide, riche et dense. Le réalisateur a bien étudié son sujet, l'évasion filmée de près montre comment on pouvait obtenir une infime chance de s'évader de cette prison construite sur une île. Le réalisateur montre également ce qui n'est pas forcément exhibé dans les autres films de prison, c'est l'humiliation d'entrer dans la salle des détenus entièrement nu mais également celle qui punit ceux qui tentent de semer le trouble au sein de la direction en les enfermant dans des pièces sans lumière pendant des heures et arrosés d'eau froide pour nettoyer le corps et la salle. Un film ingénieux, prenant, intelligent, parfois très dur psychologiquement, ce long-métrage est très réussi.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_16876584",
+            "author": "\n                            hyrule\n            \n                    ",
+            "date": "2010-03-16",
+            "rating": 4.0,
+            "text_content": "\n                    Avec une magnifique interprétation de Clint Eastwood, L'Evadé d'Alcatraz nous tient en haleine tout le long du film. Si bien qu'on ne voit pas les deux heures passer. Le suspense est très présent et les personnages sont tous très intéressants. Excellent film.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_6713627",
+            "author": "\n                            Niko0982\n            \n                    ",
+            "date": "2009-06-23",
+            "rating": 4.0,
+            "text_content": "\n                    Très bon film. Le scénario est excellent, tout comme les acteurs.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_46007711",
+            "author": "\n                            WalterDiBobyLapointe\n            \n                    ",
+            "date": "2015-02-19",
+            "rating": 3.5,
+            "text_content": "\n                    Ce film en a inspiré un autre, et pas n'importe lequel puisqu'il s'agit des \"Évadés\" de Frank Darabont avec Tim Robbins et Morgan Freeman, considéré par le classement américain IMDB comme le meilleur film des tous les temps. Sans aller jusque là, \"Les Évadés\" est un film magnifique, même s'il perd aujourd'hui un peu de sa valeur quand je vois qu'il s'inspire très largement du film de Don Siegel. Néanmoins, je continue de préférer le film de Darabont à celui de Siegel, donc Robbins à Eastwood pour une seule bonne raison : la caractère du personnage. De la fébrilité et l'innocence du prisonnier surgit toute la tension et le drame. Quand-à Eastwood, son rôle est tout tracé et indéboulonnable, c'est un dur à cuire qui ne va pas se laisser faire",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_45650041",
+            "author": "\n                            Le-Gros-Moineau\n            \n                    ",
+            "date": "2015-01-28",
+            "rating": 5.0,
+            "text_content": "\n                    L'Evadé d'Alcatraz est un long métrage prenant et d'autant plus intéressant qu'il fait partie de ces oeuvres inspirées d'une histoire vraie.",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_14329275",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2009-06-21",
+            "rating": 5.0,
+            "text_content": "\n                    Au même titre que \"les évadés\" de Frank Darabont, ce film inteprété avec brio par Clint Eastwood mérite sa place dans le classement des meilleurs films suspence/espionnage/aventure, car l'histoire est très bien raconté, le suspence qui tient jusqu'au bout et des dialogues riches.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_16702121",
+            "author": "\n                            camray54\n            \n                    ",
+            "date": "2010-02-20",
+            "rating": 5.0,
+            "text_content": "\n                    Très bon film de Don Siegel porté par un Clint Eastwood (dont l'éloge n'est plus nécessaire) et des seconds rôles de très grandes qualités, un très bon divertissement qui même les années passant ne se démode pas, à l'histoire limpide et à la mise en scène nette et sans bavure.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_18646635",
+            "author": "\n                            jamesgray33\n            \n                    ",
+            "date": "2010-06-22",
+            "rating": 4.0,
+            "text_content": "\n                    Très bon film de Don Siegel ! Se déroulant dans l’univers carcéral, cette histoire est prenante et réalisée de manière à ce que l’on ait vraiment l’impression d’être aux côtés des détenus qui préparent progressivement le plan de leur évasion. A la tête de ce groupe, on retrouve l’ingénieux Frank Morris, impeccablement interprété par Clint Eastwood. Malgré un démarrage assez lent, le récit se révèle captivant et les scènes liées à la préparation de l’évasion distillent un excellent suspense. Parallèlement à tout cela, on peut aussi voir les duretés de la vie en prison (certains moments sont même plutôt durs)… Bilan : en plus d’être un des meilleurs films sur l’univers de la prison, «L’Evadé d’Alcatraz » est un film solide, classique mais terriblement efficace.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1037718334",
+            "author": "\n                            Laurent Boutonnat\n            \n                    ",
+            "date": "2025-12-8",
+            "rating": 4.5,
+            "text_content": "\n                    Une ambiance qui s'installe peu à peu, de la tension qui monte crescendo, une musique discrète mais qui colle totalement au thème, des acteurs très bien dans leurs rôles, une réalisation qui nous maintient en haleine et qui ne nous endort jamais : voilà pourquoi \"L'évadé d'Alcatraz\" est un excellent film. Malgré son âge (1979), il n'a pas pris une ride. Je le trouve presque aussi réussi que \"Midnight Express\" sorti un an plus tôt. De plus, il nous permet de voir comment était vraiment l'intérieur de la prison. Nous nous prenons au jeu, et nous espérons vraiment que le personnage incarné par Clint Eastwood ainsi que ses compagnons d'infortune vont parvenir à réaliser leur plan, malgré leur statut de condamnés. Nous ressentons de l'empathie pour eux...\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1000952266",
+            "author": "\n                            Théo Pouillet\n            \n                            \n                    ",
+            "date": "2019-10-26",
+            "rating": 4.0,
+            "text_content": "\n                    Un grand film d'évasion, sans doute un des meilleurs, porté à l'écran par Clint Eastwood. Un pur régal totalement bien maitrisé et plein d'idées novatrices.\n        \n            ",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_6191293",
+            "author": "\n                            oranous\n            \n                    ",
+            "date": "2008-02-10",
+            "rating": 4.0,
+            "text_content": "\n                    On est fasciné tout au long du film par l’intelligence du personnage principal, on ne connait rien de ce dernier, ni les circonstances pour lesquelles il est incarcéré (on sait qu’il s’est évadé a de multiples reprises mais on ne connait pas la raison de ses multiples emprisonnements et transferts.). Un scénario qui peu paraitre, parfois, tiré par les cheveux mais qui n’est pas sans rappeler \"Midnight Express\" (Surtout la version papier, différente de la version cinématographique.). On peut parfois reprocher au réalisateur de se perdre. L’enchainement des évènements n’est pas toujours très explicite, cependant, Clint Eastwood montre une fois de plus son talent à travers cette histoire vraie.",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_40548283",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2014-01-8",
+            "rating": 4.0,
+            "text_content": "\n                    Un film très simple mais avec beaucoup de charme, principalement grâce à Clint Eastwood qui joue une fois de plus son rôle à merveille. 1h50 de film dans d'une prison peut sembler long, le film est certes lent mais jamais ennuyant. Le casting est très bon. Le scénario est très bon également, basé sur une histoire vraie, mais on aurait peut-être aimé un peu de plus de profondeur pour les personnages. L'ensemble reste très bon, à voir un soir.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_26708376",
+            "author": "\n                            Damien D\n            \n                    ",
+            "date": "2011-08-18",
+            "rating": 3.0,
+            "text_content": "\n                    Eastwood en taulard aguerri se fait la malle d'Alcatraz, c'est pas mal du tout sauf que Shawshank Redemption est passé par là entre temps et est devenu la référence ultime. Du suspens comme on aime.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_20923162",
+            "author": "\n                            OldMartini \n            \n                    ",
+            "date": "2010-08-31",
+            "rating": 3.0,
+            "text_content": "\n                    Un bon film d'évasion dans la lignée des Evadès, qui marque la dernière collaboration entre Don Siegel et Clint Easwood. Assez distrayant et bien ficelée, cette histoire vraie est parfaitement adaptée et reste honnête à la réalité.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_2898733",
+            "author": "\n                            Bruno65\n            \n                    ",
+            "date": "2007-05-31",
+            "rating": 4.0,
+            "text_content": "\n                    Clint Eastwood est toujours pro dans ce film au suspense habilement distillé et scotchant.Et même si le récit est davantage porté sur les préparatifs et l'évasion ,que sur les conditions de vie des détenus à proprement parlé,il reste l'un des meilleurs films sur le milieu carcéral.Je ne me lasse jamais à chaque redif.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_16661230",
+            "author": "\n                            flushroyal\n            \n                    ",
+            "date": "2010-02-15",
+            "rating": 4.0,
+            "text_content": "\n                    Un très bon film qui compte l'évasion de Frank Morris de la mythique prison d'Alcatraz. Le récit tient en haleine avec une très bonne interprétation de Clint Eastwood. Le suspense, très présent, rend l'ensemble assez prenant. Dommage que l'évasion final, sobre, ne soit pas plus mouvementé. Ce film reste néanmoins une référence en matière de film sur la prison.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_17243564",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2010-04-29",
+            "rating": 4.5,
+            "text_content": "\n                    Le grand-papa de prison break est formidable ! Clint Eastwood assure, mystérieux et déterminé comme souvent. On y croit dur comme fer et on guette avec attention la moindre couille qui pourrait arriver pendant tout le film.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_29933313",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2012-04-6",
+            "rating": 4.0,
+            "text_content": "\n                    Excellent film à suspense qui retrace vraiment très bien cette évasion restée célèbre pour etre la seule qui ai, peut-etre reussie à Alcatraz. Excellent film à voir avec un bon Clint Eastwood.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_16657918",
+            "author": "\n                            yannick R.\n            \n                    ",
+            "date": "2010-02-15",
+            "rating": 5.0,
+            "text_content": "\n                    La superstar clint eastwood et le metteur en scène don siegel se retrouvent pour leur cinquième film, le récit passionnant de l'évasion de trois hommes , les seuls qui aient jamais réussi à s'évader de la trop célèbre prison d'alcatraz.",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_50727175",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2016-02-27",
+            "rating": 4.0,
+            "text_content": "\n                    Si comme moi vous vous êtes déjà intéressé à la captivante prison d'Alcatraz, vous avez sûrement déjà entendu parler de Frank Morris. De ce fait, vous connaîtrez le dénouement de ce film, qui décide justement de s'intéresser à l'évasion de ce célèbre détenu. Siegel n'en ressort que grandi, car il parvient à la perfection à gérer son suspens, au point de faire douter le spectateur de l'issue du métrage. Le film est bien rythmé, sans temps morts, et l'interprétation d'Eastwood est irréprochable.",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_16560725",
+            "author": "\n                            bidulle3\n            \n                    ",
+            "date": "2010-08-10",
+            "rating": 3.0,
+            "text_content": "\n                    envoy dan la plus celebre des prison du monde, franck morris (clint eastwood) se retrouve a alcatraz connu aussi sous le nom du \"rocher\", montrant son temparement, il va se faire ami et ennemi, et le jour ou l'un de ces amis va etre puni, il decide de se faire la belle avec 3 autre de ces codetenu, montant un plan qui a peu de chance de fonctionné, leur evasion ne sera pas simple, mais les idée ne manque pas a morris, il ne se voit pas finir ces jour en prison.",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_34576193",
+            "author": "\n                            pierrre s.\n            \n                            \n                    ",
+            "date": "2023-01-29",
+            "rating": 4.0,
+            "text_content": "\n                    Voilà un vrai film carcéral! Tout y est, le pro de l'évasion (Clint), sa bande de potes prête à tout pour l'aider, le directeur qui est un vrai salopard... Bref, certains parleront de clichés, moi je parle de film culte.",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_38149071",
+            "author": "\n                            Max Rss\n            \n                    ",
+            "date": "2019-03-21",
+            "rating": 4.0,
+            "text_content": "\n                    S'évader de la prison d'Alcatraz était parait-il, mission impossible à cause de la haute surveillance (un maton pour trois taulards comme le dit un personnage du film), à cause de la température très basse de l'eau ou à cause des courants forts dans la baie de San Francisco. Mais trois criminels désormais très célèbres appelés respectivement Frank Morris, John et Clarence Anglin ont réussi l'impossible et se sont échappés sans être rattrapés du plus célèbre pénitencier américain en juin 1962 et depuis, ils n'ont jamais été retrouvés.  Il fallait bien qu'un jour cet épisode (faisant partie désormais du mythe américain) soit projeté sur les écrans de cinéma. C'est chose faite en 1979 avec ce film ayant pour titre «L'évadé d'Alcatraz». Et qui de mieux que le grand Clint Eastwood pour jouer le rôle de Frank Morris? Personne. Ce film, réalisé par Don Siegel (que l'on connait pour avoir dirigé Clint à quatre reprises, celle-ci incluse) est scindé en deux parties bien distinctes. Dans la première, on suit pas à pas les détenus de cette prison et l'on se rend bien compte que pour eux, les journées sont interminables. Dans la deuxième partie, on entre dans le vif du sujet puisque l'on y suit le déroulement de l'évasion avec les repérages et les préparatifs. Nous sommes en présence d'une très bonne reconstitution d'un des événements les plus marquants dans l'Histoire très récente des Etats-Unis. Tout est reproduit avec exactitude. D'ailleurs il est amusant de constater que les acteurs ont des ressemblances avec les vrais prisonniers dont il est question. Bien sur on pourra toujours reprocher le fait que les personnages secondaires soient très stéréotypés mais ce n'est pas ça le plus important. Et puis, il y a bien sûr Clint Eastwood  (qui trouve ici l'un de ses meilleurs rôles en tant qu'acteur) qui par sa seule présence et son charisme arrive à donner toute crédibilité à cette histoire. Voilà un exemple de très bon cinéma.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_27115456",
+            "author": "\n                            _Royal_\n            \n                    ",
+            "date": "2011-09-12",
+            "rating": 0.5,
+            "text_content": "\n                    S'il fallait comparer ce film à Shawshank Redemption, et bien, je dirais qu'il vaudrait mieux éviter de les comparer.\n        \n            ",
+            "likes": 0,
+            "dislikes": 11
+        },
+        {
+            "id": "review_52476962",
+            "author": "\n                            Gouchou\n            \n                    ",
+            "date": "2016-08-14",
+            "rating": 3.5,
+            "text_content": "\n                    Un classique du cinéma américain qui a rendu les films sur l'univers carcéral très sexy. L'évadé d'Alcatraz est un long métrage inspiré d'une histoire vraie et fascinante, celle de Frank Morris, un expert de l'évasion qui a réussi l'exploit de s'évader d'Alcatraz. Sa performance a signé la fermeture de cette prison réputée pour ne pas laisser les prisonniers s'échapper. Pour une histoire exceptionnelle, il fallait un acteur exceptionnel, le rôle de Frank Morris est interprété par l'un des meilleurs acteurs de tous les temps : Clint Eastwood.  L'évadé d'Alcatraz ouvre la voie à des chefs d’œuvres du cinéma comme The Shawshank Redemption, on retrouve d'ailleurs énormément de similitudes entre ces deux histoires et même entre certaines scènes.",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_4051358",
+            "author": "\n                            tomPSGcinema\n            \n                    ",
+            "date": "2014-02-9",
+            "rating": 3.5,
+            "text_content": "\n                    Très bon film sur l’univers carcéral et sur la tentative réussi d’une évasion de prison, L’évadé d’Alcatraz se distingue par une performance très forte de Clint Eastwood et par une mise en scène aguicheuse de Don Siegel qui nous propose notamment une bonne dose de suspense durant les trente dernières minutes. L’intrigue est par contre assez classique, mais cela n’empêche pas de passer un bon moment devant ce film inspiré de faits réels.\n        \n            ",
+            "likes": 0,
+            "dislikes": 6
+        },
+        {
+            "id": "review_28117814",
+            "author": "\n                            zztchio\n            \n                    ",
+            "date": "2013-11-4",
+            "rating": 4.0,
+            "text_content": "\n                    l'histoire d'Alcatraz revisité une nouvelle fois avec brio... pas de mauvais sentiments et une action mesuré sur toute la ligne\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1034317145",
+            "author": "\n                            Lachainemusic\n            \n                    ",
+            "date": "2025-02-28",
+            "rating": 3.5,
+            "text_content": "\n                    \"L'Évadé d'Alcatraz\" est un film captivant qui parvient à transmettre la pression intense et le désespoir des prisonniers d'Alcatraz. La réalisation est telle que l'on ressent vraiment l'impossibilité de s'évader de cette prison réputée inviolable. De plus, contrairement à ce que l'on pourrait penser, les prisonniers semblent être traités avec une certaine humanité, ce qui contraste avec l'image souvent véhiculée de cette prison. Le film est une plongée réaliste dans l'univers carcéral, avec des performances d'acteurs remarquables qui rendent l'histoire encore plus poignante.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_3182734",
+            "author": "\n                            Tedy\n            \n                    ",
+            "date": "2013-09-7",
+            "rating": 3.5,
+            "text_content": "\n                    Un bon film d'évasion à condition de ne pas le regarder trop de fois. ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_16417765",
+            "author": "\n                            lejojoducoin\n            \n                    ",
+            "date": "2014-11-13",
+            "rating": 3.0,
+            "text_content": "\n                    Un film assez bien porté à l'écran et très bien joué notamment par clint eastwood qui en plus d'être un excellent réalisateur, nous rappelle ici qu'il est un très bon comédien. Néanmoins, malgré le récit tiré d'une histoire réelle ce qui renforce l'intrigue selon moi, j'ai regretté peut être le manque de rythme dans ce film où finalement l'élaboration de l'évasion est un peu long. Mais c'est un film très correct.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_10413132",
+            "author": "\n                            annatar003\n            \n                    ",
+            "date": "2012-01-11",
+            "rating": 4.5,
+            "text_content": "\n                    \"L'Evadé d'Alcatraz\" est l'occasion de retrouver une nouvelle fois le duo Siegel/Eastwood déjà à l’œuvre dans \"L’Inspecteur Harry\" ou dans le moins célèbre \"Les Proies\". ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_34943407",
+            "author": "\n                            Legid\n            \n                    ",
+            "date": "2012-12-22",
+            "rating": 4.5,
+            "text_content": "\n                    Un très bon film !",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_3989227",
+            "author": "\n                            apotheme\n            \n                    ",
+            "date": "2007-08-19",
+            "rating": 4.0,
+            "text_content": "\n                    une trés bonne mise en scéne dans le déroulement de l'evasion ainsi qu'une bonne intrigue qui nous fait espérer jusqu'a la fin que l'evasion va réussir avec brio.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1391100",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2014-08-7",
+            "rating": 3.5,
+            "text_content": "\n                    Alcatraz, un enfer au milieu du néant. La liberté est-elle seulement un rêve ? Peu importe, quand on est prisonnier, la mort est une délivrance. Il faut s'évader. Un film sincère, pas toujours abouti, mais au suspense haletant. Avec un final aux allures abstraites stupéfiantes, dont l'utilisation du noir rappelle parfois le cinéma d'horreur.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_40550611",
+            "author": "\n                            Sid Nitrik\n            \n                    ",
+            "date": "2014-01-8",
+            "rating": 4.0,
+            "text_content": "\n                    L'histoire vraie de l'évasion de Frank Morris et des frères Anglin transposée au cinéma par Don Siegel et avec un Clint Eastwood affûté dans le rôle du cerveau de cette opération à la fois rocambolesque et mystérieuse (on n'a jamais retrouvé traces des 3 fugitifs). Un concept résolument hyper classique, une intrigue très simple et une réalisation en rien transcendante. Mais force est de constater que c'est bigrement efficace. On ne décroche à aucun moment. La 1ère partie se centre sur la vie en prison avec son lot de clans, d'abus d'autorité par l'administration pénitentiaire, de folie légère ou furieuse et de tentative d'enfilade dans les douches (faut pas faire ça à Clint...). La 2nd partie, c'est le plan d'évasion, avec les préparatifs, la répartition des rôles, les quelques heurts et la dissimulation des actes. Le final, c'est la mise en œuvre du plan avec la tension qui en découle. Quel adjectif qualifie le mieux ce film déjà ? Ah oui... EF-FI-CA-CE.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_262085",
+            "author": "\n                            Redzing\n            \n                            \n                    ",
+            "date": "2022-09-25",
+            "rating": 3.0,
+            "text_content": "\n                    Dans la série \"mon titre vous spoile le film\", voici \"Escape from Alcatraz\". Un film revenant sur la plus célèbre tentative d'évasion de la non moins célèbre prison américaine, réalisée en 1962. Clint Eastwood incarne Frank Morris, spécialiste de l'évasion qui débarque dans ce pénitencier de haute sécurité, bien décidé à s'en échapper avec des comparses. Le film ne fait pas dans la finesse, présentant le système pénitencier comme froid et arbitraire. Les gardiens sont pour la plupart bêtes et méchant, le directeur (jouée par Patrick McGoohan, surtout connu pour la série \"The Prisoner\" !) est pompeux et cruel.",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_33294548",
+            "author": "\n                            Biloba63\n            \n                    ",
+            "date": "2012-08-24",
+            "rating": 5.0,
+            "text_content": "\n                    Un superbe huis-clos carcéral au sein de l'une des prisons les plus connues du monde. Avec la réputation d'Alcatraz, et la véracité des faits, Siegel et Eastwood signent là une oeuvre superbe, méticuleuse, prenante et d'un vif intérêt. ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_59201572",
+            "author": "\n                            Mathieu B.\n            \n                    ",
+            "date": "2018-05-5",
+            "rating": 4.0,
+            "text_content": "\n                    Un grand classique des films d’évasion, qui plus est tiré d’une histoire vraie, la seule évasion réussie de la mythique prison d’Alcatraz, qui a fermé l’année suivante. Clint Eastwood est comme d’habitude excellent. Un film sobre, qui ne s’attarde pas sur des aspects inutiles, pas de longueur, le scénario se concentre vraiment sur l’essentiel : un plan d’évasion millimétré ! Ça doit être la 4ème ou 5ème fois que je le vois mais c’est toujours un véritable plaisir.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_8127366",
+            "author": "\n                            vvalenou\n            \n                    ",
+            "date": "2008-05-1",
+            "rating": 5.0,
+            "text_content": "\n                    Un véritable prison break avant l'heure au suspence insoutenable.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_16382871",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2010-01-10",
+            "rating": 5.0,
+            "text_content": "\n                    Un classique du genre, mainte fois copié, jamais égalé. Ce film de Don Siegel impose un vrai contexte et fait rentré concrètement ses spectateurs dans les cellules d'Alcatraz avec des plans toujours collé aux personnages. Le film nous tiens en haleine tout du long et laisse demeuré le suspense de savoir comment Eastwood va s'évadé et après de savoir si l'opération va réussir. Un film au scénario pas bien compliqué mais qui a le mérite de bien tenir la route!\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_4363815",
+            "author": "\n                            TCovert\n            \n                    ",
+            "date": "2011-04-22",
+            "rating": 4.5,
+            "text_content": "\n                    Dernière des 5 collaborations entre le réalisateur Don Siegel et l’acteur Clint Eastwood, l’Evadé d’Alcatraz est aussi une des meilleurs. Le film se déroule sur un rythme lent, méthodique qui n’appuie pas trop sur le sentimentalisme et rend ainsi les quelques scènes émotionnelles plus fortes. Le casting est excellent, Eastwood est en forme dans le rôle de Frank Morris et les seconds rôles sont particulièrement convaincants, notamment le Doc, Charlie Butts ou Litmus, les frères Anglin étant plus transparents. La mise en scène de Siegel est valable même si elle est sobre et la musique de Jerry Fielding est efficace dans sa discrétion. Savoir que le film s’inspire d’une histoire vraie amène un plaisir supplémentaire et on passe vraiment un bon moment.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_13593710",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2009-04-29",
+            "rating": 4.0,
+            "text_content": "\n                    L'évadé d'alcatraz est un bon film divertissant et bien mené par un décor intéressant. Les personnages sont un peu en retrait voir minimaliste.Mais la mise en scène est soigné et intelligente dans son évolution. Le film a quelques baisse de rythme mais qui n'enlève pas trop la qualité du scénario. On se rend compte en voyant le film que prison break a pillé pas mal d'idées a ce film qui n'en manque  pas.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_16401269",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2010-01-13",
+            "rating": 1.0,
+            "text_content": "\n                    Lent. Ce film qui a vieilli n' a de cesse de montrer le processus d'évasion qui obsède Clint Eastwood et ses amis . Aucune indication dans la construction du film n'indique les motifs de l'incarcération de ces hommes et le sentiment d'oppression et d'enfermement y est constant . Le dénouement heureux de cette histoire fait état qu'aucune prison ne peut retenir des hommes courageux , astucieux et volontaires . Film non essentiel.\n        \n            ",
+            "likes": 0,
+            "dislikes": 8
+        },
+        {
+            "id": "review_29036306",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2012-02-1",
+            "rating": 4.0,
+            "text_content": "\n                    tres bon clint eastwood, le film nous plange dans  un style policier avec  un bon suspens, certaines scenes sont un vrai regal et un suspens haletant pour le spectateur, de  plus le film est baser sur le fait reel des evades d'alcatraz, un tres bon policier/aventure qui ravira les fan de eastwood mais aussi ceux qui aime les film policier /suspens des annees 70!!! un film presque culte aujourd'hui avec toujours un excellent eastwood qu'on aime toujours voir dans ces annees la!!!\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1013598332",
+            "author": "\n                            AdriBrody\n            \n                    ",
+            "date": "2021-03-5",
+            "rating": 4.0,
+            "text_content": "\n                    Récit de l'unique et spectaculaire évasion d'Alcatraz. Cette prison supposément infranchissable, tout comme le Titanic était insubmersible. ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_10125425",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2008-09-3",
+            "rating": 5.0,
+            "text_content": "\n                    Don Siegel signe là, un immense chef-d'oeuvre admirablement filmé où l'on assiste à un des meilleurs et plus grands suspense de tous les temps... Fascinant...\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_24714187",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2011-05-4",
+            "rating": 4.0,
+            "text_content": "\n                    Très très bon , rien à dire si ce n'est que je regrette une absence musicale.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_34575231",
+            "author": "\n                            Régis B\n            \n                    ",
+            "date": "2012-11-20",
+            "rating": 3.0,
+            "text_content": "\n                    Bon film, de bons acteurs mais c'est un peu long à mon gout. ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_35078211",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2013-01-5",
+            "rating": 5.0,
+            "text_content": "\n                    Très bon film, l'évasion des héros est très bien réussi. ",
+            "likes": 0,
+            "dislikes": 1
+        },
+        {
+            "id": "review_45719637",
+            "author": "\n                            _domimi_\n            \n                    ",
+            "date": "2015-02-3",
+            "rating": 3.5,
+            "text_content": "\n                    Old school et à l'ancienne. Comme quoi pour filmer une évasion et tenir en haleine son public, il n'est pas nécessaire de verser dans la pyrotechnie à tout va, ou de se tatouer les plans de la prison sur le corps... mais simplement de bien ficeler le rythme de son film, de filer droit sur le scénar et d'appeler Clint, évidemment ...\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1029028059",
+            "author": "\n                            Totoloinloin\n            \n                    ",
+            "date": "2024-01-26",
+            "rating": 4.0,
+            "text_content": "\n                    Film vu pour la 2e fois. L'évasion est parfaitement mis en scène. Clint est excellent. Le film colle à  la réalité,  en voir un peu plus des personnages avant l'incarcération aurait pu être intéressant. Peu importe,  c'est très bon même 60ans après.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_33204776",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2012-08-18",
+            "rating": 4.5,
+            "text_content": "\n                    Un des classiques de films d'évasion avec un Clint Eastwood hyper charismatique comme à son habitude. Un grand chef-d'oeuvre.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_45646678",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2015-03-4",
+            "rating": 4.0,
+            "text_content": "\n                    L’évadé d'Alcatraz est un film passionnant sur la prison surnommée le rocher. On suit avec beaucoup d’intérêt la vie des prisonniers puis la préparation et enfin la fuite de 3 détenus. Clint Eastwood est excellent. Mais le film souffre de quelques (légères) lenteurs il n’en reste pas moins un très bon divertissement.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_16467661",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2010-02-1",
+            "rating": 4.0,
+            "text_content": "\n                    Ce film a bien vieilli contrairement à certains films de cette époque, le casting est bon, on est tenu en haleine tout le long, d'abord la vie en prison puis la préparation de l'évason et enfin le grand jour. évidemment Clint Eastwood est excellent, de nombreux films s'en sont inspirés ces dernières années\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_29812908",
+            "author": "\n                            hanson-blonde\n            \n                    ",
+            "date": "2012-03-28",
+            "rating": 4.5,
+            "text_content": "\n                    Clint Eastwood est bon quoiqu'il fasse, mais ce film est super.\n        \n            ",
+            "likes": 0,
+            "dislikes": 2
+        },
+        {
+            "id": "review_14857821",
+            "author": "\n                            steevevo\n            \n                    ",
+            "date": "2009-08-2",
+            "rating": 4.0,
+            "text_content": "\n                    Un des meilleurs films de prison avec un Eastwood tendu, sec, impeccable. On en redemande encore!\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_35042900",
+            "author": "\n                            LucienLaurent\n            \n                    ",
+            "date": "2013-01-2",
+            "rating": 3.5,
+            "text_content": "\n                    Ce film tiré d'une histoire vraie nous raconte l'histoire de Frank Morris, prisonnier à Alcatraz, qui planifie minutieusement son évasion. Le film a l'avantage d'avoir été tourné dans les décors réels et Clint Eastwood est une fois encore très convaincant. Un bon film, même s'il a un tout petit peu vieilli.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_40047866",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2013-11-29",
+            "rating": 3.5,
+            "text_content": "\n                    Pas des plus rythmés, Escape from Alcatraz reste néanmoins véritablement captivant. Film d'évasion, Clint est magistral dans le rôle de ce prisonnier dont on ne sait finalement pas grand chose. Même si l'ensemble reste assez simple (notamment la psychologie des personnages qui est légère), on passe un bon moment devant ce film tiré d'une histoire vraie.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_61296532",
+            "author": "\n                            Prométhée \n            \n                    ",
+            "date": "2018-12-24",
+            "rating": 3.0,
+            "text_content": "\n                    Académique, presque scolaire, l'évadé d'Alcatraz, ne réussit pas un ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_32249574",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2012-06-7",
+            "rating": 3.5,
+            "text_content": "\n                    Une reconstitution sérieuse, sa sobriété lui confère en effet une bonne crédibilité. Et on est toujours fasciné par l'ingéniosité dont font preuve les évadés célèbres.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_34313013",
+            "author": "\n                            MoMo420\n            \n                    ",
+            "date": "2012-11-4",
+            "rating": 3.0,
+            "text_content": "\n                    L’histoire de la seule évasion qui a peut-être réussie à Alactraz (quoique le doute soit fortement permis) est racontée par Don Siegel forcément accompagné d’un Clint Eastwood jeune. L’histoire est plutôt fidèle et assez bien réalisé, en partie grâce aux acteurs à leur aise ici. Un bémol important est à placer au niveau du rythme du film, très lent mais volontaire de la part de Siegel qui a surement voulu l’adapter à la réalité des prisons. L’évasion est assez plaisante à suivre et il est sympathique de voir que le film ne prend pas partie sur la suite de l’histoire même si le scénario et la mise en scène de la fin tend à pencher du côté de la survie des prisonniers. Le film est donc plutôt réussi malgré un rythme déroutant qui pénalise de nombreux passages.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_15242868",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2009-08-27",
+            "rating": 2.5,
+            "text_content": "\n                    Un film de prison, un de plus qui serait anodin sans la présence de Donald Siegel et Clint Eastwood, duo qui a déja fait ses preuves. Malgré une fin connue, le suspense fonctionne plutot bien. Un petit classique qui gagne à être revu.\n        \n            ",
+            "likes": 0,
+            "dislikes": 1
+        },
+        {
+            "id": "review_1036391153",
+            "author": "\n                            Lucas Bachelier\n            \n                    ",
+            "date": "2025-07-25",
+            "rating": 4.0,
+            "text_content": "\n                    Thriller carcéral sobre et tendu, L’Évadé d’Alcatraz brille par sa mise en scène épurée et l’interprétation tout en retenue de Clint Eastwood. Don Siegel signe un récit captivant, basé sur des faits réels, où la tension monte progressivement jusqu’à une évasion légendaire. Un classique du genre, efficace et sans artifices.\n        \n            ",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1000858588",
+            "author": "\n                            Nadia T\n            \n                    ",
+            "date": "2019-10-16",
+            "rating": 4.0,
+            "text_content": "\n                    Quel film, malgré son ancienneté, il n'a pas pris une ride! quel suspens et quels acteurs ! ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_44699352",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2014-11-17",
+            "rating": 3.0,
+            "text_content": "\n                    Clint Eastwood. C'est déjà un bon argument pour regarder un film. Nous plongeant dans le quotidien du milieu carcéral, l'Evadé d'Alcatraz va, comme on s'y attend, nous faire suivre Clint (Frank) dans sa découverte de la prison, puis, petit à petit, dans l'élaboration d'un plan visant à s'évader de la fameuse prison dont on dit que personne n'en a jamais réchappé.",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_16845430",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2010-03-11",
+            "rating": 5.0,
+            "text_content": "\n                    Toujours efficace malgré les années.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1035791600",
+            "author": "\n                            Beachben\n            \n                    ",
+            "date": "2025-05-29",
+            "rating": 4.5,
+            "text_content": "\n                    Très grand film de Don Siegel, basé de l’histoire vrai des évadés de la Prison d’Alcatraz. Tous les ingrédients de films pénitentiaires d’action et de suspens sont présents. Don Siegel se permet d’ajouter dans le film des vrais moments qui ont existé mais pas forcément à la même période (comme l’histoire de la hache…). Clint Eastwood, hyper charismatique, joue le rôle de Franck Lee Morris à la perfection. De très bons acteurs complètent ce casting, comme le talentueux Patrick McGoohan (légendaire numéro 7 dans la série « le Prisonnier » sic) qui joue le directeur du centre pénitentiaire…",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_9564317",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2008-08-16",
+            "rating": 5.0,
+            "text_content": "\n                    Malgré un scénario très connu, ce film s'en sort très bien et devient un excellent divertissement.\n        \n            ",
+            "likes": 0,
+            "dislikes": 2
+        },
+        {
+            "id": "review_34693496",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2012-11-29",
+            "rating": 4.0,
+            "text_content": "\n                    Très bon film tiré d'une histoire vraie sur l'évasion d'alcatraz. Le tandem Don Siegel - Clint est merveilleux.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_31761551",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2013-01-20",
+            "rating": 4.5,
+            "text_content": "\n                    Clint Eastwood au sommet, Patrick McGoohan parfait en directeur de prison froid et sadique: un huis clos haletant.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_41019028",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2014-02-15",
+            "rating": 3.5,
+            "text_content": "\n                    Tiré d'un fait réel passionnant, L'Evadé d'Alcatraz nous plonge dans l'univers carcéral de la prison d'où \" l'on ne s'évade jamais\". Clint Eastwood et son flegme habituelle mène cette histoire d'une main de maître. Certes, le scénario et la trame sont des plus classiques mais l'on se régale. Un classique du genre comme Les Évadés, Haute Sécurité, Meurtre à Alcatraz...\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_26262847",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2011-07-24",
+            "rating": 3.5,
+            "text_content": "\n                    L'homme qui s'évade avec une cuillère et un coupe ongle de la prison la plus surveiller au monde ! Clint Estwood est épatant dans ce film , comme toujours il joue l'exellence . J'ai remarquer que tous les films qui sont sorties après ce film sur les évasion s'inspire beaucoup de celui ci . Vraiment un bon film!\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_40883818",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2014-02-4",
+            "rating": 4.5,
+            "text_content": "\n                    la plus grande évasion du 20ème siècle dans ce film !!! Film au top pour l'époque ! on a jamais retrouvé ces évadés... ils ont mon plus grand respect !!\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1038820607",
+            "author": "\n                            Loick.cine\n            \n                    ",
+            "date": "2026-03-26",
+            "rating": 4.0,
+            "text_content": "\n                    Très beau film sur l'histoire de Frank Morris et des frères Anglin qui sont les trois seuls à avoir réussi à s'échapper de la célèbre prison. On suit leur rencontre, leur préparation jusqu'au moment décisif de leur échappée. Un film fidèle à l'histoire vraie et qui vous tient en haleine jusqu'à la fin!\n        \n            ",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1036953909",
+            "author": "\n                            Lilali_111\n            \n                    ",
+            "date": "2025-09-20",
+            "rating": 3.5,
+            "text_content": "\n                    Un scénario prévisible, mais une exécution captivante",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_22785871",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2011-01-17",
+            "rating": 3.5,
+            "text_content": "\n                    Ça faisait longtemps que je n'avais pas regardé un des vieux films de Clint Eastwood. Ici,on a du solide avec \"L'évadé d'Alcatraz\".Une bonne représentation de la vie carcérale, puis élaboration du plan et évasion de la prison, le voilà la construction du film.Tout est détaillé et réaliste.Le suspense ne manque à aucun moment et le film nous tient en haleine jusqu'au bout. Pas grand chose qu'on puisse reprocher à ce classique , qui a quand même mis en place une certaine base dans le genre , qu'on peut retrouver dans d'autres réalisations (\"Les évadés\" par exemple qui a repris certains éléments du film).\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1036417453",
+            "author": "\n                            JokSix\n            \n                    ",
+            "date": "2025-08-2",
+            "rating": 4.5,
+            "text_content": "\n                    Ingéniosité",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_52093790",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2016-07-1",
+            "rating": 3.0,
+            "text_content": "\n                    Un grand classique de la fin des années 70 avec Clint Eastwood en premier rôle et Don Siegel à la réalisation (un illustre inconnu pour ma part) que je trouve aujourd'hui ayant assez mal vieilli. C'est assez logique puisque beaucoup des idées du scénario ont été reprises dans des films ou séries on peut penser notamment aux Evadés ou encore Prison Break. Forcément pour un spectateur lambda le découvrant aujourd'hui, ce film a une impression de réchauffé et ne nous offre pas vraiment de scènes intéressantes ou d'enjeu originaux. La mise en scène est assez sobre, même la musique est très discrète, comme si rien ne pouvait vraiment entrer dans l'enceinte de la prison pour rendre le séjour moins pénible aux détenus. Certains éléments ont de l'intérêt mais je n'ai l'impression de n'avoir eu qu'un aperçu en surface de ce que le film aurait pu nous apporter. On se concentre énormément sur l'évasion puisque c'est tout l'enjeu du récit mais j'ai trouvé pourtant que sa préparation et son exécution étaient fais avec une certaine facilité. Certains personnages plutôt intriguant ou attachants sont traités trop rapidement à mon goût, ne laissant que des silhouettes qui ne font que passer dans le film. Egalement, je trouve cette caricature des gardiens comme étant tous des sadiques cherchant à détruire psychologiquement les détenus un peu trop facile (",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1000638460",
+            "author": "\n                            Split91\n            \n                    ",
+            "date": "2019-09-20",
+            "rating": 4.5,
+            "text_content": "\n                    Clint Eastwood... parfait comme toujours bon scénario, très bonnes scènes stressantes ! Foncez le regardez !\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_41066010",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2014-02-19",
+            "rating": 4.0,
+            "text_content": "\n                    bon film avec une bonne ambiance, Clint Eastwood et les autres acteurs vont bien dans leurs rôles. Et malgrès le fait  que l'on connaissent déjà la fin, il  y a toujours quelques doutes et mystères.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1009440992",
+            "author": "\n                            Aeternumdecus\n            \n                    ",
+            "date": "2020-08-14",
+            "rating": 4.5,
+            "text_content": "\n                    Excellente reconstitution de cette réelle évasion, même si le film fait quelques entorses à la véritable histoire. Clint Eastwood dans un rôle très humain. Le film est assez lent, puis monte en tension jusqu'à l'évasion. Si on ne connaît pas la véritable histoire, on retient notre souffle jusqu'au bout. On ne s'ennuie pas un seul instant, on entre vraiment à Alcatraz avec Eastwood. Le film sort en 1979, un an après \"Midnight Express\", un autre film d'évasion de prison basé sur une histoire vraie, et qui a rencontré un très grand succès. C'est sans doute ce qui a motivé la réalisation de \"L'évadé d'Alcatraz\", qui est quand même moins cru et moins violent que \"Midnight Express\".\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1019900331",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2022-04-25",
+            "rating": 2.5,
+            "text_content": "\n                    Je ne suis pas venue ce soir pour parler de l'\"Évadé d'Alcatraz\", qu'évidemment j'ai eu l'occasion de voir, mais pour que l'on se souvienne que derrière cette cinématographie se cache une histoire fascinante. Ce qui est fascinant c'est tout le mystère qui l'entoure. Cet événement a-t-il vraiment eu lieu ? Qu'est-il advenu des \"fuyards\" ? Existe-t-il des témoins qui les ont connus par la suite ? Ont-ils changé d'identité ? Sont-ils allés à l'étranger ?\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_32429247",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2012-06-23",
+            "rating": 4.0,
+            "text_content": "\n                    Super film, que j'ai vu et revu sans me lasser.",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1039608777",
+            "author": "\n                            Siphnos92\n            \n                    ",
+            "date": "2026-06-22",
+            "rating": 4.5,
+            "text_content": "\n                    Un excellent film, pendant lequel on suit les préparatifs, la ruse et l'accomplissement de ces \"évadés\" au nez et à la barbe des matons et de leur directeur. Plans fixes d'une incroyable efficacité, rythmant le tout en faisant monter la tension, ce film est prenant de A à Z. Du très bon C. Eastwood !\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_2987193",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2007-06-5",
+            "rating": 1.0,
+            "text_content": "\n                    Plutôt déçu par ce film... A l'heure de séries telles que Oz ou Prison Break, la façon de dépeindre l'univers carcéral dans ce film a pris un sérieux coup de vieux! De ce fait, le spectateur suit d'un oeil les moyens mis en oeuvre par Mr Clint et ses co-détenus pour l'évasion impossible. Adapté d'une histoire vraie, le récit manque singulièrement de rythme et de dialogues... Difficile de ne pas piquer du nez!\n        \n            ",
+            "likes": 0,
+            "dislikes": 5
+        },
+        {
+            "id": "review_30819",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2006-09-29",
+            "rating": 5.0,
+            "text_content": "\n                    Super film avec un Clint Eastwood Impressionant.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_43184343",
+            "author": "\n                            deux-pies-errent\n            \n                    ",
+            "date": "2014-07-21",
+            "rating": 4.0,
+            "text_content": "\n                    Un amalgame d’éléments qui assure à un film vieux de trente ans une pérennité dans l’ère moderne. D’ailleurs la série « Prison Break » s’en ai largement inspiré. Le décor authentique mêlé à ce récit véridique d’évasion amène le spectateur à se plonger dans cette aventure hors du commun, celle d’un récidiviste qui parvient à s’échapper d’une prison où une vingtaine de détenus avant lui y ont laissé leur vie. Frank Lee Morris, interprété par Clint Eastwood, va se lier d'amitié avec plusieurs  bagnards, dont les frères Anglin, de vieilles connaissances, et un certain Charly Butts pour ensuite leur exposer son projet d’évasion qui ne peut se réaliser sans leur aide. Ce sont donc des sentiments de stress, de peur et d’adrénaline qui vont nous accompagner au fil du film. Don Siegel prête un professionnalisme d’une rigoureuse efficacité qui fait mouche. Ainsi, une étoile ira pour les décors authentiques, une autre pour avoir retranscrit avec brio cette histoire vraie, une pour l’interprétation de Clint Eastwood, et une dernière pour la réalisation de Don Siegel qui tient le public en haleine jusqu’au terminus.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1039764570",
+            "author": "\n                            Alexandre\n            \n                    ",
+            "date": "2026-07-10",
+            "rating": 4.0,
+            "text_content": "\n                    J’ai toujours eu un faible pour les films qui reposent plus sur la tension et l’intelligence que sur les effets spéciaux. Quand j’ai lancé L’Évadé d’Alcatraz de Don Siegel, je ne m’attendais pas à être autant happé. Pourtant, dès les premières minutes, ce huis clos carcéral m’a collé au fauteuil. 4/5 me semble une note juste : ce n’est pas le film le plus spectaculaire de tous les temps, mais c’est du cinéma solide, tendu et incroyablement efficace.",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_37388546",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2013-05-17",
+            "rating": 3.5,
+            "text_content": "\n                    Pas le meilleur de Clint Eastwood mais une tension permanente qui règne pendant le film et qui nous tient en haleine!\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1004035417",
+            "author": "\n                            fiction\n            \n                    ",
+            "date": "2020-03-17",
+            "rating": 4.0,
+            "text_content": "\n                    Super film dis donc Clint Eastwood joue vachement bien je viens juste de le voir il y a 15 minutes sur amazon il est génial de chez genial cela faisait trés longtemps que je n' avait pas vu un aussi bon film Don Siegel vous pouvez être vachement fier pour cette réalisation.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_36466897",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2013-03-20",
+            "rating": 3.5,
+            "text_content": "\n                    Film très sympa, un peu vieux certes, mais bien joué et qui reflète bien la très célèbre évasion! En Bref, il ne faut pas hésiter.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1017971283",
+            "author": "\n                            Lomen\n            \n                    ",
+            "date": "2025-05-2",
+            "rating": 3.5,
+            "text_content": "\n                    L'Évadé d'Alcatraz (1979), réalisé par Don Siegel, est un thriller pénitentiaire qui raconte l'histoire vraie d'un détenu, Frank Morris (Clint Eastwood), et de ses tentatives pour s'évader de la prison d'Alcatraz, réputée pour être l'une des plus sécurisées du monde. Le film est un récit captivant sur l'ingéniosité humaine, la détermination et l'esprit de survie, mais il manque parfois de rythme et de développement émotionnel pour être totalement percutant.",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1039431097",
+            "author": "\n                            Thierry Schalck\n            \n                    ",
+            "date": "2026-06-2",
+            "rating": 3.5,
+            "text_content": "\n                    L'atout majeur de L'EVADE D'ALCRATRAZ me semble être sa sobriété. Aucun effet grossier, énorme, sur-appuyé. Pas de spectacularisation racoleuse, plutôt une modestie qui fait mouche, mine-de-rien, surtout dans les détails (la fleur, la souris, lors de l'évasion des trébuchements et chutes qui semblent très naturels, les petits mots d'abord dits avec désinvolture, puis qui prennent une densité poignante ----> \"fils\").",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_20235590",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2010-08-10",
+            "rating": 5.0,
+            "text_content": "\n                    Très bon film",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1038294272",
+            "author": "\n                            Naram\n            \n                    ",
+            "date": "2026-02-1",
+            "rating": 3.5,
+            "text_content": "\n                    L’Évadé d’Alcatraz raconte l’histoire vraie de Frank Morris, joué par Clint Eastwood. Il vient fraîchement d’arriver en prison en introduction : il a une grosse réputation, présenté comme un génie avec un QI élevé et de multiples évasions à son actif. Cependant, il arrive dans la prison la plus ferme des États-Unis, dont personne n’a réussi à s’échapper.",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1031888355",
+            "author": "\n                            Triox\n            \n                    ",
+            "date": "2024-09-1",
+            "rating": 4.0,
+            "text_content": "\n                    Excellent film à l’univers carcéral et excellent film de la carrière de Clint Eastwood.",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1464462",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2007-01-15",
+            "rating": 5.0,
+            "text_content": "\n                    Des films sur des évadés il en existe une tripotée... mais bien que le suket ici soit on ne peut plus classique, Clint Eastwood réussit à nous éblouir et à nous plonger dans l'ambiance à fond. patrick McGoohan en directeur sadique est jouissif à souhait. Frank Morris en ressortira t-il vivant ?\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1032263659",
+            "author": "\n                            Cgmad29\n            \n                    ",
+            "date": "2024-10-3",
+            "rating": 4.0,
+            "text_content": "\n                    Un très bon moment passé avec ce film d'évasion ou Clint Eastwood rayonne comme toujours avec son personnage de Franck Morris classe et réfléchi. Les quelques rebondissements ( détenu balèze qui veut tuer Franck, Boots qui tarde à s'évader ce qui le punira après ). Les autres personnages sont bien incorporés dans le scénario ( les frères braqueurs, le directeur, le bibliothécaire...). Le long métrage offre pour plusieurs moments palpitants et tendues ( l'évasion finale, la fouille de la cellule, la préparation de la fuite des détenus  dans les conduits de ventilation...). En tout cas, je recommande l'évadé d'alcatraz.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1038277639",
+            "author": "\n                            Aaym68\n            \n                    ",
+            "date": "2026-01-31",
+            "rating": 3.5,
+            "text_content": "\n                    L'évasion de trois détenus de la prison de haute sécurité d'Alcatraz située dans la baie de San Francisco. Inspiré de faits réels, une réalisation sobre et efficace de Don Siegel, pour un beau film d'évasion. Clint Eastwood est très à l'aise dans le personnage principal.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_34579614",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2012-11-21",
+            "rating": 4.0,
+            "text_content": "\n                    Un très très bon film dans l'univers carcéral du rocher d'Alcatraz. ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1024919946",
+            "author": "\n                            Bersweiler13\n            \n                    ",
+            "date": "2023-04-16",
+            "rating": 3.0,
+            "text_content": "\n                    Film pas trop s'il retrace donc une histoire vrai d'évasion à Alcatraz et qui nous fait penser à Prison Break ! Sinon pas non plus le plus excitant\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_26713380",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2011-08-19",
+            "rating": 4.5,
+            "text_content": "\n                    Clint en Mcgyver taulard, pour un très bon film d'aventures.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_2880317",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2007-05-30",
+            "rating": 5.0,
+            "text_content": "\n                    J'ai rarement vu un film aussi intriguant, mystérieux. La fin nous laisse sur notre faim, mais telle est la réalité. L'ambiance carcérale est bien rendue, tout le monde joue bien, l'amiance et la musique sont glauques a souhait.",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_61247254",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2018-12-17",
+            "rating": 3.5,
+            "text_content": "\n                    Un film qui me laisse un bon souvenir, nous suivons 3 prisonniers s'évader de la prison la plus renforcée des états unis. Une histoire vrai qui vous tiendra attentif tous du long. Bon film à tous!\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_7763014",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2008-04-10",
+            "rating": 4.0,
+            "text_content": "\n                    Clint Eastwood en etat de grace dans ce film d'évasion tres reussi, les clichés du milieu carcéral sont la, le gros sodomite, les blacks anti blancs, le directeur trop mechant, mais au final quel regal, on ne voit pas le temps passer, qu'est ce qu'il est fort ce Clint........\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1037702688",
+            "author": "\n                            Coltito\n            \n                    ",
+            "date": "2025-12-6",
+            "rating": 3.5,
+            "text_content": "\n                    Ce film nous raconte la seule évasion d’Alcatraz de toute l’histoire.",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1012268160",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2020-12-26",
+            "rating": 4.0,
+            "text_content": "\n                    Un film globalement très bon, tiré d'une histoire vraie en plus. La réalisation est très efficace, Clint est très bon comme d'habitude mais je trouve que certaines parties du scénario auraient put être mieux exploitées... Notamment sur la fin que j'ai trouver assez rapide laissant le spectateur un moment dans le vide.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_44973427",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2014-12-9",
+            "rating": 4.5,
+            "text_content": "\n                    Un film sombre et captivant du début à la fin. Ici le thème est l'univers carcéral et on aura pas à se farcir les clichés habituels du monde de la prison. Les détenus sont dépeints comme des êtres humains et pas comme des personnages grotesques qu'on a l'habitude de rencontrer dans un film sur ce thème. A part ça on ne s'ennui pas et même l'ancienneté du film n'enlève rien au plaisir. On aura le droit à des dialogues et d'autres répliques mémorables qui sont par ailleurs devenu culte (les fans de \"La lettre\" de Lunatic reconnaitront facilement un passage du film). Un bon film de '79 avec en rôle principal une légende encore bien vivante : Clint Eastwood.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1010293200",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2020-09-20",
+            "rating": 5.0,
+            "text_content": "\n                    Génial ! Ils ont retranscrit la réel évasion qui s'est produite sur l'île d'Alcatraz. Je trouve cette histoire et même ce film fascinant. Je vous le conseille\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_6547512",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2008-02-12",
+            "rating": 4.0,
+            "text_content": "\n                    L'un des meilleurs role de Clint Eastwood, et un Patrick Mac Goohan excellent en directeur de prison. Pour moi l'un des 2 meilleurs films d'évasion avec \" Les évadés \"\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1038728772",
+            "author": "\n                            Matthieu Filliere\n            \n                    ",
+            "date": "2026-03-17",
+            "rating": 3.5,
+            "text_content": "\n                    J'ai passé un bon moment, on s'ennuie rarement et c'est plutôt bien rythmé, meme si on va vite au sujet de l'évasion je trouve ça un peu trop rapide on ne comprends pas exactement les justifications\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_22476256",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2010-12-28",
+            "rating": 5.0,
+            "text_content": "\n                    Exceptionnel tout simplement film a voir et revoir sans jamais se lasser en l aimant davantage a chaque fois\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_79152",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2006-09-29",
+            "rating": 5.0,
+            "text_content": "\n                    Une puissance incrédible!",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_34650877",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2012-11-26",
+            "rating": 5.0,
+            "text_content": "\n                    Ce film (pour ma part) est incroyable! L'histoire est parfaitement bien racontée et les acteurs excellents. Encore un film avec Clint Eastwood qui est très bien fait!\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1038780622",
+            "author": "\n                            Evan\n            \n                    ",
+            "date": "2026-03-22",
+            "rating": 5.0,
+            "text_content": "\n                    Avec Clint Eastwood franchement c'est super chouette. J'avais vu ce film il y a quelques années et un plaisir de le visionner une deuxième fois.\n        \n            ",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1024926722",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2023-04-16",
+            "rating": 4.5,
+            "text_content": "\n                    J'ai adoré le film , la narration et le casting étaient juste parfait mais la fin était un peu vide je trouve sinon a par ca le long-métrage était digne d'un chef d'oeuvre pour moi c'est devenu un classique\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1039001222",
+            "author": "\n                            Flo M\n            \n                    ",
+            "date": "2026-04-14",
+            "rating": 4.0,
+            "text_content": "\n                    Un bon film qui nous garde en haleine. Une histoire vraie troublante et fascinante. Clint Eastwood brille dans ce rôle.\n        \n            ",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1039739173",
+            "author": "\n                            vivaBFG\n            \n                    ",
+            "date": "2026-07-5",
+            "rating": 4.0,
+            "text_content": "\n                    Un film qui va à l'essentiel, sans fioritures, sans chichis. L'évasion qui semble une adaptation assez fidèle de ce que fût la véritable évasion qu'elle reconstitue, d'après ce que j'ai pu lire et voir. Les acteurs sont très bons, surtout Clint, bien entendu. Les décors (en extérieur) semblent au moins partiellement réels.  Un film à voir, et à revoir.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        }
+    ]
+}

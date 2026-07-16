@@ -1,0 +1,925 @@
+{
+    "id": 257246,
+    "name": "Nimona",
+    "release_date": "2023-06-30",
+    "runtime_in_minutes": 101,
+    "genres": [
+        "Action",
+        "Animation",
+        "Aventure",
+        "Fantastique",
+        "Science Fiction"
+    ],
+    "synopsis": "\n                    Pour se disculper, un chevalier accusé d'un terrible crime fait appel à Nimona, une adolescente métamorphe qui pourrait bien être le monstre qu'il a juré de détruire.\n        \n            ",
+    "reviews": [
+        {
+            "id": "review_1026031202",
+            "author": "\n                            Al-Fr\n            \n                    ",
+            "date": "2023-07-5",
+            "rating": 4.0,
+            "text_content": "\n                    Nimona, le film d'animation produit par Netflix, est une petite pépite qui aborde de manière subtile et divertissante des thèmes profonds tels que la différence, les préjugés et la nécessité de les surmonter. Avec une histoire drôle et pleine d'énergie, ce dessin animé captivant parvient à transmettre un message puissant sans jamais sacrifier l'humour et la légèreté.",
+            "likes": 18,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1025998906",
+            "author": "\n                            Manon C.\n            \n                    ",
+            "date": "2023-07-3",
+            "rating": 4.5,
+            "text_content": "\n                    Un film d'animation original, drôle et touchant. Ne prêtez pas attention aux critiques qui dénoncent du progressisme, c'est simplement la présence d'un couple d'hommes qui fait polémique auprès des homophobes. Ce sujet n'est même pas central dans le scénario. En revanche, ce film prône la tolérance et l'acceptation de l'autre, ça ne fait aucun doute !\n        \n            ",
+            "likes": 26,
+            "dislikes": 5
+        },
+        {
+            "id": "review_1026089759",
+            "author": "\n                            tisma\n            \n                    ",
+            "date": "2023-07-9",
+            "rating": 4.5,
+            "text_content": "\n                    Tant au niveau des dessins, qu'au niveau du scénario, ce film est une petite pépite. La construction de l'univers et des personnages est impressionnante, on est happé par le dynamisme et la profondeur de l'histoire. C'est vif, inventif et joli\n        \n            ",
+            "likes": 8,
+            "dislikes": 2
+        },
+        {
+            "id": "review_1026166639",
+            "author": "\n                            DavY Croquette\n            \n                    ",
+            "date": "2023-07-15",
+            "rating": 4.5,
+            "text_content": "\n                    Je n'ai jamais entendu parler de ce dessin animé,  je l'ai regardé avec ma fille de 7 ans et ma femme. Nous avant été extrêmement surpris, c'est une super histoire et les graphismes sont magnifiques !! a voir.\n        \n            ",
+            "likes": 6,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1027927458",
+            "author": "\n                            Ufuk K\n            \n                            \n                    ",
+            "date": "2023-11-14",
+            "rating": 4.0,
+            "text_content": "\n                    \"Nimona\" bien noté par la critique, diffusé sur Netflix est un film d'animation qui casse les codes et les genres. En effet j'ai beaucoup aimé cette histoire que j'ai trouvé très originale et dense qui parle de sujets complexes et intéressants comme l'homosexualité masculine, le rejet, la différence, les dérives des médias, la dictature dans un univers ultra-moderne et baroque et des personnages attachants, une très belle surprise.\n        \n            ",
+            "likes": 5,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1026010466",
+            "author": "\n                            Line Alkhaeir\n            \n                    ",
+            "date": "2023-07-4",
+            "rating": 5.0,
+            "text_content": "\n                    J'ai adoré ce film. J'aime beaucoup l'animation d'Annapurna pictures autant dans les jeux vidéos que dans les films. Les personnages sont très touchants et l'histoire est divertissante. Je vous le conseille !!\n        \n            ",
+            "likes": 7,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1025997243",
+            "author": "\n                            Florent\n            \n                    ",
+            "date": "2023-07-2",
+            "rating": 5.0,
+            "text_content": "\n                    Un film familial qui est une ode à la tolérance et contre la haine de ce que l'on ne connait pas. L'univers est très original, un mélange entre médiéval et futuriste qui permet beaucoup d'humour et de situations surprenantes mais qui restent familières et compréhensives rapidement.",
+            "likes": 7,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1029404753",
+            "author": "\n                            Alolfer\n            \n                    ",
+            "date": "2024-02-21",
+            "rating": 4.0,
+            "text_content": "\n                    J'aurai jamais pensé qu'un film d'animation me touche à ce point. Bravo à Netflix d'avoir fait un film magnifique et assez original dans son avancé scenaristique. Visuellement c'est juste magnifique ! Les personnages sont tous bien écrit ! Le mélange comédie drame fonctionne à merveille. A noter une belle BO !",
+            "likes": 3,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1026020980",
+            "author": "\n                            LapinoFurioso\n            \n                    ",
+            "date": "2023-07-4",
+            "rating": 4.5,
+            "text_content": "\n                    J'ai cru comprendre qu'il y avait une attende de la part de certains pour ce film. Je dois avouer que je ne connaissais pas du tout le roman graphique à la base de cette adaptation et ça été un vrai coup de cœur après la bande annonce. Je me suis donc lancé dans le visionnage de ce Nimona sans savoir trop à quoi m'attendre et ce fût une très bonne surprise.",
+            "likes": 4,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1025963094",
+            "author": "\n                            Cyo\n            \n                    ",
+            "date": "2023-06-30",
+            "rating": 4.5,
+            "text_content": "\n                    Mon dieu c'était tellement bien,",
+            "likes": 3,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1025969236",
+            "author": "\n                            TyTho\n            \n                    ",
+            "date": "2023-07-1",
+            "rating": 5.0,
+            "text_content": "\n                    Ce film est Incroyable 朗. On se demande constamment ce qu'il va se passer. Ça faisait depuis Coco que je n'avais pas vu un scénario aussi excellent pour un film d'Animation \n        \n            ",
+            "likes": 3,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1025981438",
+            "author": "\n                            Lumiiane\n            \n                    ",
+            "date": "2023-07-1",
+            "rating": 5.0,
+            "text_content": "\n                    C'est sûrement un des plus beau film que j'ai vu. L'histoire est très touchante et absolument superbe. C'est un super film pour apprendre la tolérance, notamment au plus jeune. Il est adapté à tout âge, sans trop de violence mais légèrement quand même. Un peu dessus des graphismes qui selon moi aurait pu être de meilleurs qualités, mais l'histoire rattrape le tout ! foncez le regarder, vous ne le regretterez pas.\n        \n            ",
+            "likes": 3,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1027379628",
+            "author": "\n                            Dik ap Prale\n            \n                            \n                    ",
+            "date": "2023-10-5",
+            "rating": 3.5,
+            "text_content": "\n                    Parmi les quelques pépites de Netflix, Nimona ne manquera pas de surprendre de par son univers moyenâgeux techno hybride qui prône l'acceptation non la tolérance, dans un monde fusionnant et riche. Un petite prouesses non pas d'animation mais de rythme et de joyeuseté, car rien n'empêche cet animé d'aller au bout de son idée avec un trame des plus classiques d'un complot mais d'un univers dense qui peut présumer d'une suite tout aussi surprenante et différente. À voir et à revoir en famille.\n        \n            ",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1029838385",
+            "author": "\n                            Arthur Guezou\n            \n                    ",
+            "date": "2024-03-20",
+            "rating": 3.5,
+            "text_content": "\n                    Je voulais déjà regarder ce film mais après avoir vu sa nomination aux Oscars dans la catégorie du meilleur film d'animation, je me suis dépêché de le regarder. Après visionnage, je me sens mitigé ; d'un côté, l'animation est magnifique mais le scénario reste très basique avec une narration prévisible. En fait, le film est bon mais je reste sur ma faim.",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1026114561",
+            "author": "\n                            Annaële\n            \n                    ",
+            "date": "2023-07-11",
+            "rating": 5.0,
+            "text_content": "\n                    Excellent film d’animation. C’est très beau visuellement et thématiquement, les personnages sont attachants et l’histoire bien menée. J’ai passé un super moment!\n        \n            ",
+            "likes": 2,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1027227712",
+            "author": "\n                            Kirob\n            \n                    ",
+            "date": "2024-01-28",
+            "rating": 5.0,
+            "text_content": "\n                    \"Nimona\" est pour moi un des meilleurs films de l'année ! Avec une animation 3D absolument sublime, nous sommes plongés au coeur de l'histoire dés les premières secondes. Le scénario est vraiment très bon, plein d'idées et les personnages sont absolument sublimes ! Nimona (doublée par Chloë Grace Moretz) est tout simplement incroyable, le personnage possède un caractère unique et cette nouvelle héroïne ajoute de la bienveillance, de la joie mais aussi de l'émotion à ce film. Sa relation avec Ballister (doublé par Riz Ahmed) est rempli de mignonnerie, avec une relation parfois confuse, rempli de blagues, ainsi qu'attentionnée. Le concept du change-forme qu'est Nimona rend parfaitement bien à l'écran et rajoute de la variété au film. ",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1028032964",
+            "author": "\n                            Fanny G.\n            \n                    ",
+            "date": "2023-11-22",
+            "rating": 5.0,
+            "text_content": "\n                    Franchement le meilleur film d’animation depuis bien longtemps ! Enfin des héros qui sortent des clichés, un graphisme topissime et de l’humour! Un parfait mélange! Je vais le regarder encore et encore \n        \n            ",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1026201441",
+            "author": "\n                            Acidus\n            \n                    ",
+            "date": "2023-07-18",
+            "rating": 4.0,
+            "text_content": "\n                    Très bonne surprise que ce film d'animation distribué par Netflix. ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1026603806",
+            "author": "\n                            Ti Nou\n            \n                            \n                    ",
+            "date": "2023-08-8",
+            "rating": 3.0,
+            "text_content": "\n                    Avec son discours de tolérance et la qualité de ses enjeux, \"Nimona\" aurait presque pu être un excellent film d’animation s’il ne se sentait pas trop souvent obligé de céder au diktat du fun, de l’humour facile et du rythme hystérique.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1026086213",
+            "author": "\n                            Cinévore24\n            \n                    ",
+            "date": "2023-07-9",
+            "rating": 3.5,
+            "text_content": "\n                    Hormis une bascule parfois un peu trop maladroite et répétitive entre film sérieux et divertissement cool et rigolo (jusqu'à un dernier tiers plus réussi à ce niveau-là), voilà un film d'animation soigné, rythmé et traitant de manière assez intelligente des thématiques de la différence et de la tolérance. À découvrir.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1036690881",
+            "author": "\n                            Jérémie\n            \n                            \n                    ",
+            "date": "2025-08-22",
+            "rating": 4.0,
+            "text_content": "\n                    Des couleurs qui claquent dès l’ouverture. Une fluidité visuelle qui vous attrape au vol. C’est beau, c’est frais, et surtout, ça vit.",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1035749072",
+            "author": "\n                            Stéphane D\n            \n                    ",
+            "date": "2025-05-25",
+            "rating": 3.0,
+            "text_content": "\n                    Sur le fonds c'est une histoire assez simple mettant en scène toutes les façons d'exprimer qu'il faut accepter la différence (origine sociale, ethnique, LGBT...). Et c'est pas très subtil",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1037713545",
+            "author": "\n                            Kouto\n            \n                    ",
+            "date": "2025-12-7",
+            "rating": 3.5,
+            "text_content": "\n                    Ce film d’animation marque d’entrée par son rythme fracassant, ses personnages travaillés ainsi que son univers visuel chatoyant. En dépit d’un scénario sans grande surprise, le film parvient à briller grâce à un humour décoiffant, des thématiques prônant l’acceptation des autres traitées sans trop de mièvrerie et des graphismes de qualité et ce même si l’ensemble manque de fluidité. Sympathique à voir en famille.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1026323170",
+            "author": "\n                            Audrey L\n            \n                            \n                    ",
+            "date": "2023-07-24",
+            "rating": 3.5,
+            "text_content": "\n                    Drôle, émouvant, décalé, extrêmement intégriste (on y reviendra), avec une très belle animation (on adore le design, surtout après avoir vu la tronche ultra-enfantine et simpliste de la BD originale, chapeau aux artistes : ils sont partis de loin), Nimona nous a embarqué dans son délire. L'intrigue est nouvelle par rapport à la web-BD, inventant une histoire de complot à démanteler qui va bien au teint de cet animé (facile à comprendre pour les plus jeunes, intrigante, pleine de rebondissements), la petite Nimona est moins dangereuse mais beaucoup plus drôle, et le refus de donner l'origine de ses pouvoirs et l'absence de sa famille forcera les curieux à un peu de lecture (pour les fainéants : ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1032761015",
+            "author": "\n                            Agnes L.\n            \n                    ",
+            "date": "2024-11-8",
+            "rating": 3.0,
+            "text_content": "\n                    Nimona est une métamorphe qui personnifie l'être recherchant amour et amitié. Une très belle animation et de belles couleurs rendent le film attrayant. L'histoire par contre est un peu déroutante.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1028772243",
+            "author": "\n                            Eowyn Cwper\n            \n                    ",
+            "date": "2024-01-10",
+            "rating": 5.0,
+            "text_content": "\n                    Pour parler de Nimona, j'ai l'impression qu'il y a deux pièges à éviter : ne pas passer pour le woke enthousiaste qui simp la grande place accordée à la gayness et à l'identité en général (ce que je suis), et ne pas le simper sans reconnaître que \"oui, bon, c'est bien gentil mais visuellement Shrek a déjà tout fait\". C'est possiblement que j'ai été influencé·e par une recherche trop rapide autour du film. Possiblement.",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1026087901",
+            "author": "\n                            Diabloxrt\n            \n                    ",
+            "date": "2023-07-9",
+            "rating": 4.0,
+            "text_content": "\n                    \"Nimona\" est un petit film d'animation qui m'a plutôt bien surpris. D'abord prévu pour sortir au cinéma sous la production de Blue Sky, et donc enterré par Disney par la suite, Netflix a fini par reprendre le projet pour pouvoir enfin nous le proposer. Et quelle terrible erreur aurait été le fait de laisser cette production mourir dans un coin. J'ai vraiment apprécié mon visionnage et je trouve que ce film a de très grosses qualités. Visuellement déjà, avec une animation plus que soignée et qui propose beaucoup de choses en matière de mise en scène. L'animation est clairement de la 3D, mais cette impression de toujours avoir des dessins sous les yeux donne quand même une esthétique assez particulière et plutôt originale. J'ai donc beaucoup aimé la façon dont tout cela était utilisé, avec une caméra extrêmement libre et qui se balade un peu partout, assez facilement. Par ailleurs, tout cela est mis au service d'un univers vraiment intéressant et surtout très riche. J'ai beaucoup aimé ce principe d'un monde futuriste, mais toujours dominé par des valeurs qui semblent venir du Moyen Âge. Cela rentre parfaitement en adéquation avec les thématiques du film, qui viennent dénoncer des valeurs rétrogrades, et l'univers en profite donc beaucoup. Par conséquent, cette plongée au sein de ce monde est particulièrement intéressante à suivre, avec un ton qui va osciller parfaitement entre le drame et l'humour. Globalement, cette ambiance et ce mélange sont assez bien gérés. Dans un premier temps, l'humour fonctionne vraiment, le timing des blagues est toujours bien pensé et on n'a donc jamais une impression d'un humour qui serait trop enfantin. Quant à l'aspect plus dramatique, cela va surtout se jouer par l'intermédiaire de notre duo de tête, qui va vite être très attachant. Si je reproche quand même au film, le fait d'aller parfois un peu vite, la première rencontre de ce duo étant le meilleur exemple pour cela, je trouve que l'alchimie marche quand même et progresse naturellement au sein de l'œuvre. On a un réel sentiment de lien entre ces deux personnages et ils sont assez attachants à suivre au final. Donc même si leur histoire sert à développer une thématique que l'on a déjà vu des dizaines de fois, j'apprécie leurs échanges et je trouve qu'ils servent totalement le scénario. En soi, le film n'est donc pas exempt de tout défaut, mais il est quand même vraiment très bon. C'est un long-métrage que l'on prend plaisir à regarder et qui fait vraiment du bien. Pour conclure, un très bon divertissement.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1026158575",
+            "author": "\n                            crisane vegeta\n            \n                    ",
+            "date": "2023-07-15",
+            "rating": 4.5,
+            "text_content": "\n                    très bon film d'animation, je connaissais pas du tout, tombé dessus par hasard, très divertissant, humour excellent, à voir absolument en famille\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1026138041",
+            "author": "\n                            Will hallé\n            \n                    ",
+            "date": "2023-07-13",
+            "rating": 5.0,
+            "text_content": "\n                    en un mot... MAGNIFIQUE,",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1028002487",
+            "author": "\n                            Oni\n            \n                    ",
+            "date": "2023-11-20",
+            "rating": 4.5,
+            "text_content": "\n                    Nimona: Métamorphose Explosive",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1027967713",
+            "author": "\n                            TheGP\n            \n                    ",
+            "date": "2023-11-17",
+            "rating": 4.0,
+            "text_content": "\n                    Un dessin animé rythmé et intelligent, prenant à rebours les codes du scénario d'aventure pour pousser le jeune spectateur à la remise en question de ses certitudes. Une ode à l'acceptation de la différence pas trop moralisatrice et plutôt drôle. Bref, un bon moment de cinéma.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1037655572",
+            "author": "\n                            AdriBrody\n            \n                    ",
+            "date": "2025-11-30",
+            "rating": 4.0,
+            "text_content": "\n                    Un film d'animation on ne peut plus réussi, tant du point de vue du design que de l'histoire. Parce que même si le scénario en lui-même n'est pas révolutionnaire, il est bien mené et ça fonctionne. Rien n'est linéaire, les méchants ne sont pas juste méchants, mais ont des volontés et objectifs cohérents, tout comme les gentils ne sont pas des héros non plus. Le personnage de Nimona est réussi, il est tantôt drôle tantôt touchant.",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1029623882",
+            "author": "\n                            Evan D\n            \n                    ",
+            "date": "2024-03-6",
+            "rating": 4.5,
+            "text_content": "\n                    Super film d’animation, même si le scénario est un peu prévisible, ça reste un film pour enfant.",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1026248057",
+            "author": "\n                            Manuel_97213\n            \n                    ",
+            "date": "2023-07-21",
+            "rating": 1.0,
+            "text_content": "\n                    J'ai aimé le film donc je vais être honnête sur mon ressenti avec 4étoiles. Passé à 1 car je me rend compte de la censure dans les avis :(",
+            "likes": 3,
+            "dislikes": 18
+        },
+        {
+            "id": "review_1027629490",
+            "author": "\n                            Antonio Peress\n            \n                    ",
+            "date": "2023-10-24",
+            "rating": 3.5,
+            "text_content": "\n                    Un film mignon avec des thématiques mignonnes, et une animation mignonne, le tout sous un ton assez violent de guerre, de corruption et de trahison. Des musiques rock, pour un personnage (sidekick) qui se veut rebelle, rock et anticonstitutionel. L'animation est simple mais efficace, avec des effets lumineux réussis. L'histoire est réussi, la trame a quelques rebondissements bien qu'ils soient prévisibles, mais le tout se laisse regarder avec douceur. L'humour est un peu enfantin, même si quelques nuances et interactions sont plus évolués. Bref, un film d'animation bien correct pour passer le temps, et accessible à tout le monde.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1026185143",
+            "author": "\n                            Fascinatus\n            \n                    ",
+            "date": "2023-07-17",
+            "rating": 3.0,
+            "text_content": "\n                    La dernière partie, plus dramatique, apporte un peu de profondeur. ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1026042759",
+            "author": "\n                            Nath\n            \n                    ",
+            "date": "2023-07-6",
+            "rating": 4.0,
+            "text_content": "\n                    Très bon film. Divertissant du début à la fin.",
+            "likes": 1,
+            "dislikes": 1
+        },
+        {
+            "id": "review_1025966628",
+            "author": "\n                            Lau D\n            \n                    ",
+            "date": "2023-06-30",
+            "rating": 5.0,
+            "text_content": "\n                    Un excellent moment de passer en famille devant ce film.",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1028838607",
+            "author": "\n                            Jasper C\n            \n                    ",
+            "date": "2024-01-15",
+            "rating": 4.5,
+            "text_content": "\n                    Pour moi Nimona est un film d’animation original, drôle et touchant qui prône la tolérance et l’acceptation.",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1027367069",
+            "author": "\n                            Damien\n            \n                    ",
+            "date": "2023-10-15",
+            "rating": 3.5,
+            "text_content": "\n                    Un film traitant de la différence sur un fond d'équilibre sociétal amené à être bouleversé. En y ajoutant divers éléments dans l'air du temps. Finalement assez contemporain cette animation. Sans oublier un excellent graphisme et dynamisme ponctué d'un humour déjanté.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1026961809",
+            "author": "\n                            Jennifer Monot\n            \n                    ",
+            "date": "2023-09-1",
+            "rating": 5.0,
+            "text_content": "\n                    Je me m'attendais à rien avant de visionner ce film mais j'avais aimé la bande-annonce. J'ai donc décidé de le voir à mon retour de vacances et quelle belle surprise ! C'est attachant, drôle, surprenant et on ne s'ennuie pas tout du long. Pour moi, un chef d'œuvre !",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1034100579",
+            "author": "\n                            Marie\n            \n                    ",
+            "date": "2025-02-13",
+            "rating": 5.0,
+            "text_content": "\n                    OUI! Tellement un excellent film. C'est un bijou. Merci aux créateurs, Les designs, la direction artistique, le scénario, la réalisation!\n        \n            ",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1026010409",
+            "author": "\n                            pastramimi\n            \n                    ",
+            "date": "2023-07-3",
+            "rating": 5.0,
+            "text_content": "\n                    Parfait! ce film est la parfaite histoire du traitement de la différence dans la société. parfaite car le message est juste, les personnages sont juste ( ni trop gentil, trop méchant, trop bête ou trop intelligent) et en plus, c'est drôle c'est beau, c'est intelligent, c'est bien écrit, le scenar est excellent ect... ",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1029064004",
+            "author": "\n                            Debodesbulles\n            \n                    ",
+            "date": "2024-01-29",
+            "rating": 5.0,
+            "text_content": "\n                    Ça fait du bien un bon dessin animé plein de bienveillance et d'inclusion ! L'histoire et le graphisme sont géniaux.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1025972243",
+            "author": "\n                            florian t.\n            \n                    ",
+            "date": "2023-07-1",
+            "rating": 4.5,
+            "text_content": "\n                    Un petit bijou ! Scénario très sympa, un chara design super et une animation au top ! ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1026058079",
+            "author": "\n                            Mon Khi_\n            \n                    ",
+            "date": "2023-07-7",
+            "rating": 4.0,
+            "text_content": "\n                    Super moment, ça fait du bien d'avoir quelque chose d'original, c'est touchant, rythmé, intelligent.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1026940982",
+            "author": "\n                            Jb Mcduff44\n            \n                    ",
+            "date": "2023-08-31",
+            "rating": 5.0,
+            "text_content": "\n                    Wow Nimona c'était vraiment trop cool. C'est frais. C'est intelligent. C'est rythmé et ça manque pas d'émotions. J'ai passé un super moment. Et j'adore ce perso rebelle et anti-systeme .  J'avais peur du délire médiéval fantastique mais en fait ça passe très bien.",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1026025828",
+            "author": "\n                            Didierludovic2\n            \n                    ",
+            "date": "2023-07-4",
+            "rating": 5.0,
+            "text_content": "\n                    Franchement un magnifique film d'animation avec un scénario très simple mais super efficace. Bourré d'humour. Vraiment je conseille\n        \n            ",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1026813952",
+            "author": "\n                            Baba_Gouja\n            \n                    ",
+            "date": "2023-08-22",
+            "rating": 4.5,
+            "text_content": "\n                    Je suis déjà pas fan des couples homo en tant que héros quand ils sont trop mis en avant donc dans les 5 premières minutes du film, je me suis dit que c'était encore un navet woke mais je me suis trompé. ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1029416546",
+            "author": "\n                            Thomas M\n            \n                    ",
+            "date": "2024-02-22",
+            "rating": 4.0,
+            "text_content": "\n                    Un film d'animation animé de la même façon que la série Netflix Arcane qui est très réussi mais qui a pour gros défaut selon moi les personnages sauf l'adolescente qui tien le film sur ses épaules car tous les autres sont aussi intéressants que les PNJ dans Gta.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1025983447",
+            "author": "\n                            Antonin D.\n            \n                    ",
+            "date": "2023-07-2",
+            "rating": 2.5,
+            "text_content": "\n                    l'animation et le style graphique sont juste impeccables. Mais par contre le scénario est ULTRA prévisible et les dialogues vraiment basiques. Les traits humoristiques sont médiocres. De plus la tendance progressiste est omniprésente...\n        \n            ",
+            "likes": 1,
+            "dislikes": 20
+        },
+        {
+            "id": "review_1026022550",
+            "author": "\n                            KraK\n            \n                    ",
+            "date": "2023-07-4",
+            "rating": 3.0,
+            "text_content": "\n                    Il y a du très très bon dans ce dessin animé.",
+            "likes": 0,
+            "dislikes": 1
+        },
+        {
+            "id": "review_1032146342",
+            "author": "\n                            Samwasch\n            \n                    ",
+            "date": "2024-09-23",
+            "rating": 4.5,
+            "text_content": "\n                    Film génial aux thématiques variées et ouvertes, ça fait plaisir. Et très belle histoire, beaucoup d'humour et de rythme. Belle musique.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1036412996",
+            "author": "\n                            CloakBack\n            \n                    ",
+            "date": "2025-07-27",
+            "rating": 3.5,
+            "text_content": "\n                    Un monde qui se veut moderne, mais qui rejette tout ce qu’il ne comprend pas. Nimona taille dans les certitudes avec une liberté rare.",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1026157766",
+            "author": "\n                            Leubouseuhhh290\n            \n                    ",
+            "date": "2023-07-15",
+            "rating": 1.5,
+            "text_content": "\n                    Trés mauvais film...je taierai pourquoi car sinon, on ne publie pas mon avis!",
+            "likes": 4,
+            "dislikes": 30
+        },
+        {
+            "id": "review_1036754894",
+            "author": "\n                            ChrisFV\n            \n                    ",
+            "date": "2025-08-29",
+            "rating": 5.0,
+            "text_content": "\n                    J’ai adoré ce film pour tellement de raisons. Tout d’abord, l’histoire est à la fois touchante et originale : entre la relation tragique des deux chevaliers et la rencontre avec cette jeune fille capable de se transformer à volonté. Les deux protagonistes, rejetés et considérés comme des “monstres” par la société, vont devoir unir leurs forces pour prouver l’innocence du chevalier.",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1026410494",
+            "author": "\n                            Adoom_\n            \n                    ",
+            "date": "2023-07-29",
+            "rating": 4.5,
+            "text_content": "\n                    Nimona a un film que j'ai trouver cool a regarder les personnages sont attachants un plutôt classique un peut deçu que blue sky studios est mort parce que oui les réalisateurs sont les créateurs du film d'animation les incognitos la fin du film la surtout rappeler un film que j'avais vue quand j'étais petit monstre et cie nimona est drôle et je me suis un peut identifié a elle d'un coup bon dans le film il y avez eut du LGBTQ+ mais c'est ps de soucis mais quant à Disney aïe même si c'est un film par des réalisateur de film de blue sky studios est-qu'ont peut compté se film comme un film de blue sky studios ?\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1027335384",
+            "author": "\n                            Sylvie Noel\n            \n                    ",
+            "date": "2023-10-2",
+            "rating": 0.5,
+            "text_content": "\n                    Le film d'animation en question est une véritable déception à bien des égards. ",
+            "likes": 1,
+            "dislikes": 14
+        },
+        {
+            "id": "review_1025965119",
+            "author": "\n                            NoSkillz\n            \n                    ",
+            "date": "2023-06-30",
+            "rating": 4.0,
+            "text_content": "\n                    J'ai regardé ce film sans trop d'attente ou d'envie, et bien ce fût une très agréable surprise.",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1031580079",
+            "author": "\n                            JohJo\n            \n                    ",
+            "date": "2024-08-6",
+            "rating": 4.0,
+            "text_content": "\n                    Surpris de la maturité du film. Sous ses aspects de film jeunesse est retranscrit explicitement un message de tolérance, d'empathie et de remise en question de soi et de la société.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1026029678",
+            "author": "\n                            Henri G.\n            \n                    ",
+            "date": "2023-07-5",
+            "rating": 5.0,
+            "text_content": "\n                    C'est simple si je me retrouve à verser des larmes cela prouve que le message est passé sans trop d'incohérences. Drôle, attachant, au grand cœur sans en faire trop, les deux héroïnes sont réussi. Le thème abordé \"l'acceptation\" est intelligemment étudier tout le long du film avec quelques scènes frappantes et poignantes.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1033773441",
+            "author": "\n                            Cordell\n            \n                    ",
+            "date": "2025-01-19",
+            "rating": 2.0,
+            "text_content": "\n                    Le film est trop dense pour rien. Il y a beaucoup de questions qui restent en suspens pour une histoire aussi basique au final. Néanmoins l’animation est excellente.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1032688776",
+            "author": "\n                            Jean-Philippe RENAUD\n            \n                    ",
+            "date": "2024-11-3",
+            "rating": 5.0,
+            "text_content": "\n                    film magnifique et très drôle selon moi. Un look épatant, des graphismes qui sont un plaisir pour les yeux. Cependant, il est beaucoup trop violent pour les enfants de 7 ans, il est complexe, l'humour est très adulte, et donc à réserver aux jeunes à partir de 9 ou 10 ans au moins.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1030728296",
+            "author": "\n                            Watcher\n            \n                    ",
+            "date": "2024-05-25",
+            "rating": 4.5,
+            "text_content": "\n                    De la nouveauté, de la fraicheur, ça prends au tripes, ça nous parle à tous. Le rejet, la souffrance, la haine qui en résulte et l'amour qui répare. Niveau dessin et graphisme, rien a redire, la p'tiote peut a la fois faire peur et nous boulversé par son innocence. Merci Pour ce superbe film <3\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1026051900",
+            "author": "\n                            AugusteMars\n            \n                    ",
+            "date": "2023-07-10",
+            "rating": 4.0,
+            "text_content": "\n                    Disney est passé à côté d'une véritable pépite ! Si le rythme et l'animation un peu lisse m'ont un peu laissé de côté au début, la complicité entre nos deux personnages principaux et l'univers de SF médiévale m'ont emporté jusqu'à un final bouleversant qui m'a mis les larmes aux yeux. Mais le film vaut surtout pour son message sincèrement inclusif, avec ses chevaliers gays et le pouvoir de Nimona qui fait clairement référence à la transidentité! Un beau message d'acceptation de la différence. Et par ailleurs, le générique de fin et la chanson originale sont assez incroyables !\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1025991114",
+            "author": "\n                            Evoli Vampire\n            \n                    ",
+            "date": "2023-07-3",
+            "rating": 5.0,
+            "text_content": "\n                    J'ai littéralement pleuré, se film est tellement beau graphiquement, et l'histoire si incroyable que je me suis attaché au personnage sans perdre un seul instant. Je n'en reviens pas que Disney n'est pas voulu de cet pépite, c'est la plus grosse boulette de leur vie.\n        \n            ",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1026068477",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2023-08-6",
+            "rating": 4.5,
+            "text_content": "\n                    Rafraîchissant. ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1026090949",
+            "author": "\n                            Paul Roze\n            \n                    ",
+            "date": "2023-07-9",
+            "rating": 4.5,
+            "text_content": "\n                    Fun , drôle , bien rythme , tendre . Personnages haut en couleur . ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1025975886",
+            "author": "\n                            Kioyoshi Reisei\n            \n                    ",
+            "date": "2023-07-1",
+            "rating": 5.0,
+            "text_content": "\n                    J'attendais ce film avec impatience, les extraits m'avaient donnés envie de le regarder. J'avais une très grosse crainte que ce soit en réalité pas si terrible que ça. MAIS, je suis heureux que ce ne soit pas le cas!!! Une très belle histoire dans un mélange médiéval, fantastique, futuriste. Nimona, ce personnage, une perle! ",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1028692055",
+            "author": "\n                            NAtox_YZ\n            \n                    ",
+            "date": "2024-01-6",
+            "rating": 5.0,
+            "text_content": "\n                    Super film j'espère qu'il y aura une suite seul petit problème c'est le suspense [spoiler](c'est horrible de pas savoir si nimona est vraiment en vie à la fin)\n        \n            ",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1030049879",
+            "author": "\n                            Lotalan\n            \n                    ",
+            "date": "2024-04-5",
+            "rating": 5.0,
+            "text_content": "\n                    Whaou ! J'ai adoré ce film d'animation plein de bienveillance !! Une incitation à la tolérance et l'acceptation de son prochain tel qu'il est (ne pas juger trop vite ou se laisser influencer par l'opinion des autres).  Le personnage de Nimona est hyper attachant malgré ses souffrances elle reste pleine d'enthousiasme, d'énergie et de positivité. ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1025992426",
+            "author": "\n                            Pahra D.\n            \n                    ",
+            "date": "2023-07-2",
+            "rating": 2.5,
+            "text_content": "\n                    Superbe direction artistique, visuellement c'est une claque, quel charadesign mazette, l'univers est vraiment plaisant technologiquement parlant c'était grisant. Et la partition de Christophe Beck de qualité. Très bonne VF soit dit en passant. Les chansons sont nauséabondes, le style colle bien mais elles sont mal intégrées à la mise en scène, le rendu est brouillon et bruyant. L'animation est vraiment dégueux, les combats lamentables tellement ça bouge mal et quand l'action s'emballe ça devient illisible. La mise en scène est pas ouf, je pense la faute au montage bâclé, ça manque vraiment de professionnalisme, ça essaie de faire façon Disney Pixar mais ça a pas les compétences pour. Le scénario part sur de bonnes bases mais c'est très, très mal écrit, ha j'en pleure presque quand je pense à ces raccourcis et des manquements en terme de narration, c'est vraiment raté sur ce volet. Il y a tellement de personnages survolés, ces passés mystérieux qu'on torche en deux lignes de dialogue alors qu'il y avait de grandes, grandes idées. Et puis cette fierté progressiste qu'on vous assène à la truelle, c'est pas aussi gratiné que dans Avalonia mais ça manque de subtilité, je sais pas, Elsa hurle pas à Hanz \"JE SUIS HÉTÉROOOOOOO\" pourquoi les personnages gays ont toujours le droit à une écriture aussi caricaturale? Les gens du même sexe peuvent s'aimer sans en faire un patacaisse pareil. J'ai passé quand même un bon moment mais globalement gâché par un manque de subtilité ",
+            "likes": 0,
+            "dislikes": 15
+        },
+        {
+            "id": "review_1029597920",
+            "author": "\n                            HalduBouyaNono\n            \n                    ",
+            "date": "2024-03-4",
+            "rating": 4.0,
+            "text_content": "\n                    L'animation est magnifique, la DA très entraînante, la BO aux petits oignons pour les amateurs de rock. L'histoire est globalement bonne, malgré quelques raccourcis et lieux communs qui auraient pu être évités. Globalement, je le recommande, d'autant plus que Netflix a mis Nimona gratuitement et légalement sur YouTube.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1027185248",
+            "author": "\n                            Quint Haus\n            \n                    ",
+            "date": "2023-09-21",
+            "rating": 3.5,
+            "text_content": "\n                    Nimona est un bon film. C'est dommage car il aurait pu être exceptionnel. ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1026168475",
+            "author": "\n                            Lyra Doodle\n            \n                    ",
+            "date": "2023-07-15",
+            "rating": 5.0,
+            "text_content": "\n                    J'ai l'impression que récemment les films d'animation ont prit un tournant fantastique. L'animation est vraiment magnifique, et j'adore ce style un peu chaotique. J'ai adoré l'histoire. Le plot twist était prévisible mais il reste merveilleusement bien raconté. Le doublage est incroyable (mention spéciale au cri de désespoir à la fin). Un de mes films d'animation préféré.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1027624563",
+            "author": "\n                            Heart\n            \n                    ",
+            "date": "2023-10-24",
+            "rating": 5.0,
+            "text_content": "\n                    J'ai beaucoup apprécié ce film, je l'ai trouvé très touchant, pleins d'émotions.",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1026516814",
+            "author": "\n                            Lian Sepia\n            \n                    ",
+            "date": "2023-08-4",
+            "rating": 5.0,
+            "text_content": "\n                    Énorme coup de coeur ! ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1026870363",
+            "author": "\n                            YannP\n            \n                    ",
+            "date": "2023-08-26",
+            "rating": 5.0,
+            "text_content": "\n                    Belle animation, intrigue somme toute classique mais délivrée avec une rare intelligence et beaucoup d'humour. On pense à la saga Dragon, à Vahiana et c'est du même niveau. Avec la cerise sur le gâteau, un sous-texte de tolérance et d'ouverture qui fera enrager les plus réactionnaires mais qui n'est pas pour autant asséné comme un simple outil marketing pour sembler woke. C'est fin, c'est intelligent, c'est drôle, c'est un bijou. Merci Megan Ellison et les studios Annapurna !\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1026385608",
+            "author": "\n                            Maud\n            \n                    ",
+            "date": "2023-07-28",
+            "rating": 4.0,
+            "text_content": "\n                    Nimona est un film qui vaut le coup d’œil pour tout le monde ! On ne s’ennuie jamais, il y a de l’action, beaucoup d’humour, et de beaux messages. Certes, l’histoire est loin d'être inoubliable, mais tout y est pour passer un excellent moment.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1028459772",
+            "author": "\n                            Carine K.\n            \n                    ",
+            "date": "2024-03-12",
+            "rating": 5.0,
+            "text_content": "\n                    A titre personnel, un des plus beaux films d'animation jamais vus !",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1029471999",
+            "author": "\n                            Bleulhite\n            \n                    ",
+            "date": "2024-02-25",
+            "rating": 5.0,
+            "text_content": "\n                    Exceptionnellement beau, critiquer les designs ne fait pas sens au regard de la qualité, les personnages sont très très attachants et les voix correspondent bien avec les personnages, autant en VO en VF\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1030879236",
+            "author": "\n                            stef Testeur\n            \n                    ",
+            "date": "2024-06-5",
+            "rating": 5.0,
+            "text_content": "\n                    Juste Whaou. J'ai 35 ans, je l'ai regardé 2 fois avec mes enfants.  Les graphismes sont top, les musiques incroyables,  l'histoire passionnante et SURTOUT j'ai ressenti une telle émotion. Whaou , cette fin incroyable.  Cette douleur, cette détresse qu'elle ressent, je l'ai ressenti avec elle. J'espère vraiment avoir un jour une suite <3\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1027413710",
+            "author": "\n                            Ngnyngonedolyce\n            \n                    ",
+            "date": "2023-10-8",
+            "rating": 5.0,
+            "text_content": "\n                    C'est triste à quel point l'être humain peut être aussi méchant sans voir la souffrance qu'il crée.   Elle a vécue dans une solitude profonde toute sa vie c'est normal que sa tristesse finisse par prendre le dessus\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1026001092",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2023-07-3",
+            "rating": 5.0,
+            "text_content": "\n                    On dirai pas comme ça mais ce film est un chef-d'œuvre, gros coup de cœurs. Tout est vraiment bon : les personnages, l'intrigue, les musique mais surtout l'animation. Le film peut plaire au enfants comme au adulte.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1029431475",
+            "author": "\n                            PasFolle Laguêpe\n            \n                    ",
+            "date": "2024-02-22",
+            "rating": 2.5,
+            "text_content": "\n                    Une animation au top et rythmée mais une histoire en couloir sans détour pour arriver sur une fin prévisible, bien loin de la bande dessinée du même nom basée sur l'oppression d'une gouvernance dictatoriale.",
+            "likes": 0,
+            "dislikes": 2
+        },
+        {
+            "id": "review_1033064069",
+            "author": "\n                            Maelysraouldu56\n            \n                    ",
+            "date": "2024-12-1",
+            "rating": 5.0,
+            "text_content": "\n                    Très bon film d'animation avec une histoire touchante et des personnages attachant",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1025967201",
+            "author": "\n                            Alexandra H.\n            \n                    ",
+            "date": "2023-06-30",
+            "rating": 5.0,
+            "text_content": "\n                    Que dire de ce film, il est incroyable j'en est pleuré d'émotion et les design sont superbe ça change des dessin animé que l'on a l'habitude de voir, il y a de l'humour et de l'émotion dosé comme il le faut.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1028644874",
+            "author": "\n                            Sitelle \n            \n                    ",
+            "date": "2024-01-4",
+            "rating": 5.0,
+            "text_content": "\n                    Ce film est INCROYABLE , c'est clairement mon film préféré !! Je l'ai regardé 10 fois (littéralement) et je suis toujours aussi fan. Je vous le conseil plus que fortement !!!! 朗朗.      ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1026308564",
+            "author": "\n                            Davtipiak\n            \n                    ",
+            "date": "2023-07-24",
+            "rating": 5.0,
+            "text_content": "\n                    Cartoon New génération ! Toute la famille à été conquise. Bravo Netflix pour cette adaptation de quali6.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1026676533",
+            "author": "\n                            Damnyts Le Dragon Noir\n            \n                    ",
+            "date": "2023-08-13",
+            "rating": 2.0,
+            "text_content": "\n                    Il y a quelque chose que je ne comprends pas.",
+            "likes": 0,
+            "dislikes": 3
+        },
+        {
+            "id": "review_1031041736",
+            "author": "\n                            Melanie\n            \n                    ",
+            "date": "2024-06-19",
+            "rating": 4.5,
+            "text_content": "\n                    L’évolution des personnages est très intéressante. On s’attache vite à eux, on s’identifie à leurs difficultés et à leurs peines. ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1036169591",
+            "author": "\n                            zoe moret\n            \n                    ",
+            "date": "2025-07-4",
+            "rating": 5.0,
+            "text_content": "\n                    Ce film est un chef-d'œuvre, il nous faut un 2 ! Je conseille vraiment !  J'adore le couple Ballister et Ambrosius . Je comprends pas pourquoi Nimona est traité de monstre alors qu'elle est juste une métaphore.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1025959126",
+            "author": "\n                            Eliz\n            \n                    ",
+            "date": "2023-06-30",
+            "rating": 4.5,
+            "text_content": "\n                    Une très bonne surprise ! L'univers est très cool ! A la fois heroic-fantazy et futuriste. Les chara-designs des persos et environnement sont vraiment canons. L'esthétique change et elle est belle. L'annimation est très réussie. J'aime beaucoup la construction des personnages, même si elle est pas très poussée elle a le mérite d'être efficace et qu'on y croit. L'histoire est vraiment sympa. Elle révolutionne pas le genre mais elle fait le taf. et on passe un très bon moment. Je trouve que c'est un très beau dessin animé qui vaut le détour. Un très bon moment (et pas très long!) ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1026005074",
+            "author": "\n                            lagluerose\n            \n                    ",
+            "date": "2023-07-3",
+            "rating": 5.0,
+            "text_content": "\n                    Nimona est un film d'animation fantastique, le film à voir cette année. Drôle, émouvant et de beaux messages d'amour. J'espère qu'il y aura un NIMONA 2 et j'ai même hâte.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1026024625",
+            "author": "\n                            Asasoei\n            \n                    ",
+            "date": "2023-07-4",
+            "rating": 5.0,
+            "text_content": "\n                    Filme tout bonnement incroyable, les personnages sont fantastique, l'histoire et prenante, l'aspect du film donne envie de le voir encore et encore, je conseille fortement ce film (ps: en espérant une suite)\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1027692502",
+            "author": "\n                            Nassiba limna\n            \n                    ",
+            "date": "2023-10-29",
+            "rating": 5.0,
+            "text_content": "\n                    Bonjour à tous.",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1028860617",
+            "author": "\n                            Chloé M\n            \n                    ",
+            "date": "2024-01-16",
+            "rating": 4.0,
+            "text_content": "\n                    Il est assez étonnant de voir des critiques de personnes ayant plutôt apprécié le film et apparemment compris son message de tolérance et d'acceptation des différences, tout en critiquant l'aspect \"progressiste\" trop présent... Ce film est une aventure à la croisée entre de la fantaisie et de la science-fiction, il questionne les rapports sociaux (hiérarchie sociale notamment), les coutumes communément acceptées et non questionnées et bien évidemment le rejet de tout ce qui est différent. Il est drôle et touchant. Un peu enfantin, mais c'est l'idée puisqu'il est aussi fait pour le jeune public. Qui a-t-il de si dérangeant à voir de la diversité, que ce soit un couple homosexuel ou un personnage principal qui ne correspond pas aux stéréotypes de genres..? Au contraire, c'est tellement rare que c'est si rafraichissant, parce que spoiler : la diversité existe dans la vraie vie, pourquoi ne pas la montrer dans la fiction ?\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1029759376",
+            "author": "\n                            Kerlove\n            \n                    ",
+            "date": "2024-03-15",
+            "rating": 5.0,
+            "text_content": "\n                    Un film qui fera du bien à vos enfants ! Et certainement à vous tous, autant qu’il m’en a fait à moi.",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1037347483",
+            "author": "\n                            Sierra di Angelo\n            \n                    ",
+            "date": "2025-10-30",
+            "rating": 4.5,
+            "text_content": "\n                    J'ai entendu parler de Nimona grâce à une critique qui m'a brossé le tableau d'un long métrage très queer, tolérant et complètement dément. Je n'ai absolument pas été déçue ! J'ai adoré le style de dessin, l'humour présent et le caractère \"décalé\" de ce film et de certains personnages. ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1026187034",
+            "author": "\n                            Laura Gomez Aguirre\n            \n                    ",
+            "date": "2023-07-17",
+            "rating": 5.0,
+            "text_content": "\n                    Une vraie surprise ! Un univers mêlant chevaleresque et modernité qui permet d'avoir une histoire innovante, surprenante et pleine de rebondissements !",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1039768406",
+            "author": "\n                            Yannis N\n            \n                    ",
+            "date": "2026-07-9",
+            "rating": 1.5,
+            "text_content": "\n                    un film plein de propagande dont on a pas le droit de s offusquer ",
+            "likes": 0,
+            "dislikes": 0
+        }
+    ]
+}

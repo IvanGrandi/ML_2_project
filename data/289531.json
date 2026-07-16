@@ -1,0 +1,481 @@
+{
+    "id": 289531,
+    "name": "Old Henry",
+    "release_date": "2022-02-2",
+    "runtime_in_minutes": 99,
+    "genres": [
+        "Action",
+        "Western"
+    ],
+    "synopsis": "\n                    Un fermier veuf et son fils accueillent avec méfiance un homme mystérieux et blessé, détenteur d'une sacoche remplie d'argent.\n        \n            ",
+    "reviews": [
+        {
+            "id": "review_1019096262",
+            "author": "\n                            Mathieu B.\n            \n                    ",
+            "date": "2022-02-21",
+            "rating": 4.0,
+            "text_content": "\n                    Un western comme je les aime, sombre, avec une histoire simple, sans super héros... Un film humain. Ce vieux Henry, on se doute qu'il a un passé chargé, qu'il n'a pas toujours été fermier et père de famille, que sa vie a été plus mouvementée auparavant. J'ai beaucoup apprécié la relation père - fils, les choix successifs d'Henry qui vont l'acculer à renouer avec son passé. En revanche, j'ai beaucoup moins aimé le personnage du cow-boy blessé, qui ne sert à rien pendant tout le film et qui fait basculer la fin de l'histoire. Mais si je n'ai pas aimé ce personnage, c'est parce que j'étais triste pour Henry, ce personnage que j'ai vraiment aimé du début à la fin. Un bon western, qui ne fait pas dans le spectaculaire, mais plutôt dans la sobriété. Très bon film\n        \n            ",
+            "likes": 13,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1020394433",
+            "author": "\n                            Guillaume\n            \n                            \n                    ",
+            "date": "2022-06-7",
+            "rating": 4.0,
+            "text_content": "\n                    Le western n'a plus vraiment la cote, mais il est ici si brillamment interprété...",
+            "likes": 8,
+            "dislikes": 1
+        },
+        {
+            "id": "review_1019477562",
+            "author": "\n                            TDO\n            \n                    ",
+            "date": "2022-03-24",
+            "rating": 5.0,
+            "text_content": "\n                    Si vous aussi vous en avez marre des films donneurs de leçon de notre époque ou encore filmés intégralement sur fond vert, regardez Old Henry. Un scénario simple, efficace mais à la fin inattendue, et un Tim Blake Nelson - qui mériterait bien plus de reconnaissance - au sommet de son art. Ici, pas de chichis, nous revenons à une forme d'authenticité que l'on ne retrouve plus dans le cinéma actuel. Et ça fait du bien.\n        \n            ",
+            "likes": 9,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1017174835",
+            "author": "\n                            FaRem\n            \n                            \n                    ",
+            "date": "2021-10-9",
+            "rating": 3.5,
+            "text_content": "\n                    Henry, un vieux fermier qui habite seul avec son fils, trouve un homme à moitié mort près de sa propriété. Il décide de l'emmener chez lui pour le soigner seulement, cet acte de bonté va lui attirer de nombreux problèmes. Ce dernier, qui avait une sacoche pleine d'argent avec lui, est poursuivi par des hommes qui prétendent être des représentants de la loi. Le problème est que Curry, l'homme blessé, dit exactement la même chose... \"Old Henry\" commence timidement, du moins après l'introduction, car on n’assiste pas à un siège dans la veine d'un home-invasion malgré ce que l'on pourrait croire, mais c'est un film qui mérite que l'on soit patient, car le dernier acte est très efficace en étant riche en actions et en rebondissements. Il y a notamment une révélation bien trouvée qui donne une tout autre dimension à l'un des personnages et au film. Un film qui est finalement très plaisant grâce notamment au casting, Tim Blake Nelson en tête qui est excellent.\n        \n            ",
+            "likes": 5,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1019019487",
+            "author": "\n                            defleppard\n            \n                            \n                    ",
+            "date": "2022-02-19",
+            "rating": 3.5,
+            "text_content": "\n                    Un vrai bon western, ne réveillez jamais la tempête qui dort, à voir il en vaut la peine, un personnage de légende, trois étoiles et demie\n        \n            ",
+            "likes": 3,
+            "dislikes": 1
+        },
+        {
+            "id": "review_1018991186",
+            "author": "\n                            Gustave Aurèle\n            \n                    ",
+            "date": "2022-02-14",
+            "rating": 3.5,
+            "text_content": "\n                    Excellent western et belle interprétation de Tim Blake Nelson. L'histoire, bien que linéaire, réserve au moins une bonne surprise.\n        \n            ",
+            "likes": 4,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1020424959",
+            "author": "\n                            Jeremie G\n            \n                    ",
+            "date": "2022-06-8",
+            "rating": 5.0,
+            "text_content": "\n                    il faut avoir une certaine culture de cette époque et de ces \"personnages\" pour comprendre ce film (les noms, les personnages secondaires, les lieux...tout colle). pour moi ce film boucle une boucle, meme si tout est fiction et très romancé, jamais un western ne m'aura fait l'impression d'un \"usual suspect\" comme ca!!! a mon niveau c'est un chef d'œuvre\n        \n            ",
+            "likes": 4,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1020417505",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2022-06-29",
+            "rating": 4.5,
+            "text_content": "\n                    Une belle atmosphère, digne des westerns, de grande classe. Une histoire bien ficelée qui entretien la légende.",
+            "likes": 4,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1017426351",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2021-10-27",
+            "rating": 5.0,
+            "text_content": "\n                    Le film a un story telling ultra puissant, un casting et une photo parfaite.",
+            "likes": 4,
+            "dislikes": 1
+        },
+        {
+            "id": "review_1020934887",
+            "author": "\n                            Hotinhere\n            \n                    ",
+            "date": "2022-07-21",
+            "rating": 2.5,
+            "text_content": "\n                    Un western classique pas inoubliable, mais qui se laisse regarder sans déplaisir en dépit d’un rythme assez mollasson et quelques lourdeurs.\n        \n            ",
+            "likes": 1,
+            "dislikes": 1
+        },
+        {
+            "id": "review_1022584632",
+            "author": "\n                            Eselce\n            \n                    ",
+            "date": "2022-11-20",
+            "rating": 4.5,
+            "text_content": "\n                    Quelques longueurs, mais un film remarquable, surtout pour ses surprises et le dévoilement final auquel on ne s'attend pas tout à fait. Le démarrage nous met déjà en haleine par une petite traque. Les personnages sont travaillés comme l'ambiance et l'acte final nous donne envie de mieux connaître encore l'histoire vraie du personnage principal.\n        \n            ",
+            "likes": 2,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1021428214",
+            "author": "\n                            Acidus\n            \n                    ",
+            "date": "2022-08-26",
+            "rating": 4.0,
+            "text_content": "\n                    \"Old Henry\" est un western de très bonne facture. Intrigue simple mais largement valorisée par le reste que cela soit le casting, la réalisation, la photographie, la bande son,... Beaucoup de soin a été apporté à la mise en place de l'atmosphère et à la psychologie des personnages mais les scènes d'action ne sont pas négligées pour autant.",
+            "likes": 2,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1020133904",
+            "author": "\n                            Mr Justice\n            \n                    ",
+            "date": "2022-05-12",
+            "rating": 3.5,
+            "text_content": "\n                    Un western atypique et personnel, sobre et minimaliste.",
+            "likes": 2,
+            "dislikes": 1
+        },
+        {
+            "id": "review_1019133950",
+            "author": "\n                            Spider cineman\n            \n                    ",
+            "date": "2022-02-27",
+            "rating": 3.5,
+            "text_content": "\n                    Un bon western. Ça commence sobrement la campagne de l ouest américain... puis par une chasse à l homme. On découvre progressivement ces personnages dont le passé est plus lourd que prévu. Une intrigue bien menée, avec un bon jeu d acteurs, exercice suffisamment rare sur ces différents plans pour être remarquable dans ce genre de film.\n        \n            ",
+            "likes": 2,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1017644620",
+            "author": "\n                            L'homme Scan\n            \n                    ",
+            "date": "2021-11-11",
+            "rating": 2.5,
+            "text_content": "\n                    Coté atmosphère l'ambiance western est bien présente. Mais tout n'est pas bon, les séquences psychologie père/fils sont vraiment lourdasse et ca bavasse pour pas grand chose.",
+            "likes": 2,
+            "dislikes": 4
+        },
+        {
+            "id": "review_1019059914",
+            "author": "\n                            Gentilbordelais\n            \n                    ",
+            "date": "2022-02-20",
+            "rating": 1.0,
+            "text_content": "\n                    Un western avec l'âpreté de la période dans laquelle il se déroule, avec une chasse à l'homme dont le lieu central est un ranch. Même le petit twist final ne permet pas d'oublier la pauvreté du scénario, le rythme monotone, la répétition des situations et autres invraisemblances! Pénible de survivre aussi pour le spectateur...\n        \n            ",
+            "likes": 1,
+            "dislikes": 12
+        },
+        {
+            "id": "review_1029752880",
+            "author": "\n                            Henrico\n            \n                            \n                    ",
+            "date": "2024-03-31",
+            "rating": 4.5,
+            "text_content": "\n                    Le scénario est sans doute assez classique, mais l'action est intense, non dépourvue d'un certain lyrisme. En outre, avec la magnifique prestation de Tim Blake Nelson, des dialogues bien ciselés, et une mise en scène irréprochable de Potsy Ponciroli, Old Henry se consomme sans modération.\n        \n            ",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1025321302",
+            "author": "\n                            onsefaitunetoile\n            \n                    ",
+            "date": "2023-05-14",
+            "rating": 4.5,
+            "text_content": "\n                    Qui a dit que le genre western était mort ?",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1020425677",
+            "author": "\n                            Mla \n            \n                    ",
+            "date": "2022-06-8",
+            "rating": 4.0,
+            "text_content": "\n                    La belle surprise ! Ce western est un bonbon ! Tout les incontournables sont là, les codes sont respectés, on a le droit a une chute exceptionnelle et pour couronner le tout Tim Blake Nelson est monstrueux ! A voir !\n        \n            ",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1035739116",
+            "author": "\n                            Alasky\n            \n                    ",
+            "date": "2025-05-25",
+            "rating": 3.5,
+            "text_content": "\n                    Western crépusculaire au scénario très simple et à la mise en scène sobre et mystérieuse, qui vaut surtout pour le twist final qui fait toute la différence.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1036984143",
+            "author": "\n                            Emmanuel Cockpit\n            \n                    ",
+            "date": "2025-09-22",
+            "rating": 4.5,
+            "text_content": "\n                    Sous un titre débonnaire ce film est une vraie pépite ! Des paysages splendides et une photographie lumineuse plongent le spectateur dans un western âpre au cœur de ce qui régit souvent cette catégorie : des types veulent quelque chose, d’autres veulent la même chose, et c’est là que ça dérape. Grâce aux prises de vue soignées et à la manière posée de filmer de ce réalisateur quasi inconnu, où on sent que chaque mouvement a été réfléchi, la violence n’est pas adoucie mais au contraire d’autant plus profonde. Pas de super héros (quoique…), l’histoire est simple et se déroule en quasi huis-clos dans une ferme où elle révèle l’interprétation originale d’un personnage légendaire avec beaucoup de talent. Les acteurs sont d’une authenticité remarquable grâce à leur sobriété de jeu. Un film qui compte !\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1020772853",
+            "author": "\n                            nielrowbooks\n            \n                    ",
+            "date": "2022-07-6",
+            "rating": 4.0,
+            "text_content": "\n                    Mettons d'abord les choses en ordre. Il ne s'agit pas d'une fermière et son fils qui accueille un inconnu plein de pognon, comme on le lit sur tous les résumés. D'ailleurs aucune femelle à l'horizon dans ce film, et on ne sait pas trop ce qu'elle y aurait fait. Non, nous sommes en présence d'un fermier et de son fils un poil crétin, qui ont de gros ennuis quand le père ramène à la maison un blessé et une sacoche. On connaît grosso modo ce genre de scénario, mais celui-ci  a un prolongement inattendu. Bien vu, peut-on même affirmer. C'est interprété avec talent, mis en scène correctement, grevé toutefois de quelques scènes décevantes. Rien de grave docteur, le tout se laissera regarder par les amateurs de westerns.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1037333087",
+            "author": "\n                            Kouto\n            \n                    ",
+            "date": "2025-10-28",
+            "rating": 4.0,
+            "text_content": "\n                    Sans jamais se départir d’un certain classicisme, ce western à la fois court et simple demeure malgré tout surprenant à voir grâce autant à sa mise en scène respectueuse des codes du genre tout en offrant une photographie grisonnante qu’à la présence à l’écran de l’étrange et magnétique Tim Blake Nelson. Un film carré au final audacieux.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1035662746",
+            "author": "\n                            Frédéric M.\n            \n                            \n                    ",
+            "date": "2025-05-17",
+            "rating": 3.5,
+            "text_content": "\n                    Il faut le dire quand on tient un bon western. Une bonne ambiance avec une histoire de western à l'ancienne. Reste un bon petit twist vers la fin du film. Les acteurs sont impeccables et la déco est sublime.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1021108923",
+            "author": "\n                            Fabios Om \n            \n                    ",
+            "date": "2022-08-3",
+            "rating": 3.0,
+            "text_content": "\n                    Excellent western et belle interprétation de Tim Blake Nelson. L'histoire, bien que linéaire, réserve au moins une bonne surprise. plutôt un bon western bien meilleur que certaines de ces dernières années par contre en revanche l'histoire a du mal à se mettre en place et quelques reprises on s'ennuie on a du mal à rester dans le film ou à rester concentré .  Il y a notamment une révélation bien trouvée qui donne une tout autre dimension à l'un des personnages et au film. Un film qui est finalement très plaisant grâce notamment au casting, Tim Blake Nelson en tête qui est excellent. ne réveillez jamais la tempête qui dort, à voir il en vaut la peine, un personnage de légende,atypique et personnel, sobre et minimaliste.",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1027291517",
+            "author": "\n                            L'homme sans nom\n            \n                    ",
+            "date": "2023-09-28",
+            "rating": 3.5,
+            "text_content": "\n                    Old Henry est un western italien (donc logiquement très inspiré du western spaghetti) qui ne sera pas le film qui renouvelle le genre mais avec sa belle photo, ses \"gueules\", sa crasse et son scénario simple et efficace, il répond largement aux attentes.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1035550805",
+            "author": "\n                            Yann IVON\n            \n                    ",
+            "date": "2025-05-6",
+            "rating": 1.0,
+            "text_content": "\n                    Je ne comprends pas les critiques élogieuses autour de ce film ; pas de budget, pas de scénario, invraisemblance des situations, laideur des images. twist final qui nous prend pour des imbeciles ( ! ).",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1025608918",
+            "author": "\n                            gerard stevenson\n            \n                    ",
+            "date": "2023-06-3",
+            "rating": 4.5,
+            "text_content": "\n                    Superbe western, tout en simplicité et retenu. La lenteur du film sied parfaitement à l'histoire et au personnage d'Henry magistralement interprété par Tim Blake Nelson.",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1028420792",
+            "author": "\n                            Francesco31 \n            \n                    ",
+            "date": "2023-12-21",
+            "rating": 4.0,
+            "text_content": "\n                    un vrai western, avec, toujours, des paysages grandioses, quelques acteurs, ce n'est pas une super production, toujours un peu les mêmes histoires, mais tout se tient très bien. Vraiment. Pa s d'effets visuels travaillés,, ce n'est pas un clip, c'est âpre, cru, sauvage. Ce qui prouve, encore une fois, que ce n'est pas le budget qui fait un bon film.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1023319709",
+            "author": "\n                            White Fingers\n            \n                    ",
+            "date": "2023-01-10",
+            "rating": 3.0,
+            "text_content": "\n                    Le postulat de départ est intéressant, une « légende » du Far West qui termine sa vie reclus et dans l’anonymat. Bien sûr, on imagine que son passé va le rattraper et que les conséquences vont être dramatiques pour lui, pour son entourage et pour ses assaillants. Lorsqu’on maîtrise les codes du genre, il est clair que l’on connait, si ce n’est le dénouement, là où le réalisateur veut nous embarquer. La mise en place de l’histoire est un peu fastidieuse, puis progressivement elle monte en puissance jusqu’à ce que le héros (l’excellent Tim Blake Nelson), sur la retenue car il est conscient que la part sombre qui l’habite peut se réveiller à tout moment, s’énerve. Le combat final est admirable car il est certainement plus proche de la réalité que ceux des classiques du genre. Potsy Ponciroli a joué la carte de la sobriété et de l’âpreté ; c’est la force du film. Néanmoins l’histoire est un peu mince. Tout à la fois aussi plaisant qu’anecdotique.",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1033778560",
+            "author": "\n                            Régis B\n            \n                    ",
+            "date": "2025-01-20",
+            "rating": 3.5,
+            "text_content": "\n                    Pas besoin d'un budget colossale et d'effets spéciaux pour faire un bon film. Quelques acteurs, une vielle ferme et quelques coups de feu, et tous les ingrédients sont là ! ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1029790557",
+            "author": "\n                            Piermath\n            \n                    ",
+            "date": "2024-03-18",
+            "rating": 3.5,
+            "text_content": "\n                    Jolie surprise que ce petit western tourné dans un quasi unique décor réel et avec une distribution réduite.",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1019269981",
+            "author": "\n                            Michel Ayoub\n            \n                    ",
+            "date": "2022-03-9",
+            "rating": 4.0,
+            "text_content": "\n                    Très bon thrilleur et bonne intrigue. Ça flingue comme au temps de Clint Eastwood ou de Règlement de comptes à Ok Coral. A voir absolument\n        \n            ",
+            "likes": 2,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1018861759",
+            "author": "\n                            Sarah Cameron\n            \n                    ",
+            "date": "2022-02-4",
+            "rating": 4.5,
+            "text_content": "\n                    Une pépite pour les fans de western et des productions de qualité à l américaine avec une photo parfaite qui fait voyager ",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1024620201",
+            "author": "\n                            Nadia T\n            \n                    ",
+            "date": "2023-03-27",
+            "rating": 3.5,
+            "text_content": "\n                    Bien.   Dommahes pour le quelques passages qui trainent en longueur (2 ou 3) jai trouvé cependant le fim réussi dans le genre western  Je recommande\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1020897736",
+            "author": "\n                            ebrd\n            \n                    ",
+            "date": "2022-07-18",
+            "rating": 4.5,
+            "text_content": "\n                    Sur une idée de scénario assez classique où l'on se pose la question avec le heroes du film sur la véracité des propos du fugitif recueilli, le réalisateur nous offre une histoire bien ficelée. ",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1020386825",
+            "author": "\n                            vincent t\n            \n                    ",
+            "date": "2022-06-6",
+            "rating": 3.5,
+            "text_content": "\n                    Un bon western. Cela commence doucement, mais la dernière partie du film vaut vraiment la peine. Une fin surprenante, à laquelle je ne m'attendais pas du tout ... Certains connaisseurs pourront avoir des indices avant mais pas facile..\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1036194967",
+            "author": "\n                            J-AIR\n            \n                    ",
+            "date": "2025-09-15",
+            "rating": 4.0,
+            "text_content": "\n                    Un western simple et efficace qui ce veux également créatif par rapport au passé du personnage principal.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1027664770",
+            "author": "\n                            Raph\n            \n                    ",
+            "date": "2023-10-27",
+            "rating": 4.0,
+            "text_content": "\n                    \"Le dernier des géants !\"",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1031957905",
+            "author": "\n                            [41]\n            \n                    ",
+            "date": "2024-09-7",
+            "rating": 4.0,
+            "text_content": "\n                    Une très bonne surprise!",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1023750156",
+            "author": "\n                            Corny\n            \n                    ",
+            "date": "2023-02-3",
+            "rating": 4.5,
+            "text_content": "\n                    un bon petit western, un bon scenario bien ficelé avec un bon jeu d'acteur . on ne s'ennui pas une seul minute. 4.5/5\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1038208776",
+            "author": "\n                            Daniel K.\n            \n                    ",
+            "date": "2026-01-24",
+            "rating": 4.5,
+            "text_content": "\n                    Un Western un vrai. Ici ca sent la poudre et l'ouest ,efficace bien filmé  ,bon acteurs. Difficile de faire mieux .\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1021400654",
+            "author": "\n                            Mimi la fourmi\n            \n                    ",
+            "date": "2022-08-24",
+            "rating": 5.0,
+            "text_content": "\n                    Un western sobre et efficace, bien joué, avec une révélation finale qui apporte un frisson de jubilation.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1028607601",
+            "author": "\n                            Manu Zouzou\n            \n                    ",
+            "date": "2024-01-2",
+            "rating": 4.5,
+            "text_content": "\n                    Un western qui respecte les codes du genre (shérif et hors la loi) tout en apportant de la modernité. L'interprétation d'Henry est impeccable de justesse (alternant entre sentiments retenus et violence). Et la photo magnifique pour une atmosphère lourde et émouvante à la fois.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1020486953",
+            "author": "\n                            Alain Denis\n            \n                    ",
+            "date": "2022-06-13",
+            "rating": 4.0,
+            "text_content": "\n                    Un western traditionnel que j'ai adoré avec ses méchants violents et sanguinaires et le héros, excellent Tim Blake Nelson, impassible et implacable. Ce film montre également la relation entre Henry et son fils et leurs relations parfois houleuses. Il décrit également la dureté des premiers colons installés, leur solitude et leur pugnacité pour s'occuper de leurs fermes.Très bon film.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1018920977",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2022-02-9",
+            "rating": 4.5,
+            "text_content": "\n                    Magnifique western, une référence du genre au suspense intense et rebondissements jouissifs, du niveau de True Grit.\n        \n            ",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1033921020",
+            "author": "\n                            Christian\n            \n                    ",
+            "date": "2025-01-30",
+            "rating": 4.5,
+            "text_content": "\n                    Bonne surprise au visionnage car le titre ne m'accrochait pas de prime abord (comme quoi, il ne faut pas s'arrêter au a priori) mais en bon amateur de western,  je me suis lancé. Bien m'en a pris : le scénario est très bon,  les acteurs également avec une vrai intrigue et un dénouement final qu'on ne voit pas venir ! Les puristes regretteront peut-être le manque de décor des villes de l'époque mais largement compensé par les arguments susnommés...  Une pépite !  Si vous aimez les westerns , faites vous plaisir,  foncez !\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1038441809",
+            "author": "\n                            Livemont\n            \n                    ",
+            "date": "2026-02-16",
+            "rating": 5.0,
+            "text_content": "\n                    Qu'il était beau ce film ...Émouvant et très suspense. Dur aussi, un vrai western bien poétique et bien tourné. Et joué.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1021057047",
+            "author": "\n                            Joachim Dorothee M.\n            \n                    ",
+            "date": "2022-08-1",
+            "rating": 3.5,
+            "text_content": "\n                    Bon western avec de belles performances d'acteur. Dommage pour la musique style Koh Lanta, lorsqu'il y a  un détail à repérer (manque de confiance vis à vis du spectateur),.pour le rôle fils, un peu niais, au comportement prévisible, et pour les quelques longueurs (mais elles posent bien l'ambiance). Je recommande ce film qui reste un bon western.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1020414591",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2022-06-7",
+            "rating": 4.0,
+            "text_content": "\n                    Le héros ne paie pas de miné. Un simple fermier. L'histoire est bien ficelée. Un western digne de ce nom.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1038027076",
+            "author": "\n                            Raoul Lacagoule\n            \n                    ",
+            "date": "2026-01-7",
+            "rating": 3.0,
+            "text_content": "\n                    Un film qui fait un peu penser à Impitoyable, long à démarrer, qui manque un peu de rythme. ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1037983719",
+            "author": "\n                            Iambruce18\n            \n                    ",
+            "date": "2026-01-3",
+            "rating": 4.0,
+            "text_content": "\n                    Excellent film a voir c est bien tourné et acteurs ok . Pour les amateurs de western allez y ca se regarde bien ca reste un tres bon film\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        }
+    ]
+}

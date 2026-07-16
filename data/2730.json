@@ -1,0 +1,743 @@
+{
+    "id": 2730,
+    "name": "La Rivière rouge",
+    "release_date": null,
+    "runtime_in_minutes": 133,
+    "genres": [
+        "Action",
+        "Aventure",
+        "Western"
+    ],
+    "synopsis": "\n                    Un jeune homme s'oppose à son père adoptif devenu trop dur avec les hommes lors du convoi d'un troupeau de dix mille bêtes qu'ils doivent vendre dans le Missouri.\n        \n            ",
+    "reviews": [
+        {
+            "id": "review_26774125",
+            "author": "\n                            gimliamideselfes\n            \n                            \n                    ",
+            "date": "2011-08-23",
+            "rating": 3.5,
+            "text_content": "\n                    Ford, n'est pas le seul à avoir fait des bons films avec Wayne, il y a aussi Hawks, Rio Bravo bien sûr, El Dorado, mais aussi Red River. Alors je préfère les deux premiers que j'ai cité à celui ci, qui bien qu'il ne soit pas mauvais, possède une fin assez pathétique, tombant dans la facilité (là où par exemple dans la prisonnière du désert c'était magnifique)… Alors le reste du film ? j'ai pas été très convaincu non plus, certes c'est bon, mais juste bon je dirai, j'en attendais beaucoup plus, alors certes à l'époque ça devait être quelque chose de voir toutes ces vaches conduites par monts et vallées, mais je reprocherai au scénario peut-être un peu trop de facilités, la rivalité de Matt avec Cherry est trop vite passée sous silence, Cherry ne servant pas à grand chose, et la relation entre Wayne et son protégé n'est pas aussi profonde qu'on aurait pu le souhaiter.",
+            "likes": 7,
+            "dislikes": 1
+        },
+        {
+            "id": "review_39963882",
+            "author": "\n                            landofshit0\n            \n                    ",
+            "date": "2013-11-21",
+            "rating": 3.5,
+            "text_content": "\n                    Il est une chose sure c'est que la rivière rouge reste l'un des classiques du genre. Les personnages sont les précurseur des usa avec rien ils peuvent bâtir un empire, dommage qu'ils soient parfois un poil caricaturaux dans certaines scènes. Le rapport père fils adoptif est bien exploité,mais les comportements de chacun ne sont pas toujours en adéquation avec leur personnage,le final en est le plus bel exemple. Il en reste un film avec un fond et un belle touche d'humour franchement agréable à regarder.\n        \n            ",
+            "likes": 4,
+            "dislikes": 0
+        },
+        {
+            "id": "review_42238309",
+            "author": "\n                            Benjamin A\n            \n                            \n                    ",
+            "date": "2014-04-21",
+            "rating": 4.0,
+            "text_content": "\n                    Ca faisait déjà une vingtaine d'année que Howard Hawks s'était établie à Hollywood lorsqu'il réalise \"La Rivière rouge\", son premier western (d'ailleurs il était à peu près capable de briller dans tous les genres). Commençant par une voix off qui nous parle de la rivière rouge, il nous emmène ensuite sur les routes entre le Texas et le Missouri pour suivre un convoi d'un troupeau de dis milles bête qu'ils ne peuvent plus vendre chez eux suite à la ruine du sud dû à la guerre de Sécession... ",
+            "likes": 3,
+            "dislikes": 1
+        },
+        {
+            "id": "review_40700352",
+            "author": "\n                            Frédéric Le Mouël\n            \n                    ",
+            "date": "2014-01-21",
+            "rating": 4.5,
+            "text_content": "\n                    Merveilleux western. Tant sa dimension épique (réalisme de la représentation du convoyage de bétail à travers les USA) que dans sa dimension humaine (dureté des relations entre les différents protagonistes qui mettent chacun leur vie et leurs rêves en jeu). John Wayne est étonnant en cow-boy rude et impitoyable, mais aimant. Son duo avec Montgomery Clift est particulièrement émouvant. Seul bémol : la scène finale, en termes d'intensité, n'est pas au niveau du reste du film.\n        \n            ",
+            "likes": 3,
+            "dislikes": 0
+        },
+        {
+            "id": "review_22330021",
+            "author": "\n                            Plume231\n            \n                    ",
+            "date": "2010-12-13",
+            "rating": 4.0,
+            "text_content": "\n                    Il est difficile de croire que c'est le premier western du père Hawks. On m'aurait dit qu'il avait un peu comme John Ford une bonne cinquantaine de films du genre derrière lui, je l'aurais beaucoup plus facilement cru. Car il a parfaitement su transposer son univers dans le genre. Ce qui veut dire que malgré l'aspect fort dramatique de certaines scènes, c'est la légèreté qui règne. Côté action, les scènes avec le bétail sont réalisées avec une efficacité qu'il est impossible à prendre en défaut. Seule réserve : quelques petits temps morts au milieu du film malgré la présence de la scène la plus importante : \"Les Révoltés du Bounty\" sauce western avec un supplément de relation père et fils. Mais le rythme reçoit un sérieux coup de fouet avec l'apparition du personnage de femme de caractère typiquement hawksien de la très charmante Joanne Dru, capable de prendre une flèche le plus naturellement du monde. Je défie quiconque de ne pas en tomber amoureux rien qu'avec cette scène. Autrement, superbe idée d'avoir opposer deux personnalités aussi différentes que les excellents John Wayne et Montgomery Clift qui donne un atout inestimable au film. Et d'ailleurs le réalisateur ne se gêne pas pour notre plus grand plaisir à jouer à fond sur cette opposition. Une dernière chose à ne surtout pas oublier : le superbe thème musical de Dimitri Tiomkin. Impossible de ne pas reconnaître ce film comme un important du genre.\n        \n            ",
+            "likes": 3,
+            "dislikes": 5
+        },
+        {
+            "id": "review_27146772",
+            "author": "\n                            bobmorane63\n            \n                    ",
+            "date": "2011-09-15",
+            "rating": 4.0,
+            "text_content": "\n                    Un trés bon Western signé Howard Hawks dont c'est la première collaboration avec John Wayne dont on connait la suite avec le cultissime \"Rio bravo\" !!! Un film qui vieillit bien avec le temps, une bonne histoire de rivalité entre un chef d'expedition de troupeaux de vaches à l'allure et au ton trés sévère pret à tout dans son ambition et son objectif et un jeune cowboy qu'il a adopté plus humain avec les cavaliers et les eleveurs. La mutinerie, si on peux appeler cela, mène à la haine pour John Wayne dans un role à contre emploi loin du cowboy cool à la bonne vanne qu'il a mené durant sa carrière. En face, le jeune Montgomery Clift est excellent en jeune premier teigneux et c'est toujours un plaisir de revoir Walter Brennan, Stampy dans \"Rio bravo\" avec toujours de l'humour. Certaines scènes spectaculaires sont réussis comme celle ou le troupeaux cavale de panique aprés un bruit qui les a effrayé d'un cowboy gourmand de cuisine. Pourquoi je ne mets pas le maximum d'étoiles? La fin m'a déçu, je m'attendais à quelque chose de plus dramatique mais on en 1948, loin du Western spaghetti mais bon. A découvrir.\n        \n            ",
+            "likes": 1,
+            "dislikes": 1
+        },
+        {
+            "id": "review_37015486",
+            "author": "\n                            TTNOUGAT\n            \n                            \n                    ",
+            "date": "2013-04-19",
+            "rating": 4.0,
+            "text_content": "\n                    Bien sur c’est un beau western mais à le revoir des défauts de montage et de découpage de plans apparaissent  surtout dans sa version longue. Ce n’est ni une épopée comme cela aurait du l’être (l’ouverture de la piste Chisum) ni une vraie histoire d’amitié et encore moins d’amour. Dunson n’est pas crédible tellement il est excessif dans un tel contexte (nous ne sommes pas sur un bateau), de plus le final est d’une malhonnêteté intellectuelle affligeante: Dunson a une tête de tueur lorsqu’il traverse le champ des vaches et tout fini en comédie avec une intervention grotesque de l’ex prostituée. Cette scène est d’ailleurs révélatrice de Hawks dont les films comiques sont ce qu’il a fait de mieux ,il y est beaucoup plus à l’aise . Aussi  le mettre sur le même plan que John Ford est une erreur que le temps réparera un jour, sauf s’il n’existe plus aucun public pour analyser les films du passé. La beauté de ce film réside dans son classicisme exemplaire pour un film noir et blanc avec ses nombreuses scènes de nuit ou de clair obscur. Mais, c’est quand même bien dommage de s’être privé de la couleur et du cinémascope car les 9000 vaches en noir et blanc  qui composent sans doute le plus grand troupeau vu dans un film auraient été bien plus présentes sous leurs robes marron et blanc. On aurait même pu sentir leur odeur.\n        \n            ",
+            "likes": 1,
+            "dislikes": 1
+        },
+        {
+            "id": "review_1015658304",
+            "author": "\n                            chrischambers86\n            \n                    ",
+            "date": "2021-06-29",
+            "rating": 4.5,
+            "text_content": "\n                    La rèflexion profonde et humaine sur la solitude d'un homme, le meilleur sujet de \"Red River\", admirable western de Howard Hawks avec les inoubliables John Wayne et Monty Clift! L'histoire de quelques hommes courageux qui remontent le cours d'un fleuve! En jeu, un immense troupeau de boeufs pour un parcours de plusieurs centaines de miles à contre-courant, avec des Indiens et des vautours à l'affût! Une piste longue et extènuante à travers le Texas, Abilene et Dodge City! Aventures, obstacles, dangers, attaques, embuscades...rien ne manque dans cette expèdition ô combien difficile, mais toujours maîtrisèe sur le plan de l'èpure, de la narration et de l'èmotion! Wayne & Clift, mais aussi la piquante Joanne Dru et surtout le vieux Groot qui raconte l'histoire à la première personne, interprètè par le malicieux Walter Brennan! Vous l'aurez compris, \"Red River\" est un grand western,  une très grande oeuvre de Hawks qui maintient son spectateur de la première à la dernière image, avec la magnifique partition musicale de Tiomkin...\n        \n            ",
+            "likes": 2,
+            "dislikes": 0
+        },
+        {
+            "id": "review_40156506",
+            "author": "\n                            cylon86\n            \n                    ",
+            "date": "2013-12-9",
+            "rating": 4.0,
+            "text_content": "\n                    Premier western réalisé par Howard Hawks, \"La rivière rouge\" amène le genre vers d'autres dimensions en humanisant la figure du cow-boy, jusqu'ici souvent monolithique. En effet, le voyage effectué par Tom Dunson et Matthew Garth, son fils adoptif va pousser les deux hommes à s'affronter et à se révéler, avec leurs forces et leurs faiblesses. Répondant aux critères du genre avec en plus une certaine dimension documentaire, Howard Hawks nous montre toutes les difficultés à surmonter pour convoyer du bétail sur des centaines de kilomètres, laissant la part belle à l'action (attaques d'indiens, mutinerie, duel de revolver, traversée de rivière) tout en laissant ses personnages s'exprimer dans ce milieu hostile. Dans le rôle de Tom Dunson, l'implacable et têtu éleveur de bétail qui veut laisser un héritage derrière lui, John Wayne est impeccable face à Montgomery Clift, excellent dans son premier rôle au cinéma, celui du jeune homme qui tient tête à celui qui l'a élevé durant quatorze années. La distribution, complétée par l'irrésistible Walter Brennan et la séduisante Joanne Dru, et le savoir-faire de Hawks font de cette \"Rivière rouge\" un chef-d’œuvre du genre.\n        \n            ",
+            "likes": 2,
+            "dislikes": 0
+        },
+        {
+            "id": "review_10442647",
+            "author": "\n                            Freaks101\n            \n                    ",
+            "date": "2014-04-26",
+            "rating": 4.0,
+            "text_content": "\n                    Je n'avais pas revu « La rivière rouge » depuis les années 80. A l'époque j'étais encore un gosse et en dehors des bagarres et des gunfight, pas mal de choses m'avait échappé. Comme cette scène crypto gay au dialogue pleins de sous entendu ou Montgomery Clift et John Ireland se défient au pistolet, ou encore le conflit de génération qui sous tend toute l'intrigue. John Wayne en patriarche tyrannique, brutal et conservateur, auquel la jeune génération de comédien libéraux et progressistes incarné par Clift vient botter le cul. Le personnage de Wayne fait d'ailleurs penser pendant un temps à celui du cruel capitaine Bligh dans « les révoltés du Bounty », à cette différence prêt que la fin du film prône ici la réconciliation entre les générations, et c'est une femme bien évidemment qui ouvre les yeux aux hommes forcément bornés et immatures. En tout cas le charme grandiose de cette aventure opère toujours sur moi comme quand j'étais enfant.\n        \n            ",
+            "likes": 2,
+            "dislikes": 0
+        },
+        {
+            "id": "review_40748455",
+            "author": "\n                             Kurosawa\n            \n                            \n                    ",
+            "date": "2014-01-25",
+            "rating": 4.0,
+            "text_content": "\n                    H. Hawks à la réalisation, un duo/duel Clift-Wayne, et la menace constante des indiens: avec tant de bons ingrédients, \"La Rivière rouge\" ne pouvait être qu'une réussite. Le scénario est original et bien tenu, les scènes d'action sont impressionnantes et la tension monte sans cesse. Deux heures de plaisir menées à un rythme endiablé, avec d'excellents acteurs (dont certains sont habitués au genre), et quelques surprises convaincantes. On apprécie tout particulièrement la façon dont Hawks amène le seul rôle féminin du film, intéressant par le contraste qu'il apporte et par son caractère décisif. Un très bon western qui tient ses promesses.\n        \n            ",
+            "likes": 2,
+            "dislikes": 0
+        },
+        {
+            "id": "review_40740576",
+            "author": "\n                            shmifmuf\n            \n                    ",
+            "date": "2014-02-4",
+            "rating": 5.0,
+            "text_content": "\n                    J'ai failli ne mettre que la note de 4,5/5 à ce pur chef-d'oeuvre à cause de sa fin. Mais pouvait-on décemment tuer le personnage interprété par John Wayne sans choquer de façon brutale le public de l'époque et plus grave risquer un échec commercial du film.",
+            "likes": 1,
+            "dislikes": 2
+        },
+        {
+            "id": "review_27305211",
+            "author": "\n                            Akamaru\n            \n                    ",
+            "date": "2011-09-30",
+            "rating": 2.0,
+            "text_content": "\n                    \"La rivière rouge\"(1948),western classique parmi les classiques,est le premier de Howard Hawks,qu'il a même produit.C'est aussi le film qui confirma le talent d'acteur de John Wayne,après sa révélation dans \"La chevauchée fantastique\".Il est ici tyrannique, mégalomaniaque et tête brûlée en convoyeur de bétail.Sa relation avec le névrotique Montgomery Clift,tourne en échange père/fils adoptif assez développé,mais en panne d'intensité.Hawks semble s'inspirer de John Ford en s'attardant sur les paysages du Middle-West et en développant les interactions dans la bande(recrutée chez...Ford).Cependant,ce western met trop de temps à se mettre en route et il pâtit d'un final qui réhabilite bêtement la figure autoritaire.On a peine à entrer dans cette histoire mêlant un convoyage difficile et une trahison familiale.Le noir et blanc très pur et le thème musical de Tiomkin sont autant de preuves du soin apporté à l'emballage.Wayne fait froid dans le dos et Clift utilise sa sensibilité à des fins viriles.Malgré ses défauts grossissants avec la prise des années,c'est un western à voir,car il annonça la glorieuse décennie à venir pour le genre.\n        \n            ",
+            "likes": 1,
+            "dislikes": 3
+        },
+        {
+            "id": "review_40700201",
+            "author": "\n                            Zbrah\n            \n                    ",
+            "date": "2014-03-21",
+            "rating": 4.0,
+            "text_content": "\n                    Sans être une spécialiste de Western et de films des années 40/50, j'ai beaucoup apprécié la Rivière rouge. Loin des clichés habituels liés au rôle du héros, John Wayne interprète un personnage fort de convictions, fort de caractère. La relation qu'il noue avec le jeune Matt est intéressante de par l'opposition de leurs personnalités. J'ai été vraiment prise dans cette histoire malgré le petit temps d'adaptation nécessaire pour se replonger dans des films de cette époque.\n        \n            ",
+            "likes": 1,
+            "dislikes": 3
+        },
+        {
+            "id": "review_40705169",
+            "author": "\n                            pierrre s.\n            \n                            \n                    ",
+            "date": "2014-01-21",
+            "rating": 3.5,
+            "text_content": "\n                    Ce chef-d'œuvre du western a tout de même bien vieillit. Reste une bonne réalisation, un John Wayne en forme et une très belle fin.\n        \n            ",
+            "likes": 1,
+            "dislikes": 3
+        },
+        {
+            "id": "review_1025828746",
+            "author": "\n                            Agnes L.\n            \n                    ",
+            "date": "2023-06-20",
+            "rating": 3.0,
+            "text_content": "\n                    Très vieux film en noir et blanc avec un John Wayne qui joue un chef de convoi tyrannique. On peut admirer le cheminement spectaculaire de l'imposant troupeau de bovins qui fut le premier à faire ce voyage sur le plan historique. Si les conflits entre les hommes paraissent réalistes, on ne peut pas en dire autant de la partie avec les femmes qui est totalement plaquée. Globalement, il y a pas mal de longueur et ce western classique ne m'a pas vraiment enthousiasmée par son manque de subtilité.\n        \n            ",
+            "likes": 0,
+            "dislikes": 1
+        },
+        {
+            "id": "review_9205061",
+            "author": "\n                            Yoloyouraz\n            \n                    ",
+            "date": "2008-07-10",
+            "rating": 1.0,
+            "text_content": "\n                    D'une étonnante faiblesse, passant d'un point d'arrêt à un autre sans prendre assez de temps pour approfondir la relation père-fils ni assez de soin pour rendre l'aventure épique, l'oeuvre d'H.Hawks peine à marquer les esprits.\n        \n            ",
+            "likes": 1,
+            "dislikes": 5
+        },
+        {
+            "id": "review_58286328",
+            "author": "\n                            Yves G.\n            \n                            \n                    ",
+            "date": "2018-02-6",
+            "rating": 2.0,
+            "text_content": "\n                    Dans les années 1850, le cowboy Tom Dunson franchit la rivière rouge pour aller au Texas élever du bétail et y faire fortune. Il recueille un orphelin.",
+            "likes": 0,
+            "dislikes": 1
+        },
+        {
+            "id": "review_40776929",
+            "author": "\n                            vinetodelveccio\n            \n                    ",
+            "date": "2014-01-27",
+            "rating": 4.0,
+            "text_content": "\n                    Un film épique qui respire les grands espaces et fait revivre un pan entier de l'histoire des Etats-Unis pour notre plus grand plaisir. Hawks réalise ici le modèle du western : John Wayne, des indiens, de grands espaces, le Texas... tout est là. Mais le cinéaste y ajoute une histoire superbe qu'il agrémente de péripéties très enthousiasmantes; mises en scène avec énergie et visiblement avec beaucoup de moyens, d'ailleurs très bien exploités. John Wayne est excellent et Montgomery Clift est exceptionnel en cowboy déchiré et tourmenté.\n        \n            ",
+            "likes": 0,
+            "dislikes": 1
+        },
+        {
+            "id": "review_50991883",
+            "author": "\n                            Adrien B.\n            \n                    ",
+            "date": "2016-03-18",
+            "rating": 2.0,
+            "text_content": "\n                    décidemment John Wayne n'est vraiment pas un acteur charismatique; malgré un pitch assez intéressant, le scénario reste flou et peu captivant. il en reste la prestation non négligeable de Montgomery Clift\n        \n            ",
+            "likes": 0,
+            "dislikes": 1
+        },
+        {
+            "id": "review_14202917",
+            "author": "\n                            tomPSGcinema\n            \n                    ",
+            "date": "2010-07-20",
+            "rating": 4.5,
+            "text_content": "\n                    \" La Rivière Rouge \" qui est l'un des premier western tourné par Howard Hawks est une totale réussite et nous propose un casting aussi prestigieux que réussi. ",
+            "likes": 1,
+            "dislikes": 5
+        },
+        {
+            "id": "review_55002086",
+            "author": "\n                            peter W.\n            \n                    ",
+            "date": "2017-03-13",
+            "rating": 2.5,
+            "text_content": "\n                    Le road movie du vrai cow boy avec un John Wayne à la marche ou crève et un Montgomery Clift à bon école. Ce dernier se paye même le luxe pour un de ces premiers films un peu de cabotinage. Certainement un grand film mais avec des longueurs et un scénario pas tout à fait abouti.\n        \n            ",
+            "likes": 0,
+            "dislikes": 1
+        },
+        {
+            "id": "review_20035155",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2010-08-5",
+            "rating": 5.0,
+            "text_content": "\n                    Popur moi,l'un des meilleurs westerns de tous les temps.Wayne et Montgory Clift sont magiques et la mise en scène de Howard Hawks est marquée sous le signe de l'évidence.Un Chef-d'oeuvre\n        \n            ",
+            "likes": 1,
+            "dislikes": 1
+        },
+        {
+            "id": "review_1030936909",
+            "author": "\n                            Charlotte28\n            \n                    ",
+            "date": "2024-06-10",
+            "rating": 2.5,
+            "text_content": "\n                    Difficile de nier les qualités épiques de ce western dues à ce déplacement innombrable de boeufs à travers les paysages vallonnés américains ni les diverses pistes intéressantes, de l'opposition générationnelle au sous-texte homosexuel en passant par les douleurs amoureuses. Cependant, bien que se laissant suivre sans déplaisir grâce à sa musique culte, à ses divers rebondissements et à la qualité des interprètes le récit, peu trépidant, manque de consistance puisqu'aucun sujet n'est traité de façon cohérente ni entière, que la voix off demeure artificielle et que le dénouement ridicule trahit l'oeuvre originelle. Décevant, surtout pour une oeuvre autant vantée...\n        \n            ",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_17353949",
+            "author": "\n                            cbio\n            \n                    ",
+            "date": "2010-05-11",
+            "rating": 2.5,
+            "text_content": "\n                    pas mal mais pas génial. bien joué, bien filmé, mais le scénario un peu simplet.\n        \n            ",
+            "likes": 1,
+            "dislikes": 4
+        },
+        {
+            "id": "review_22356508",
+            "author": "\n                            real-disciple\n            \n                    ",
+            "date": "2010-12-16",
+            "rating": 4.0,
+            "text_content": "\n                    Pas de doute, à l'époque on savait faire des films et \"Red River\" nous le prouve. L'aventure est sans temps mort, pas le temps de s'ennuyer grâce à une réalisation efficace (ryhtmée) et des acteurs impecables (Wayne n'a plus rien à prouver et Clift est génial!); même les seconds rôles s'en sortent bien (Walter Brennan apporte l'humour et Joanne Dru de l'émotion). Si le convoi de bétail est une trame classique du western, l'originalité est cette confrontation entre le maître et l'élève. Un mélange de respect et haine. Une femme calmera les ardeurs mâles. Bien content que ce classique du western compte parmis ma collection de ce genre qui surprend toujours. Et surtout merci Howard Hawks pour avoir réalisé son premier western.\n        \n            ",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_22751623",
+            "author": "\n                            Moorhuhn\n            \n                    ",
+            "date": "2011-01-15",
+            "rating": 4.0,
+            "text_content": "\n                    A la fois émerveillé et à la fois frustré par ce beau western d'Howard Hawks. Première chose qui vient à l'esprit: la virtuosité de la mise en scène. Hawks use de travellings, offre des plans originaux et filme avec un certain sens du spectaculaire sans pour autant faire du tape à l'oeil. La Rivière Rouge est un voyage au coeur des badlands américaines, où on y suit le périple d'un éleveur fauché (John Wayne) accompagné de son fils adoptif (Montgomery Clift) voguant vers le Missouri pour un voyage d'une centaine de jours avec des milliers de têtes de bétail ceci dans le but de renflouer les caisses et enfin récompenser le travail de toute une vie. Wayne est très bon dans son rôle, son personnage reflète parfaitement la dualité humaine avec son côté bon et son côté machiavélique impulsif et même inctrôlable. Le personnage de Clift apparait ici comme un arbitre pour Wayne, comme le seul être capable de le canaliser. Cet affrontement de personnages est assez saisissant je dois dire, et bien mené, tout comme le scénario qui partant d'une base simple se révèle très efficace. Un western maîtrisé, une réalisation au top et une BO de Tiomkin excellente. Nous étions donc sur la base d'un grand film mais... La fin est nulle. Je ne spoilerais pas davantage mais disons que la fin est tellement ratée que ça laisse un léger goût amer dans la bouche. Et pourtant que j'ai adoré ce western durant plus de 2 heures, c'était épique, grandiose, rythmé et qui plus est intelligent. Du fait d'une fin bâclée mon avis en a donc pris un petit coup. Cependant j'essaie tant bien que mal d'éviter de me rappeller cette fin pour au final me rappeller que j'ai passé un grand moment devant ce film dans sa globalité, et qu'il a d'incontestables qualités. Disons que ce premier western de Hawks connait quelques maladresses, dommage!\n        \n            ",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_35087622",
+            "author": "\n                            Guillaume182\n            \n                    ",
+            "date": "2013-01-6",
+            "rating": 4.0,
+            "text_content": "\n                    Aaaah Un bon western, cela faisait longtemps.",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_124873",
+            "author": "\n                            platinoch\n            \n                            \n                    ",
+            "date": "2010-12-23",
+            "rating": 5.0,
+            "text_content": "\n                    Grands espaces, grands sentiments, grands acteurs (premier grand rôle au ciné de Montgomery Clift)...tout est réuni pour faire de ce film un grand film, un énorme western.",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1034476707",
+            "author": "\n                            Kincaid\n            \n                    ",
+            "date": "2025-03-13",
+            "rating": 1.0,
+            "text_content": "\n                    Un wes-terne qui ne vaut pas tripette. En fait de conflit père-fils adoptif, on assiste surtout à un antagonisme patron-employés, sans syndicat et entouré de vaches. Des vaches annoncées comme dix mille au départ, puis deux-trois mille et qui semblent plutôt se résumer à deux cents bêtes à l’écran. De soi-disant beaux paysages en N&B et au format carré 4/3. Un John Wayne plus jeune et encore fringuant, mais à part ça, une simple affaire de cowboys jonchée de ses sempiternels cadavres.\n        \n            ",
+            "likes": 0,
+            "dislikes": 1
+        },
+        {
+            "id": "review_40719040",
+            "author": "\n                            QuelquesFilms.fr\n            \n                    ",
+            "date": "2014-01-22",
+            "rating": 3.5,
+            "text_content": "\n                    De grands espaces, un voyage épique sur fond de migration de bétail, quelques rivalités viriles sous forme de défis phalliques... C'est la formule de ce western qui, sans transcender le genre, affiche une parfaite maîtrise classique. La scène de panique du troupeau est particulièrement spectaculaire ; le noir et blanc est joliment contrasté ; mais c'est surtout la direction d'acteurs qui prime ici. Fidèle à lui-même, Howard Hawks filme des hommes \"à hauteur d'hommes\" (à défaut de s'intéresser beaucoup à la psychologie des femmes, les deux seuls personnages féminins n'étant que des amoureuses transies...). Le réalisateur canalise ainsi John Wayne, lui faisant endosser un rôle peu habituel de chef tyrannique, et révèle la sensibilité particulière de Montgomery Clift (qui fait ses débuts au cinéma), en développant une belle relation père/fils tout au long du film. Admiration, contestation, rébellion d'un fils envers son père (adoptif). Un fils qui avance sur la voie initiatique de l'affirmation de soi, tout en rachetant les erreurs de son père et mentor (en termes de commandement, de stratégie et même de relation amoureuse), pour mieux conquérir sa reconnaissance. Voilà qui donne un western très \"bon enfant\".\n        \n            ",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_4533132",
+            "author": "\n                            loulou451\n            \n                    ",
+            "date": "2007-10-7",
+            "rating": 5.0,
+            "text_content": "\n                    L'un des cinq plus grands westerns jamais tournés. Howard Hawks, pour une première du genre, réalise ici un chef-d'oeuvre. Le film est si fort que même 60 ans plus tard, aucune ride n'est venue ternir la pellicule ! Scénario parfait, casting impeccable (le duo Montgomery Clift/John Wayne est incroyable !), musique à l'unisson de l'histoire, photo hallucinante..., Howard Hawks a compris bien avant les autres que l'histoire primait sur les sentiments. C'est seulement à partir d'elle que se bâtit la psychologie des personnages. Cette \"Rivière rouge\" donnerait encore certainement pas mal de leçons de cinéma à de nombreux réalisateurs qui s'essayent, trop souvent par malheur, au genre. Ici, pas de cliché inutile, pas d'effets ou d'astuces, juste une histoire d'hommes (et peu de femmes !) racontée à la perfection. Chef-d'oeuvre.\n        \n            ",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_27146775",
+            "author": "\n                            oneosh89000\n            \n                    ",
+            "date": "2011-09-15",
+            "rating": 3.5,
+            "text_content": "\n                    \"Red river\" est un western vieillissant sur le plan esthétique mais ce classique du genre a gardé toute sa saveur. A l'époque, le directeur, Howard Hawks était plus connu pour ses films noirs et ses comédies. Il n'est donc pas inestimable qu'Hawks réalisant son premier western marque un bon point à sa filmo. A la suite de la guerre de Sécession, le réalisateur américain suivra l'épopée de convoyeurs de taureaux et de vaches, jusqu'au Missouri emmené par le vil cow-boy Tom Dunson (très bon John Wayne). La traversée du bétail dans ce milieu désertique se transformera en guerre des nerfs entre Tom et son fils adoptif Matt Garth joué par un Montgomery Clift en forme. Guerre des nerfs génialement dirigée où le père devient danger pour le fils, qui se terminera sur une bagarre, mémorable. C'est donc un premier western pour Hawks et donc un film réussi de plus. La musique aussi m'a beaucoup plu car elle colle parfaitement au récit mais vieillit aussi très bien.\n        \n            ",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1008903935",
+            "author": "\n                            Jack G\n            \n                    ",
+            "date": "2020-07-22",
+            "rating": 2.0,
+            "text_content": "\n                    Premier western du réalisateur Howard Hawks, déjà connu du public pour avoir offert un hommage aux pionniers de l’aéropostale à travers Seuls les anges ont des ailes, blockbuster de l’année 1939, La Rivière rouge s’inscrit dans la lignée des films du genre où le bétail est au cœur de toutes les intrigues (pensons notamment aux Conquérants de Michael Curtiz, près de 10 ans plus tôt). ",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_22724189",
+            "author": "\n                            ElAurens\n            \n                    ",
+            "date": "2011-01-14",
+            "rating": 3.5,
+            "text_content": "\n                    Pour son premier western Howard Hawks frappe fort, malgré seulement cinq films de ce genre son nom restera comme l'un des plus grands grâce notamment au mythique Rio Bravo. Pour le personnage principal, après le refus de Gary Cooper il choisit John Wayne, le choix est payant Wayne signe ici l'un de ses plus grands rôles. Pour les autres personnages, Hawks choisit un jeune inconnu qu'il a repéré et qui deviendra par la suite un des grands du cinéma, Montgomery Clift. On retrouve encore une fois Walter Brennan qui comme plus tard dans Rio Bravo interprète un personnage sympathique à l'opposé de celui joué par Wayne dans La rivière rouge. Et pour finir les principaux personnages, la belle Joanne Dru en femme hawksienne amène une touche féminine à ce monde d'hommes. Impossible de ne pas parler de l'excellente musique de Dimitri Tiomkin, j'adore d'ailleurs beaucoup le générique, qui restera comme l'un de ses plus grands thèmes. Si vous aimez le style d'Howard Hawks ne passez pas à coté de ce très bon western.\n        \n            ",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_27108",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2006-09-29",
+            "rating": 5.0,
+            "text_content": "\n                    Quel chef d'oeuvre!!!Un des plus grand film jamais tourné; à l'intelligence du propos s'ajoute la puissance des caractères; Monty Clift dans son tout premier role est stupéfiant face à ce Goliath nommé John Wayne; on comprend que ce western flamboyant soit le préféré de Scorsese .\n        \n            ",
+            "likes": 2,
+            "dislikes": 0
+        },
+        {
+            "id": "review_31944824",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2012-05-14",
+            "rating": 5.0,
+            "text_content": "\n                    Tous les ingrédients sont réunis dans ce western épique pour nous faire passer une fabuleuse soirée : la vie rude des cowboys, le challenge du meilleur tireur entre Montgomery Clift (Matt Garth)  et John Ireland (Cherry), la rudesse impitoyable du chef de convoi (John Wayne), le caractère bourru du cuistot (Walter Brennan), le vol de vivres par des lâches employés, las d'être malmenés par le patron, le convoi de femmes attaqué par les indiens et surtout la confrontation entre le chef et son fils adoptif qui ira jusqu'à la rupture entre les deux hommes. Une histoire d'amour viendra se greffer pour épicer les évènements. La finale est assez inattendue et surtout sublime.",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_38377957",
+            "author": "\n                            CH1218\n            \n                    ",
+            "date": "2013-08-3",
+            "rating": 3.0,
+            "text_content": "\n                    Premier western majeur signé par Howard Hawks. L'histoire de ces hommes qui convoient des milliers de têtes de bétail dans un territoire hostile est magnifiquement rendue par une photographie noir-blanc de qualité. Bien que le casting est alléchant avec John Wayne, Montgomery Cliff, Walter Brennan et Joanne Dru, ce film ne m'a pas autant captivé que je l'aurais cru, surtout si on tient compte de sa renommée.\n        \n            ",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1020193455",
+            "author": "\n                            Norbert Sautelles\n            \n                    ",
+            "date": "2022-05-19",
+            "rating": 4.0,
+            "text_content": "\n                    Ce premier western d'Howard Hawks  n'est pas sans rappeler La Prisonnière du Désert (1956) de John Ford. John Wayne y interprète un réactionnaire et phallocrate, d’abord jeune éleveur qui part de rien, puis âgé, qui crée le premier grand troupeau de vaches du Texas, qu'il va devoir convoyer pendant un long périple pour les vendre et nourrir le pays.",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_32709263",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2012-07-17",
+            "rating": 2.0,
+            "text_content": "\n                    Ce western est pour le moins déçevant, en tant que fan du genre j'ai été très déçu. Le scénario est très lourd, il ne se passe rien, juste des petites querelles sans importance, et on voit juste des cow-boys faire la piste avec du bétail. Les scènes sont coupées assez promptement, et les effets spéciaux sont juste délirants, notamment quand ils tirent dans une boite, c'est ridicule. Les indiens présents dans le film sont consternants, on les voit juste galoper vers la caravane pour venie chercher leur balle dans le corps, on les pensait plus intelligent. Ajouté à cela une histoire d'amour sans aucune âme, juste parce qu'il en fallait une, et vous secouez le tout, vous obtenez un western loupé.\n        \n            ",
+            "likes": 0,
+            "dislikes": 1
+        },
+        {
+            "id": "review_40705911",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2014-01-21",
+            "rating": 4.0,
+            "text_content": "\n                    Très bon western de facture classique. Confrontation entre 2 hommes + 1 femme. Moins manichéen que ceux plus anciens\n        \n            ",
+            "likes": 2,
+            "dislikes": 0
+        },
+        {
+            "id": "review_28212327",
+            "author": "\n                            DAVID MOREAU\n            \n                    ",
+            "date": "2011-12-6",
+            "rating": 1.0,
+            "text_content": "\n                    SEUL SONT LES INDOMPTES. La riviere rouge ne resteras pas dans mes annales.\n        \n            ",
+            "likes": 0,
+            "dislikes": 5
+        },
+        {
+            "id": "review_40701653",
+            "author": "\n                            Le cinéphile\n            \n                    ",
+            "date": "2014-01-21",
+            "rating": 3.0,
+            "text_content": "\n                    Beaucoup disent qu'il s'agit la de la quintessence du western, orchestré par un réalisateur que l'on ne présente plus! Moi je dirai juste que le film a pris un sacré coup de vieux et que même en essayant de me replacer dans le contexte comme j'ai réussit a le faire avec ses autres films je n'ai pas réussi a adorer le film, dommage, car la technique est remarquable et la fin sympathique!\n        \n            ",
+            "likes": 0,
+            "dislikes": 2
+        },
+        {
+            "id": "review_1016468370",
+            "author": "\n                            weihnachtsmann\n            \n                            \n                    ",
+            "date": "2021-08-23",
+            "rating": 4.5,
+            "text_content": "\n                    John Wayne se livre dans la tente avec la femme:",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_56708105",
+            "author": "\n                            this is my movies\n            \n                            \n                    ",
+            "date": "2017-09-5",
+            "rating": 4.5,
+            "text_content": "\n                    1er western de H. Hawks qui souhaitait offrir au genre un film adulte (affirmation un brin fausse puisque le genre comptait déjà une poignée de films denses, complexes et riches). Il offre donc à J. Wayne un rôle radicalement différent de ses habitudes, son scénario lorgne ouvertement du côté de la révolte du Bounty et il révèle surtout un M. Clift déjà impressionnant, charismatique et intense. Le film en lui-même, bien que très long, est plaisant à suivre, toujours bien découpé et éclairé, avec quelques fulgurances dans les scènes d'action (comme la fameuse scène de stampede ou bien l'attaque des Indiens). Les acteurs sont excellents, le scénario est bien écrit, regorgeant de répliques qui claquent et de personnages assez riches, les péripéties sont bien vu et quêtent un certain réalisme presque documentaire, c'est un vrai classique du genre par un de ses futurs maître. Du bon cinéma. D'autres critiques sur thisismymovies.over-blog.com\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1037976294",
+            "author": "\n                            Kouto\n            \n                    ",
+            "date": "2026-01-2",
+            "rating": 4.0,
+            "text_content": "\n                    Dans ce western signé Howard Hanks, l’acteur John Wayne incarne un riche propriétaire terrien du Texas possédant un troupeau de 10 000 têtes qu’il espère de vendre dans le Missouri, organisant pour cela une expédition périlleuse pour leurs transports. Marquant la première incursion du cinéaste pour le genre du western dont il s’empare à merveille des codes pour livrer un long-métrage généreux et surtout très trouble dans sa manière d’appréhender cette époque par le biais du personnage ambigüe que joue John Wayne dont l’obsession de son bétail lui fait oublier une certaine  ligne de moralité. La réalisation est ample, quelques séquences impressionnent déjà pour l’époque et la maitrise technique du réalisateur est visible à l’écran. Réunissant le charismatique John Wayne et un jeune et déjà talentueux Montgomery Clift « La Rivière rouge » est un solide et plaisant western.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_47595667",
+            "author": "\n                            soniadidierkmurgia\n            \n                            \n                    ",
+            "date": "2020-05-9",
+            "rating": 4.5,
+            "text_content": "\n                    Quand il entame le tournage de « Red river » en juin 1946, Hawks sort d’une décennie de rêve où il a enchaîné les succès, montrant un éclectisme très prisé des studios (Columbia, RKO, Warner). Que ce soit dans le film de gangsters ou de détective  (« Scarface » en 1932, « Le Grand sommeil » en 1946), le film de guerre patriotique (« Sergent York » en 1941), le film d’aventures (« Seuls les anges ont des ailes » en 1939, « Le port de l’angoisse » en 1944) ou la screwball comedy  (« L’impossible Mr Bébé » en 1938, « La dame du vendredi » en 1940), tout ce qu’il touche se transforme en or. Alors à son apogée, le western sorti de la répétitive série B grâce à John Ford (« la chevauchée fantastique » 1939) n’entrait pas encore dans  le champ de compétences du réalisateur dont la caméra n’était jamais réellement sortie des studios. L’expérience avortée (Hawks ne sera pas crédité au générique)  sur le « Banni » n’étant pas à comptabiliser valablement, la page restait désespérément blanche. Très ami avec Borden Chase,  le romancier-scénariste spécialiste de l’histoire de l’Ouest, il se lance en qualité de producteur associé (avec Charles K. Feldman) dans l’adaptation de son roman  historique \"The Chilsom Trail\" inspiré de la grande migration du sud (Texas) vers le nord (Missouri) du bétail devenu trop nombreux suite à l'embrigadement massif des cowboys texans parmi les confédérés lors de  la Guerre de Sécession. L'adaptation du livre par  Chase lui-même sera  assez vite abandonnée par Hawks en difficulté avec les remarques pointilleuses de l'auteur pour être confiée au jeune  Charles Schnee qui écrira par la suite pour William Wellman (\"Convoi de femmes\"), Nicholas Ray (\"les amants de la nuit\") ou Vincente Minnelli (\"Les ensorcelés\"). Chase quant à lui aura une relation fructueuse avec Anthony Mann dont il scénarisera trois de ses chefs d'œuvre (\"Winchester 73\",\"Les affameurs\", \"Je suis un aventurier\"). Transposé dans l'univers du western, ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_59916803",
+            "author": "\n                            ferdinand75\n            \n                            \n                    ",
+            "date": "2018-08-4",
+            "rating": 4.0,
+            "text_content": "\n                    Un très gros Howard Hawks, à la fois rand western épopée lyrique sur le transport d'un troupeau de bétail, très réaliste, très cow boy, mais  aussi une belle  fable humaniste sur l'opposition d'un père et de son fils. Il y a du fonds , de la force , John Wayne  est excellent, on y croit .Un film fort .\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1025880542",
+            "author": "\n                            ManoCornuta\n            \n                            \n                    ",
+            "date": "2023-06-25",
+            "rating": 3.5,
+            "text_content": "\n                    Un western de Howard Hawks assez surprenant, dans la mesure où John Wayne n'est pas à proprement parler le \"héros\" de l'histoire en mode preux chevalier sans la moindre part d'ombre. Jouant de cette nuance et avec la révélation Montgomery Clift en contrepoint, cette Rivière Rouge exalte à la fois le mythe américain du Far West et les caractères d'hommes bien trempés, en les égratignant quelque peu au passage. Le film est nourri de quelques brillantes scènes et d'une interprétation globale de qualité qui rendent le spectacle attrayant, même si la fin sonne un peu faux en contraste avec le reste du film.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1024114591",
+            "author": "\n                            Nicolas L.\n            \n                    ",
+            "date": "2023-02-23",
+            "rating": 3.5,
+            "text_content": "\n                    Chouette western avec un john Wayne volontairement détestable. Un scénario malin et pleins de rebonds. Une mise en scène élégante et des seconds rôles bien écrits.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1026084864",
+            "author": "\n                            fabrice d.\n            \n                    ",
+            "date": "2023-07-9",
+            "rating": 3.5,
+            "text_content": "\n                    C'est un sacré western, des paysages immenses, et des têtes de bétail à perte de vue ou presque, John Wayne, qui fait du John Wayne au passage et Montgomery Clift qui joue son 1er grand rôle. Dommage que le film soit en N&B, autrement on aurait autrement apprécié les paysages. Le film accuse quelques années aussi, je trouve, d'ailleurs les scènes en studio lui donne aussi un coup de vieux. Reste cette histoire d'hommes liés par le troupeau qu'ils doivent transporter sur 2000km. Une aventure bien racontée par Howard Hawkes.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_43186631",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2014-07-21",
+            "rating": 2.0,
+            "text_content": "\n                    Avec \"Josey Wales\" qui est passé jeudi sur France3, je me permets de commencer cette année mon cycle western par \"La rivière rouge\".",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1031531106",
+            "author": "\n                            chrisbal\n            \n                    ",
+            "date": "2024-08-1",
+            "rating": 3.5,
+            "text_content": "\n                    Sacrée transhumance que cette \"Rivière Rouge\", véritable voyage épique à travers les grandes plaines du Middle West avec un impressionnant troupeau de bétail.",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_58176686",
+            "author": "\n                            Cinéphiles 44\n            \n                            \n                    ",
+            "date": "2018-01-26",
+            "rating": 3.5,
+            "text_content": "\n                    La Rivière Rouge est le premier western d’Howard Hawks. C’est dans des conditions difficiles de tournage en Arizona et au Mexique liées aux intempéries, que les troupeaux de deux hommes vont devoir s’unir pour former un empire du bétail suite à une attaque indienne. Conflits de générations proches du père-fils, c’est John Wayne la légende des années quarante qui va donner la réplique à Montgomery Clift star montante d’Hollywood. Howard Hawks filme les hommes et les bêtes avec passion, négligeant cependant parfois les arrières plans. ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_56524300",
+            "author": "\n                            Walter Mouse\n            \n                    ",
+            "date": "2017-08-17",
+            "rating": 4.5,
+            "text_content": "\n                    Première incursion d'Howard Hawks dans le western et probablement un de ses plus grands films. John Wayne trouve là un rôle plus profond que ce qu'il avait joué par le passé pour un personnage sévère mais aimant. Hawks laisse un double point de vue à son spectateur qui assiste à son malheur en introduction comprenant de suite son endurcissement mais présente son assurance de façon à ce qu'on reconnaisse en lui une figure patriarche. Misant son intrigue sur un groupe de vachers lors de l'expansion du Far-West, toutes les relations du film sont basées sur la confiance et l'expertise, les personnages rencontrés sont variés, viennent de tous les milieux et le groupe n'en est que plus intéressant quand il doit affronter les difficultés sur son chemin pour amener le bétail à destination. Braquant sa caméra sur les vastes plaines du Texas, Hawks signe une retranscription bluffante du passage du troupeau sur le territoire américain mais se concentre avant toute chose sur l'amitié conflictuelle de son duo de tête dont fait partie la révélation Montgomery Clift prouvant déjà l'époque son talent indéniable. Tout cela se boucle sur une dernière scène inattendue et changeant la manière traditionnelle de finir les western du genre. Une traversée passionnante.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_29865966",
+            "author": "\n                            halou\n            \n                    ",
+            "date": "2015-01-5",
+            "rating": 4.0,
+            "text_content": "\n                    Un classique notamment parce que le début des westerns pour Hawks, le plaisir de voir Clift très jeune face à la légende Wayne, une épopée prenante avec de belles scènes et un travail assez subtil pour le genre sur le caractère, la psychologie des personnages. On regrette l'adoption d'une fin de film trop douce et heureuse contrairement au choix du scénario original plus cohérent.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_44747434",
+            "author": "\n                            Tupois Blagueur\n            \n                    ",
+            "date": "2014-11-19",
+            "rating": 3.0,
+            "text_content": "\n                    Un classique du western de Howard Hawks, que certains ont l'air de confondre avec un chef d’œuvre. Il serait idiot de nier que le film n'a pas de qualités : rien qu'en ne citant les scènes où les cowboys déplacent les quelques dix mille têtes du cheptel (la plupart sont bien filmées et surtout très bien orchestrées), les paysages magnifiques traversés ou la mise en scène légère de Hawks, on comprend qu'on a affaire à un bon film de genre. Cependant le scénario me gêne un peu. Le happy end étant dans les années 50 un passage obligé pour rentabiliser un film on ne blâmera pas Hawks pour cela. Tout comme on comprendra la mièvrerie (ou la niaiserie au choix) de certaines scènes. Ce qu'on ne peut accepter en revanche, c'est lorsque qu'on voit à quel point le final est stupide au vu de l'histoire en général du film. Heureusement que le charisme et la prestance des acteurs principaux rattrapent le coup sinon il aurait pu tout gâcher.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_40839584",
+            "author": "\n                            tuco-ramirez\n            \n                    ",
+            "date": "2014-02-1",
+            "rating": 3.0,
+            "text_content": "\n                    Adapté d’un roman, cette histoire s’étend sur une période de 15 ans. Une caravane de plusieurs dizaines de chariots traverse les plaines désertiques américaines. Dunson dit au revoir à sa fiancée et quitte la caravane avec un accolyte, pas convaincu que la piste suivie par le reste de la troupe soit le meilleur choix. Quel homme ! Il laisse sa douce dans ce qu’il considère comme un mauvais choix. La suite lui donne raison. Une fumée au loin ; mais tiens, toute la caravane est en feu victime d’une attaque indienne. Dur et sans cœur, il décide de regarder la fumée au loin et tant pis pour sa bien aimée. Pragmatique peut être, à quoi bon avec son petit pistolet de partir bille en tête s’attaquer à une troupe d’indiens. En tout cas, il n’a pas l’air affecté. Le décor et surtout le personnage principal, Dunson, est planté. Pas tout à fait, car il prend sous son aile un jeune garçon survivant de l’assaut des indiens. Bienveillance ou tout simplement car il voie en lui son successeur, un mentor, quelqu’un à qui transmettre. Dunson est un personnage complexe, endurci par un Ouest américain rude. Et puis Howard Hawks qui réalise ici un premier western devenu référence du genre, use d’une ellipse hyper talentueuse considérée comme un modèle. Nous voyons Wayne (Dunson) se projeter dans le futur en exposant son rêve. De retour à la réalité, les personnages ont vieilli de 10 ans. Wayne a les cheveux blancs et le jeune garçon est devenu Montgomery Clift. Ce tourbillon spatio-temporel exprime à merveille la folle course du temps. Et puis c’est reparti, Dunson a bati une exploitation de grande taille ; mais devinez comment, en n’hésitant à abattre un homme pour s’approprier ses terres, en supprimant aussi tout les gênants et les personnes n’allant pas dans sons sens. Ce pays s’est bati sur la violence et à défaut d’une justice par encore présente sur tout le territoire, c’est la loi du plus fort qui prime. Paul Thomas Anderson montrera çà aussi dans «There will be blood ». Mais voilà, petit point historique: pendant la guerre de Sécession, la majorité des cow-boys texans s’étant enrôlée, le bétail négligé et livré à lui-même s’était accru plus que d’ordinaire et était estimé à plus de 5 000 000 de têtes à la fin du conflit. Les ‘Sudistes’ n’avaient plus les moyens de se payer de la viande de bœuf. En revanche dans le Nord, où les immigrants s’étaient multipliés, on en manquait cruellement. Vers la fin de 1865, un métis nommé Jesse Chilsom partit avec un chariot du Kansas pour se rendre à Fort Worth au Texas, marquant sa route par des monticules de terre, la fameuse ‘Chilsom trail’. C’est lui qui apporta dans le même temps aux Texans la nouvelle que le bétail atteignait jusqu’à 50 dollars la tête dans le Nord. La solution était toute trouvée et le récit narrait le destin de deux hommes dont l’importance fut immense pour l’économie et l’histoire de leur pays, ayant ouvert officiellement cette piste pour le bétail après avoir fait franchir la Rivière Rouge à 250 000 têtes en 1866. A travers ce long convoyage des bêtes, Dunson va à nouveau montrer sa brutalité ; mais là, il va se heurter à celui qui est devenu depuis près de 15 ans son fils adoptif. La rupture va être consommée lorsque le jeune va prendre un chemin différent de celui tracé par son aîné comme un pied de nez à la génèse de l’histoire où Dunson avait suivi sa route et s’en était sorti grâce à ce choix. Ce film montre bien le conflit de génération ; toute la difficulté à exercer une paternité responsable, ferme mais équilibrée. La folie autoritaire du père contredite par un fils romantique mais avisé abouti à des choix humains radicalement différents. Le jeune montrera même à son père adoptif qu’une autre voie est possible. Ce film est donc considéré par les spécialistes comme un « western adulte ». Pour nous montrer cette odyssée personnelle et cette entreprise démesurée, Hawks tourne pratiquement l’intégralité du film en extérieur : une prouesse. Et puis à la photo, il alterne avec beaucoup d’équilibre les scènes de jour et nuit. Au cadrage, les plans larges mobiles et les scènes intimistes serrées et fixes. Outre la psychologie des personnages, Hawks dresse un film documentaire sur la vie difficile des cow-boys avec le rapatriement des bêtes : une vie monotone mais dangereuse.",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_33685153",
+            "author": "\n                            Shékiinä .\n            \n                    ",
+            "date": "2012-10-13",
+            "rating": 0.5,
+            "text_content": "\n                    Mise en scène en carton, décors en carton, dialogues en carton, voix françaises en carton ; bref tout est pourri dans ce film, il n'y a absolument rien à sauver. Si vous chercher un bon western, c'est le film à éviter de toute urgence !\n        \n            ",
+            "likes": 0,
+            "dislikes": 6
+        },
+        {
+            "id": "review_1017911106",
+            "author": "\n                            Y Leca\n            \n                    ",
+            "date": "2021-12-2",
+            "rating": 3.5,
+            "text_content": "\n                    Un western long et lent, qui chemine au rythme du troupeau de bovins (dont on a fait peu de cas pour ce tournage) et qui a l'intérêt d'un affrontement psychologique entre John Wayne et son fils adoptif Monty Clift, même si la fin sacrifie au happy end exagéré et féministe comme  Hollywood les aimait.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1017927186",
+            "author": "\n                            Patjob\n            \n                    ",
+            "date": "2021-12-3",
+            "rating": 4.5,
+            "text_content": "\n                    Il faut être patient dans la première partie du film, un long prologue plutôt pesant qui réunit pas mal de poncifs du western : l’image du « héros » imperturbable, Tom Dunson, le baiser d’au revoir à sa dulcinée, la fidélité du vieux Groot, la menace des indiens, le tout sur une musique grandiloquente…Elle n’a que le mérite de poser les personnages et les bases de la suite.",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_40701095",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2014-01-20",
+            "rating": 3.5,
+            "text_content": "\n                    La Rivière rouge (Red River) est l'histoire d'un éleveur qui a construit un empire du bétail et décide de quitter le Texas pour aller vendre son bétail au Missouri (Chisholm Trail). ",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_13432903",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2009-04-20",
+            "rating": 5.0,
+            "text_content": "\n                    Le chef d'oeuvre des chefs d'oeuvre. Un affrontement épique entre l'ancienne et la nouvelle école. Clift oublie le déplorable enseignement de la méthode de l'Actor's studio et tient tête à John Wayne. ",
+            "likes": 1,
+            "dislikes": 1
+        },
+        {
+            "id": "review_1526205",
+            "author": "\n                            Tedy\n            \n                    ",
+            "date": "2007-01-22",
+            "rating": 1.0,
+            "text_content": "\n                    Un western banal avec de grands espaces, des méchants indiens à dégommer (ils sont tous mauvais contrairement aux braves hommes blancs),... mais ce n'est pas le seul problème: Howard Hawks n'est pas John Ford et ça se voit dans la réalisation qui comporte plusieurs défauts. Et puis la fin est ridicule, John Wayne redevient un gentil gars et tout le monde le pardonne d'avoir été tyrannique; il ne fallait pas choquer le public en diabolisant son héros.\n        \n            ",
+            "likes": 0,
+            "dislikes": 4
+        },
+        {
+            "id": "review_10972804",
+            "author": "\n                            brunocinoche\n            \n                    ",
+            "date": "2008-11-14",
+            "rating": 5.0,
+            "text_content": "\n                    Un grand classique du western et l'un des derniers chefs d'oeuvre du grand Howard Hawks. Les relations entre John Wayne et Montgomery Clift sont bien décrites et les 2 acteurs sont excellents à la tête d'un casting irréprochable.\n        \n            ",
+            "likes": 0,
+            "dislikes": 2
+        },
+        {
+            "id": "review_36624384",
+            "author": "\n                            AliceL\n            \n                    ",
+            "date": "2013-03-25",
+            "rating": 4.5,
+            "text_content": "\n                    Ce grand classique du western est d’une incroyable modernité : réflexion sur l’histoire (le passage d’un monde de traditions à la modernité), sur l’exercice du pouvoir (et sa dérive totalitaire) et interrogation sur la notion de transmission…  « La Rivière rouge » est d’une grande complexité thématique. Ses personnages sont tout autant attachants qu’ambivalents (John Wayne campe magistralement un personnage paranoïaque et obsessionnel, Montgomery Clift est à la fois angélique et très ambigu dans son rapport à ce père de substitution, etc). Mais le film est aussi une magnifique  épopée, celle de ces vachers qui amenèrent le bétail au-delà de la Frontière, permettant l’élargissement d’un pays. Histoire d’hommes comme les aime Hawks, ici teinté d’ambigüité homosexuelle à travers la douceur de Clift ; « La Rivière rouge » est une grande réussite, tant sur le fond que sur la forme.\n        \n            ",
+            "likes": 1,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1026173371",
+            "author": "\n                            Verobisson\n            \n                    ",
+            "date": "2023-08-19",
+            "rating": 4.5,
+            "text_content": "\n                    Merveilleux classique du genre : Il est étonnant d'apprendre que c'est le 1er western du réalisateur car le\" fil rouge\" du film est bien ce long convoyage de milliers de têtes de bétail. Le passage le plus captivant est justement le passage de la \"Red River\" où la tension est palpable,",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1018220544",
+            "author": "\n                            gotein\n            \n                    ",
+            "date": "2021-12-29",
+            "rating": 4.5,
+            "text_content": "\n                    Un grand western puissant au souffle épique, ou les scènes grandioses se succèdent. Mais ce qui reste passionnant c'est les rapports entre les personnages. John Wayne tout à la fois courageux puis cruel face à un Walter Brennan fidèle en lui même et une Joan Dru magnifique . Mais la vrai sensation du film c'est Montgomery Clift, 26 ans , qui pour son premier film, tout en retenue et en puissance arrive à faire jeu égal voire même par moments à éclipser le grand John Wayne. Certains regretteront peut être une happy end  mais on pourra difficilement s'en plaindre tant la tension a été forte pendant la deuxième partie du film.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_40706652",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2014-01-21",
+            "rating": 5.0,
+            "text_content": "\n                    Un excellent western si on excepte les archétypes de l'époque. Le film vaut surtout par la mise en scène et l'interprétation de l'ensemble du casting, John Wayne en tête. J'ai une version \"16 mm\" vieille de quarante ans que j'avais soigneusement nettoyée et restaurée pour amoindrir les rayures et les craquements de la piste magnétique. J'ai été réellement déçu par le transfert numérique diffusé sur Arte le 20 janvier 2014, alors que cette chaîne est de coutume une garantie de haute qualité pour le visionnage des films qu'elle programme. Les contrastes du noir et blanc étaient ignobles. Quant au son, il était quasiment inaudible. Sur ma copie argentique les paysages et les cieux sortent de l'écran tandis que le son mono, même s'il diffuse un léger souffle, donne l'impression que le troupeau vous entoure. Ben franchement, je préfèrerais que les américains confient la numérisation et la restauration de leurs films aux allemands, quand on voit comment ces derniers ont refaits la \"Belle et la Bête\" de Cocteau et \"Les Misérables\" avec Harry Baure !!!\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_40729715",
+            "author": "\n                            Sid Nitrik\n            \n                    ",
+            "date": "2014-01-23",
+            "rating": 4.0,
+            "text_content": "\n                    Voilà un western « classique » de très bonne facture. Le 1er pour Howard Hawks qui dirige John Wayne dans le rôle d'un chef de convoi de bétail qui va progressivement devenir un insupportable tyran. Il est assez plaisant de voir Wayne dans ce type de rôle, opposé à un jeune loup aux dents longues, Montgomery Clift, qui campe parfaitement la figure du « fils » tuant le « père ». La mise en scène est assez exceptionnelle avec une maîtrise parfaite des grands espaces et des combats pêchus avec des hordes d'Indiens énervés (classique mais efficace). L'incroyable périple entre le Texas et le Missouri nous transporte littéralement dans le Grand Ouest et la beauté de Joanne Dru apporte une touche de romance et de lyrisme. Très bon western qui aurait pu être un chef d'oeuvre si la fin n'était pas si « happy », celle-ci ne respectant apparemment pas celle du livre dont le film est tiré.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1023528699",
+            "author": "\n                            White Fingers\n            \n                    ",
+            "date": "2023-01-22",
+            "rating": 4.5,
+            "text_content": "\n                    Il est assez rare de voir John Wayne jouer un rôle de « méchant ». Du moins, à cause de l’aigreur, il va devenir progressivement paranoïaque et violent. Intéressant. A son opposé, le très « cool » et sensible Montgomery Clift, son fils « adoptif ». « La rivière vouge » aborde la question du rapport filial (mythe d’Œdipe) : le « fils » qui n’a pas son mot à dire va chercher à s’extraire progressivement de l’emprise de son « père » omnipotent.  L’intérêt principal de ce film réside, d’un côté, dans cette confrontation qui va dégénérer (avec une « mise à mort » symbolique) et, de l’autre, dans le mythe du convoi du bétail à travers le Wild West. Dès les premières scènes, la violence inhérente à cet univers sauvage s’installe et ne cessera d’aller crescendo. Dans la seconde partie du film, l’arrivée de la solaire Joanne Dru va éclaircir le film avec une happy end attendue (on aime, on n’aime pas). Malgré quelques temps faibles, un quasi chef d’œuvre quasi incontournable.",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_43007106",
+            "author": "\n                            Marius J.\n            \n                    ",
+            "date": "2014-07-2",
+            "rating": 4.0,
+            "text_content": "\n                    Un très bon western, peut-être même le meilleur de Howard Hawks avec Rio Bravo. Épique, la traversée du désert par les cow-boys et leur troupeaux de 9000 têtes sur 3000 km est mise en scène dans les règles de l'art avec indiens, mutinerie, eun John Wayne éblouissant dans son rôle de chef autoritaire et imperturbable. C'est d'ailleurs du côté des personnages que le film brille le plus, sans oublier un humour cher a Howard Hawks qui fait souvent mouche.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_58409814",
+            "author": "\n                            BigDino\n            \n                    ",
+            "date": "2018-02-18",
+            "rating": 5.0,
+            "text_content": "\n                    Howard Hawks signe ici un western grand spectacle de qualité. Pour l'époque on a ainsi droit à des scènes très impressionnantes de chevauchées et de convoyage du bétail. Si on peut regretter une fin aseptisée, c'est la vision de Hawks qui est de divertir avant tout et donc la fin se devait de ne pas être sombre, cependant on appréciera néanmoins ce héros campé par John Wayne qui devient peu à peu tyrannique dans l'exercice du pouvoir, créant ainsi une analyse de la mécanique du groupe particulièrement réussie donnant la part belle au débutant Montgomery Clift.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1037477584",
+            "author": "\n                            Topaze87\n            \n                    ",
+            "date": "2025-11-11",
+            "rating": 4.5,
+            "text_content": "\n                    Howard Hawks nous offre cet excellent western parfaitement mis en scène, qui se base sur une opposition père et fils spirituels entre John Wayne et Montgomery Clift.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_11502454",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2008-12-26",
+            "rating": 5.0,
+            "text_content": "\n                    Le plus beau western de tous les temps.\n        \n            ",
+            "likes": 0,
+            "dislikes": 1
+        },
+        {
+            "id": "review_11777034",
+            "author": "\n                             Un visiteur \n            \n                    ",
+            "date": "2009-01-12",
+            "rating": 1.0,
+            "text_content": "\n                    J'adore les westerns, pas celui-là. Tout est lourd. Film d'une autre époque, aux valeurs dépassées. Tout est convenu et quand j'entends d'autres critiques parler d'indiens dans ce film, c'est affligeant.",
+            "likes": 0,
+            "dislikes": 2
+        },
+        {
+            "id": "review_1020860965",
+            "author": "\n                            Captain Hub'\n            \n                    ",
+            "date": "2022-07-15",
+            "rating": 5.0,
+            "text_content": "\n                    Faut-il être complètement égaré, voire passablement abscons pour abandonner comme le fait Tom Dunson (John Wayne), sa bien-aimée Fen (Coleen Gray), au milieu d'une caravane d'immigrants traversant les Grandes Plaines, en route vers la terre promise ! Le premier veut quitter le convoi avec son chariot, pour poursuivre en individualiste convaincu, sa propre route, à l'écart de la collectivité. Son objectif est de trouver une terre à pâturages, de s'y installer quel que soit le prix du sang à payer, et de bâtir un élevage destiné à faire pâlir de jalousie tous les grands propriétaires au nord du Rio Grande, puis de convier sa compagne à le rejoindre. Mais c'est sans compter la détermination de Fen qui refuse de le laisser partir sans elle. Autant le dire tout de suite, Tom commet une double erreur: se passer tout d'abord de la proximité de Fen, une jeune femme aussi solaire que passionnément bouillonnante, puis, de croire que celle-ci est en sécurité dans ce convoi, à l'abri des hors-la-loi ou des tribus indiennes qui écument la région. Restées hors-champ, l'attaque du convoi et sa destruction complète, infirmeront l'excès de prudence, l'intransigeance devrait-on dire, de Tom qui refusait d'exposer Fen aux risques inhérents à son rêve d'empire bovin. Bien mal lui en a pris. Peut-on imaginer geste plus définitif, plus énigmatique pour ne pas dire inepte alors que, totalement énamourée, Fen s'abandonne dans les bras de Tom, tandis qu'à l'arrière-plan, les chariots bâchés traversent imperturbablement le cadre ? ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1007520949",
+            "author": "\n                            Cyril G\n            \n                    ",
+            "date": "2020-05-25",
+            "rating": 3.5,
+            "text_content": "\n                    un classique du genre... peut etre un peu trop classique justement... la rivalité grandissante de john Wayne et de montgomery clift porte le film qui demeure marqué néanmoins par trop de longueurs.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1019164975",
+            "author": "\n                            ProjecteurTemporel\n            \n                    ",
+            "date": "2026-04-11",
+            "rating": 4.0,
+            "text_content": "\n                    Avec La Rivière rouge, Howard Hawks transforme le western en récit de transmission conflictuel, où l’autorité paternelle devient source de fracture. La mise en scène ample accompagne la traversée comme une épreuve morale autant que physique, inscrivant les personnages dans un espace qui les dépasse. John Wayne y incarne une figure de pouvoir autoritaire, progressivement remise en question par la résistance du groupe. Hawks explore ainsi la tension entre leadership et tyrannie, au cœur d’une dynamique collective fragile. Un western classique et dense, qui interroge avec subtilité les fondements de l’autorité et de la légitimité.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1021949938",
+            "author": "\n                            Greg\n            \n                    ",
+            "date": "2022-10-4",
+            "rating": 4.0,
+            "text_content": "\n                    Un très bon western par le réalisateur Howard Hawks qui met en vedette deux grands acteurs du cinéma que sont Montgomery Clift et John Wayne. ",
+            "likes": 0,
+            "dislikes": 0
+        },
+        {
+            "id": "review_1039036394",
+            "author": "\n                            Clntra\n            \n                    ",
+            "date": "2026-04-30",
+            "rating": 5.0,
+            "text_content": "\n                    un des grands westerns de Hawks. Les rapports entre les personnages principaux sont très riches, violents mais contenant amour et amitié.  L'évolution des  personnages féminins toutes 2 victimes de l'homme dont elles sont éprises sont très subtiles. La dimension épique de ce film suivant le long trajet traversé par ce troupeau ajoute un charme à ce film.\n        \n            ",
+            "likes": 0,
+            "dislikes": 0
+        }
+    ]
+}

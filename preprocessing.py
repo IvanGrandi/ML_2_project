@@ -112,7 +112,7 @@ def get_cleaning_steps(text):
 
     # Step 7 : Stop Words
     tokens = removeStopWords(tokens)
-    steps["No StopWords"] = str(tokens)
+    steps["No StopWords"] = tokens
 
     # Step 8 : Stemming
     steps["Stemmed"] = str(stemTokens(tokens))
@@ -122,3 +122,15 @@ def get_cleaning_steps(text):
     steps["Lemmatized"] = str(tokens)
 
     return steps
+
+
+    # ... (tes autres imports et fonctions restent inchangés)
+
+# Clean input: replace newlines with spaces and strip outer whitespaces
+def clean_input(text):
+    if not text or pd.isna(text):
+        return ""
+    text = str(text).replace("\n", " ")
+    return re.sub(r"\s+", " ", text).strip()
+
+
