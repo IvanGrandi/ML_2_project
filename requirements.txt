@@ -1,0 +1,13 @@
+# Core Data Analysis Libraries
+pandas>=2.0.0
+numpy>=1.24.0
+
+# NLP and Text Processing
+nltk>=3.8.0
+spacy>=3.5.0
+
+# Multiprocessing Support & Progress Bars
+tqdm>=4.65.0
+
+# Optional / Suggested (for running the model later or model development)
+scikit-learn>=1.2.0
