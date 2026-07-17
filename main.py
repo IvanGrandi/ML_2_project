@@ -1,4 +1,3 @@
-# main.py
 import json
 import os
 import pandas as pd
@@ -18,6 +17,7 @@ SAVE_FILE = "data_processed.pkl"
 
 if __name__ == "__main__":
 
+    # Look for saved data file to load data faster.
     df = fm.load_saved_data(SAVE_FILE)
 
     if df is not None:
@@ -26,23 +26,22 @@ if __name__ == "__main__":
     else:
         print(f"🔍 No save file '{SAVE_FILE}' detected. Launching full processing...")
         
+        # Load json files and get a dataframe containing all the data
         start_step1 = time.time()
         df = fm.load_json_files(data_folder="data")
+        
         if df is None:
-            exit()
+            exit()        
         
         end_step1 = time.time()
         step1_time = end_step1 - start_step1
 
-        # ==========================================
-        # APPLYING SAMPLING
-        # ==========================================
+        # Get a sample of the dataframe for testing purpose
         df = pipe.apply_sampling(df, RUN_ON_SAMPLE, SAMPLE_SIZE)
         
-        # --- METADATA CLEANING ---
+        # Applying author and synopsis cleaning
         start_step2 = time.time()
         df = pipe.clean_metadata(df)
-
         end_step2 = time.time()
         step2_time = end_step2 - start_step2
 
@@ -55,22 +54,11 @@ if __name__ == "__main__":
         print("\nFinal columns of your DataFrame:")
         print(df.columns.tolist())
             
-
-        # ==========================================
-        #        ONE-LINE SAVE (PKL FORMAT)
-        # ==========================================
+        # Save the dataframe to load it faster next time
         fm.save_dataframe(df, SAVE_FILE)
-
-
-        # ==========================================
-        #         PERFORMANCE REPORT DISPLAY
-        # ==========================================
        
         # Generate and display the timing report
         logger.show_time_report(step1_time, step2_time, step3_time, len(df))
 
-    # ==========================================
-    #         DISPLAY TABLE CONTENT HERE
-    # ==========================================
-    
+    # Display tables  
     logger.show_visualizations(df)
