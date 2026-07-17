@@ -6,58 +6,58 @@ import preprocessing as prep
 from concurrent.futures import ProcessPoolExecutor
 from tqdm import tqdm
 
-def appliquer_echantillonnage(df, executer_sur_echantillon, taille_echantillon):
-    """Réduit aléatoirement la taille du DataFrame si l'option est activée."""
-    if executer_sur_echantillon and len(df) > taille_echantillon:
-        print(f"⚡ Mode Échantillon Activé : Sélection aléatoire de {taille_echantillon} lignes sur {len(df)}...")
-        return df.sample(n=taille_echantillon, random_state=42).reset_index(drop=True)
-    elif executer_sur_echantillon:
-        print(f"ℹ️ Le DataFrame contient {len(df)} lignes, inférieur à l'échantillon ({taille_echantillon}). Tout sera traité.")
+def apply_sampling(df, run_on_sample, sample_size):
+    """Randomly reduces the DataFrame size if the option is enabled."""
+    if run_on_sample and len(df) > sample_size:
+        print(f"⚡ Sample Mode Enabled: Randomly selecting {sample_size} rows out of {len(df)}...")
+        return df.sample(n=sample_size, random_state=42).reset_index(drop=True)
+    elif run_on_sample:
+        print(f"ℹ️ DataFrame contains {len(df)} rows, which is less than the target sample size ({sample_size}). All rows will be processed.")
     return df
 
-def nettoyer_metadonnees(df):
-    """Nettoie rapidement le synopsis et l'auteur."""
-    print("\nNettoyage des métadonnées (synopsis et auteurs)...")
+def clean_metadata(df):
+    """Quickly cleans the synopsis and author columns."""
+    print("\nCleaning metadata (synopsis and authors)...")
     if "synopsis" in df.columns:
         df["synopsis"] = df["synopsis"].apply(prep.clean_input)
     if "author" in df.columns:
         df["author"] = df["author"].apply(prep.clean_input)
-    print("✅ Nettoyage des métadonnées terminé.")
+    print("✅ Metadata cleaning completed.")
     return df
 
-def _traiter_un_chunk(df_chunk):
-    """Fonction interne pour nettoyer les avis d'un seul chunk (utilisée en parallèle)."""
-    colonne_avis = "text_content"
-    df_chunk[colonne_avis] = df_chunk[colonne_avis].apply(
+def _process_single_chunk(df_chunk):
+    """Internal function to clean reviews from a single chunk (used in parallel processing)."""
+    review_column = "text_content"
+    df_chunk[review_column] = df_chunk[review_column].apply(
         lambda x: " ".join(prep.get_cleaning_steps(x)["No StopWords"]) if pd.notna(x) else ""
     )
     return df_chunk
 
-def executer_nlp_parallele(df, max_coeurs):
-    """Découpe le DataFrame et applique le NLP lourd en utilisant le multi-processing."""
-    colonne_avis = "text_content"
-    if colonne_avis not in df.columns:
-        print("⚠️ La colonne d'avis est absente, étape de NLP lourd ignorée.")
+def run_parallel_nlp(df, max_cores):
+    """Splits the DataFrame and applies heavy NLP preprocessing using multi-processing."""
+    review_column = "text_content"
+    if review_column not in df.columns:
+        print("⚠️ Review column is missing, heavy NLP step skipped.")
         return df
 
-    print("Application du preprocessing lourd sur les avis...")
-    nb_coeurs_dispos = os.cpu_count()
-    nb_coeurs_utilises = min(max_coeurs, nb_coeurs_dispos)
+    print("Applying heavy NLP preprocessing on reviews...")
+    available_cores = os.cpu_count()
+    cores_to_use = min(max_cores, available_cores)
     
-    print(f"💻 Processeur détecté : {nb_coeurs_dispos} cœurs logiques disponibles.")
-    print(f"💻 Processeur utilisé  : {nb_coeurs_utilises} cœurs logiques affectés.")
+    print(f"💻 CPU detected: {available_cores} logical cores available.")
+    print(f"💻 CPU utilized: {cores_to_use} logical cores assigned.")
     
-    # Découpage en chunks
-    nb_chunks = nb_coeurs_utilises * 4
-    chunks = np.array_split(df, nb_chunks)
+    # Split the DataFrame into chunks
+    num_chunks = cores_to_use * 4
+    chunks = np.array_split(df, num_chunks)
     
-    chunks_traites = []
-    with ProcessPoolExecutor(max_workers=nb_coeurs_utilises) as executor:
-        futures = [executor.submit(_traiter_un_chunk, chunk) for chunk in chunks]
+    processed_chunks = []
+    with ProcessPoolExecutor(max_workers=cores_to_use) as executor:
+        futures = [executor.submit(_process_single_chunk, chunk) for chunk in chunks]
         
-        for future in tqdm(futures, desc="Traitement des paquets NLP", total=len(futures)):
-            chunks_traites.append(future.result())
+        for future in tqdm(futures, desc="Processing NLP batches", total=len(futures)):
+            processed_chunks.append(future.result())
             
-    df_final = pd.concat(chunks_traites, ignore_index=True)
-    print("✅ Preprocessing NLP terminé !")
+    df_final = pd.concat(processed_chunks, ignore_index=True)
+    print("✅ NLP preprocessing completed!")
     return df_final

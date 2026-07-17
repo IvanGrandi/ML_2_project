@@ -46,8 +46,8 @@ python main.py
 
 At the top of `main.py`, you can tweak these variables depending on your needs:
 
-- `EXECUTER_SUR_ECHANTILLON = True`: Set to `True` to run a quick test on a subset of the data. Set to `False` to process **all** reviews in your JSON files.
-- `TAILLE_ECHANTILLON = 25000`: The number of reviews to process when running in sample mode.
+- `RUN_ON_SAMPLE = True`: Set to `True` to run a quick test on a subset of the data. Set to `False` to process **all** reviews in your JSON files.
+- `SAMPLE_SIZE = 25000`: The number of reviews to process when running in sample mode.
 
 ---
 

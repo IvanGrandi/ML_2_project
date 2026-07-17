@@ -4,65 +4,65 @@ import os
 import time
 import pandas as pd
 
-def charger_fichiers_json(dossier_data="data"):
-    """Charge et assemble tous les fichiers JSON du dossier spécifié."""
-    if not os.path.exists(dossier_data):
-        print(f"❌ Le dossier '{dossier_data}' n'existe pas.")
+def load_json_files(data_folder="data"):
+    """Loads and aggregates all JSON files from the specified folder into a single DataFrame."""
+    if not os.path.exists(data_folder):
+        print(f"❌ The folder '{data_folder}' does not exist.")
         return None
         
-    fichiers_json = [f for f in os.listdir(dossier_data) if f.endswith(".json")]
+    json_files = [f for f in os.listdir(data_folder) if f.endswith(".json")]
 
-    if not fichiers_json:
-        print(f"⚠️ Aucun fichier JSON trouvé dans '{dossier_data}'.")
+    if not json_files:
+        print(f"⚠️ No JSON files found in '{data_folder}'.")
         return None
     else: 
-        print(f"📂 {len(fichiers_json)} fichiers JSON trouvés dans le dossier '{dossier_data}'.")
+        print(f"📂 Found {len(json_files)} JSON files in '{data_folder}'.")
         
-    liste_dfs = []
-    for fichier in fichiers_json:
-        chemin_complet = os.path.join(dossier_data, fichier)
-        print(f"  -> Traitement de {fichier}...")
+    df_list = []
+    for file in json_files:
+        full_path = os.path.join(data_folder, file)
+        print(f"  -> Processing {file}...")
         
-        with open(chemin_complet, "r", encoding="utf-8") as f:
+        with open(full_path, "r", encoding="utf-8") as f:
             data = json.load(f)
 
-        # Résolution du conflit de nommage de l'ID racine
+        # Resolve naming conflict of the root ID
         if "id" in data:
             data["movie_id"] = data.pop("id")
 
-        toutes_les_metadonnees = [cle for cle in data.keys() if cle != "reviews"]
+        all_metadata = [key for key in data.keys() if key != "reviews"]
 
-        df_temp = pd.json_normalize(
+        temp_df = pd.json_normalize(
             data, 
             record_path=["reviews"], 
-            meta=toutes_les_metadonnees
+            meta=all_metadata
         )
         
-        if "id" in df_temp.columns:
-            df_temp = df_temp.rename(columns={"id": "review_id"})
+        if "id" in temp_df.columns:
+            temp_df = temp_df.rename(columns={"id": "review_id"})
 
-        liste_dfs.append(df_temp)
+        df_list.append(temp_df)
 
-    if liste_dfs:
-        df = pd.concat(liste_dfs, ignore_index=True)
-        print(f"\n✅ Assemblage réussi ! Total de lignes cumulées : {len(df)}")
+    if df_list:
+        df = pd.concat(df_list, ignore_index=True)
+        print(f"\n✅ Merge successful! Total accumulated rows: {len(df)}")
         return df
     
-    print("❌ Aucun DataFrame n'a pu être créé.")   
+    print("❌ No DataFrame could be created.")   
     return None
 
-def charger_sauvegarde(chemin_pickle):
-    """Charge un DataFrame depuis un fichier Pickle s'il existe."""
-    if os.path.exists(chemin_pickle):
-        print(f"♻️ Sauvegarde trouvée ! Chargement rapide de '{chemin_pickle}'...")
+def load_saved_data(pickle_path):
+    """Loads a DataFrame from a Pickle file if it exists."""
+    if os.path.exists(pickle_path):
+        print(f"♻️ Save file found! Fast-loading '{pickle_path}'...")
         start_load = time.time()
-        df = pd.read_pickle(chemin_pickle)
-        print(f"✅ Données chargées avec succès en {time.time() - start_load:.2f} secondes ({len(df)} lignes).")
+        df = pd.read_pickle(pickle_path)
+        print(f"✅ Data successfully loaded in {time.time() - start_load:.2f} seconds ({len(df)} rows).")
         return df
     return None
 
-def sauvegarder_dataframe(df, chemin_pickle):
-    """Sauvegarde le DataFrame au format Pickle."""
-    print(f"\n💾 Sauvegarde du DataFrame traité dans '{chemin_pickle}'...")
-    df.to_pickle(chemin_pickle)
-    print("✅ Sauvegarde terminée avec succès !")
+def save_dataframe(df, pickle_path):
+    """Saves the DataFrame to a Pickle file."""
+    print(f"\n💾 Saving processed DataFrame to '{pickle_path}'...")
+    df.to_pickle(pickle_path)
+    print("✅ Save completed successfully!")

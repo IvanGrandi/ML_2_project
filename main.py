@@ -1,3 +1,4 @@
+# main.py
 import json
 import os
 import pandas as pd
@@ -10,67 +11,66 @@ import file_manager as fm
 import logger
 import pipeline as pipe
 
-EXECUTER_SUR_ECHANTILLON = True  # Modifie par False pour lancer sur TOUTES les données
-TAILLE_ECHANTILLON = 25000
-MAX_COEURS_UTILISES = 6  
-FICHIER_SAUVEGARDE = "data_processed.pkl"
+RUN_ON_SAMPLE = True  # Set to False to run on ALL data
+SAMPLE_SIZE = 25000
+MAX_CORES_USED = 6  
+SAVE_FILE = "data_processed.pkl"
 
 if __name__ == "__main__":
 
-    df = fm.charger_sauvegarde(FICHIER_SAUVEGARDE)
+    df = fm.load_saved_data(SAVE_FILE)
 
     if df is not None:
-        print("🚀 Prêt pour l'étape suivante (Visualisation ou Machine Learning) !")
+        print("🚀 Ready for the next step (Visualization or Machine Learning)!")
         
     else:
-        print(f"🔍 Aucune sauvegarde '{FICHIER_SAUVEGARDE}' détectée. Lancement complet du traitement...")
+        print(f"🔍 No save file '{SAVE_FILE}' detected. Launching full processing...")
         
-        start_etape1 = time.time()
-        df = fm.charger_fichiers_json(dossier_data="data")
+        start_step1 = time.time()
+        df = fm.load_json_files(data_folder="data")
         if df is None:
             exit()
         
-        end_etape1 = time.time()
-        temps_etape1 = end_etape1 - start_etape1
+        end_step1 = time.time()
+        step1_time = end_step1 - start_step1
 
         # ==========================================
-        # APPLICATION DE L'ÉCHANTILLONNAGE
+        # APPLYING SAMPLING
         # ==========================================
-        df = pipe.appliquer_echantillonnage(df, EXECUTER_SUR_ECHANTILLON, TAILLE_ECHANTILLON)
+        df = pipe.apply_sampling(df, RUN_ON_SAMPLE, SAMPLE_SIZE)
         
-        # --- NETTOYAGE DES MÉTADONNÉES AVEC TA FONCTION UNIQUE ---
-        start_etape2 = time.time()
-        df = pipe.nettoyer_metadonnees(df)
+        # --- METADATA CLEANING ---
+        start_step2 = time.time()
+        df = pipe.clean_metadata(df)
 
-        end_etape2 = time.time()
-        temps_etape2 = end_etape2 - start_etape2
+        end_step2 = time.time()
+        step2_time = end_step2 - start_step2
 
-        start_etape3 = time.time()
-        df = pipe.executer_nlp_parallele(df, MAX_COEURS_UTILISES)       
-        end_etape3 = time.time()
-        temps_etape3 = end_etape3 - start_etape3
+        start_step3 = time.time()
+        df = pipe.run_parallel_nlp(df, MAX_CORES_USED)       
+        end_step3 = time.time()
+        step3_time = end_step3 - start_step3
 
-        # Affichage du résultat final
-        print("\nColonnes finales de ton DataFrame :")
+        # Display final columns
+        print("\nFinal columns of your DataFrame:")
         print(df.columns.tolist())
             
 
         # ==========================================
-        #    SAUVEGARDE EN UNE LIGNE (FORMAT PKL)
+        #        ONE-LINE SAVE (PKL FORMAT)
         # ==========================================
-        
-        fm.sauvegarder_dataframe(df, FICHIER_SAUVEGARDE)
+        fm.save_dataframe(df, SAVE_FILE)
 
 
         # ==========================================
-        # AFFICHAGE DU RAPPORT DE PERFORMANCES
+        #         PERFORMANCE REPORT DISPLAY
         # ==========================================
        
-        # 6. Génération et affichage du rapport de temps
-        logger.afficher_rapport_temps(temps_etape1, temps_etape2, temps_etape3, len(df))
+        # Generate and display the timing report
+        logger.show_time_report(step1_time, step2_time, step3_time, len(df))
 
     # ==========================================
-    #    AFFICHAGE DU CONTENU DU TABLEAU ICI
+    #         DISPLAY TABLE CONTENT HERE
     # ==========================================
     
-    logger.afficher_visualisations(df)
+    logger.show_visualizations(df)
