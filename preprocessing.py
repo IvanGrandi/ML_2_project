@@ -6,15 +6,28 @@ import spacy
 from nltk.corpus import stopwords
 from nltk.stem import SnowballStemmer, WordNetLemmatizer
 
-nltk.download("stopwords")
-nltk.download("wordnet")
-nltk.download("punkt")
+try:
+    nlp = spacy.load("fr_core_news_sm", disable=["ner", "parser"])
+except OSError:
+    raise OSError(
+        "Le modèle SpaCy fr_core_news_sm n'est pas installé.\n"
+        "Exécutez d'abord : python -m spacy download fr_core_news_sm"
+    )
 
 try:
-    nlp = spacy.load("fr_core_news_sm")
-except OSError:
-    raise OSError("Exécutez d'abord : python -m spacy download fr_core_news_sm")
- 
+    nltk.data.find("corpora/stopwords")
+except LookupError:
+    nltk.download("stopwords", quiet=True)
+
+try:
+    nltk.data.find("corpora/wordnet")
+except LookupError:
+    nltk.download("wordnet", quiet=True)
+
+try:
+    nltk.data.find("tokenizers/punkt")
+except LookupError:
+    nltk.download("punkt", quiet=True)
 
 # Convert text to lowercase
 def lowerText(text):
@@ -70,7 +83,8 @@ def removeHashtags(text):
 def lemmatizeTokens(tokens):
     text_recon = " ".join(tokens)
     doc = nlp(text_recon)
-    return [token.lemma_ for token in doc if token.lemma_ != "-PRON-"]
+    lemmas = [token.lemma_ for token in doc if token.lemma_ != "-PRON-"]
+    return lemmas
 
 
 # Stem tokens
@@ -78,7 +92,7 @@ def stemTokens(tokens):
     stemmer = SnowballStemmer("french")
     return [stemmer.stem(w) for w in tokens]
 
-    # Get cleaning steps for visualization : Apply each step and store the result for display
+# Get cleaning steps for visualization : Apply each step and store the result for display
 def get_cleaning_steps(text):
 
     steps = {}
@@ -123,8 +137,7 @@ def get_cleaning_steps(text):
 
     return steps
 
-
-    # ... (tes autres imports et fonctions restent inchangés)
+# ... (tes autres imports et fonctions restent inchangés)
 
 # Clean input: replace newlines with spaces and strip outer whitespaces
 def clean_input(text):
