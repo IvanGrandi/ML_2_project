@@ -1,6 +1,35 @@
 # logger.py
 import pandas as pd
 
+def show_missing_values_report(df):
+    """
+    Analyzes and displays the count and percentage of missing values (NaN) 
+    for each column in the DataFrame.
+    """
+    print("\n" + "="*50)
+    print("🔍 MISSING VALUES REPORT")
+    print("="*50)
+    
+    total_rows = len(df)
+    missing_counts = df.isnull().sum()
+    
+    # On ne filtre que les colonnes qui ont au moins une valeur manquante
+    cols_with_missing = missing_counts[missing_counts > 0]
+    
+    if cols_with_missing.empty:
+        print("✅ Outstanding! No missing values detected in any column.")
+    else:
+        print(f"Total rows in DataFrame: {total_rows}\n")
+        print(f"{'Column Name':<20} | {'Missing Count':<15} | {'Percentage':<10}")
+        print("-" * 52)
+        for col, count in cols_with_missing.items():
+            percentage = (count / total_rows) * 100
+            print(f"{col:<20} | {count:<15} | {percentage:.2f}%")
+            
+    print("="*50 + "\n")
+
+
+
 def show_time_report(step1_time, step2_time, step3_time, total_rows):
     """Displays a clean execution performance and timing report."""
     print("\n" + "="*50)

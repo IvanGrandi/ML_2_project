@@ -15,15 +15,6 @@ def apply_sampling(df, run_on_sample, sample_size):
         print(f"ℹ️ DataFrame contains {len(df)} rows, which is less than the target sample size ({sample_size}). All rows will be processed.")
     return df
 
-def clean_metadata(df):
-    """Quickly cleans the synopsis and author columns."""
-    print("\nCleaning metadata (synopsis and authors)...")
-    if "synopsis" in df.columns:
-        df["synopsis"] = df["synopsis"].apply(prep.clean_input)
-    if "author" in df.columns:
-        df["author"] = df["author"].apply(prep.clean_input)
-    print("✅ Metadata cleaning completed.")
-    return df
 
 def _process_single_chunk(df_chunk):
     """Internal function to clean reviews from a single chunk (used in parallel processing)."""

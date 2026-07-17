@@ -9,8 +9,9 @@ from tqdm import tqdm
 import file_manager as fm
 import logger
 import pipeline as pipe
+import cleaning as clean
 
-RUN_ON_SAMPLE = True  # Set to False to run on ALL data
+RUN_ON_SAMPLE = False  # Set to False to run on ALL data
 SAMPLE_SIZE = 25000
 MAX_CORES_USED = 6  
 SAVE_FILE = "data_processed.pkl"
@@ -22,7 +23,6 @@ if __name__ == "__main__":
 
     if df is not None:
         print("🚀 Ready for the next step (Visualization or Machine Learning)!")
-        
     else:
         print(f"🔍 No save file '{SAVE_FILE}' detected. Launching full processing...")
         
@@ -41,7 +41,13 @@ if __name__ == "__main__":
         
         # Applying author and synopsis cleaning
         start_step2 = time.time()
-        df = pipe.clean_metadata(df)
+        logger.show_missing_values_report(df) 
+        clean.show_duplicates_report(df)
+        df = clean.remove_duplicates(df)
+        print(f"📊 DataFrame size is now: {len(df)} rows")
+        df = clean.run_column_check(df)
+        print(f"📊 DataFrame size is now: {len(df)} rows")
+
         end_step2 = time.time()
         step2_time = end_step2 - start_step2
 
