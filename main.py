@@ -10,6 +10,7 @@ import file_manager as fm
 import logger
 import pipeline as pipe
 import cleaning as clean
+import visualizations as viz
 
 RUN_ON_SAMPLE = False  # Set to False to run on ALL data
 SAMPLE_SIZE = 25000
@@ -68,3 +69,22 @@ if __name__ == "__main__":
 
     # Display tables  
     logger.show_visualizations(df)
+
+    # --- ÉTAPE COMMUNE : Visualisations ---
+    print("\n📊 Generating Numerical Data Visualizations...")
+    
+    # Lancement séquentiel des graphiques
+    viz.plot_rating_distribution(df)
+    viz.plot_engagement_distribution(df)
+    viz.plot_correlation_matrix(df)
+    viz.plot_temporal_trends(df)
+    
+    # 3. Plots Textuels ciblés
+    # La longueur de la review (au choix, ici l'avis est plus pertinent)
+    viz.plot_text_length_distribution(df, text_column="text_content") 
+    
+    # Le nuage de mots global des avis
+    viz.plot_global_wordcloud(df, text_column="text_content")
+    
+    # Les nuages comparatifs Tops vs Flops des avis
+    viz.plot_comparative_wordclouds(df, text_column="text_content")
