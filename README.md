@@ -31,6 +31,26 @@ Bash
 python -m pip install [https://github.com/explosion/spacy-models/releases/download/fr_core_news_sm-3.8.0/fr_core_news_sm-3.8.0-py3-none-any.whl](https://github.com/explosion/spacy-models/releases/download/fr_core_news_sm-3.8.0/fr_core_news_sm-3.8.0-py3-none-any.whl)
 ```
 
+### 3. Gather data
+
+To generate your dataset, you can either rely on the data already present in the `data` directory, or you can make it yourself using the scripts in the `scraping` directory.
+
+The simplest and quickest way to pull a large amount of data is to choose a relevant movie listing from AlloCiné (e.g. `https://www.allocine.fr/film/meilleurs/`, or any other one linked from this page), and put it in the `AC_LISTING_REVIEWS` list in `ac_scraping_main.py`. You can use several listings at once, but beware that a single listing can take **several hours** to complete scraping. 
+
+Then, simply run the script:
+
+```bash
+python scraping/ac_scrap_main.py
+```
+
+You can also scrap reviews from specific movies by using the `scrap_and_dump` function from `ac_reviews_scrapper.py`. 
+
+#### Scripts breakdown
+ - `ac_movieid_scrapper.py`: Exposes the `scrap_from_listing` function to extract all movie IDs from the provided listing page (usually, this yields 300 movies)
+ - `ac_reviews_scrapper.py`: Exposes the `scrap_and_dump` function to extract all reviews from a single movie and save them in an SQLite DB and a JSON file. This is where all SQL functions live as well. All other functions are simply helpers for `scrap_and_dump` and should not be used outside of it. 
+ - `ac_scrap_main.py`: Uses `scrap_from_listing` and `scrap_and_dump` to easily scrap a large amount of reviews.
+
+
 ---
 
 ## How to Run
