@@ -73,18 +73,49 @@ if __name__ == "__main__":
     # --- ÉTAPE COMMUNE : Visualisations ---
     print("\n📊 Generating Numerical Data Visualizations...")
     
-    # Lancement séquentiel des graphiques
-    viz.plot_rating_distribution(df)
-    viz.plot_engagement_distribution(df)
-    viz.plot_correlation_matrix(df)
-    viz.plot_temporal_trends(df)
-    
-    # 3. Plots Textuels ciblés
-    # La longueur de la review (au choix, ici l'avis est plus pertinent)
-    viz.plot_text_length_distribution(df, text_column="text_content") 
-    
-    # Le nuage de mots global des avis
-    viz.plot_global_wordcloud(df, text_column="text_content")
-    
-    # Les nuages comparatifs Tops vs Flops des avis
-    viz.plot_comparative_wordclouds(df, text_column="text_content")
+    while True:
+        print("\n==================================================")
+        print("📊 EXPLORATORY DATA ANALYSIS MENU")
+        print("==================================================")
+        print("1. Plot Rating Distribution")
+        print("2. Plot Likes & Dislikes Distribution (Boxplot)")
+        print("3. Plot Correlation Matrix")
+        print("4. Plot Temporal Trends (Reviews & Ratings over time)")
+        print("5. Plot Text Length Distribution")
+        print("6. Plot Global Word Cloud (User Reviews)")
+        print("7. Plot Comparative Word Clouds (Tops vs Flops)")
+        print("8. Run All Visualizations sequentially")
+        print("9. Exit and close")
+        print("==================================================")
+        
+        choice = input("👉 Enter your choice (1-9): ").strip()
+        print("\n")
+
+        if choice == "1":
+            viz.plot_rating_distribution(df)
+        elif choice == "2":
+            viz.plot_engagement_distribution(df)
+        elif choice == "3":
+            viz.plot_correlation_matrix(df)
+        elif choice == "4":
+            viz.plot_temporal_trends(df)
+        elif choice == "5":
+            viz.plot_text_length_distribution(df, text_column="text_content")
+        elif choice == "6":
+            viz.plot_global_wordcloud(df, text_column="text_content")
+        elif choice == "7":
+            viz.plot_comparative_wordclouds(df, text_column="text_content")
+        elif choice == "8":
+            print("🚀 Launching all visualizations...")
+            viz.plot_rating_distribution(df)
+            viz.plot_engagement_distribution(df)
+            viz.plot_correlation_matrix(df)
+            viz.plot_temporal_trends(df)
+            viz.plot_text_length_distribution(df, text_column="text_content")
+            viz.plot_global_wordcloud(df, text_column="text_content")
+            viz.plot_comparative_wordclouds(df, text_column="text_content")
+        elif choice == "9":
+            print("👋 Exiting visualization menu. Goodbye!")
+            break
+        else:
+            print("❌ Invalid choice. Please enter a number between 1 and 9.")
