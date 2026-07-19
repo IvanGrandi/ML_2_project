@@ -20,7 +20,7 @@ pip install -r requirements.txt
 Since the preprocessing script uses **spaCy** to analyze French text, you must download the French language model. Run the following command:
 
 ```bash
-python -m spacy download fr_core_news_sm
+python -m spacy download fr_core_news_md
 
 ```
 
@@ -28,7 +28,7 @@ If spaCy complains that it cannot find pip or uv, you can bypass the helper and 
 Bash
 
 ```bash
-python -m pip install [https://github.com/explosion/spacy-models/releases/download/fr_core_news_sm-3.8.0/fr_core_news_sm-3.8.0-py3-none-any.whl](https://github.com/explosion/spacy-models/releases/download/fr_core_news_sm-3.8.0/fr_core_news_sm-3.8.0-py3-none-any.whl)
+python -m pip install [https://github.com/explosion/spacy-models/releases/download/fr_core_news_md-3.8.0/fr_core_news_md-3.8.0-py3-none-any.whl](https://github.com/explosion/spacy-models/releases/download/fr_core_news_md-3.8.0/fr_core_news_md-3.8.0-py3-none-any.whl)
 ```
 
 ### 3. Gather data

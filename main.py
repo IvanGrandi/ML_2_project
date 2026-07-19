@@ -13,8 +13,8 @@ import cleaning as clean
 import visualizations as viz
 import subprocess
 
-RUN_ON_SAMPLE = True  # Set to False to run on ALL data
-SAMPLE_SIZE = 2000
+RUN_ON_SAMPLE = False  # Set to False to run on ALL data
+SAMPLE_SIZE = 25000
 MAX_CORES_USED = 6  
 SAVE_FILE = "data_processed.pkl"
 
@@ -124,7 +124,7 @@ def run_visualization_menu(df):
             print("❌ Invalid choice. Please enter a number between 1 and 9.")
 
 if __name__ == "__main__":
-
+    
     df = None  
     while True:
         print("\n" + "="*50)
@@ -172,4 +172,4 @@ if __name__ == "__main__":
             print("👋 Exiting the application. Goodbye!")
             break
         else:
-            print("❌ Invalid option. Please enter a number between 1 and 4.")
+            print("❌ Invalid option. Please enter a number between 1 and 5.")

@@ -182,7 +182,7 @@ def plot_global_wordcloud(df, text_column="text_content"):
     plt.tight_layout()
     plt.show()
 
-def plot_comparative_wordclouds(df, text_column="text_content"):
+def plot_comparative_wordclouds(df, text_column="lemmatized"):
     """
     Generates two comparative Word Clouds: highly rated vs. poorly rated movies.
     """

@@ -7,11 +7,11 @@ from nltk.corpus import stopwords
 from nltk.stem import SnowballStemmer, WordNetLemmatizer
 
 try:
-    nlp = spacy.load("fr_core_news_sm", disable=["ner", "parser"])
+    nlp = spacy.load("fr_core_news_md", disable=["ner"])
 except OSError:
     raise OSError(
-        "Le modèle SpaCy fr_core_news_sm n'est pas installé.\n"
-        "Exécutez d'abord : python -m spacy download fr_core_news_sm"
+        "Le modèle SpaCy fr_core_news_md n'est pas installé.\n"
+        "Exécutez d'abord : python -m spacy download fr_core_news_md"
     )
 
 try:
@@ -54,14 +54,12 @@ def removePonctuation(text):
 #    return nltk.word_tokenize(text)
 
 # spaCy Tokenizer which is more accurate than NLTK's tokenizer, especially for French text
-def tokenize(text):
-    doc = nlp.make_doc(text)
-    return [token.text for token in doc]
+def tokenize(doc):
+    return [token.text for token in doc if not token.is_punct]
 
 # Remove stop words from list of tokens
-def removeStopWords(tokens):
-    stop_words = set(stopwords.words("french"))
-    tokens = [w for w in tokens if w not in stop_words]
+def removeStopWords(doc):
+    tokens = [token.text for token in doc if not token.is_stop and not token.is_punct]
     return tokens
 
 # Remove @mentions from text
@@ -79,11 +77,14 @@ def removeHashtags(text):
     return re.sub(r"#(\w+)", r"\1", text)
 
 
+def textToDoc(text):
+    """Converts text to a spaCy Doc object for further processing."""
+    return nlp(text)
+
 # Lemmatize tokens
-def lemmatizeTokens(tokens):
-    text_recon = " ".join(tokens)
-    doc = nlp(text_recon)
-    lemmas = [token.lemma_ for token in doc if token.lemma_ != "-PRON-"]
+def lemmatizeTokens(doc):
+    #text_recon = " ".join(tokens)
+    lemmas = [token.lemma_ for token in doc if not token.is_stop and not token.is_punct]
     return lemmas
 
 
@@ -91,6 +92,14 @@ def lemmatizeTokens(tokens):
 def stemTokens(tokens):
     stemmer = SnowballStemmer("french")
     return [stemmer.stem(w) for w in tokens]
+
+def spaceOutPunctuation(text):
+    """Inserts a space after punctuation marks if they are directly followed by a letter or number.
+    Ex: 'Tarantino!!!Les' -> 'Tarantino!!! Les'
+    """
+    # Space out punctuation marks that are directly followed by a letter or number
+    text = re.sub(r"([!?.,;:]+)(\w)", r"\1 \2", text)
+    return text
 
 # Get cleaning steps for visualization : Apply each step and store the result for display
 def get_cleaning_steps(text):
@@ -110,30 +119,34 @@ def get_cleaning_steps(text):
     current = removeLinks(current)
     #current = removeMentions(current)
     #current = removeHashtags(current)
+    current = spaceOutPunctuation(current)
     steps["Cleaned Text"] = current
    
     # Step 4 : Lowercase
     current = lowerText(current)
     steps["Lowercase"] = current
 
+    # Step 4.5 : Lemmatization
+    doc = textToDoc(current)
+
     # Step 5 : Punctuation
     current = removePonctuation(current)
     steps["No Punctuation"] = current
 
     # Step 6 : Tokenization
-    tokens = tokenize(current)
-    steps["Tokenized"] = str(tokens)  # We store as string for display
+    tokens = tokenize(doc)
+    steps["Tokenized"] = tokens
 
     # Step 7 : Stop Words
-    tokens = removeStopWords(tokens)
+    tokens = removeStopWords(doc)
     steps["No StopWords"] = tokens
 
-    # Step 8 : Stemming
-    #steps["Stemmed"] = stemTokens(tokens)
+    # Step 8 : Stemming (Alternative to Lemmatization, not used in final pipeline)
+    steps["Stemmed"] = stemTokens(tokens)
 
     # Step 9 : Lemmatization
-    tokens = lemmatizeTokens(tokens)
-    steps["Lemmatized"] = tokens
+    lemmas = lemmatizeTokens(doc)
+    steps["Lemmatized"] = lemmas
 
     return steps
 
