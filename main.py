@@ -11,19 +11,20 @@ import logger
 import pipeline as pipe
 import cleaning as clean
 import visualizations as viz
+import subprocess
 
 RUN_ON_SAMPLE = False  # Set to False to run on ALL data
 SAMPLE_SIZE = 25000
 MAX_CORES_USED = 6  
 SAVE_FILE = "data_processed.pkl"
 
-if __name__ == "__main__":
-
+def load_and_process_pipeline():
     # Look for saved data file to load data faster.
     df = fm.load_saved_data(SAVE_FILE)
 
     if df is not None:
         print("🚀 Ready for the next step (Visualization or Machine Learning)!")
+        return df
     else:
         print(f"🔍 No save file '{SAVE_FILE}' detected. Launching full processing...")
         
@@ -67,11 +68,13 @@ if __name__ == "__main__":
         # Generate and display the timing report
         logger.show_time_report(step1_time, step2_time, step3_time, len(df))
 
-    # Display tables  
-    logger.show_visualizations(df)
+        return df
 
-    # --- ÉTAPE COMMUNE : Visualisations ---
-    print("\n📊 Generating Numerical Data Visualizations...")
+def run_visualization_menu(df):
+    """Sub-menu for exploratory data analysis."""
+    if df is None:
+        print("❌ Error: You must load or process data (Option 1) before viewing charts!")
+        return
     
     while True:
         print("\n==================================================")
@@ -119,3 +122,46 @@ if __name__ == "__main__":
             break
         else:
             print("❌ Invalid choice. Please enter a number between 1 and 9.")
+
+if __name__ == "__main__":
+
+    df = None  
+    while True:
+        print("\n" + "="*50)
+        print("🚀 MAIN PROJECT MENU - ML & TEXTUAL ANALYSIS")
+        print("="*50)
+        print("1. 📂 Load / Process Dataset (Run Pipeline)")
+        print("2. 📊 Open Exploratory Data Analysis & Charts")
+        print("3. 🤖 Launch Jupyter Notebook for Predictive Models")
+        print("4. ❌ Exit")
+        print("="*50)
+        
+        main_choice = input("👉 Select an option (1-4): ").strip()
+        if main_choice == "1":
+            df = load_and_process_pipeline()
+            if df is not None:
+                print("✅ Data is ready in memory for analysis!")
+                
+        elif main_choice == "2":
+            if df is not None:
+                run_visualization_menu(df)
+            else: 
+                print("❌ Error: You must load or process data (Option 1) before viewing charts!")
+            
+        elif main_choice == "3":
+            notebook_path = "training.ipynb"
+            if df is not None:
+                if os.path.exists(notebook_path):
+                    print(f"💻 Opening {notebook_path} in VS Code...")
+                    # La commande 'code' appelle VS Code directement
+                    subprocess.Popen(["code", notebook_path], shell=True)
+                else:
+                    print(f"❌ Error: The file '{notebook_path}' was not found in this directory.")
+            else: 
+                print("❌ Error: You must load or process data (Option 1) before launching the notebook!")
+
+        elif main_choice == "4":
+            print("👋 Exiting the application. Goodbye!")
+            break
+        else:
+            print("❌ Invalid option. Please enter a number between 1 and 4.")

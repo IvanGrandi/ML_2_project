@@ -11,6 +11,11 @@ gensim>=4.3.0
 transformers>=4.40.0
 torch>=2.2.0
 
+# Data Visualization
+matplotlib>=3.10.8
+seaborn>=0.13.2
+wordcloud>=1.9.5
+
 # Multiprocessing Support & Progress Bars
 tqdm>=4.65.0
 
