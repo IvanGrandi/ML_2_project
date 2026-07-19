@@ -131,12 +131,13 @@ if __name__ == "__main__":
         print("🚀 MAIN PROJECT MENU - ML & TEXTUAL ANALYSIS")
         print("="*50)
         print("1. 📂 Load / Process Dataset (Run Pipeline)")
-        print("2. 📊 Open Exploratory Data Analysis & Charts")
-        print("3. 🤖 Launch Jupyter Notebook for Predictive Models")
-        print("4. ❌ Exit")
+        print("2. 🔬 Run Preprocessing Step-by-Step Demo (For Professor)")
+        print("3. 📊 Open Exploratory Data Analysis & Charts")
+        print("4. 🤖 Launch Jupyter Notebook for Predictive Models")
+        print("5. ❌ Exit")
         print("="*50)
         
-        main_choice = input("👉 Select an option (1-4): ").strip()
+        main_choice = input("👉 Select an option (1-5): ").strip()
         if main_choice == "1":
             df = load_and_process_pipeline()
             logger.show_visualizations(df)
@@ -145,11 +146,17 @@ if __name__ == "__main__":
                 
         elif main_choice == "2":
             if df is not None:
+                prep.show_preprocessing_demo(df)
+            else: 
+                print("❌ Error: You must load or process data (Option 1) before viewing charts!")
+
+        elif main_choice == "3":
+            if df is not None:
                 run_visualization_menu(df)
             else: 
                 print("❌ Error: You must load or process data (Option 1) before viewing charts!")
             
-        elif main_choice == "3":
+        elif main_choice == "4":
             notebook_path = "training.ipynb"
             if df is not None:
                 if os.path.exists(notebook_path):
@@ -161,7 +168,7 @@ if __name__ == "__main__":
             else: 
                 print("❌ Error: You must load or process data (Option 1) before launching the notebook!")
 
-        elif main_choice == "4":
+        elif main_choice == "5":
             print("👋 Exiting the application. Goodbye!")
             break
         else:

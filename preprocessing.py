@@ -129,7 +129,7 @@ def get_cleaning_steps(text):
     steps["No StopWords"] = tokens
 
     # Step 8 : Stemming
-    steps["Stemmed"] = stemTokens(tokens)
+    #steps["Stemmed"] = stemTokens(tokens)
 
     # Step 9 : Lemmatization
     tokens = lemmatizeTokens(tokens)
@@ -139,3 +139,36 @@ def get_cleaning_steps(text):
 
 # ... (tes autres imports et fonctions restent inchangés)
 
+def show_preprocessing_demo(df):
+    """Displays a step-by-step breakdown of the NLP pipeline for the professor."""
+    if df is None:
+        print("❌ Error: Please load the dataset (Option 1) first to get real examples!")
+        return
+
+    print("\n" + "="*60)
+    print("🔬 NLP PIPELINE INTERACTIVE DEMONSTRATION")
+    print("="*60)
+    
+    # On prend 2 exemples contrastés (un bon et un mauvais si possible)
+    sample_reviews = df.sample(n=2, random_state=42)["text_content"].tolist()
+    
+    for idx, raw_text in enumerate(sample_reviews):
+        print(f"\n📝 EXAMPLE {idx + 1} :")
+        print(f"👉 Raw Input: {raw_text[:150]}...")
+        print("-" * 50)
+        
+        # On calcule les étapes
+        steps = get_cleaning_steps(raw_text)
+        
+        # On affiche proprement chaque étape
+        for step_name, result in steps.items():
+            # Formattage propre selon le type de résultat (liste ou string)
+            if isinstance(result, list):
+                display_res = " | ".join(result[:15]) # On montre les 15 premiers tokens
+                if len(result) > 15: display_res += " ..."
+            else:
+                display_res = str(result).replace("\n", " ")
+                if len(display_res) > 100: display_res = display_res[:100] + " ..."
+                
+            print(f"🔹 {step_name:<20} : {display_res}")
+        print("="*60)
