@@ -19,9 +19,11 @@ def apply_sampling(df, run_on_sample, sample_size):
 def _process_single_chunk(df_chunk):
     """Internal function to clean reviews from a single chunk (used in parallel processing)."""
     review_column = "text_content"
-    df_chunk[review_column] = df_chunk[review_column].apply(
-        lambda x: " ".join(prep.get_cleaning_steps(x)["No StopWords"]) if pd.notna(x) else ""
+    
+    df_chunk["Lemmatized"] = df_chunk[review_column].apply(
+        lambda x: " ".join(prep.get_cleaning_steps(x)["Lemmatized"]) if pd.notna(x) else ""
     )
+    
     return df_chunk
 
 def run_parallel_nlp(df, max_cores):

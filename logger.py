@@ -55,7 +55,7 @@ def show_visualizations(df):
     print("         REDUCED VIEW (REVIEWS INFORMATION ONLY)")
     print("="*80)
 
-    review_columns = ["movie_id", "review_id", "author", "date", "rating", "likes", "dislikes", "text_content"]
+    review_columns = ["movie_id", "review_id", "author", "date", "rating", "likes", "dislikes", "text_content", "Lemmatized"]
     existing_columns = [col for col in review_columns if col in df.columns]
     
     # Create the subset DataFrame

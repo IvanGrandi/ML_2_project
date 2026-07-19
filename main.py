@@ -13,8 +13,8 @@ import cleaning as clean
 import visualizations as viz
 import subprocess
 
-RUN_ON_SAMPLE = False  # Set to False to run on ALL data
-SAMPLE_SIZE = 25000
+RUN_ON_SAMPLE = True  # Set to False to run on ALL data
+SAMPLE_SIZE = 2000
 MAX_CORES_USED = 6  
 SAVE_FILE = "data_processed.pkl"
 
@@ -103,20 +103,20 @@ def run_visualization_menu(df):
         elif choice == "4":
             viz.plot_temporal_trends(df)
         elif choice == "5":
-            viz.plot_text_length_distribution(df, text_column="text_content")
+            viz.plot_text_length_distribution(df, text_column="Lemmatized")
         elif choice == "6":
-            viz.plot_global_wordcloud(df, text_column="text_content")
+            viz.plot_global_wordcloud(df, text_column="Lemmatized")
         elif choice == "7":
-            viz.plot_comparative_wordclouds(df, text_column="text_content")
+            viz.plot_comparative_wordclouds(df, text_column="Lemmatized")
         elif choice == "8":
             print("🚀 Launching all visualizations...")
             viz.plot_rating_distribution(df)
             viz.plot_engagement_distribution(df)
             viz.plot_correlation_matrix(df)
             viz.plot_temporal_trends(df)
-            viz.plot_text_length_distribution(df, text_column="text_content")
-            viz.plot_global_wordcloud(df, text_column="text_content")
-            viz.plot_comparative_wordclouds(df, text_column="text_content")
+            viz.plot_text_length_distribution(df, text_column="Lemmatized")
+            viz.plot_global_wordcloud(df, text_column="Lemmatized")
+            viz.plot_comparative_wordclouds(df, text_column="Lemmatized")
         elif choice == "9":
             print("👋 Exiting visualization menu. Goodbye!")
             break
@@ -139,6 +139,7 @@ if __name__ == "__main__":
         main_choice = input("👉 Select an option (1-4): ").strip()
         if main_choice == "1":
             df = load_and_process_pipeline()
+            logger.show_visualizations(df)
             if df is not None:
                 print("✅ Data is ready in memory for analysis!")
                 

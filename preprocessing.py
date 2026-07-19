@@ -129,11 +129,11 @@ def get_cleaning_steps(text):
     steps["No StopWords"] = tokens
 
     # Step 8 : Stemming
-    steps["Stemmed"] = str(stemTokens(tokens))
+    steps["Stemmed"] = stemTokens(tokens)
 
     # Step 9 : Lemmatization
     tokens = lemmatizeTokens(tokens)
-    steps["Lemmatized"] = str(tokens)
+    steps["Lemmatized"] = tokens
 
     return steps
 
