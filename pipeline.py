@@ -9,10 +9,10 @@ from tqdm import tqdm
 def apply_sampling(df, run_on_sample, sample_size):
     """Randomly reduces the DataFrame size if the option is enabled."""
     if run_on_sample and len(df) > sample_size:
-        print(f"⚡ Sample Mode Enabled: Randomly selecting {sample_size} rows out of {len(df)}...")
+        print(f"Sample Mode Enabled: Randomly selecting {sample_size} rows out of {len(df)}...")
         return df.sample(n=sample_size, random_state=42).reset_index(drop=True)
     elif run_on_sample:
-        print(f"ℹ️ DataFrame contains {len(df)} rows, which is less than the target sample size ({sample_size}). All rows will be processed.")
+        print(f"DataFrame contains {len(df)} rows, which is less than the target sample size ({sample_size}). All rows will be processed.")
     return df
 
 
@@ -30,15 +30,15 @@ def run_parallel_nlp(df, max_cores):
     """Splits the DataFrame and applies heavy NLP preprocessing using multi-processing."""
     review_column = "text_content"
     if review_column not in df.columns:
-        print("⚠️ Review column is missing, heavy NLP step skipped.")
+        print("Warning: Review column is missing, heavy NLP step skipped.")
         return df
 
     print("Applying heavy NLP preprocessing on reviews...")
     available_cores = os.cpu_count()
     cores_to_use = min(max_cores, available_cores)
     
-    print(f"💻 CPU detected: {available_cores} logical cores available.")
-    print(f"💻 CPU utilized: {cores_to_use} logical cores assigned.")
+    print(f"CPU detected: {available_cores} logical cores available.")
+    print(f"CPU utilized: {cores_to_use} logical cores assigned.")
     
     # Split the DataFrame into chunks
     num_chunks = cores_to_use * 4

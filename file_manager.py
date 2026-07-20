@@ -13,10 +13,10 @@ def load_json_files(data_folder="data"):
     json_files = [f for f in os.listdir(data_folder) if f.endswith(".json")]
 
     if not json_files:
-        print(f"⚠️ No JSON files found in '{data_folder}'.")
+        print(f"Warning: No JSON files found in '{data_folder}'.")
         return None
     else: 
-        print(f"📂 Found {len(json_files)} JSON files in '{data_folder}'.")
+        print(f"Found {len(json_files)} JSON files in '{data_folder}'.")
         
     df_list = []
     for file in json_files:
@@ -54,7 +54,7 @@ def load_json_files(data_folder="data"):
 def load_saved_data(pickle_path):
     """Loads a DataFrame from a Pickle file if it exists."""
     if os.path.exists(pickle_path):
-        print(f"♻️ Save file found! Fast-loading '{pickle_path}'...")
+        print(f" Save file found! Fast-loading '{pickle_path}'...")
         start_load = time.time()
         df = pd.read_pickle(pickle_path)
         print(f"✅ Data successfully loaded in {time.time() - start_load:.2f} seconds ({len(df)} rows).")
@@ -63,6 +63,6 @@ def load_saved_data(pickle_path):
 
 def save_dataframe(df, pickle_path):
     """Saves the DataFrame to a Pickle file."""
-    print(f"\n💾 Saving processed DataFrame to '{pickle_path}'...")
+    print(f"\nSaving processed DataFrame to '{pickle_path}'...")
     df.to_pickle(pickle_path)
     print("✅ Save completed successfully!")

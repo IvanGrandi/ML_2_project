@@ -1,19 +1,21 @@
 import re
+import pandas as pd
+import numpy as np
 
 def remove_duplicates(df):
     """
     Removes exact duplicates and enforces unique review_id.
     """
     initial_count = len(df)
-    print("\n🧹 Starting duplicate removal process...")
+    print("\nStarting duplicate removal process...")
 
-    # On liste les colonnes sans listes pour le drop global
+    # List columns not of type list.
     hashable_cols = [col for col in df.columns if not df[col].apply(lambda x: isinstance(x, list)).any()]
 
-    # 1. Suppression des doublons stricts
+    # 1. Strict duplicates removal
     df = df.drop_duplicates(subset=hashable_cols).reset_index(drop=True)
     
-    # 2. Suppression des doublons uniquement sur l'ID de la review
+    # 2. Remove duplicates on review_id basis
     if "review_id" in df.columns:
         df = df.drop_duplicates(subset=["review_id"], keep="first").reset_index(drop=True)
 
@@ -29,7 +31,7 @@ def show_duplicates_report(df):
     Analyzes and displays global and key-based duplicates within the DataFrame.
     """
     print("\n" + "="*50)
-    print("👥 DUPLICATES DETECTION REPORT")
+    print("DUPLICATES DETECTION REPORT")
     print("="*50)
     
     total_rows = len(df)
@@ -52,7 +54,7 @@ def show_duplicates_report(df):
 def run_column_check(df):
     """Quickly cleans the synopsis and author columns."""
     print("\n" + "="*50)
-    print("🔍 RUNNING GLOBAL DATA SANITY CHECK & CLEANING")
+    print("RUNNING GLOBAL DATA SANITY CHECK & CLEANING")
     print("="*50)
     total_rows = len(df)
 
@@ -65,9 +67,9 @@ def run_column_check(df):
         print(f"• Column '{col}' (String):")
         print(f"  ↳ Valid (populated): {valid_count} | Invalid (empty/missing): {total_rows - valid_count}")
     
-    print("📊 Checking numeric columns...")
+    print("Checking numeric columns...")
 
-    # --- 1. Identifiants (Int, >= 0) -> Stratégie DROP ---
+    # --- 1. Identifiers (Int, >= 0) -> Drop Strategy ---
     
     if "movie_id" in df.columns:
         df["movie_id"] = process_numeric_column(
@@ -78,33 +80,31 @@ def run_column_check(df):
     df = df.dropna(subset=["movie_id"]).reset_index(drop=True)
 
 
-    # --- 2. Notes (Float, entre 0.5 et 5.0) -> Stratégie MOYENNE ---
+    # --- 2. Ratings (Float, entre 0.5 et 5.0) -> Mean Strategy ---
     if "rating" in df.columns:
         df["rating"] = process_numeric_column(
             df["rating"], min_val=0.0, max_val=5.0, is_integer=False, fallback_strategy="mean"
         )
 
-    # --- 3. Likes / Dislikes (Int, >= 0) -> Stratégie ZÉRO ---
+    # --- 3. Likes / Dislikes (Int, >= 0) -> Zero Strategy ---
     for col in [c for c in ["likes", "dislikes", "runtime_in_minutes"] if c in df.columns]:
         df[col] = process_numeric_column(
             df[col], min_val=0, is_integer=True, fallback_strategy="zero"
         )
 
-    # Dans cleaning.py, à l'intérieur de run_global_sanity_check(df):
+    print("Checking date columns...")
 
-    print("📅 Checking date columns...")
-
-    # On liste toutes les colonnes de type date à vérifier
+    # We list all columns of date type to check
     date_cols = [c for c in ["date", "release_date"] if c in df.columns]
 
     for col in date_cols:
-        # 1. On identifie et remplace par NaN les chaînes invalides
+        # 1. Idenntify and replace invalid strings by NaN
         df[col] = process_date_column(df[col])
         
-        # 2. Suppression pure et simple des lignes invalides pour CETTE colonne
+        # 2. Remove invalid lines
         df = df.dropna(subset=[col]).reset_index(drop=True)
         
-        # 3. Affichage du bilan après nettoyage de la colonne
+        # 3. Display result
         print(f"  ❌ Invalid rows in '{col}' dropped. DataFrame size is now: {len(df)} rows.")
     print("✅ Metadata cleaning completed.")
     return df
@@ -114,7 +114,7 @@ def clean_input(text):
     """Cleans a string by removing newlines and collapsing multiple spaces."""
     if not text or pd.isna(text):
         return ""
-    text = str(text).replace("\n", " ")
+    text = str(text).replace("\n", "")
     return re.sub(r"\s+", " ", text).strip()
 
 def process_string_column(series):
@@ -136,23 +136,22 @@ def process_numeric_column(series, min_val=None, max_val=None, is_integer=False,
     Converts a column to numeric, coerces errors, and validates ranges.
     Prints the number of invalid rows before applying the fallback strategy.
     """
-    # 1. Conversion forcée en numérique (les erreurs deviennent NaN)
+    # 1. Forced conversion in numeric ( errors become NaN )
     numeric_series = pd.to_numeric(series, errors='coerce')
     
-    # 2. Création du masque de validité
+    # 2. Validity mask creation
     valid_mask = numeric_series.notna()
     if min_val is not None:
         valid_mask &= (numeric_series >= min_val)
     if max_val is not None:
         valid_mask &= (numeric_series <= max_val)
         
-    # --- AJOUT : Compte et affichage des lignes non valides ---
     invalid_count = len(series) - valid_mask.sum()
     if invalid_count > 0:
-        print(f"  ⚠️ Column '{series.name}': Found {invalid_count} invalid/missing values (strategy: '{fallback_strategy}')")
+        print(f" Warning: Column '{series.name}': Found {invalid_count} invalid/missing values (strategy: '{fallback_strategy}')")
     # ----------------------------------------------------------
         
-    # 3. Détermination de la valeur de remplacement (Fallback)
+    # 3. Test fallback strategy
     if fallback_strategy == "drop":
         fallback_val = np.nan
     elif fallback_strategy == "mean":
@@ -174,9 +173,6 @@ def process_numeric_column(series, min_val=None, max_val=None, is_integer=False,
             return clean_series.astype(float)
             
     return clean_series
-
-import pandas as pd
-import numpy as np
 
 def process_date_column(series):
     """

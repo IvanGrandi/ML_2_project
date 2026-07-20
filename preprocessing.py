@@ -10,8 +10,8 @@ try:
     nlp = spacy.load("fr_core_news_md", disable=["ner"])
 except OSError:
     raise OSError(
-        "Le modèle SpaCy fr_core_news_md n'est pas installé.\n"
-        "Exécutez d'abord : python -m spacy download fr_core_news_md"
+        " SpaCy fr_core_news_md model not installed.\n"
+        "Execute first : python -m spacy download fr_core_news_md"
     )
 
 try:
@@ -150,7 +150,6 @@ def get_cleaning_steps(text):
 
     return steps
 
-# ... (tes autres imports et fonctions restent inchangés)
 
 def show_preprocessing_demo(df):
     """Displays a step-by-step breakdown of the NLP pipeline for the professor."""
@@ -159,25 +158,24 @@ def show_preprocessing_demo(df):
         return
 
     print("\n" + "="*60)
-    print("🔬 NLP PIPELINE INTERACTIVE DEMONSTRATION")
+    print("NLP PIPELINE INTERACTIVE DEMONSTRATION")
     print("="*60)
     
-    # On prend 2 exemples contrastés (un bon et un mauvais si possible)
-    sample_reviews = df.sample(n=2, random_state=42)["text_content"].tolist()
+    sample_reviews = df.sample(n=5, random_state=42)["text_content"].tolist()
     
     for idx, raw_text in enumerate(sample_reviews):
-        print(f"\n📝 EXAMPLE {idx + 1} :")
-        print(f"👉 Raw Input: {raw_text[:150]}...")
+        print(f"\nEXAMPLE {idx + 1} :")
+        print(f"Raw Input: {raw_text[:150]}...")
         print("-" * 50)
         
-        # On calcule les étapes
+        # Compute the steps
         steps = get_cleaning_steps(raw_text)
         
-        # On affiche proprement chaque étape
+        # Display them properly
         for step_name, result in steps.items():
-            # Formattage propre selon le type de résultat (liste ou string)
+            # Clean formatting depending on the type
             if isinstance(result, list):
-                display_res = " | ".join(result[:15]) # On montre les 15 premiers tokens
+                display_res = " | ".join(result[:15]) # We display only 15 first tokens
                 if len(result) > 15: display_res += " ..."
             else:
                 display_res = str(result).replace("\n", " ")

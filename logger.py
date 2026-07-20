@@ -7,13 +7,13 @@ def show_missing_values_report(df):
     for each column in the DataFrame.
     """
     print("\n" + "="*50)
-    print("🔍 MISSING VALUES REPORT")
+    print("MISSING VALUES REPORT")
     print("="*50)
     
     total_rows = len(df)
     missing_counts = df.isnull().sum()
     
-    # On ne filtre que les colonnes qui ont au moins une valeur manquante
+    # Filter columns that have at least one missing value
     cols_with_missing = missing_counts[missing_counts > 0]
     
     if cols_with_missing.empty:
@@ -33,7 +33,7 @@ def show_missing_values_report(df):
 def show_time_report(step1_time, step2_time, step3_time, total_rows):
     """Displays a clean execution performance and timing report."""
     print("\n" + "="*50)
-    print("⏱️  COMPUTATION TIME REPORT (METRICS)")
+    print("COMPUTATION TIME REPORT (METRICS)")
     print("="*50)
     print(f"• Step 1 (Read + Merge JSONs)       : {step1_time:.2f} seconds")
     print(f"• Step 2 (Metadata Cleaning)        : {step2_time:.2f} seconds")
